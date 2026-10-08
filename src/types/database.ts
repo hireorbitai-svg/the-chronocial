@@ -14,11 +14,14 @@ export type StoryStatus =
 
 export type SourceType =
   | 'official'
-  | 'publication'
+  | 'trade_publication'
+  | 'major_media'
+  | 'gaming_publication'
   | 'aggregator'
   | 'blog'
   | 'social'
-  | 'press_release';
+  | 'press_release'
+  | 'publication';
 
 export type EntityType = 'person' | 'movie' | 'tv_show' | 'game' | 'company';
 
@@ -29,8 +32,21 @@ export interface SourceRow {
   domain: string | null;
   base_url: string | null;
   source_type: SourceType;
+  category?: string | null;
+  subcategory?: string | null;
   credibility_tier: 1 | 2 | 3;
+  rss_url?: string | null;
+  api_endpoint?: string | null;
+  polling_priority?: number;
+  rate_limit_seconds?: number;
+  country?: string;
+  language?: string;
   is_active: boolean;
+  last_successful_fetch?: string | null;
+  last_failed_fetch?: string | null;
+  consecutive_failures?: number;
+  parser_type?: string;
+  notes?: string | null;
   created_at: string;
   updated_at: string;
 }
@@ -58,6 +74,31 @@ export interface StoryRow {
   read_time_minutes: number;
   source_count: number;
   verification_notes: string | null;
+  trending_score?: number;
+  ranking_score?: number;
+  key_facts?: Record<string, any>[] | null;
+  canonical_url?: string | null;
+  cluster_hash?: string | null;
+  created_at: string;
+}
+
+export interface IngestionRunRow {
+  id: string;
+  run_id: string;
+  status: 'running' | 'completed' | 'failed';
+  started_at: string;
+  completed_at: string | null;
+  sources_attempted: number;
+  sources_succeeded: number;
+  sources_failed: number;
+  stories_discovered: number;
+  stories_new: number;
+  stories_updated: number;
+  duplicates_detected: number;
+  rejected_items: number;
+  ai_failures: number;
+  database_failures: number;
+  metadata?: Record<string, any>;
   created_at: string;
 }
 

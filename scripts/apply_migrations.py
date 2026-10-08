@@ -50,7 +50,11 @@ def run_migration(sql_path: str):
         raise RuntimeError(f"Migration failed: {resp.text}")
 
 def main():
-    migration_files = sorted(glob.glob("supabase/migrations/*.sql"))
+    import sys
+    if len(sys.argv) > 1:
+        migration_files = sys.argv[1:]
+    else:
+        migration_files = sorted(glob.glob("supabase/migrations/*.sql"))
     if not migration_files:
         print("[-] No migration files found in supabase/migrations/")
         return
