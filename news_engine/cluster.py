@@ -31,6 +31,7 @@ def cluster_ingested_stories(
                 break
 
         source_record = {
+            "item_id": item.get("item_id"),
             "source_name": item["source_name"],
             "source_slug": item.get("source_slug", ""),
             "source_url": item["source_url"],

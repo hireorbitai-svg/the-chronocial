@@ -62,16 +62,18 @@ def are_stories_same_event(
     if tokens_a == tokens_b and len(tokens_a) >= 3:
         return True
 
-    sim = calculate_jaccard_similarity(tokens_a, tokens_b)
+    shared = tokens_a.intersection(tokens_b)
 
-    # If similarity is lower than threshold, never merge
+    # 1. Strong multi-token agreement (>= 4 informative content words shared within same category)
+    if len(shared) >= 4:
+        return True
+
+    # 2. If similarity is lower than threshold, do not merge
+    sim = calculate_jaccard_similarity(tokens_a, tokens_b)
     if sim < similarity_threshold:
         return False
 
-    # Check for shared key verbs / event action words
-    shared = tokens_a.intersection(tokens_b)
-    # If shared tokens are only 1-2 words (like a person's first and last name),
-    # but the remaining tokens diverge, do not merge!
+    # 3. Guard against false merges when only 1-2 entity tokens match but rest of context diverges
     if len(shared) <= 2 and (len(tokens_a) >= 5 or len(tokens_b) >= 5):
         return False
 

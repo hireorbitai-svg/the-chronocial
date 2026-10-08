@@ -81,10 +81,17 @@ class SupabaseRestTable:
             self.params["on_conflict"] = on_conflict
         return self
 
+    def delete(self):
+        self.action = "delete"
+        self.extra_headers["Prefer"] = "return=representation"
+        return self
+
     def execute(self):
         class ExecResult:
-            def __init__(self, data):
+            def __init__(self, data, error=None, status_code=200):
                 self.data = data
+                self.error = error
+                self.status_code = status_code
 
         req_headers = dict(self.headers)
         req_headers.update(self.extra_headers)
@@ -93,26 +100,45 @@ class SupabaseRestTable:
             if self.action == "select":
                 r = requests.get(self.url, headers=req_headers, params=self.params, timeout=15)
                 if r.status_code in (200, 206):
-                    return ExecResult(r.json())
-                return ExecResult([])
+                    return ExecResult(r.json(), status_code=r.status_code)
+                return ExecResult([], error=f"{r.status_code}: {r.text}", status_code=r.status_code)
             elif self.action in ("insert", "upsert"):
                 r = requests.post(self.url, headers=req_headers, params=self.params, json=self.payload, timeout=15)
                 if r.status_code in (200, 201):
                     data = r.json()
-                    return ExecResult(data if isinstance(data, list) else [data])
-                return ExecResult([])
+                    return ExecResult(data if isinstance(data, list) else [data], status_code=r.status_code)
+                return ExecResult([], error=f"{r.status_code}: {r.text}", status_code=r.status_code)
             elif self.action == "update":
                 r = requests.patch(self.url, headers=req_headers, params=self.params, json=self.payload, timeout=15)
                 if r.status_code in (200, 204):
                     try:
                         data = r.json()
-                        return ExecResult(data if isinstance(data, list) else [data])
+                        return ExecResult(data if isinstance(data, list) else [data], status_code=r.status_code)
                     except Exception:
-                        return ExecResult([self.payload])
-                return ExecResult([])
+                        return ExecResult([self.payload], status_code=r.status_code)
+                return ExecResult([], error=f"{r.status_code}: {r.text}", status_code=r.status_code)
+            elif self.action == "delete":
+                r = requests.delete(self.url, headers=req_headers, params=self.params, timeout=15)
+                if r.status_code in (200, 204):
+                    try:
+                        data = r.json()
+                        return ExecResult(data if isinstance(data, list) else [data], status_code=r.status_code)
+                    except Exception:
+                        return ExecResult([], status_code=r.status_code)
+                return ExecResult([], error=f"{r.status_code}: {r.text}", status_code=r.status_code)
             return ExecResult([])
-        except Exception:
-            return ExecResult([])
+        except Exception as e:
+            return ExecResult([], error=str(e), status_code=500)
+
+class PublishResult(dict):
+    """
+    Diagnostic publish result supporting dict access and tuple unpacking:
+    result['status'], result['story_id'], result['sources_linked']
+    story_id, is_new = result  (for backward compatibility)
+    """
+    def __iter__(self):
+        yield self.get("story_id")
+        yield self.get("status") == "CREATED"
 
 class SupabaseRestClient:
     def __init__(self, base_url: str, key: str):
@@ -196,12 +222,12 @@ class ChroniclePublisher:
                 "sources_succeeded": report_data.get("sources_succeeded", 0),
                 "sources_failed": report_data.get("sources_failed", 0),
                 "stories_discovered": report_data.get("stories_discovered", 0),
-                "stories_new": report_data.get("stories_new", 0),
-                "stories_updated": report_data.get("stories_updated", 0),
-                "duplicates_detected": report_data.get("duplicates_detected", 0),
-                "rejected_items": report_data.get("rejected_items", 0),
-                "ai_failures": report_data.get("ai_failures", 0),
-                "database_failures": report_data.get("database_failures", 0),
+                "stories_new": report_data.get("stories_created", report_data.get("newStories", 0)),
+                "stories_updated": report_data.get("stories_updated", report_data.get("updatedStories", 0)),
+                "duplicates_detected": report_data.get("duplicates_detected", report_data.get("duplicatesDetected", 0)),
+                "rejected_items": report_data.get("rejected_items", report_data.get("rejectedItems", 0)),
+                "ai_failures": report_data.get("ai_failures", report_data.get("aiFailures", 0)),
+                "database_failures": report_data.get("publish_failed", report_data.get("databaseFailures", 0)),
                 "metadata": report_data
             }
             self.client.table("ingestion_runs").update(payload).eq("run_id", run_id).execute()
@@ -214,34 +240,60 @@ class ChroniclePublisher:
         editorial: Dict[str, Any],
         status: str,
         verification_notes: str
-    ) -> Tuple[Optional[str], bool]:
+    ) -> PublishResult:
         """
         Idempotently publishes or updates a canonical Chronicle story.
-        Returns: (story_id, is_new_story)
+        Returns PublishResult with explicit diagnostic status: CREATED, UPDATED, SKIPPED, FAILED.
         """
+        slug = slugify(editorial.get("title", ""))
         if not self.client:
-            return None, False
+            return PublishResult({
+                "status": "SKIPPED",
+                "story_id": None,
+                "slug": slug,
+                "sources_linked": 0,
+                "reason": "database_client_unavailable",
+                "error": "No database client configured"
+            })
 
-        slug = slugify(editorial["title"])
+        if not slug:
+            return PublishResult({
+                "status": "FAILED",
+                "story_id": None,
+                "slug": "",
+                "sources_linked": 0,
+                "reason": "empty_slug",
+                "error": "Title generated empty slug"
+            })
+
         now_iso = datetime.datetime.now(datetime.timezone.utc).isoformat()
-        source_count = len(cluster["sources"])
+        source_count = len(cluster.get("sources", []))
         scores = compute_story_scores(cluster, status, source_count)
 
-        # 1. Check if canonical story exists by slug or cluster_hash
+        # 1. Check if canonical story exists by slug
         existing = self.client.table("stories") \
             .select("id, status, source_count, title") \
             .eq("slug", slug) \
             .execute()
+        if existing.error:
+            return PublishResult({
+                "status": "FAILED",
+                "story_id": None,
+                "slug": slug,
+                "sources_linked": 0,
+                "reason": "query_existing_story_error",
+                "error": existing.error
+            })
 
         story_id = None
         is_new = False
 
         if existing.data and len(existing.data) > 0:
-            # Story exists -> UPDATE canonical story and log timeline update
+            # Story exists -> UPDATE canonical story
             story_id = existing.data[0]["id"]
             prev_status = existing.data[0].get("status", "reported")
             current_count = existing.data[0].get("source_count", 1)
-            new_count = current_count + source_count
+            new_count = max(current_count, source_count)
 
             update_payload = {
                 "source_count": new_count,
@@ -251,7 +303,16 @@ class ChroniclePublisher:
                 "ranking_score": scores["ranking_score"],
                 "updated_at": now_iso
             }
-            self.client.table("stories").update(update_payload).eq("id", story_id).execute()
+            up_res = self.client.table("stories").update(update_payload).eq("id", story_id).execute()
+            if up_res.error or not up_res.data:
+                return PublishResult({
+                    "status": "FAILED",
+                    "story_id": story_id,
+                    "slug": slug,
+                    "sources_linked": 0,
+                    "reason": "database_update_failed",
+                    "error": up_res.error or "Update returned no data"
+                })
 
             # Create story_updates record if status evolved (e.g. reported -> confirmed)
             if prev_status != status:
@@ -265,6 +326,7 @@ class ChroniclePublisher:
                     }).execute()
                 except Exception:
                     pass
+            is_new = False
         else:
             # New canonical story -> INSERT
             story_payload = {
@@ -289,30 +351,48 @@ class ChroniclePublisher:
                 "verification_notes": verification_notes,
                 "trending_score": scores["trending_score"],
                 "ranking_score": scores["ranking_score"],
-                "canonical_url": cluster["sources"][0]["canonical_url"] if cluster["sources"] else None,
+                "canonical_url": cluster["sources"][0]["canonical_url"] if cluster.get("sources") else None,
                 "cluster_hash": cluster.get("cluster_hash")
             }
 
             ins = self.client.table("stories").insert(story_payload).execute()
-            if ins.data and len(ins.data) > 0:
-                story_id = ins.data[0]["id"]
-                is_new = True
+            if ins.error or not ins.data:
+                return PublishResult({
+                    "status": "FAILED",
+                    "story_id": None,
+                    "slug": slug,
+                    "sources_linked": 0,
+                    "reason": "database_insert_failed",
+                    "error": ins.error or "Insert returned no data"
+                })
+            story_id = ins.data[0]["id"]
+            is_new = True
 
         # 2. Link all source wires in story_sources (Idempotent upsert on unique story_id, source_url)
+        linked_sources = 0
         if story_id:
-            for s in cluster["sources"]:
+            for s in cluster.get("sources", []):
                 try:
-                    self.client.table("story_sources").upsert({
+                    src_res = self.client.table("story_sources").upsert({
                         "story_id": story_id,
                         "source_url": s["canonical_url"],
                         "source_title": s["source_title"],
                         "source_type": "publication",
                         "is_primary": (s == cluster["sources"][0])
                     }, on_conflict="story_id,source_url").execute()
-                except Exception:
-                    pass
+                    if not src_res.error:
+                        linked_sources += 1
+                except Exception as e:
+                    print(f"[!] Warning linking story_source: {e}")
 
-        return story_id, is_new
+        return PublishResult({
+            "status": "CREATED" if is_new else "UPDATED",
+            "story_id": story_id,
+            "slug": slug,
+            "sources_linked": linked_sources,
+            "reason": "created_new_canonical_story" if is_new else "updated_existing_canonical_story",
+            "error": None
+        })
 
     def save_fallback_cache(self, clusters: List[Dict[str, Any]], output_dir: str = "public"):
         """Save public/latest_digest.json and public/latest_digest.md for offline frontend resilience."""

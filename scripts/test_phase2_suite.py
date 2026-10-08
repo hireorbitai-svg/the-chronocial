@@ -153,7 +153,7 @@ def run_all_tests():
     # 18. Invalid AI JSON handling
     malformed_json_response = '{"title": "Broken Json'
     # Test fallback extraction logic
-    fallback_res = generate_editorial_copy(test_cluster, api_key="INVALID_TRIGGER_FALLBACK")
+    fallback_res = generate_editorial_copy(test_cluster, api_key=None)
     record(18, "Invalid AI JSON Handling", bool(fallback_res.get("title")), "Fell back to deterministic template seamlessly")
 
     # 19. Unsupported / malformed article rejection
