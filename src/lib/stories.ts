@@ -131,6 +131,44 @@ export async function getTrendingStories(): Promise<Story[]> {
 }
 
 /**
+ * Attempt to read offline / static digest from public/latest_digest.json
+ * when Supabase network is unavailable or returns 0 rows.
+ */
+async function loadDigestFallback(defaultFallback: Story[]): Promise<Story[]> {
+  if (typeof window === 'undefined' || !window.fetch) {
+    return defaultFallback;
+  }
+  try {
+    const res = await fetch('/latest_digest.json');
+    if (!res.ok) return defaultFallback;
+    const json = await res.json();
+    if (!json.headlines || !Array.isArray(json.headlines) || json.headlines.length === 0) {
+      return defaultFallback;
+    }
+    const digestStories: Story[] = json.headlines.slice(0, 5).map((h: any, idx: number) => ({
+      id: `digest-${idx}`,
+      slug: (h.title || '').toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/(^-|-$)/g, ''),
+      title: h.title,
+      summary: `Monitored across ${h.source_count || 1} external trade bureaus.`,
+      image: defaultFallback[idx % defaultFallback.length]?.image || 'https://images.unsplash.com/photo-1485846234645-a62644f84728?auto=format&fit=crop&w=1200&q=80',
+      category: defaultFallback[idx % defaultFallback.length]?.category || 'Hollywood',
+      publishedAt: json.timestamp || new Date().toISOString(),
+      status: 'reported',
+      author: 'The Chronicle Wire Desk',
+      readTime: 3,
+      sourcesCount: h.source_count || 1,
+      contentParagraphs: [
+        `Reporting gathered via accredited wire dispatch (${(h.sources || []).join(', ')}).`,
+        `Source link: ${h.url}`,
+      ],
+    }));
+    return digestStories.length > 0 ? digestStories : defaultFallback;
+  } catch {
+    return defaultFallback;
+  }
+}
+
+/**
  * Fetch Latest Published Stories.
  */
 export async function getLatestStories(): Promise<Story[]> {
@@ -144,13 +182,13 @@ export async function getLatestStories(): Promise<Story[]> {
 
     if (error || !data || data.length === 0) {
       if (error) console.warn('[Stories] getLatestStories error, using fallback:', error.message);
-      return LATEST_STORIES;
+      return await loadDigestFallback(LATEST_STORIES);
     }
 
     return (data as Partial<StoryRow>[]).map(mapRowToStory);
   } catch (err) {
     console.warn('[Stories] getLatestStories exception:', err);
-    return LATEST_STORIES;
+    return await loadDigestFallback(LATEST_STORIES);
   }
 }
 

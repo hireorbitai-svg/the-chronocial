@@ -146,6 +146,9 @@ export const ArticlePageView: React.FC<ArticlePageViewProps> = ({
               src={story.image}
               alt={story.title}
               referrerPolicy="no-referrer"
+              onError={(e) => {
+                e.currentTarget.src = "https://images.unsplash.com/photo-1485846234645-a62644f84728?auto=format&fit=crop&w=1200&q=80";
+              }}
               className="w-full h-full object-cover"
             />
             <div className="absolute top-3 left-3 px-2 py-0.5 bg-black/75 backdrop-blur-xs text-[10px] text-white font-mono uppercase tracking-wider">

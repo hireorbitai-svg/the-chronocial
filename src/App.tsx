@@ -172,7 +172,12 @@ export default function App() {
             setSelectedStory(match);
           } else {
             const fetched = await getStoryBySlug(target);
-            if (fetched && isMounted) setSelectedStory(fetched);
+            if (fetched && isMounted) {
+              setSelectedStory(fetched);
+            } else if (isMounted) {
+              // Cleanly reset invalid hash to front page
+              window.history.replaceState(null, "", window.location.pathname);
+            }
           }
         }
       } catch (err) {

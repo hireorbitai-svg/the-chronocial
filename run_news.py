@@ -220,19 +220,33 @@ def determine_verification_status(cluster: dict) -> tuple:
         notes = "Flagged as industry reportage based on preliminary unverified market intelligence."
         return status, notes
 
-    # 2. Check source credibility and count
-    high_tier_count = 0
-    for s in sources:
-        s_name = s["source_name"].lower()
-        if any(k in s_name for k in ["variety", "deadline", "reuters", "hollywood reporter", "official", "wbd", "sie"]):
-            high_tier_count += 1
+    # 2. Check source credibility and tier distribution
+    tier_1_count = 0  # Official, press release, wire service (Reuters)
+    tier_2_count = 0  # Major trade publications (Variety, Deadline, THR, IGN)
+    tier_3_count = 0  # Blogs, aggregators, secondary
 
-    if source_count >= 2 or high_tier_count >= 1:
+    for s in sources:
+        s_name = s.get("source_name", "").lower()
+        if any(k in s_name for k in ["reuters", "official", "press release", "ap news", "associated press", "studio dispatch"]):
+            tier_1_count += 1
+        elif any(k in s_name for k in ["variety", "deadline", "hollywood reporter", "ign", "polygon", "gamespot", "indiewire", "rolling stone", "billboard"]):
+            tier_2_count += 1
+        else:
+            tier_3_count += 1
+
+    # Deterministic verification classification:
+    if tier_1_count >= 1 or (tier_2_count >= 2):
         status = "confirmed"
-        notes = f"Corroborated across {source_count} independent industry wire records and accredited trades."
-    else:
+        notes = f"Corroborated across {source_count} trade bureaus including primary trade attribution."
+    elif tier_2_count == 1:
         status = "reported"
-        notes = f"Initial dispatch documented by {sources[0]['source_name']}. Additional trade verification in progress."
+        notes = f"Initial trade report documented exclusively by {sources[0]['source_name']}. Secondary corroboration pending."
+    elif source_count >= 2:
+        status = "reported"
+        notes = f"Reported across {source_count} secondary publications without official trade confirmation."
+    else:
+        status = "developing"
+        notes = f"Single initial dispatch noted by {sources[0].get('source_name', 'wire service')}. Active monitoring ongoing."
 
     return status, notes
 
@@ -242,11 +256,8 @@ def extract_with_gemini(cluster: dict, api_key: str):
     Use Gemini 2.5 Flash as an editorial assistant for original synthesis:
     Generates summary, subdeck, category, read time, and original article paragraphs.
     """
-    from google import genai
-    client = genai.Client(api_key=api_key)
-
     sources_summary = "\n".join(
-        f"- {s['source_name']}: {s['title']} ({s['url']})"
+        f"- {s.get('source_name', 'Wire')}: {s.get('title', '')} ({s.get('url', '')})"
         for s in cluster["sources"]
     )
 
@@ -258,6 +269,12 @@ Primary Headline: {cluster['primary_title']}
 Category Hint: {cluster['category_hint']}
 Sources Cited:
 {sources_summary}
+
+EDITORIAL INTEGRITY INSTRUCTIONS:
+- Do NOT copy long passages or verbatim text from the wires. Synthesize original editorial reporting.
+- Do NOT fabricate quotes, unannounced release dates, box office numbers, or celebrity statements.
+- If specific numbers or quotes are absent from the source dispatches, report them as unannounced or pending confirmation.
+- Ground all context strictly in verified trade intelligence.
 
 Respond with valid JSON ONLY (no markdown code blocks, just raw JSON) with this exact schema:
 {{
@@ -273,6 +290,8 @@ Respond with valid JSON ONLY (no markdown code blocks, just raw JSON) with this 
 """
 
     try:
+        from google import genai
+        client = genai.Client(api_key=api_key)
         response = client.models.generate_content(
             model="gemini-2.5-flash",
             contents=prompt,
