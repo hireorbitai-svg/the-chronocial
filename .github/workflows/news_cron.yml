@@ -1,0 +1,52 @@
+name: 24/7 News Digest Automation
+
+on:
+  schedule:
+    # Runs every 2 hours (UTC) -> 12 times a day
+    - cron: '0 */2 * * *'
+  # Allows manual runs from the GitHub Actions tab anytime:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  run-news-summary:
+    name: Fetch & Summarize Entertainment News
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Run news digest pipeline
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          SUPABASE_URL: ${{ secrets.SUPABASE_URL || secrets.VITE_SUPABASE_URL }}
+          SUPABASE_SERVICE_ROLE_KEY: ${{ secrets.SUPABASE_SERVICE_ROLE_KEY }}
+          VITE_SUPABASE_ANON_KEY: ${{ secrets.VITE_SUPABASE_ANON_KEY }}
+        run: |
+          python run_news.py
+
+      - name: Commit and push updated news digest
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add public/latest_digest.json public/latest_digest.md || true
+          if git diff --staged --quiet; then
+            echo "No updates to commit."
+          else
+            git commit -m "chore(news): update 24/7 intelligence digest [skip ci]"
+            git push
+          fi

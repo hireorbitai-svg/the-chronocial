@@ -1,0 +1,76 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>The Chronicle | Global Entertainment, Movies, Streaming & Gaming</title>
+    <meta name="description" content="Everything important across movies, celebrities, streaming, and gaming — in one trusted destination. Breaking news, verified reporting, reviews, and industry analysis." />
+    <meta name="author" content="The Chronicle Editorial Board" />
+    <link rel="canonical" href="https://thechronicle.media" />
+
+    <!-- Open Graph -->
+    <meta property="og:site_name" content="The Chronicle" />
+    <meta property="og:title" content="The Chronicle | Global Entertainment, Movies, Streaming & Gaming" />
+    <meta property="og:description" content="Everything important across movies, celebrities, streaming, and gaming — in one trusted destination." />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://thechronicle.media" />
+
+    <!-- Twitter / X -->
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:site" content="@TheChronicle" />
+    <meta name="twitter:title" content="The Chronicle | Global Entertainment, Movies, Streaming & Gaming" />
+    <meta name="twitter:description" content="Everything important across movies, celebrities, streaming, and gaming — in one trusted destination." />
+
+    <!-- Google Fonts: Newsreader (Editorial Serif) & Plus Jakarta Sans (Clean UI Body) -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,500;0,6..72,600;0,6..72,700;1,6..72,400;1,6..72,500&family=Plus+Jakarta+Sans:wght@400;500;600;700&display=swap" rel="stylesheet" />
+
+    <!-- Schema.org JSON-LD -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "NewsMediaOrganization",
+          "@id": "https://thechronicle.media/#organization",
+          "name": "The Chronicle",
+          "url": "https://thechronicle.media",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://thechronicle.media/logo.png"
+          },
+          "publishingPrinciples": "https://thechronicle.media/standards",
+          "correctionsPolicy": "https://thechronicle.media/corrections",
+          "sameAs": [
+            "https://twitter.com/TheChronicle",
+            "https://youtube.com/@TheChronicle"
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://thechronicle.media/#website",
+          "url": "https://thechronicle.media",
+          "name": "The Chronicle",
+          "publisher": {
+            "@id": "https://thechronicle.media/#organization"
+          },
+          "potentialAction": {
+            "@type": "SearchAction",
+            "target": {
+              "@type": "EntryPoint",
+              "urlTemplate": "https://thechronicle.media/search?q={search_term_string}"
+            },
+            "query-input": "required name=search_term_string"
+          }
+        }
+      ]
+    }
+    </script>
+  </head>
+  <body class="bg-[#FAF9F5] text-[#1C1917] antialiased selection:bg-[#9B1B30]/15 selection:text-[#9B1B30]">
+    <div id="root"></div>
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
+</html>
+

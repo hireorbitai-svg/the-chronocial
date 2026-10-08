@@ -1,0 +1,6 @@
+{
+  "name": "The Chronicle | Global Entertainment & Culture",
+  "description": "Premium digital entertainment publication covering Hollywood, Bollywood, Celebrities, Movies, TV & OTT, Trailers, Reviews, and Gaming with verified editorial standards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
