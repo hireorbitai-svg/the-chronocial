@@ -7,12 +7,13 @@ import { TrustBadge } from "./primitives/TrustBadge";
 
 interface OTTSectionProps {
   onSelectStory: (story: Story) => void;
+  stories?: Story[];
 }
 
-export const OTTSection: React.FC<OTTSectionProps> = ({ onSelectStory }) => {
+export const OTTSection: React.FC<OTTSectionProps> = ({ onSelectStory, stories = OTT_STORIES }) => {
   const [filter, setFilter] = useState<"All" | "Renewals" | "Streaming Slates">("All");
 
-  const filteredStories = OTT_STORIES.filter((story) => {
+  const filteredStories = stories.filter((story) => {
     if (filter === "Renewals") {
       return (
         story.title.toLowerCase().includes("renews") ||

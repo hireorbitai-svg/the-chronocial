@@ -1,6 +1,7 @@
 import React, { useState, useEffect, useRef } from "react";
 import { SEARCH_INDEX } from "../data/mockStories";
-import { SearchResultItem, Story } from "../types";
+import { SearchResultItem } from "../types";
+import { searchChronicle } from "../lib/search";
 
 interface SearchOverlayProps {
   isOpen: boolean;
@@ -15,6 +16,8 @@ export const SearchOverlay: React.FC<SearchOverlayProps> = ({
 }) => {
   const [query, setQuery] = useState("");
   const [selectedCategory, setSelectedCategory] = useState<string>("All");
+  const [results, setResults] = useState<SearchResultItem[]>(() => SEARCH_INDEX.slice(0, 8));
+  const [isSearching, setIsSearching] = useState(false);
   const inputRef = useRef<HTMLInputElement>(null);
 
   useEffect(() => {
@@ -40,21 +43,34 @@ export const SearchOverlay: React.FC<SearchOverlayProps> = ({
     return () => window.removeEventListener("keydown", handleKeyDown);
   }, [isOpen, onClose]);
 
+  // Debounced live database query
+  useEffect(() => {
+    if (!isOpen) return;
+
+    let isMounted = true;
+    setIsSearching(true);
+    const timer = setTimeout(async () => {
+      try {
+        const data = await searchChronicle(query, selectedCategory);
+        if (isMounted) {
+          setResults(data);
+        }
+      } catch (err) {
+        console.warn("[SearchOverlay] Search error:", err);
+      } finally {
+        if (isMounted) setIsSearching(false);
+      }
+    }, 200);
+
+    return () => {
+      isMounted = false;
+      clearTimeout(timer);
+    };
+  }, [query, selectedCategory, isOpen]);
+
   if (!isOpen) return null;
 
   const categories = ["All", "People", "Movies", "TV Shows", "Games", "Stories"];
-
-  const filteredResults = SEARCH_INDEX.filter((item) => {
-    const matchesCategory =
-      selectedCategory === "All" || item.type === selectedCategory;
-    const matchesQuery =
-      query.trim() === "" ||
-      item.title.toLowerCase().includes(query.toLowerCase()) ||
-      item.subtitle.toLowerCase().includes(query.toLowerCase()) ||
-      item.meta.toLowerCase().includes(query.toLowerCase());
-    return matchesCategory && matchesQuery;
-  });
-
   const quickPicks = ["Tom Holland", "Christopher Nolan", "Grand Theft Auto VI", "Zendaya", "Dune Messiah"];
 
   return (
@@ -140,7 +156,7 @@ export const SearchOverlay: React.FC<SearchOverlayProps> = ({
 
         {/* Results list */}
         <div className="flex-1 p-3 sm:p-6 overflow-y-auto divide-y divide-stone-200/70">
-          {filteredResults.length === 0 ? (
+          {results.length === 0 ? (
             <div className="py-12 text-center text-stone-500 px-4">
               <p className="font-serif text-lg text-stone-700">No matching archives found</p>
               <p className="text-xs text-stone-500 mt-1">
@@ -148,12 +164,12 @@ export const SearchOverlay: React.FC<SearchOverlayProps> = ({
               </p>
             </div>
           ) : (
-            filteredResults.map((item) => (
+            results.map((item) => (
               <div
                 key={item.id}
                 onClick={() => {
                   if (item.type === "Stories" && onSelectStory) {
-                    onSelectStory("story-lead-01");
+                    onSelectStory(item.id);
                   }
                   onClose();
                 }}

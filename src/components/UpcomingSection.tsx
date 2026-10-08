@@ -3,10 +3,16 @@ import { UPCOMING_RELEASES } from "../data/mockStories";
 import { SectionHeader } from "./primitives/SectionHeader";
 import { ReleaseCard } from "./primitives/ReleaseCard";
 
-export const UpcomingSection: React.FC = () => {
+import { ReleaseCalendarItem } from "../types";
+
+interface UpcomingSectionProps {
+  releases?: ReleaseCalendarItem[];
+}
+
+export const UpcomingSection: React.FC<UpcomingSectionProps> = ({ releases = UPCOMING_RELEASES }) => {
   const [filter, setFilter] = useState<"All" | "Movies" | "TV" | "Gaming">("All");
 
-  const filteredReleases = UPCOMING_RELEASES.filter((item) => {
+  const filteredReleases = releases.filter((item) => {
     if (filter === "All") return true;
     return item.category === filter;
   });

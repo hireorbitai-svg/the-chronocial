@@ -1,5 +1,7 @@
-import React, { useEffect } from "react";
+import React, { useEffect, useState } from "react";
 import { Story } from "../types";
+import { StorySourceRow } from "../types/database";
+import { getStorySources } from "../lib/sources";
 import { StatusBadge } from "./primitives/StatusBadge";
 import { TrustBadge } from "./primitives/TrustBadge";
 import { StoryCard } from "./primitives/StoryCard";
@@ -17,9 +19,18 @@ export const ArticlePageView: React.FC<ArticlePageViewProps> = ({
   onBackToHome,
   onSelectStory,
 }) => {
-  // Scroll to top whenever an article is opened
+  const [sources, setSources] = useState<StorySourceRow[]>([]);
+
+  // Scroll to top and load sources whenever an article is opened
   useEffect(() => {
     window.scrollTo({ top: 0, behavior: "smooth" });
+    let isMounted = true;
+    getStorySources(story.id).then((srcs) => {
+      if (isMounted) setSources(srcs);
+    });
+    return () => {
+      isMounted = false;
+    };
   }, [story.id]);
 
   const relatedStories = allStories
@@ -161,6 +172,28 @@ export const ArticlePageView: React.FC<ArticlePageViewProps> = ({
             {story.verificationDetails ||
               "This reporting has been corroborated through direct studio production filings and independent guild registers. The Chronicle does not publish unverified gossip or single-source rumors."}
           </p>
+
+          {sources.length > 0 && (
+            <div className="mt-3 pt-3 border-t border-stone-200/60">
+              <span className="text-[10px] font-bold uppercase tracking-wider text-stone-500 block mb-1">
+                Verified Cited Sources ({sources.length}):
+              </span>
+              <div className="flex flex-wrap gap-2 text-xs">
+                {sources.map((src) => (
+                  <a
+                    key={src.id}
+                    href={src.source_url}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="inline-flex items-center gap-1 px-2 py-0.5 bg-stone-100 hover:bg-stone-200 text-[#9B1B30] font-medium rounded-xs transition-colors"
+                  >
+                    <span>{src.source_title || src.sources?.name || 'Primary Source Record'}</span>
+                    <span className="text-[10px]">↗</span>
+                  </a>
+                ))}
+              </div>
+            </div>
+          )}
         </div>
 
         {/* Article Body Content */}

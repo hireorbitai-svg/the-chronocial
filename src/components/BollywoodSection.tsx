@@ -7,13 +7,19 @@ import { TrustBadge } from "./primitives/TrustBadge";
 
 interface BollywoodSectionProps {
   onSelectStory: (story: Story) => void;
+  stories?: {
+    featured: Story;
+    supporting: Story[];
+  };
 }
 
 export const BollywoodSection: React.FC<BollywoodSectionProps> = ({
   onSelectStory,
+  stories,
 }) => {
   const [leadImgError, setLeadImgError] = useState(false);
-  const { featured, supporting } = BOLLYWOOD_STORIES;
+  const featured = stories?.featured || BOLLYWOOD_STORIES.featured;
+  const supporting = stories?.supporting || BOLLYWOOD_STORIES.supporting;
 
   return (
     <section id="bollywood" className="py-8 sm:py-12 border-b border-stone-300 bg-[#FAF7F0]/40">

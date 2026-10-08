@@ -1,6 +1,185 @@
 {
-  "timestamp": "2026-10-08T06:00:00.000Z",
-  "headline_count": 0,
-  "headlines": [],
-  "summary": "Intelligence digest pipeline initializing. Live dispatches will appear here on the next scheduled run."
+  "timestamp": "2026-10-08T06:54:29.261324+00:00",
+  "headline_count": 22,
+  "headlines": [
+    {
+      "title": "'Ted Lasso' Co-Creator & Star Brendan Hunt Explains Season 4 Ending",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPZzNJSHUyby1MTlNEX3RLVjF1WFo5NWcyQW9leXBrVVFqSExyNDk1SXZfeWlUcmlRbm1rQlJCaWc3TjF6cFF6ZGFoakF1MlNtMWZyQ1ZBZnRGYVZXaXo2c0RxZlhUS1F6bE5sTHE4NzhWNnhHN2VPYkhJaDQ4NkgzcERTWk1uUFRvSlBqS0N1WFJ3TE0?oc=5",
+      "source_count": 1,
+      "sources": [
+        "Deadline"
+      ]
+    },
+    {
+      "title": "Travis Barker shares cryptic photo from hospital with Kourtney Kardashian by his side",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPYzFvS2NoUHlGTXotbEhLTDI1SFpRQmg5dHJxREpPU2ZMOWEtWjBsOUx2Zjg3VmdwWFVZeFRmUFYzWGVYQmFyaXBkZzR0MzdBRXRKdFlFN09yWFE1ZXA1LTVVdHE1QlJCZFFyM3pRczhhT1l0a2x5bkpqQ3pxRElXaG1IbEl1a0xjeERLMlZyUEwyUGgySGpkQlVmYXloNVJLNm9YbW1vU1JRblE5VUpRb2c5ZWhfLWNuMWZIU1Y1VVl6eThsUUswbU5CVVo?oc=5",
+      "source_count": 1,
+      "sources": [
+        "National News Desk"
+      ]
+    },
+    {
+      "title": "Kourtney Kardashian Reacts to Jennifer Lawrence Calling Her \"More Annoying Than Ever\"",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNN0JHRGFtekJRRmUxY1MxRkszQXJoMERCOVFhUmdnUmdoRHg1Q2M1MGxRb0tPSHkxM19rQTAycm01UTNEY0JKZEVIZzVWUWxyOVlfUzRpUVlIUDM4MGgybXYtVmtGR1VmUzQ4VHB4NktZY29UNlhVOThuMUpyUy04YmxUSW85RHpqSEJGeEtyRzZ0a05KM1lRRzdPTnV5U1Zkc091OFgxT00?oc=5",
+      "source_count": 1,
+      "sources": [
+        "E! News"
+      ]
+    },
+    {
+      "title": "Paramount Games Studio and WB Games merge under Skydance following completion of $111bn acquisition",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQR0d3T05acTdLQkkyQmxvMjRiN2N0Z0dJbTdGYm1kZWt5bEpncDRpZjIyWHpONktMeFp5UGNPMC1aZXpXSE9jZk1vT2hLRVoybmg0X1ZjelhFZllvSzFDZkJFeV9YRmllMFhUaWVRREtHYVMwSlZuSkpIZWJWWUR3NXR5Q1dMb0VHQTVwTzlRUFlySUEtZWg0b3QxbWFhbEFVQV9ockpnM3VCZWY0UHpSbGpJdy1WUV8xZDh4RnpNUnE5Z2tSMm84?oc=5",
+      "source_count": 1,
+      "sources": [
+        "GamesIndustry.biz"
+      ]
+    },
+    {
+      "title": "Minka Kelly and Imagine Dragons’ Dan Reynolds Break Up After 4 Years of Dating",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQdFliRGk5b1BQZFdXLW9USll3ZFVtNjBzNE1JNUxNXzZKQVl3NEx1cWpOMXBGeVdHaUR4Y3pURnBjSkoxSzh6QjJTd1NiVF9zallDNkVNeExKdEtIVjFLbEZfUXN0akJnN3VMeHd5Q21zTGFIQWdpNE1EaW1SeDZhczdQcExsRHpzNTh2Ui1wZVBEdU0?oc=5",
+      "source_count": 1,
+      "sources": [
+        "Yahoo"
+      ]
+    },
+    {
+      "title": "Prime Video’s ‘Carrie’ Is a Superb Reimagining of the Classic Horror Tale: TV Review",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1CM3UxZVRVNkozRTFGNzN6ZEJzb2RBVVdockNyY2Z5VmNDSm5CaFc4X3lMamhDZjhNSGlZUjZ0eUQzRHd2OXBzbzVscEswcFNmWmh3UlRxNGw1OWVtX2FaVEV3SWNCaldfbGp2SS1hanZTa1NMVG5jWlJzZW4tdw?oc=5",
+      "source_count": 1,
+      "sources": [
+        "Variety"
+      ]
+    },
+    {
+      "title": "‘Real Housewives’ star files for divorce after nearly 17 years of marriage",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNSXg3N01UV1l5Znp5YmFOQkRacTFMN21BQTNnSTJUbU9aMkVybS1ETk1CUFM3RUZqTnNsRWNZUFp1WXhQZWh3QnA1MjZPMndkSzNNaEpaSFlxZXdwMzctbG45ZmJ5VW1feVVtd0VScjE0Qmh6S1UtMFZzaTd1STN4U3BIS2dQTkdDQ1k2WW5ISmlhNm03UnFyMEpFY1Y3NV9yZHN0MWdueWhLTG5kejJreXFOZ0lRRDI0WXE4QW1hc0FySDQ?oc=5",
+      "source_count": 1,
+      "sources": [
+        "Cleveland.com"
+      ]
+    },
+    {
+      "title": "What The Social Reckoning gets right — and wrong",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNUTNjT0RZU0VLUnZPS1BHLUNHZjdFTjNkRVZYOXRFVGJEUmE1bUpjSVk1Mkc0UmFqUTNpUXJYTFRFa3dReGdKSGxjcTJuc3NaUkd3eG5ybzUtLV9RM284UFRsdnRGZWVESTRqYjgyRmhhMVozQXExRzRVUGUyb0N2TFJIYkRLZw?oc=5",
+      "source_count": 1,
+      "sources": [
+        "The Verge"
+      ]
+    },
+    {
+      "title": "The Definitive Superhero Power Ranking: Hollywood’s 67 Most Valuable Characters",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPWU1Xc0RDTGdnLWNiZ25lY3pCaFU1U2djWEwzNzVDYW5uVkl3SzVLbHdKUFVHRHFBaGhJNnZXQU5jTDZBLWRsdFFENUdvVGpkeGQyRkdHeW1IenZUdHpuWGZSUXdtbjFWZVQ4cWZxRUl3bzREN0QtUmRTVW1oWlNGNmQwRUl0T3V3M21uYUdtMFZmOU54a1RTUzdFSE9fcUh4b0E?oc=5",
+      "source_count": 1,
+      "sources": [
+        "The Ankler"
+      ]
+    },
+    {
+      "title": "'Avengers: Endgame' takes the box office crown back from 'Avatar'",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNQVh6eHVDNUU2RTgzR1p2aXgyZUpLOHp2T2NBUjU2c0Y5WE1QaXhwdjg1TjM0RnFTbVdGdnJFNkVlWlVXLVNOTk5wT29adkxLZ1JXVGZ2Q2haYU9jSXB4WEVBVjRxVE9HOG1mWnpsVFBDUFlhenAzVl91Q083MUNTc0NqVWJyU1RjdUZzRkV3?oc=5",
+      "source_count": 1,
+      "sources": [
+        "NPR"
+      ]
+    },
+    {
+      "title": "Glen Powell Says He Doesn't Talk Politics: 'My Calling Is Elsewhere'",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPa21NT01vQ3M4LU0wUXkxZmVOWktfeWlDcl9pa0h6RTNScllwSksyTHh5SVVMRzBMWkxDQXkwTkpoeXBkSDhKNGFOcHNRMFRjVnVEVkRWR0l1TDJ1VzJQc2Q3ZDUyclR1UFRDQjdHV1pGVHlEdWtMdHV1a2FrZjJpSUcxdkN6UHBzUTJ4Vg?oc=5",
+      "source_count": 1,
+      "sources": [
+        "The Hollywood Reporter"
+      ]
+    },
+    {
+      "title": "Hollywood Box-Office 2026: Why ‘Avengers: Doomsday,’ ‘King,’ and ‘Dune 3’ Showcasing Will Be a 'Good Problem to Have' for PVR in India",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9VOGN6bEsySnZWbDdUWER6dUFjZ2YwWS1sb3J2WHZ4Z2JaNFZmdlk5SUd1bDZVWEhmTzhmZHNTYzE2Sl9UNUZUc3dDRlVQY1lXa1hSR1ZySkhJNjdFMDdHTndn?oc=5",
+      "source_count": 2,
+      "sources": [
+        "IMDb",
+        "The Hollywood Reporter India"
+      ]
+    },
+    {
+      "title": "Why hyperventilating influencers are calling Tom Cruise’s ‘Digger’ a masterpiece as it flops at the box office",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQRlZSWV9KLWwtSzM1UlRDak45RU9KM0Fkb3pKa19DdVAwR3hxaXhnN05xS1JUeUU1QVdUdnhlZkxBc2VabFFOSWtlMmxGWjhPcmFabDlqTDIwQkVqYkdQRk5UWkpyNUVUQjc2VjZxZXkzT3B3WDZlbkgxdW4tVVFhTUF6RjM4THBXQ3QydjEyS0psX3M?oc=5",
+      "source_count": 1,
+      "sources": [
+        "Page Six"
+      ]
+    },
+    {
+      "title": "Tom Cruise breaks silence on ‘Digger’ box office disaster, says ‘opening weekend’ was never his focus",
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQaVd3WElGQUQzQ1doRGktOFF0akhkX091Znl4dlV3UTlneDIxSVlqcklycUpnYnhTNUNFbXppdkJCT1pFUE03NW9NX3ZwNm5zTlRrdFpody1uNkZwTlg2R01hLV9LM3JaTW5XNVdJcW54Y1pubHNaUl9JSWtOS2JUbDNqc0dOWDBoXzVOekRkUERiVWRwR05FUnRoSl9naDdid2RzVUl3OEltWGYtMmR5VTIwTWNJaS1WVGtXdGlrRVphUm43NDlBLVVvRnQ1N2ZTQ0NkYkxxTVZnaGV6Q016ZGE0cDFwcVRTUFVmOU9Od195V3p1OGE5WdIB_gFBVV95cUxOWUFwQlhwVm9YUV81ZlVhTlA0Q1VRdUF3YjZsVThUM0pVd3JzVktXVW02SmZlRHRSdG1UblpvLTdSN1dMWXJ5SHdndHJSRkpfOTJXbUlRcGM1ZlpRekstQkluM2w0azlYSjRETnVHbmlLT21reG5xcHlaSm93blB1OF9tdFJmTzFjc19tbnpYQ3l4dXlNb21acE1FbW1CbGdNWE1fSHBhQV83LVhldWtYdi1VZEhkeVBMVTBNbnp4QXdaSGl2YVYtNTY1dTNVRHp6bVNpTzdxa3M4MFZWVi00YU8xR09ucjlyandYaEd5cDdQUUFyNHZmSmtSbFppdw?oc=5",
+      "source_count": 1,
+      "sources": [
+        "The Statesman"
+      ]
+    },
+    {
+      "title": "Tom Cruise reveals his feelings about box office sales as Digger bombs",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQQm81cngtZVMzZm5MNUE4dFRlaEpJcWFGa1B0VU83NG5oVXVRVTVxaWdkd2dDTU44MHQ4RlF6VTJxazdLMGVfcF9mVEVDeEF2Si0yb0dvZWZLR1B4UnBUR0xRdG9HYVpZMjZQbTFYOGRSVzkwSnpQUDFqUmwwN29mOS1nbVdOWFgwTWltVUNFZzlJbFptR3hkNVg0VmNWekXSAaQBQVVfeXFMUFRnRktSSE5kRVdRZ3FTRVhGSThkQnBmQmdRZWVYSjFsQ0t6dk1XTGdkbnBkWVlPaUd6eE9uNHJsYjJyS1dZT1lLd2ZMYzE5Vmg4aVFvbkQ2WFQwOFRDTmVKcHBGSjdVYUZLRE5randBeXAyZEtJNXFKQWJQTDVWb2dVd1VYWnJtQlZxTXpjVmtXR1YwOGlLVktxRldXQlIxZGxsQ1o?oc=5",
+      "source_count": 1,
+      "sources": [
+        "Metro.co.uk"
+      ]
+    },
+    {
+      "title": "Loads of Video Games Are Discounted in Amazon's Prime Sale — Here's Our Top Picks Before The Sale Ends Today",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1vYTJKbkh2ektVNjdKZXVjcDdGV3lJaERFX3NiY0o3LTVQYTAyUnZTUENyRGNMeWxDWTlHODJyaUo1aW1CVVQ4OHNiSkxMZ1VzMndjaHBKM2hSMmt0OXNXckdoRV9qUmJEdHdMTnVtaHEwa3Z1TG5jSEl2Y1BiZw?oc=5",
+      "source_count": 1,
+      "sources": [
+        "IGN"
+      ]
+    },
+    {
+      "title": "Best October Prime Day gaming deals 2026: Shop PS5, Xbox, Nintendo Switch, and more",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBhVGJtaFp1d1FMbjZMUmtEWDljRERscjJtbzIyV0lMc0dQcGZGUTM4LVFVQUt2d0wwRlJCU0VlU21ZOVRkY1JPVmpWcE16V0hVQzhVMUZpRTZmUzhZZm5EQWZOV2Y0WHV1RUdVcWZtVl9HazFL?oc=5",
+      "source_count": 2,
+      "sources": [
+        "Mashable",
+        "Tom's Guide"
+      ]
+    },
+    {
+      "title": "I Want to Play the Villain! Takes the Stage on PlayStation and Xbox",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQS0RybXlwMkNBYlNsamZJM3VXbkJVTXBTblRERGUzamdaUUc0anBST3M2MlJYZzE5RDZ3UkdOamE4Q1pxN1dmalc2b3g2Wm5hRVJQaElKNVV3U2xLc1E3SmtncXJoSEJQUmdFZHFtSk9CaENONlZ1VzJqLW9YWTZXeFNWN2JnSk0tajFjX1c1S0JOSVZYVjkyOHpRZ0IzLTFpNzJKa1JJbHk?oc=5",
+      "source_count": 1,
+      "sources": [
+        "DLH.net"
+      ]
+    },
+    {
+      "title": "Retrofiction Games Announces ‘Dead of Darkness 2’ for PC, Consoles [Trailer]",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOWDlTWm42aU1SOUxmbUNBS0dqdTNiSjdMNWZLcVF0YnA3UE1vMzU0NWotTHZNTFB4aVlyWWZPOU1WTXdFbFM2WEJQQ0FJY0RyS21IY3ZQTktCOTdib2hUSFFPUjNqLTVKRzB3LWJrdHlPNGg3ZWg2VWstU2VQdE43VDZsNFJmcmtydkNGRG11eFhETVNwWnNkQThybmp3T2xEYm1VT0ZUeWtQMFJackFqQUNDdkpPTTdCSzNrekpIYw?oc=5",
+      "source_count": 1,
+      "sources": [
+        "Bloody Disgusting"
+      ]
+    },
+    {
+      "title": "Warhammer Survivors Hits 6 Platforms at $7.99 [2026]",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1PeXlRTUtRbm1IZWtDdGlNbmRhVVpWUzBfSzFmR0VMWFJ2Z1dzZzhxS3BXNDR4NHJDcHVJN0pBdG5feDFEbFFESmQtSWhIY0FpV056TGdMZnY3dTh6dGY5RUpPcjBnQS1Nc1VGZFVzdkhDbmQyZzFEVQ?oc=5",
+      "source_count": 1,
+      "sources": [
+        "https://tech-insider.org/"
+      ]
+    },
+    {
+      "title": "Warhammer Survivors Launches November 10 for Switch 2, PS5, Xbox Series, Switch, PC, and Game Pass",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQekw2LXdOLW5TMlJMR2Z6YzhEXzlfdDR2RFVqYjcwQVZKalY1WDFiSDZFV0ZWWmFxTzI0OVZjYmFWanRjR1RobWpzYTZxN3BUTjFPRWZ3WTJ5eTFuTzFScEYzYWhQR1JJcVlYQlN1QXlVcmpnZjFGMVJXNGdhSUJDM0NCaWFLSktCdU1pSVRTUUNTV0VaZ3k4eXVQWFBXejU3STVuVjdPM3lwcmZpWlViRkFiTTNVSG9INTRlLXdxZWo5aXNBZHg4dWMyanpXcWM?oc=5",
+      "source_count": 1,
+      "sources": [
+        "VGChartz"
+      ]
+    },
+    {
+      "title": "Save Up to 66% on Nintendo Switch, PS5, and Xbox Games (Including Some of My Favorites) for Prime Day",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOWTFQbGk1am5tVnVpODlySXJKdGQ2clBrQi1NeGJaQ1FWX3NmeW1JRzJ1U2ZXWHlFSkRlZUtxRHhlbm8yaDJ1M2tvWVdiTzBFU24zX1MwVGN6dXVMV3RUeXB5QUpvZ2xld3pNdkZnYWlESVNXeUtlMWVqSmlZQmlaLVMwSXR0UHdsTnMzRVl2MVcyQVNlWmFjcDNOQmVnRjgtcC1XSGNiR1hkT2RIZWNfdDhrU1VpZk92WE5SWHFtT09RTWtRcDV6Yk5B?oc=5",
+      "source_count": 1,
+      "sources": [
+        "PCMag UK"
+      ]
+    }
+  ],
+  "summary": "Live wire briefing processed across 22 deduplicated editorial clusters."
 }

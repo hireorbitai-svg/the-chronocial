@@ -6,9 +6,10 @@ import { TrailerCard } from "./primitives/TrailerCard";
 
 interface TrailerSectionProps {
   onPlayTrailer?: (trailer: TrailerItem) => void;
+  trailers?: TrailerItem[];
 }
 
-export const TrailerSection: React.FC<TrailerSectionProps> = () => {
+export const TrailerSection: React.FC<TrailerSectionProps> = ({ trailers = TRAILERS }) => {
   const [activeTrailer, setActiveTrailer] = useState<TrailerItem | null>(null);
 
   const handleTrailerClick = (trailer: TrailerItem) => {
@@ -88,7 +89,7 @@ export const TrailerSection: React.FC<TrailerSectionProps> = () => {
         )}
 
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4 sm:gap-6">
-          {TRAILERS.map((trailer) => (
+          {trailers.map((trailer) => (
             <TrailerCard
               key={trailer.id}
               trailer={trailer}

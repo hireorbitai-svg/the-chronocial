@@ -8,9 +8,10 @@ import { TrustBadge } from "./primitives/TrustBadge";
 
 interface GamingSectionProps {
   onSelectStory: (story: Story) => void;
+  stories?: (Story & { platforms?: string[]; genre?: string })[];
 }
 
-export const GamingSection: React.FC<GamingSectionProps> = ({ onSelectStory }) => {
+export const GamingSection: React.FC<GamingSectionProps> = ({ onSelectStory, stories = GAMING_STORIES }) => {
   const [activeChip, setActiveChip] = useState<string>("All");
   const [featImgError, setFeatImgError] = useState(false);
 
@@ -24,8 +25,8 @@ export const GamingSection: React.FC<GamingSectionProps> = ({ onSelectStory }) =
     "Esports",
   ];
 
-  const leadGameStory = GAMING_STORIES[0];
-  const supportingGames = GAMING_STORIES.slice(1);
+  const leadGameStory = stories[0] || GAMING_STORIES[0];
+  const supportingGames = stories.slice(1).length > 0 ? stories.slice(1) : GAMING_STORIES.slice(1);
 
   const filteredSupporting = supportingGames.filter((item) => {
     if (activeChip === "All") return true;

@@ -14,8 +14,32 @@ import {
   BOLLYWOOD_STORIES,
   GAMING_STORIES,
   OTT_STORIES,
+  CELEBRITIES,
+  MOVIES_ITEMS,
+  TRAILERS,
+  UPCOMING_RELEASES,
 } from "./data/mockStories";
-import { Story, CelebrityProfile, MovieItem } from "./types";
+import { Story, CelebrityProfile, MovieItem, TrailerItem, ReleaseCalendarItem } from "./types";
+
+// Supabase Data Layer
+import {
+  getFeaturedStories,
+  getTrendingStories,
+  getLatestStories,
+  getMostReadStories,
+  getHollywoodStories,
+  getBollywoodStories,
+  getOTTStories,
+  getGamingStories,
+  getAllStories,
+  getStoryBySlug,
+} from "./lib/stories";
+import {
+  getCelebrityProfiles,
+  getMovieItems,
+  getLatestTrailers,
+  getUpcomingReleases,
+} from "./lib/entities";
 
 // Page Structure Components in exact rhythm
 import { Header } from "./components/Header";
@@ -47,8 +71,31 @@ export default function App() {
   const [accountOpen, setAccountOpen] = useState(false);
   const [activeVertical, setActiveVertical] = useState("Home");
 
-  // Collect all story objects for recommendation and search routing
-  const allStoriesList: Story[] = [
+  // Live Database States initialized with mock fallbacks
+  const [heroData, setHeroData] = useState({
+    leadStory: LEAD_STORY,
+    secondaryStories: SECONDARY_LEAD_STORIES,
+  });
+  const [trendingData, setTrendingData] = useState<Story[]>(TRENDING_STORIES);
+  const [latestData, setLatestData] = useState<Story[]>(LATEST_STORIES);
+  const [mostReadData, setMostReadData] = useState<Story[]>(MOST_READ_STORIES);
+  const [hollywoodData, setHollywoodData] = useState<{
+    featured: Story;
+    supporting: Story[];
+  }>(HOLLYWOOD_STORIES);
+  const [bollywoodData, setBollywoodData] = useState<{
+    featured: Story;
+    supporting: Story[];
+  }>(BOLLYWOOD_STORIES);
+  const [ottData, setOttData] = useState<Story[]>(OTT_STORIES);
+  const [gamingData, setGamingData] = useState<
+    (Story & { platforms?: string[]; genre?: string })[]
+  >(GAMING_STORIES);
+  const [celebritiesData, setCelebritiesData] = useState<CelebrityProfile[]>(CELEBRITIES);
+  const [moviesData, setMoviesData] = useState<MovieItem[]>(MOVIES_ITEMS);
+  const [trailersData, setTrailersData] = useState<TrailerItem[]>(TRAILERS);
+  const [releasesData, setReleasesData] = useState<ReleaseCalendarItem[]>(UPCOMING_RELEASES);
+  const [allStoriesList, setAllStoriesList] = useState<Story[]>([
     LEAD_STORY,
     ...SECONDARY_LEAD_STORIES,
     ...TRENDING_STORIES,
@@ -60,7 +107,85 @@ export default function App() {
     ...BOLLYWOOD_STORIES.supporting,
     ...GAMING_STORIES,
     ...OTT_STORIES,
-  ];
+  ]);
+
+  // Load live data from Supabase on mount
+  useEffect(() => {
+    let isMounted = true;
+
+    async function loadLiveData() {
+      try {
+        const [
+          featured,
+          trending,
+          latest,
+          mostRead,
+          hollywood,
+          bollywood,
+          ott,
+          gaming,
+          celebs,
+          films,
+          trailrs,
+          releass,
+          allList,
+        ] = await Promise.allSettled([
+          getFeaturedStories(),
+          getTrendingStories(),
+          getLatestStories(),
+          getMostReadStories(),
+          getHollywoodStories(),
+          getBollywoodStories(),
+          getOTTStories(),
+          getGamingStories(),
+          getCelebrityProfiles(),
+          getMovieItems(),
+          getLatestTrailers(),
+          getUpcomingReleases(),
+          getAllStories(),
+        ]);
+
+        if (!isMounted) return;
+
+        if (featured.status === "fulfilled") setHeroData(featured.value);
+        if (trending.status === "fulfilled") setTrendingData(trending.value);
+        if (latest.status === "fulfilled") setLatestData(latest.value);
+        if (mostRead.status === "fulfilled") setMostReadData(mostRead.value);
+        if (hollywood.status === "fulfilled") setHollywoodData(hollywood.value);
+        if (bollywood.status === "fulfilled") setBollywoodData(bollywood.value);
+        if (ott.status === "fulfilled") setOttData(ott.value);
+        if (gaming.status === "fulfilled") setGamingData(gaming.value);
+        if (celebs.status === "fulfilled") setCelebritiesData(celebs.value);
+        if (films.status === "fulfilled") setMoviesData(films.value);
+        if (trailrs.status === "fulfilled") setTrailersData(trailrs.value);
+        if (releass.status === "fulfilled") setReleasesData(releass.value);
+        if (allList.status === "fulfilled") setAllStoriesList(allList.value);
+
+        // Check hash routing for deep linked article: #story/slug or #story/id
+        const hash = window.location.hash;
+        if (hash.startsWith("#story/")) {
+          const target = hash.replace("#story/", "");
+          const match = allList.status === "fulfilled"
+            ? allList.value.find((s) => s.slug === target || s.id === target)
+            : undefined;
+          if (match) {
+            setSelectedStory(match);
+          } else {
+            const fetched = await getStoryBySlug(target);
+            if (fetched && isMounted) setSelectedStory(fetched);
+          }
+        }
+      } catch (err) {
+        console.warn("[Chronicle App] Supabase live hydration notice (fallbacks active):", err);
+      }
+    }
+
+    loadLiveData();
+
+    return () => {
+      isMounted = false;
+    };
+  }, []);
 
   // Sync with browser history for clean Back/Forward navigation
   useEffect(() => {
@@ -199,35 +324,45 @@ export default function App() {
 
             {/* 3. Hero Section (One dominant lead + 2 secondary) */}
             <HeroSection
-              leadStory={LEAD_STORY}
-              secondaryStories={SECONDARY_LEAD_STORIES}
+              leadStory={heroData.leadStory}
+              secondaryStories={heroData.secondaryStories}
               onSelectStory={handleSelectStory}
             />
 
             {/* 4. Trending Now (5-8 ranked items) */}
             <TrendingNow
-              stories={TRENDING_STORIES}
+              stories={trendingData}
               onSelectStory={handleSelectStory}
             />
 
             {/* 5. Latest (main column) + Most Read (sidebar ranked 01-05) */}
             <LatestAndMostRead
-              latestStories={LATEST_STORIES}
-              mostReadStories={MOST_READ_STORIES}
+              latestStories={latestData}
+              mostReadStories={mostReadData}
               onSelectStory={handleSelectStory}
             />
 
             {/* 6. Hollywood Section (1 large + 3 supporting) */}
-            <HollywoodSection onSelectStory={handleSelectStory} />
+            <HollywoodSection
+              stories={hollywoodData}
+              onSelectStory={handleSelectStory}
+            />
 
             {/* 7. Bollywood Section (distinct visual rhythm) */}
-            <BollywoodSection onSelectStory={handleSelectStory} />
+            <BollywoodSection
+              stories={bollywoodData}
+              onSelectStory={handleSelectStory}
+            />
 
             {/* 8. Celebrities Section (image-driven journalistic cards) */}
-            <CelebritySection onSelectCelebrity={handleSelectCelebrity} />
+            <CelebritySection
+              celebrities={celebritiesData}
+              onSelectCelebrity={handleSelectCelebrity}
+            />
 
             {/* 9. Movies Section (cinematic sub-nav: Latest/Upcoming/Reviews/Trailers) */}
             <MoviesSection
+              movies={moviesData}
               onSelectMovie={handleSelectMovie}
               onOpenTrailersSection={() => {
                 const el = document.getElementById("trailers");
@@ -236,16 +371,22 @@ export default function App() {
             />
 
             {/* 10. TV & OTT Section (clean text badges) */}
-            <OTTSection onSelectStory={handleSelectStory} />
+            <OTTSection
+              stories={ottData}
+              onSelectStory={handleSelectStory}
+            />
 
             {/* 11. Gaming Section (first-class vertical with platform filter chips) */}
-            <GamingSection onSelectStory={handleSelectStory} />
+            <GamingSection
+              stories={gamingData}
+              onSelectStory={handleSelectStory}
+            />
 
             {/* 12. Latest Trailers (in-page theater player - NO popups) */}
-            <TrailerSection />
+            <TrailerSection trailers={trailersData} />
 
             {/* 13. Coming Up (compact release calendar rows) */}
-            <UpcomingSection />
+            <UpcomingSection releases={releasesData} />
 
             {/* 14. Why Readers Trust Us (sources, cross-checked claims, timestamps, rumors) */}
             <TrustSection />
@@ -260,12 +401,17 @@ export default function App() {
       <SearchOverlay
         isOpen={searchOpen}
         onClose={() => setSearchOpen(false)}
-        onSelectStory={(storyId) => {
-          const match = allStoriesList.find((s) => s.id === storyId);
+        onSelectStory={async (storyId) => {
+          const match = allStoriesList.find((s) => s.id === storyId || s.slug === storyId);
           if (match) {
             handleSelectStory(match);
           } else {
-            handleSelectStory(LEAD_STORY);
+            const fetched = await getStoryBySlug(storyId);
+            if (fetched) {
+              handleSelectStory(fetched);
+            } else {
+              handleSelectStory(allStoriesList[0] || LEAD_STORY);
+            }
           }
         }}
       />

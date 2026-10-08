@@ -7,17 +7,19 @@ import { MovieCard } from "./primitives/MovieCard";
 interface MoviesSectionProps {
   onSelectMovie: (movie: MovieItem) => void;
   onOpenTrailersSection: () => void;
+  movies?: MovieItem[];
 }
 
 export const MoviesSection: React.FC<MoviesSectionProps> = ({
   onSelectMovie,
   onOpenTrailersSection,
+  movies = MOVIES_ITEMS,
 }) => {
   const [filter, setFilter] = useState<"Latest" | "Upcoming" | "Reviews" | "Trailers">("Latest");
 
   const subNavTabs = ["Latest", "Upcoming", "Reviews", "Trailers"] as const;
 
-  const filteredMovies = MOVIES_ITEMS.filter((m) => {
+  const filteredMovies = movies.filter((m) => {
     if (filter === "Upcoming") return m.status === "Upcoming";
     if (filter === "Reviews") return m.rating !== undefined;
     if (filter === "Trailers") return true;
@@ -32,7 +34,7 @@ export const MoviesSection: React.FC<MoviesSectionProps> = ({
           title="Movies"
           description="Festivals, box office projections, critical reviews, and auteur retrospectives."
           actionText="Full Film Ledger"
-          onActionClick={() => onSelectMovie(MOVIES_ITEMS[0])}
+          onActionClick={() => onSelectMovie(movies[0] || MOVIES_ITEMS[0])}
         />
 
         {/* Cinematic Sub-Nav: smooth touch scroll on mobile */}
