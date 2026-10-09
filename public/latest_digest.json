@@ -1,134 +1,127 @@
 {
-  "timestamp": "2026-10-08T21:02:58.538039+00:00",
-  "headline_count": 89,
+  "timestamp": "2026-10-09T01:45:36.765853+00:00",
+  "headline_count": 88,
   "headlines": [
     {
-      "title": "'Crazy Rich Asians' HBO Series Sets Cast: Constance Wu, Henry Golding, Michelle Yeoh, Ronny Chieng Returning",
-      "url": "https://variety.com/2026/tv/news/crazy-rich-asians-series-cast-constance-wu-henry-golding-michelle-yeoh-1236905874/",
-      "source_count": 3,
+      "title": "Michael Ovitz Ordered to Complete Deposition in Julia Ormond Case After Storming Out Over Jeffrey Epstein Questions",
+      "url": "https://variety.com/2026/film/news/michael-ovitz-ormond-deposition-epstein-1236906246/",
+      "source_count": 1,
+      "sources": [
+        "Variety"
+      ]
+    },
+    {
+      "title": "Hugh Hefner's Widow Crystal Harris Asks Jessica Biel to 'Please Reconsider' Playing His Wife: 'I Experienced Sexual, Emotional…Physical Abuse'",
+      "url": "https://variety.com/2026/film/news/hugh-hefner-widow-jessica-biel-reconsider-playing-wife-1236906237/",
+      "source_count": 2,
       "sources": [
         "Variety",
-        "Deadline Hollywood",
         "The Hollywood Reporter"
       ]
     },
     {
-      "title": "Marvel's 'X-Men '97' Season 3 Teaser Debuts at New York Comic-Con",
-      "url": "https://variety.com/2026/tv/news/x-men-97-renewed-season-3-teaser-1236828689/",
+      "title": "'Angel and the Badman' Review: Zachary Levi Leads Angel Studios' Fitfully Engaging Remake of a John Wayne Vehicle",
+      "url": "https://variety.com/2026/film/reviews/angel-and-the-badman-review-1236906233/",
       "source_count": 1,
       "sources": [
         "Variety"
       ]
     },
     {
-      "title": "'Your Friendly Neighborhood Spider-Man' Season 2 Sets Release Date",
-      "url": "https://variety.com/2026/tv/news/your-friendly-neighborhood-spider-man-season-2-release-date-1236828607/",
+      "title": "Ice-T on 'Law & Order: SVU's' Longevity and Cultural Impact: 'I'm on a Good Treadmill, and I Want to Stay on It'",
+      "url": "https://variety.com/2026/biz/news/ice-t-law-order-svu-longevity-cultural-impact-1236905719/",
       "source_count": 1,
       "sources": [
         "Variety"
       ]
     },
     {
-      "title": "Marvel's 'Zodiac' Sets 2028 Release on Disney+ as New Details Revealed",
-      "url": "https://variety.com/2026/tv/news/marvels-zodiac-sets-2028-release-on-disney-plus-1236904566/",
+      "title": "'Animals' Review: Ben Affleck Returns to the Director's Chair for a Nasty, Compulsive Kidnapping Thriller",
+      "url": "https://variety.com/2026/film/reviews/animals-review-ben-affleck-1236906114/",
+      "source_count": 2,
+      "sources": [
+        "Variety",
+        "The Hollywood Reporter"
+      ]
+    },
+    {
+      "title": "Marvel's 'VisionQuest' Surprise Premieres at NYCC and Earns Glowing First Reactions: 'A Worthy Successor' to 'WandaVision'",
+      "url": "https://variety.com/2026/tv/news/marvel-visionquest-surprise-premieres-nycc-first-reactions-1236906093/",
       "source_count": 1,
       "sources": [
         "Variety"
       ]
     },
     {
-      "title": "Oscars Predictions 2027: Where the Race Stands After 'Artificial' NYFF Premiere and Andrew Garfield's Supporting Actor Push",
-      "url": "https://variety.com/lists/2027-oscars-predictions/",
-      "source_count": 1,
-      "sources": [
-        "Variety"
-      ]
-    },
-    {
-      "title": "'Carrie' Finale Burning Question: Who Is Adelaide? Kate Siegel on Why Her Mysterious Character 'Controls This Story'",
-      "url": "https://variety.com/2026/tv/news/carrie-finale-kate-siegel-adelaide-kills-carrie-mom-1236903826/",
-      "source_count": 1,
-      "sources": [
-        "Variety"
-      ]
-    },
-    {
-      "title": "Marvel Sets New Live-Action Spy Thriller Series 'Zodiac' For 2028",
-      "url": "https://deadline.com/2026/10/marvel-live-action-spy-thriller-series-zodiac-2028-1237150548/",
+      "title": "Charlie Cox Shouts Out \"Save 'Daredevil'\" Campaign At NYCC After Disney+ Cancels 'Born Again'",
+      "url": "https://deadline.com/2026/10/charlie-cox-save-daredevil-campaign-1237150712/",
       "source_count": 1,
       "sources": [
         "Deadline Hollywood"
       ]
     },
     {
-      "title": "'Furiosa' Duo Alyla Browne & Elsa Pataky Lead Cast In 'Chiquita'; Screen Australia, Umbrella & Essential Film Group Among Partners",
-      "url": "https://deadline.com/2026/10/mad-max-alyla-browne-elsa-pataky-cast-in-chiquita-1237150490/",
+      "title": "Universal Studios Hollywood Is Already Making Holiday Plans With The Grinch, Minions & Warm Butterbeer",
+      "url": "https://deadline.com/2026/10/universal-studios-hollywood-2026-holiday-events-1237150654/",
       "source_count": 1,
       "sources": [
         "Deadline Hollywood"
       ]
     },
     {
-      "title": "Skydance's JB Perrette Makes First Moves After Re-Upping Contract",
-      "url": "https://deadline.com/2026/10/skydance-jb-perrette-re-upping-contract-1237150464/",
+      "title": "Natasha Rothwell Joins V's 'This Is Crazy!' NAMI Benefit Performance In L.A.",
+      "url": "https://deadline.com/2026/10/natasha-rothwell-this-is-crazy-nami-benefit-performance-1237150666/",
       "source_count": 1,
       "sources": [
         "Deadline Hollywood"
       ]
     },
     {
-      "title": "Colin Jost & Danny Chun To Launch New Comedy Series '6 Bed 1 Bath'",
-      "url": "https://deadline.com/2026/10/colin-jost-danny-chun-series-6-bed-1-bath-1237150379/",
+      "title": "Greg Lombardo Leaving As Netflix VP Of Global Experiences After 7 Years",
+      "url": "https://deadline.com/2026/10/greg-lombardo-leaving-netflix-head-live-experiences-1237150646/",
       "source_count": 1,
       "sources": [
         "Deadline Hollywood"
       ]
     },
     {
-      "title": "Anne Hathaway Calls Tom Cruise's 'Digger' \"Brilliant\": \"It's Worth Making The Time See & Decide For Yourself\"",
-      "url": "https://deadline.com/2026/10/anne-hathaway-tom-cruise-digger-brilliant-1237150456/",
+      "title": "Hong Kong's Point Five Creations Readies 'Blacky The Metal Arm Cat', Plots Webtoon Extension Of 'Another World'",
+      "url": "https://deadline.com/2026/10/another-world-blacky-the-metal-arm-cat-point-five-creations-1237148928/",
       "source_count": 1,
       "sources": [
         "Deadline Hollywood"
       ]
     },
     {
-      "title": "'Eternally Yours' Review: CBS' Vampire Comedy From 'Ghosts' Creators Is Severely Anemic",
-      "url": "https://www.hollywoodreporter.com/tv/tv-reviews/eternally-yours-review-cbs-vampires-1236725129/",
+      "title": "Vietnam's Mockingbird Launches Horror Duo & Comedy Drama 'The Happiest Cell' At Busan's ACFM",
+      "url": "https://deadline.com/2026/10/vietnam-tuan-tran-mockingbird-happiest-cell-busan-1237148960/",
+      "source_count": 1,
+      "sources": [
+        "Deadline Hollywood"
+      ]
+    },
+    {
+      "title": "Diddy Loses Two Months of Freedom as Federal Prison Perks Unravel",
+      "url": "https://www.hollywoodreporter.com/music/music-news/diddy-sentence-pushed-2-months-federal-prison-perks-1236725916/",
       "source_count": 1,
       "sources": [
         "The Hollywood Reporter"
       ]
     },
     {
-      "title": "Ryan Murphy Says He'd \"Never\" Do Another All-Star 'AHS' Season as Big as 13 Again",
-      "url": "https://www.hollywoodreporter.com/tv/tv-features/ryan-murphy-american-horror-story-season-13-ending-future-1236720747/",
+      "title": "'Other Mommy' Review: Jessica Chastain Commits Admirably to an Otherwise Flimsy Supernatural Chiller",
+      "url": "https://www.hollywoodreporter.com/movies/movie-reviews/other-mommy-review-jessica-chastain-jay-duplass-rob-savage-1236725902/",
       "source_count": 1,
       "sources": [
         "The Hollywood Reporter"
       ]
     },
     {
-      "title": "Meet Cosmic Salon, the 'Chronovisor' Directors Who Are Curry Barkers for the Library Set",
-      "url": "https://www.hollywoodreporter.com/movies/movie-features/cosmic-salon-chronovisor-directors-jack-auen-kevin-walker-1236725624/",
-      "source_count": 1,
+      "title": "Newport Beach Film Fest: 'Social Reckoning' Filmmaker Aaron Sorkin Set for Maverick Award, Live Episode of 'Awards Chatter' Podcast",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/aaron-sorkin-newport-beach-film-fest-maverick-award-podcast-1236725383/",
+      "source_count": 2,
       "sources": [
-        "The Hollywood Reporter"
-      ]
-    },
-    {
-      "title": "'Cyberpunk 2077' Live Action Film in Development at Paramount Pictures",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/cyberpunk-2077-film-paramount-pictures-1236725629/",
-      "source_count": 1,
-      "sources": [
-        "The Hollywood Reporter"
-      ]
-    },
-    {
-      "title": "'Sense and Sensibility' Stars on How New Film Is Not Trying to Compete With Ang Lee's Classic",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/sense-and-sensibility-new-film-ang-lee-classic-1236725521/",
-      "source_count": 1,
-      "sources": [
+        "The Hollywood Reporter",
         "The Hollywood Reporter"
       ]
     },
@@ -181,6 +174,38 @@
       ]
     },
     {
+      "title": "Georgie & Mandy Season 3 Premiere: Co-Creator Breaks Down Georgie's Standoff With Mary, Connor's Arrest, And That Unexpected Alliance",
+      "url": "https://www.tvline.com/2280430/georgie-and-mandys-first-marriage-season-3-episode-1-explained-mary-cooper-feud/",
+      "source_count": 1,
+      "sources": [
+        "TVLine"
+      ]
+    },
+    {
+      "title": "Brooklyn Nine-Nine Co-Creator Explains How New NBC Comedy Sunset P.I. Differs From His Previous Hit - And Whether They Share A Universe",
+      "url": "https://www.tvline.com/2281851/brooklyn-nine-nine-sunset-pi-shared-universe-dan-goor/",
+      "source_count": 1,
+      "sources": [
+        "TVLine"
+      ]
+    },
+    {
+      "title": "Brooklyn Nine-Nine Cast And Co-Creator Remember Andre Braugher, Imagine What Jake And Amy Are Up To Now (Six Kids?!?)",
+      "url": "https://www.tvline.com/2281850/brooklyn-nine-nine-cast-reunion-andre-braugher-jake-amy-highlights/",
+      "source_count": 1,
+      "sources": [
+        "TVLine"
+      ]
+    },
+    {
+      "title": "Crazy Rich Asians Series Ordered At HBO - Which Of The Movie's Original Cast Members Are Returning?",
+      "url": "https://www.tvline.com/2281784/crazy-rich-asians-tv-show-hbo-original-cast-returning/",
+      "source_count": 1,
+      "sources": [
+        "TVLine"
+      ]
+    },
+    {
       "title": "Hannah Waddingham's Early Career Included A Role On Another Sports-Themed Show",
       "url": "https://www.tvline.com/2275607/hannah-waddingham-role-other-sports-themed-show-footballers-wives/",
       "source_count": 1,
@@ -191,38 +216,6 @@
     {
       "title": "Dan Fogelman Football Drama The Land Nabs Early 2027 Premiere Date At Hulu",
       "url": "https://www.tvline.com/2281371/the-land-release-date-season-1-hulu-chris-meloni-mandy-moore-dan-fogelman/",
-      "source_count": 1,
-      "sources": [
-        "TVLine"
-      ]
-    },
-    {
-      "title": "HBO's Canceled Green Lantern Series: See Finn Wittrock As Guy Gardner, Show's Cosmic Scope",
-      "url": "https://www.tvline.com/2281311/green-lantern-canceled-hbo-series-concept-art-finn-wittrock-guy-gardner/",
-      "source_count": 1,
-      "sources": [
-        "TVLine"
-      ]
-    },
-    {
-      "title": "Prime Video's Carrie Echoes David Lynch's Twin Peaks In Ways You Might Not Expect",
-      "url": "https://www.tvline.com/2281178/carrie-prime-video-series-david-lynch-twin-peaks-similarities/",
-      "source_count": 1,
-      "sources": [
-        "TVLine"
-      ]
-    },
-    {
-      "title": "Luke Grimes And Kevin Costner Have 'Never Spoken' Since Yellowstone Ended, The Marshals Star Says",
-      "url": "https://www.tvline.com/2281071/marshals-luke-grimes-kevin-costner-not-spoken-since-yellowstone/",
-      "source_count": 1,
-      "sources": [
-        "TVLine"
-      ]
-    },
-    {
-      "title": "Bridgerton Prequel Spin-Off, Centered On Young Lady Violet, Ordered At Netflix",
-      "url": "https://www.tvline.com/2281012/bridgerton-spin-off-young-lady-violet-ordered-netflix/",
       "source_count": 1,
       "sources": [
         "TVLine"
@@ -317,59 +310,52 @@
       ]
     },
     {
-      "title": "Final Fantasy VII Revelation Announces an NPC-ified Version of Shiva Voiced by Marisha Ray",
-      "url": "https://www.ign.com/articles/final-fantasy-vii-revelation-announces-an-npc-ified-version-of-shiva-voiced-by-marisha-ray-nycc-2026",
+      "title": "Phantom Blade Zero Might Be This Year's Most Stylish Action Game",
+      "url": "https://www.ign.com/articles/phantom-blade-zero-might-be-this-years-most-stylish-action-game-ign-preview",
+      "source_count": 2,
+      "sources": [
+        "IGN Preview",
+        "Polygon"
+      ]
+    },
+    {
+      "title": "Daredevil Star Charlie Cox Confirms He's in an Unannounced Sega Game",
+      "url": "https://www.ign.com/articles/daredevil-star-charlie-cox-confirms-hes-in-an-unannounced-sega-game-nycc-2026",
       "source_count": 1,
       "sources": [
         "NYCC 2026"
       ]
     },
     {
-      "title": "A Live-Action Cyberpunk 2077 Movie Is in the Works at Paramount",
-      "url": "https://www.ign.com/articles/a-live-action-cyberpunk-2077-movie-is-in-the-works-at-paramount",
+      "title": "Jay and Silent Bob's Joint Venture Trailer and Game Details Revealed for Weed Farming Sim",
+      "url": "https://www.ign.com/articles/jay-silent-bob-joint-venture-trailer-gameplay",
+      "source_count": 1,
+      "sources": [
+        "NYCC 2026"
+      ]
+    },
+    {
+      "title": "Smile 2 Star Kyle Gallner Wants to Play V in Paramount's Cyberpunk 2077 Movie",
+      "url": "https://www.ign.com/articles/smile-2-star-kyle-gallner-wants-to-play-v-in-paramounts-cyberpunk-2077-movie",
+      "source_count": 1,
+      "sources": [
+        "IGN Games"
+      ]
+    },
+    {
+      "title": "Street Fighter 6 Producer Reveals How He Helped Save Capcom's Iconic Fighting Game Franchise From 'Dying'",
+      "url": "https://www.ign.com/articles/street-fighter-6-producer-reveals-how-he-helped-save-capcoms-iconic-fighting-game-franchise-from-dying",
+      "source_count": 1,
+      "sources": [
+        "IGN Games"
+      ]
+    },
+    {
+      "title": "Ben Affleck Says He Gets Into Arguments With Kids in Fortnite, His New Movie Took Inspiration from Game's Skins",
+      "url": "https://www.ign.com/articles/ben-affleck-says-he-gets-into-arguments-with-kids-in-fortnite-his-new-movie-took-inspiration-from-games-skins",
       "source_count": 2,
       "sources": [
         "IGN Games",
-        "Polygon"
-      ]
-    },
-    {
-      "title": "35% of Marvel's Wolverine Sales Were on Disc, According to Analyst Data",
-      "url": "https://www.ign.com/articles/35-percent-marvels-wolverine-sales-disc",
-      "source_count": 1,
-      "sources": [
-        "IGN Games"
-      ]
-    },
-    {
-      "title": "Tekken 8's Reina Teased as the Next Guest Character for Fatal Fury: City of the Wolves",
-      "url": "https://www.ign.com/articles/tekken-8-reina-teased-fatal-fury-city-of-the-wolves",
-      "source_count": 1,
-      "sources": [
-        "IGN Games"
-      ]
-    },
-    {
-      "title": "Best Buy Announces Midnight Opening for Ocarina of Time Launch, Zelda Switch 2 Consoles Also Up for Grabs",
-      "url": "https://www.ign.com/articles/best-buy-announces-midnight-opening-for-ocarina-of-time-launch-zelda-switch-2-consoles-also-up-for-grabs",
-      "source_count": 1,
-      "sources": [
-        "IGN Games"
-      ]
-    },
-    {
-      "title": "GTA 6: Rockstar Releases Brand New Official Screenshots Showing Off Stunning Reflections",
-      "url": "https://www.ign.com/articles/gta-6-rockstar-releases-brand-new-official-screenshots-showing-off-stunning-reflections",
-      "source_count": 1,
-      "sources": [
-        "IGN Games"
-      ]
-    },
-    {
-      "title": "Ben Affleck Has Some Strong Opinions About Fortnite Skins And How Hard The Game Is For Him",
-      "url": "https://www.gamespot.com/articles/ben-affleck-has-some-strong-opinions-about-fortnite-skins-and-how-hard-the-game-is-for-him/",
-      "source_count": 1,
-      "sources": [
         "GameSpot"
       ]
     },
@@ -415,6 +401,22 @@
       ]
     },
     {
+      "title": "Why a 21-year-old coder finally ported the real P.T. to PC: 'That something so influential could eventually become unplayable never sat right with me'",
+      "url": "https://www.pcgamer.com/games/horror/why-a-21-year-old-coder-finally-ported-the-real-p-t-to-pc-that-something-so-influential-could-eventually-become-unplayable-never-sat-right-with-me/",
+      "source_count": 1,
+      "sources": [
+        "PC Gamer"
+      ]
+    },
+    {
+      "title": "Blizzard refuses to let World of Warcraft: Forever's dungeons become the fastest way to grind XP: 'We need to hold firm on these balance adjustments'",
+      "url": "https://www.pcgamer.com/games/world-of-warcraft/blizzard-refuses-to-let-world-of-warcraft-forevers-dungeons-become-the-fastest-way-to-grind-xp-we-need-to-hold-firm-on-these-balance-adjustments/",
+      "source_count": 1,
+      "sources": [
+        "PC Gamer"
+      ]
+    },
+    {
       "title": "How to start the Dragon's Dogma 2: Dark Arisen expansion",
       "url": "https://www.pcgamer.com/games/rpg/dragons-dogma-2-how-to-start-dark-arisen/",
       "source_count": 1,
@@ -447,23 +449,6 @@
       ]
     },
     {
-      "title": "A great indie studio is making a sequel to one of my favorite adventures 17 years later, for one simple reason: 'We're not getting any younger, and the world seems to be ending'",
-      "url": "https://www.pcgamer.com/games/adventure/a-great-indie-studio-is-making-a-sequel-to-one-of-my-favorite-adventures-17-years-later-for-one-simple-reason-were-not-getting-any-younger-and-the-world-seems-to-be-ending/",
-      "source_count": 2,
-      "sources": [
-        "PC Gamer",
-        "Polygon"
-      ]
-    },
-    {
-      "title": "Subnautica 2 fans can finally hunt and kill those pesky Nibbler Mangos - in Dave the Diver's crossover DLC",
-      "url": "https://www.pcgamer.com/games/adventure/subnautica-2-fans-can-finally-hunt-and-kill-those-pesky-nibbler-mangos-in-dave-the-divers-crossover-dlc/",
-      "source_count": 1,
-      "sources": [
-        "PC Gamer"
-      ]
-    },
-    {
       "title": "Singapore Grand Prix entertainment may be curbed if haze worsens, FIA says",
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNNnhmMXN2WlJkY01MdFlvMEVta0ZlWG84VERVZF9BWEZKUGdteGhlRklDRVEyQVpIRVROYkM3SGtqWDFMR1N4bkxtb0V1OHRwSUJ0cHltMFNsMHYtMFQ3M0VkemM0amxZQnB5UnJRVDdySzkySUhGNDRFTnZxOWc1ZlJVZjRBSVRYQU0zY2FScGxmbWx3WGVkZi1XdkRYa0JCVHB2NkJ1VE1UampiWmlkTm01bTVkejNFOERPNzNiVGNqaHVDRUxwbTlB",
       "source_count": 1,
@@ -473,9 +458,10 @@
     },
     {
       "title": "Reuters Entertainment News Summary",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNTGlpSU1tS3VLaGJlX1FJenpJMU56S3dpcXl0Q3BVcnFsbzduUV95S3NEeHAwX3gyQ25Ieml0cm9Bbno3LWJzYWpnUTdXTWpCUW1hbHd1VXJFeEZQaTAtMVYzNzZIU1J3bnhOR1NHS3doemZrMVgyeTZWUUhUWHZ6OFRGdVdmYTVmWWtXZTY1OFNpaE0yX01ZbWV6VGYtQdIBngFBVV95cUxNTGlpSU1tS3VLaGJlX1FJenpJMU56S3dpcXl0Q3BVcnFsbzduUV95S3NEeHAwX3gyQ25Ieml0cm9Bbno3LWJzYWpnUTdXTWpCUW1hbHd1VXJFeEZQaTAtMVYzNzZIU1J3bnhOR1NHS3doemZrMVgyeTZWUUhUWHZ6OFRGdVdmYTVmWWtXZTY1OFNpaE0yX01ZbWV6VGYtQQ",
-      "source_count": 1,
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPRkJ0Y0J6N2NQdEVKQ1U3VGFaS3NMMDNDV2hBc3ZweDlYa3RiNHVUVDd6d0Jrbi1maTNqakNKcmNNUW82U0FXa1VKbFRocHR2Yzk5cExBX2J4dWVlb01ESkVFWkNqZ05keDU3ZUU2UVdtQ2VzRGNxaldQSkEtb1pNTGlXZWhKME40aVpYMmhQTTdZT2Y3eVB2btIBngFBVV95cUxNR3JTY3QxWTRrV0h5TEp6Z1c1eURWQnJfTnJEOVZoWmFJblRpVElBY1V1WWtkeExHS2pZYjRFSnQtdHVhTkJOOVlpZWEtQkRlajctZzVyeWY4ZlB3bGpGWFJkX0N2ZmNhMG5xa25JOXFIY0ZaVDM2djlZS2NyY2lqRkdYbUJ6QnZyU0p1VTBzaDUzMW5EcmFFaHFhMmVIZw",
+      "source_count": 2,
       "sources": [
+        "Devdiscourse",
         "Devdiscourse"
       ]
     },
@@ -504,56 +490,48 @@
       ]
     },
     {
-      "title": "Mia Goth files for divorce from Shia LaBeouf",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPWjIyRDdrV2p6cmtKSUg5Q1BzMXdCZWU5UWN0OTRlaHNZMUhYajA5djBEOVpHNklXWm5GOWZqM1JGRkprdm1KVlRKU3VhalFoUzRkSG1HTG1rQmR2TEdmb1VEQ1FPY3JMbjk5V0swMmp2Yzh5VV9iQ1NtQlhDNDN1UFJxNDRJSHpVNW9BRms4bEJGNHVJdXQ3c3FwWDM",
-      "source_count": 1,
-      "sources": [
-        "RTE.ie"
-      ]
-    },
-    {
-      "title": "'Crazy Rich Asians' Series Ordered at HBO with Film's Original Cast Returning",
-      "url": "https://www.indiewire.com/news/breaking-news/crazy-rich-asians-series-hbo-original-cast-returning-1235220956/",
+      "title": "Submit Your Short to This Italian Film Festival and Nicolas Winding Refn's Jury, and MUBI Could Distribute It",
+      "url": "https://www.indiewire.com/news/general-news/submit-your-short-film-to-corto-condorello-2026-1235220959/",
       "source_count": 1,
       "sources": [
         "IndieWire"
       ]
     },
     {
-      "title": "'Below' Review: Josh Hartnett's Silly Netflix Creature-Feature Is a Treat for the Eyes and Ears and Not Much Else",
-      "url": "https://www.indiewire.com/criticism/shows/below-review-josh-hartnett-squid-netflix-series-1235220800/",
+      "title": "'Animals' Review: Ben Affleck's Tedious New Netflix Thriller Is Quite Literally Just Bad TV",
+      "url": "https://www.indiewire.com/criticism/movies/animals-netflix-movie-review-ben-affleck-1235220824/",
       "source_count": 1,
       "sources": [
         "IndieWire"
       ]
     },
     {
-      "title": "'Cupertino' Review: Robert and Michelle King's Slick and Spiky Legal Drama Takes on Today's Most Noxious Tech",
-      "url": "https://www.indiewire.com/criticism/shows/cupertino-review-robert-and-michelle-king-legal-drama-1235220382/",
+      "title": "'V/H/S Mixtape' Review: Shudder's Helter-Skelter Horror Anthology Still Has Some Killer Tracks",
+      "url": "https://www.indiewire.com/criticism/movies/vhs-mixtape-film-review-shudder-1235220772/",
       "source_count": 1,
       "sources": [
         "IndieWire"
       ]
     },
     {
-      "title": "Chris Rock Stopped Trying to Imitate Adam Sandler, and Came Out of the Arthouse Closet",
-      "url": "https://www.indiewire.com/features/interviews/chris-rock-stopped-imitate-sandler-misty-green-directing-1235220836/",
+      "title": "'9 Temples to Heaven' Review: Spiritual Road Movie Takes a Surrealist Detour in Weerasethakul Collaborator's Fiction Debut",
+      "url": "https://www.indiewire.com/criticism/movies/9-temples-to-heaven-review-1235220963/",
       "source_count": 1,
       "sources": [
         "IndieWire"
       ]
     },
     {
-      "title": "What Awards Is 'You Can See Everything' Even Eligible for?",
-      "url": "https://www.indiewire.com/awards/industry/what-awards-you-can-see-everything-eligible-for-1235220881/",
+      "title": "Inside 'Nerve Center,' InfoWars' New Flagship Show That Wants to Hold Every Possible Opinion at Once",
+      "url": "https://www.indiewire.com/features/interviews/nerve-center-infowars-new-show-1235220705/",
       "source_count": 1,
       "sources": [
         "IndieWire"
       ]
     },
     {
-      "title": "'Matchbox: The Movie' Review: If Skydance's Theatrical Releases Are as Blandly Algorithmic as Its Streaming Ones, Hollywood Is Already Dead",
-      "url": "https://www.indiewire.com/criticism/movies/matchbox-the-movie-review-apple-tv-1235220594/",
+      "title": "TCM Sticking Around Under Skydance, to Be Overseen by Film Group Instead of TV Team",
+      "url": "https://www.indiewire.com/news/business/tcm-sticking-around-under-skydance-1235220941/",
       "source_count": 1,
       "sources": [
         "IndieWire"
@@ -608,48 +586,48 @@
       ]
     },
     {
-      "title": "Diddy's Release Date: When Is It? And Why Does It Keep Changing?",
-      "url": "https://www.billboard.com/lists/diddy-release-date-when-is-it-why-does-it-keep-changing/",
+      "title": "Rosalía Shuts Down Kenan Thompson's Idea for a Pop-Classical Album in Hilarious 'SNL' Promo: 'That's LUX'",
+      "url": "https://www.billboard.com/culture/tv-film/rosalia-kenan-thompson-a-pop-classical-album-snl-promo-1236357704/",
       "source_count": 1,
       "sources": [
         "Billboard"
       ]
     },
     {
-      "title": "Inside the Latin Touring Boom",
-      "url": "https://www.billboard.com/pro/inside-latin-touring-boom/",
+      "title": "Noah Kahan Reacts to First Kids' Choice Award Nomination: 'Holy Sh",
+      "url": "https://www.billboard.com/music/awards/noah-kahan-reacts-nickelodeon-kids-choice-award-nomination-1236357684/",
+      "source_count": 1,
+      "sources": [
+        "I Finally Did It'"
+      ]
+    },
+    {
+      "title": "Natanael Cano Postpones Remaining Mexico Stadium Tour Dates to 'Focus on His Health & Well-Being'",
+      "url": "https://www.billboard.com/music/latin/natanael-cano-mexico-tour-dates-postponed-health-well-being-1236357682/",
       "source_count": 1,
       "sources": [
         "Billboard"
       ]
     },
     {
-      "title": "The Hits With the Most Weeks at No. 1 on Billboard's 'Hot' Songs Charts: 'You Say,' 'Choosin' Texas' & More",
-      "url": "https://www.billboard.com/lists/songs-most-weeks-number-1-hot-songs-charts/",
+      "title": "Celine Dion Falls Mid-Performance During Paris Concert - Then Carries On Like the Pro She Is",
+      "url": "https://www.billboard.com/music/pop/celine-dion-falls-paris-concert-video-1236357654/",
       "source_count": 1,
       "sources": [
         "Billboard"
       ]
     },
     {
-      "title": "Singer Keshia Chanté Addresses Rumors That Drake Is Her Baby's Dad: 'We Were Talking About It Yesterday'",
-      "url": "https://www.billboard.com/music/rb-hip-hop/keshia-chante-drake-not-father-baby-1236357192/",
+      "title": "Cher Continues Her Story in Part 2 of Bestselling Memoir: Shop the New Book Here",
+      "url": "https://www.billboard.com/culture/product-recommendations/cher-memoir-part-two-shop-new-book-online-1236357559/",
       "source_count": 1,
       "sources": [
         "Billboard"
       ]
     },
     {
-      "title": "Every Billboard Latin Music Week 2026 Showcase: Jay Wheeler, Zhamira, Fuerza Regida, Santos Bravos & More",
-      "url": "https://www.billboard.com/lists/billboard-latin-music-week-2026-every-showcase/",
-      "source_count": 1,
-      "sources": [
-        "Billboard"
-      ]
-    },
-    {
-      "title": "Cardi B Cancels BZR WKND Jamaica Headlining Set, 'Appreciates the Love & Support From Her Fans in Jamaica'",
-      "url": "https://www.billboard.com/music/music-news/cardi-b-bzr-wknd-jamaica-2026-canceled-concert-1236357273/",
+      "title": "Beatport Secures Growth Investment to 'Expand the Ways We Serve the Global Electronic Music Community'",
+      "url": "https://www.billboard.com/pro/beatport-growth-investment-square-nine-capital/",
       "source_count": 1,
       "sources": [
         "Billboard"
@@ -704,6 +682,14 @@
       ]
     },
     {
+      "title": "9 Legend of Zelda Side Quests Scarier than Any Horror Game",
+      "url": "https://www.polygon.com/legend-zelda-scariest-side-quests/",
+      "source_count": 1,
+      "sources": [
+        "Polygon"
+      ]
+    },
+    {
       "title": "Marvel Officially Announces New Disney Plus Series 'Zodiac'",
       "url": "https://www.polygon.com/marvel-zodiac-tv-series-disney-plus/",
       "source_count": 1,
@@ -712,14 +698,21 @@
       ]
     },
     {
+      "title": "Cyberpunk 2077 Live-Action Movie Officially Announced",
+      "url": "https://www.polygon.com/cyberpunk-2077-movie-paramount-pictures/",
+      "source_count": 1,
+      "sources": [
+        "Polygon"
+      ]
+    },
+    {
       "title": "All health upgrade point locations in Control Resonant",
       "url": "https://www.polygon.com/control-resonant-health-upgrade-point-locations/",
-      "source_count": 2,
+      "source_count": 1,
       "sources": [
-        "Polygon",
         "Polygon"
       ]
     }
   ],
-  "summary": "Verified intelligence gathered across 89 deduplicated editorial clusters."
+  "summary": "Verified intelligence gathered across 88 deduplicated editorial clusters."
 }
