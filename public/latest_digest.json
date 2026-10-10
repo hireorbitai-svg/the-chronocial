@@ -1,118 +1,132 @@
 {
-  "timestamp": "2026-10-10T17:16:19.644527+00:00",
-  "headline_count": 84,
+  "timestamp": "2026-10-10T21:13:02.391838+00:00",
+  "headline_count": 86,
   "headlines": [
     {
-      "title": "Nicolas Cage Says He's 'Probably Not' Working With Amazon Again After Refusing to Sign AI Waiver for 'Spider-Noir': 'I'm Not an AI-Friendly Actor'",
-      "url": "https://variety.com/2026/tv/news/nicolas-cage-ai-waiver-amazon-spider-noir-1236907564/",
-      "source_count": 2,
-      "sources": [
-        "Variety",
-        "The Hollywood Reporter"
-      ]
-    },
-    {
-      "title": "'Bob's Burgers' Sets Holiday Hulu Special Release Date, Teases First Look at NYCC",
-      "url": "https://variety.com/2026/tv/news/bobs-burgers-holiday-short-release-date-first-look-1236907508/",
+      "title": "'Ibuku' Review: Dreamlike Indonesian Drama Is a Compelling Tale of Parental Redemption",
+      "url": "https://variety.com/2026/film/reviews/ibuku-review-1236907736/",
       "source_count": 1,
       "sources": [
         "Variety"
       ]
     },
     {
-      "title": "'Rio,' 'Ice Age' Director Carlos Saldanha on 'Wonderful Homecoming' With Ambitious Brazilian Adventure Film '100 Days': 'It Deserved a Big Cinema Treatment'",
-      "url": "https://variety.com/2026/film/global/rio-ice-age-director-carlos-saldanha-100-days-rio-film-fest-1236906453/",
+      "title": "Matthew Lillard Says He Thought 'Scream' Was 'Lame' and 'Nobody' Would See the Movie Before It Became a Hit: 'Here We Are 30 Years Later'",
+      "url": "https://variety.com/2026/film/news/matthew-lillard-thought-scream-was-lame-nobody-would-see-it-1236907741/",
       "source_count": 1,
       "sources": [
         "Variety"
       ]
     },
     {
-      "title": "Box Office: 'Other Mommy' Spooks Up $12.6 Million on Opening Day, 'The Social Reckoning' Debuts to $2.15 Million on Friday",
-      "url": "https://variety.com/2026/film/box-office/box-office-other-mommy-verity-social-reckoning-1236907499/",
-      "source_count": 2,
+      "title": "'Project Hail Mary' Composer Daniel Pemberton, 'KPop Demon Hunters' Songwriter EJAE Triumph at World Soundtrack Awards",
+      "url": "https://variety.com/2026/film/awards/project-hail-mary-daniel-pemberton-kpop-demon-hunters-ejae-1236907618/",
+      "source_count": 1,
       "sources": [
-        "Variety",
-        "The Hollywood Reporter"
+        "Variety"
       ]
     },
     {
-      "title": "Scarlett Johansson, Sam Rockwell and Brad Bird Sing 'Happy Birthday' to Composer Michael Giacchino as 'Ray Gunn' World Premieres in London",
-      "url": "https://variety.com/2026/film/festivals/scarlett-johansson-ray-gunn-world-premiere-london-1236907447/",
+      "title": "'Star Trek: Starfleet Academy' Season 2 Adds Bill Nighy, Rosemarie DeWitt in Guest Roles",
+      "url": "https://variety.com/2026/tv/news/starfleet-academy-season-2-bill-nighy-rosemarie-dewitt-1236907534/",
       "source_count": 3,
       "sources": [
         "Variety",
-        "London Film Festival",
+        "Deadline Hollywood",
         "The Hollywood Reporter"
       ]
     },
     {
-      "title": "'The Social Reckoning' Breakout Portia Doubleday on Playing 'White Girl Wasted' Conspiracy Theorist: 'I Knew People Who Were Radicalized'",
-      "url": "https://variety.com/2026/film/features/portia-doubleday-social-reckoning-white-girl-wasted-1236904376/",
+      "title": "Joseph Gordon-Levitt Says A.I. Is Being Trained to 'Hijack Your Intimacy': 'We Should Be Concerned'",
+      "url": "https://variety.com/2026/film/news/joseph-gordon-levitt-a-i-worries-decline-of-democracy-1236907684/",
       "source_count": 1,
       "sources": [
         "Variety"
       ]
     },
     {
-      "title": "Joseph Gordon-Levitt Warns A.I. Models Are \"Being Trained To Hijack Your Intimacy\"",
-      "url": "https://deadline.com/2026/10/joseph-gordon-levitt-artificial-intelligence-1237153993/",
+      "title": "'Tenzing' Review: A Remarkable Adventure That Puts the Audience Right Up on Mount Everest, Along with the First Two Men - One a Sherpa, Overlooked by History",
+      "url": "https://variety.com/2026/film/reviews/tenzing-review-tom-hiddelston-mount-everest-1236907307/",
+      "source_count": 1,
+      "sources": [
+        "to Scale It"
+      ]
+    },
+    {
+      "title": "Nicolas Cage Didn't Sign AI Waiver For 'Spider-Noir' & \"Probably\" Won't Work Again With \"AI-Friendly\" Amazon; Teases 'True Detective' Role",
+      "url": "https://deadline.com/2026/10/nicolas-cage-new-york-comic-con-spider-noir-true-detective-1237154069/",
       "source_count": 1,
       "sources": [
         "Deadline Hollywood"
       ]
     },
     {
-      "title": "Oscars: UK Selects 'Rehearsals For A Revolution' For Best International Feature Film",
-      "url": "https://deadline.com/2026/10/oscars-uk-rehearsals-revolution-best-international-film-1237154001/",
+      "title": "Andy Allo To Guest Star On 'The Rookie: North'",
+      "url": "https://deadline.com/2026/10/andy-allo-cast-the-rookie-north-1237154029/",
       "source_count": 1,
       "sources": [
         "Deadline Hollywood"
       ]
     },
     {
-      "title": "Netflix's 'The Blue Road' Director Han Jun-hee On Taking Risks With Stories & Shooting In Japan",
-      "url": "https://deadline.com/2026/10/netflix-korea-the-blue-road-han-jun-hee-1237153975/",
+      "title": "'Other Mommy' Cooks At No. 1, 'Social Reckoning' Ghosted; 'Verity', 'Resident Evil' Nice Holds & 'The Odyssey' Back In Top 10",
+      "url": "https://deadline.com/2026/10/box-office-other-mommy-social-reckoning-1237151001/",
+      "source_count": 1,
+      "sources": [
+        "Box Office Update"
+      ]
+    },
+    {
+      "title": "Ailing Barry Manilow Cancels Tonight's Vegas Performance",
+      "url": "https://deadline.com/2026/10/barry-manilow-vegas-cancellation-1237154059/",
       "source_count": 1,
       "sources": [
         "Deadline Hollywood"
       ]
     },
     {
-      "title": "'La Bola Negra' Directors Dig Into Generational Trauma: \"Something Touched Deep Inside\"",
-      "url": "https://deadline.com/2026/10/la-bola-negra-generational-trauma-contenders-london-1237151053/",
+      "title": "'Bob's Burgers' Sets Premiere For Hulu Holiday Short; Releases First-Look Clip",
+      "url": "https://deadline.com/2026/10/bobs-burgers-hulu-holiday-short-premiere-trailer-1237154047/",
       "source_count": 1,
       "sources": [
-        "Contenders London"
+        "Deadline Hollywood"
       ]
     },
     {
-      "title": "Fashion Designer Bob Mackie Suffered Head Trauma In Fall Days Before Death",
-      "url": "https://deadline.com/2026/10/bob-mackie-cause-of-death-head-injury-1237153989/",
-      "source_count": 1,
-      "sources": [
-        "Report"
-      ]
-    },
-    {
-      "title": "Why Silver Lake's Hottest New Hotel Took So Long to Open (Blame Katy Perry)",
-      "url": "https://www.hollywoodreporter.com/lifestyle/lifestyle-news/silver-lake-hotel-lucile-opening-1236723439/",
+      "title": "Ava DuVernay Sounds the Alarm Over the \"Erosion of Democracy\" at '14th' World Premiere: \"We Need to Fight\"",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/ava-duvernay-need-to-fight-democracy-14th-premiere-1236726993/",
       "source_count": 1,
       "sources": [
         "The Hollywood Reporter"
       ]
     },
     {
-      "title": "AMC's 'Mayfair Witches: Salem Coven' Gets December Debut as Catherine Zeta-Jones, Carrie-Anne Moss Tease 'Kill Jackie' and 'Yaga' at NYCC",
-      "url": "https://www.hollywoodreporter.com/tv/tv-news/amc-mayfair-witches-season-3-yaga-kill-jackie-teasers-1236726907/",
+      "title": "Anime Series 'Sentinel 6' in Development With NBA and NFL Pros Michael Carter-Williams and Jamaal Williams as EPs",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/anime-sentinel-6-king-vader-lesean-thomas-nfl-nba-veterans-1236726994/",
       "source_count": 1,
       "sources": [
         "The Hollywood Reporter"
       ]
     },
     {
-      "title": "Naomi Ackie Discusses \"Hollywood Machine,\" Her 'Star Wars' Experience and Buying a Crank Radio",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/naomi-ackie-discusses-hollywood-star-wars-horror-crank-radio-1236726864/",
+      "title": "Where to Watch WWE Money in the Bank 2026 Online",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/where-to-watch-wwe-money-in-the-bank-2026-streaming-free-1236726980/",
+      "source_count": 1,
+      "sources": [
+        "The Hollywood Reporter"
+      ]
+    },
+    {
+      "title": "Mariska Hargitay on 'Law & Order: SVU' Premiere That Seemed to Echo the Cornell Case",
+      "url": "https://www.hollywoodreporter.com/tv/tv-features/mariska-hargitay-law-order-svu-premiere-cornell-case-1236726961/",
+      "source_count": 1,
+      "sources": [
+        "The Hollywood Reporter"
+      ]
+    },
+    {
+      "title": "Alabama vs. Georgia: Where to Watch the SEC Game Online",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/watch-alabama-vs-georgia-football-game-free-streams-2026-1236726930/",
       "source_count": 1,
       "sources": [
         "The Hollywood Reporter"
@@ -167,48 +181,48 @@
       ]
     },
     {
-      "title": "5 TV Shows To Watch If You Like Happy's Place",
-      "url": "https://www.tvline.com/2277443/tv-shows-like-happys-place/",
+      "title": "15 Best The Office Guest Stars, Ranked",
+      "url": "https://www.tvline.com/2283018/the-office-best-guest-stars-ranked/",
       "source_count": 1,
       "sources": [
         "TVLine"
       ]
     },
     {
-      "title": "10 Best Opening Credits From HBO TV Shows, Ranked",
-      "url": "https://www.tvline.com/2283013/best-opening-credits-hbo-tv-shows-ranked/",
+      "title": "Before Star Trek, Leonard Nimoy Played A Mobster In This Classic '60s Crime Drama",
+      "url": "https://www.tvline.com/2278554/star-trek-leonard-nimoy-mobster-classic-60s-crime-drama-the-untouchables/",
       "source_count": 1,
       "sources": [
         "TVLine"
       ]
     },
     {
-      "title": "Chicago Med Boss Hints 'There's A Reason' Why Hannah Hasn't Said She Loves Archer",
-      "url": "https://www.tvline.com/2283070/chicago-med-spoilers-hannah-archer-relationship-season-12/",
+      "title": "Star Trek: Starfleet Academy Sets Premiere Month For Second And Final Season - Find Out Who's Joining The Cast",
+      "url": "https://www.tvline.com/2283109/star-trek-starfleet-academy-season-2-premiere-month-paramount-plus/",
       "source_count": 1,
       "sources": [
         "TVLine"
       ]
     },
     {
-      "title": "Columbo's Creators Tried To Cast A Legendary Musical Star As The Iconic Detective",
-      "url": "https://www.tvline.com/2277377/columbo-creators-tried-cast-musical-star-bing-crosby-detective/",
+      "title": "15 TV Shows To Watch If You Like The Queen's Gambit",
+      "url": "https://www.tvline.com/2283017/tv-shows-like-the-queens-gambit/",
       "source_count": 1,
       "sources": [
         "TVLine"
       ]
     },
     {
-      "title": "The Actor Who Played The Gorilla On Gilligan's Island Had Multiple Star Trek Roles",
-      "url": "https://www.tvline.com/2277150/gilligans-island-gorilla-actor-star-trek-roles-explained/",
+      "title": "What To Watch This Week: 40+ Premieres, Finales, And More",
+      "url": "https://www.tvline.com/2282841/what-to-watch-week-of-october-11-2026-tv-shows-movies/",
       "source_count": 1,
       "sources": [
         "TVLine"
       ]
     },
     {
-      "title": "10 Most Disappointing TV Breakups, Ranked",
-      "url": "https://www.tvline.com/2280324/most-disappointing-tv-breakups-ranked/",
+      "title": "5 Law & Order: SVU Episodes That Could Never Be Made Today",
+      "url": "https://www.tvline.com/2277628/law-and-order-svu-episodes-could-never-be-made-today/",
       "source_count": 1,
       "sources": [
         "TVLine"
@@ -298,6 +312,14 @@
       ]
     },
     {
+      "title": "GTA 6 Leaker Threatens to Release Build With Full Story Mode Played to the End, Ties Lucia's Clothing to Crypto Scheme",
+      "url": "https://www.ign.com/articles/gta-6-leaker-threatens-to-release-build-with-full-story-mode-played-to-the-end-ties-lucias-clothing-to-crypto-scheme",
+      "source_count": 1,
+      "sources": [
+        "IGN Games"
+      ]
+    },
+    {
       "title": "Star Citizen Single-Player Spinoff Squadron 42 Reemerges With Flashy New Trailer, Steam Wishlists, and Cast Confirmation",
       "url": "https://www.ign.com/articles/star-citizen-single-player-spinoff-squadron-42-reemerges-with-flashy-new-trailer-steam-wishlists-and-cast-confirmation",
       "source_count": 1,
@@ -321,14 +343,6 @@
       "source_count": 1,
       "sources": [
         "IGN Games"
-      ]
-    },
-    {
-      "title": "Final Fantasy 7 Revelation: I Played a New Slice from the Early Game With a Boss Fight",
-      "url": "https://www.ign.com/articles/final-fantasy-7-revelation-i-played-a-new-slice-from-the-early-game-with-a-boss-fight-ign-preview",
-      "source_count": 1,
-      "sources": [
-        "IGN Preview"
       ]
     },
     {
@@ -421,7 +435,7 @@
     },
     {
       "title": "Reuters Entertainment News Summary",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOVWEzSm9LWjlVeUhoS1dZbjFaRk5Nd19RcGYzbmZLaEpWaHpKZTJSbmZtUnYxOUE2bzItYl81cnlJRFpsQm84SEE1RGNtczdXMGpIbUllVmRzWE1HNEdJYmhrS2hPMjFNOS14ZGN1bGU2RXlScU9qaTJwalJNWkpVeTBwaFBVaXhBVk5oWFVGTFRpUmJpQU1zStIBngFBVV95cUxOR3BGYjgyN1JKdW5hVmR6OFFXdERUanFSRWVCaEhJeERqbXR3QVNKaF9pUVc2Y19JdWVRNFpnT1p1THg3WTZwUGVHRmlRYlFGX1ozeklpd2RWOVNZV2NySzNqakRWU2lraEZsLVBLai1IWW9MZUpmVHU0QjZWU2wwbHBzNjU4WUZMaGktb0NacE1wSHVvd01ZeFdpbkd1QQ",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOR3BGYjgyN1JKdW5hVmR6OFFXdERUanFSRWVCaEhJeERqbXR3QVNKaF9pUVc2Y19JdWVRNFpnT1p1THg3WTZwUGVHRmlRYlFGX1ozeklpd2RWOVNZV2NySzNqakRWU2lraEZsLVBLai1IWW9MZUpmVHU0QjZWU2wwbHBzNjU4WUZMaGktb0NacE1wSHVvd01ZeFdpbkd1QdIBngFBVV95cUxOR3BGYjgyN1JKdW5hVmR6OFFXdERUanFSRWVCaEhJeERqbXR3QVNKaF9pUVc2Y19JdWVRNFpnT1p1THg3WTZwUGVHRmlRYlFGX1ozeklpd2RWOVNZV2NySzNqakRWU2lraEZsLVBLai1IWW9MZUpmVHU0QjZWU2wwbHBzNjU4WUZMaGktb0NacE1wSHVvd01ZeFdpbkd1QQ",
       "source_count": 1,
       "sources": [
         "Devdiscourse"
@@ -452,8 +466,8 @@
       ]
     },
     {
-      "title": "Meta bans TikTok ads on its platforms in US, Digital News",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9oU0hkU19mNEVhSjk4a01Sb3h5blByTVFWeGlrR2NwU1oyNndtOHRsdTNHcU9lVGNqTi1HR1UxVVcteHN1VzY4MzhrdXFXZUpMTnZtX25vdWRMQ19hSGE5U0pZQ3dNRFZUWGU3YU5QR3VOSkRRRHh4Sg",
+      "title": "Chinese developer makes ARTEX AI agent closed-source after Korean bank hack, China News",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUDgyS19rYU5LcXhHcmpMYWJOeVdvODVuZUFITWljaUZIRmZFM3Y1YS1qWF9HdkhWZlV0UFRpQnJtTkhYNldyTVdVUWxJd0JwYTVXMnIwSWRyVnEyQ3d6X0M5TnFLdDIzRXBfcHZHWnN6aVBrOVBVNkxFeTM0MG1kMVY4TlAxWnozS3c0UnQ1Q0VXUDRTZUVfSzdzYVA0dWdZMFJXSkw2MkQ",
       "source_count": 1,
       "sources": [
         "AsiaOne"
@@ -556,6 +570,22 @@
       ]
     },
     {
+      "title": "Geordie Greep Responds to Sexual Misconduct Allegation, Cancels Tour Dates",
+      "url": "https://www.billboard.com/music/music-news/geordie-greep-misconduct-allegation-cancels-tour-dates-1236358602/",
+      "source_count": 1,
+      "sources": [
+        "Billboard"
+      ]
+    },
+    {
+      "title": "Charli XCX Welcomes Tinashe for Surprise Performance at 2026 Austin City Limits Festival",
+      "url": "https://www.billboard.com/music/music-news/charli-xcx-tinashe-2026-austin-city-limits-festival-1236358595/",
+      "source_count": 1,
+      "sources": [
+        "Billboard"
+      ]
+    },
+    {
       "title": "Shane Gillis & Rosalía on 'SNL': Here's Where to Watch 'Saturday Night Live' Online for Free",
       "url": "https://www.billboard.com/culture/product-recommendations/snl-2026-shane-gillis-rosalia-watch-live-online-free-1236357933/",
       "source_count": 3,
@@ -568,22 +598,6 @@
     {
       "title": "For World Mental Health Day, a check-up on the music industry",
       "url": "https://www.billboard.com/music/features/for-world-mental-health-day-2026-1236358584/",
-      "source_count": 1,
-      "sources": [
-        "Billboard"
-      ]
-    },
-    {
-      "title": "Ashnikko Covers Gwen Stefani's 'What You Waiting For?' for Like A Version",
-      "url": "https://www.billboard.com/music/music-news/ashnikko-gwen-stefani-what-you-waiting-for-like-a-version-1236358578/",
-      "source_count": 1,
-      "sources": [
-        "Billboard"
-      ]
-    },
-    {
-      "title": "Lance Bass Says He Earned Just $35 a Day at the Height of *NSYNC's Fame",
-      "url": "https://www.billboard.com/music/music-news/lance-bass-nsync-fame-1236358572/",
       "source_count": 1,
       "sources": [
         "Billboard"
@@ -638,53 +652,53 @@
       ]
     },
     {
-      "title": "Black Clover Season 2 is Officially Crunchyroll's Most-Liked Anime Of The Year",
-      "url": "https://www.polygon.com/black-clover-season-2-premiere-most-liked-crunchyroll/",
+      "title": "Henry Cavill's New Sci-fi Streaming Series Sets Carrie Reboot Creator to Direct",
+      "url": "https://www.polygon.com/warhammer-40k-tv-series-henry-cavill-mike-flanagan/",
       "source_count": 1,
       "sources": [
         "Polygon"
       ]
     },
     {
-      "title": "59 Years Later, Star Trek's Definitive Time-Travel Episode is Getting a Major Update",
-      "url": "https://www.polygon.com/star-trek-city-on-the-edge-of-forever/",
+      "title": "Star Trek: Starfleet Academy Returns For Its Final Season Early Next Year",
+      "url": "https://www.polygon.com/star-trek-starfleet-academy-season-2-release-window/",
       "source_count": 1,
       "sources": [
         "Polygon"
       ]
     },
     {
-      "title": "7 Final Fantasy Games That Deserved Better",
-      "url": "https://www.polygon.com/ff-final-fantasy-games-underrated-overlooked/",
+      "title": "10 Stephen King Movie Adaptations That Are Better Than The Books",
+      "url": "https://www.polygon.com/stephen-king-books-better-adaptations/",
       "source_count": 1,
       "sources": [
         "Polygon"
       ]
     },
     {
-      "title": "7 Switch 2 Characters Nintendo Should Add to the Next Super Smash Bros.",
-      "url": "https://www.polygon.com/switch-2-super-smash-bros-character-predictions/",
+      "title": "Russell Crowe's New Crime Netflix Thriller Is Officially a Streaming Hit",
+      "url": "https://www.polygon.com/russell-crowe-unabomber-netflix-streaming-success-september-2026/",
       "source_count": 1,
       "sources": [
         "Polygon"
       ]
     },
     {
-      "title": "WandaVision Creator Set To Develop New Stargate Series",
-      "url": "https://www.polygon.com/stargate-new-amazon-mgm-series-jac-schaeffer/",
+      "title": "10 Essential GameCube Games Still Missing From Switch Online",
+      "url": "https://www.polygon.com/best-gamecube-games-missing-nintendo-switch-online/",
       "source_count": 1,
       "sources": [
         "Polygon"
       ]
     },
     {
-      "title": "Avatar: Seven Havens is a brilliant take-down of Korra's biggest haters",
-      "url": "https://www.polygon.com/avatar-seven-havens-korra-haters-are-wrong/",
+      "title": "Disney World and Disneyland Official Price Surge Concerns Attendees",
+      "url": "https://www.polygon.com/disney-world-disneyland-price-surge-october-2026/",
       "source_count": 1,
       "sources": [
         "Polygon"
       ]
     }
   ],
-  "summary": "Verified intelligence gathered across 84 deduplicated editorial clusters."
+  "summary": "Verified intelligence gathered across 86 deduplicated editorial clusters."
 }
