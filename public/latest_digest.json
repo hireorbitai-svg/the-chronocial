@@ -1,93 +1,122 @@
 {
-  "timestamp": "2026-10-10T04:31:24.547594+00:00",
-  "headline_count": 85,
+  "timestamp": "2026-10-10T11:58:25.428900+00:00",
+  "headline_count": 91,
   "headlines": [
     {
-      "title": "Vietnamese Horror 'Arithmadtic' Leads Bee Entertainment's Busan Market Slate, With New Film From 'The Corpse' Director",
-      "url": "https://variety.com/2026/film/markets-festivals/vietnamese-horror-arithmadtic-bee-entertainment-busan-market-slate-1236907315/",
-      "source_count": 2,
-      "sources": [
-        "Variety",
-        "Variety"
-      ]
-    },
-    {
-      "title": "'Exorcism of God' Director Alejandro Hidalgo to Helm Malaysian Hungry Ghost Festival Horror 'The Hungry One' (EXCLUSIVE)",
-      "url": "https://variety.com/2026/film/markets-festivals/exorcism-of-god-alejandro-hidalgo-malaysia-horror-hungry-one-1236907302/",
+      "title": "Netflix Romance 'Love Untangled' Director Namkoong Sun on Netflix Freedom and the Funding and Distribution Gap in Korean Indie Film",
+      "url": "https://variety.com/2026/tv/festivals/love-untangled-director-netflix-korean-indie-film-busan-1236907394/",
       "source_count": 1,
       "sources": [
         "Variety"
       ]
     },
     {
-      "title": "Michael Douglas Tells Bill Maher About Smuggling Marijuana in Suitcases, Slams 'Nepo Baby' Label",
-      "url": "https://variety.com/2026/tv/news/michael-douglas-bill-maher-real-time-smuggling-marijuana-nepo-baby-1236907300/",
+      "title": "'Decision to Leave' Cinematographer Kim Ji-yong on Chasing Natural Light for Lee Chang-dong's 'Possible Love': 'This Is the One Where We Worried, Debated and Planned the Most'",
+      "url": "https://variety.com/2026/film/festivals/possible-love-dp-chasing-natural-light-lee-chang-dong-1236907392/",
       "source_count": 1,
       "sources": [
         "Variety"
       ]
     },
     {
-      "title": "Edward Zhang, Casper Van Dien, Jeff Fahey Star in China-U.S. WWII Spy Series 'Operation Doolittle,' Heading to Busan Market (EXCLUSIVE)",
-      "url": "https://variety.com/2026/tv/markets-festivals/wwii-spy-series-operation-doolittle-busan-market-1236907242/",
+      "title": "Hollywood Executives See Growing Market for Asian Stories, but 'Every Movie Is Still a Fight'",
+      "url": "https://variety.com/2026/film/markets-festivals/hollywood-execs-growing-market-asian-stories-busan-1236907387/",
       "source_count": 1,
       "sources": [
         "Variety"
       ]
     },
     {
-      "title": "'14th' Review: Ava DuVernay's Powerful Sequel to '13th' Turns a Constitutional Amendment into Living History",
-      "url": "https://variety.com/2026/film/reviews/14th-review-ava-duvernay-nyff-1236904880/",
-      "source_count": 3,
+      "title": "Why Netflix, Amazon and Other Streamers Haven't Proved Saviors for the Kids Content Industry",
+      "url": "https://variety.com/2026/tv/global/netflix-amazon-kids-content-industry-gen-alpha-mipjunior-1236907379/",
+      "source_count": 1,
       "sources": [
-        "Variety",
-        "Deadline Hollywood",
+        "Variety"
+      ]
+    },
+    {
+      "title": "Generative AI Still Needs Artists' Judgment, Says Netflix's Eyeline GenFX Chief James Rustad at Busan",
+      "url": "https://variety.com/2026/tv/markets-festivals/generative-ai-still-needs-artists-judgment-netflix-genfx-head-1236907383/",
+      "source_count": 1,
+      "sources": [
+        "Variety"
+      ]
+    },
+    {
+      "title": "Netflix's 'The Blue Road' Director Han Jun-hee on Why Playing It Safe Is the Real Risk",
+      "url": "https://variety.com/2026/tv/festivals/netflixs-the-blue-road-director-han-jun-hee-1236907368/",
+      "source_count": 1,
+      "sources": [
+        "Variety"
+      ]
+    },
+    {
+      "title": "Léa Seydoux & Marie Kreutzer On The \"Earthquake\" At The Heart Of 'Gentle Monster'",
+      "url": "https://deadline.com/2026/10/lea-seydoux-marie-kreutzer-on-earthquake-of-gentle-monster-1237153908/",
+      "source_count": 1,
+      "sources": [
+        "Contenders London"
+      ]
+    },
+    {
+      "title": "Guy Nattiv & Carrie Coon On Finding Empathy In 'The Liberation': \"Who Are We To Say What Is Required For Someone To Move On?\"",
+      "url": "https://deadline.com/2026/10/guy-nattiv-carrie-coon-the-liberation-lily-james-bleecker-1237153918/",
+      "source_count": 1,
+      "sources": [
+        "Contenders London"
+      ]
+    },
+    {
+      "title": "Siân Heder & The 'Being Heumann' Crew On Creating An Inclusive Film & Production Environment",
+      "url": "https://deadline.com/2026/10/sian-heder-being-heumann-inclusive-contenders-london-1237153936/",
+      "source_count": 1,
+      "sources": [
+        "Contenders London"
+      ]
+    },
+    {
+      "title": "'Wildwood Director' Travis Knight On LAIKA's Stop-Motion Fantasy Epic: \"It Took Us 16 Years To Make This Movie\"",
+      "url": "https://deadline.com/2026/10/wildwood-travis-knight-laika-contenders-london-1237153893/",
+      "source_count": 1,
+      "sources": [
+        "Contenders London"
+      ]
+    },
+    {
+      "title": "Elizabeth Chai Vasarhelyi & Jimmy Chin Talk 'Everest: The Other Side': \"This Is The Most Difficult Film We've Made\"",
+      "url": "https://deadline.com/2026/10/chai-vasarhelyi-chin-talk-everest-other-side-london-1237151027/",
+      "source_count": 1,
+      "sources": [
+        "Contenders London"
+      ]
+    },
+    {
+      "title": "Danny Boyle On The Challenges Of Rupert Murdoch & 'The Sun' Film 'Ink': \"We Had A Siege Mentality While Making It\"",
+      "url": "https://deadline.com/2026/10/danny-boyle-ink-challenge-we-had-a-siege-mentality-1237153896/",
+      "source_count": 1,
+      "sources": [
+        "Contenders London"
+      ]
+    },
+    {
+      "title": "'Bedford Park' Star Moon Choi Charts Her Own Path Between Korea and Hollywood",
+      "url": "https://www.hollywoodreporter.com/movies/movie-features/bedford-park-moon-choi-korea-hollywood-1236726874/",
+      "source_count": 1,
+      "sources": [
         "The Hollywood Reporter"
-      ]
-    },
-    {
-      "title": "Craig Zobel & Blumhouse Teaming On 'Something Is Killing The Children'",
-      "url": "https://deadline.com/2026/10/something-is-killing-the-children-movie-craig-zobel-blumhouse-1237153820/",
-      "source_count": 1,
-      "sources": [
-        "Deadline Hollywood"
-      ]
-    },
-    {
-      "title": "Danny Trejo Insists He's \"Pro-Immigrant\" & \"Proud Mexican\" Amid Backlash To Daily Wire's ICE Film: \"Make No Mistake\"",
-      "url": "https://deadline.com/2026/10/danny-trejo-pro-immigrant-backlash-daily-wire-ice-film-1237153821/",
-      "source_count": 1,
-      "sources": [
-        "Deadline Hollywood"
-      ]
-    },
-    {
-      "title": "Matthew \"MatPat\" Patrick Adapting 'Amanda the Adventurer' Video Game For Blumhouse",
-      "url": "https://deadline.com/2026/10/matthew-matpat-patrick-adapting-amanda-the-adventurer-blumhouse-1237153794/",
-      "source_count": 1,
-      "sources": [
-        "Deadline Hollywood"
-      ]
-    },
-    {
-      "title": "'The Exorcist: Martyrs' Trailer: Scarlett Johansson Hunts A Demonic Killer In Mike Flanagan's Take On Horror Classic",
-      "url": "https://deadline.com/2026/10/the-exorcist-martyrs-trailer-scarlett-johansson-mike-flanagan-1237153746/",
-      "source_count": 1,
-      "sources": [
-        "Deadline Hollywood"
-      ]
-    },
-    {
-      "title": "ACFM Chief Ellen YD Kim Talks AI Development; Korean Recovery; Market Spotlights On Thailand & Japan",
-      "url": "https://deadline.com/2026/10/busan-acfm-ellen-yd-kim-ai-korea-thailand-japan-1237150757/",
-      "source_count": 1,
-      "sources": [
-        "Deadline Hollywood"
       ]
     },
     {
       "title": "BlumFest Haunts New York Comic Con 2026: All the Highlights From Blumhouse Atomic Monster",
       "url": "https://www.hollywoodreporter.com/movies/movie-news/blumfest-new-york-comic-con-2026-highlights-1236726806/",
+      "source_count": 1,
+      "sources": [
+        "The Hollywood Reporter"
+      ]
+    },
+    {
+      "title": "'14th' Review: Ava DuVernay Delivers Another Essential and Compelling Constitutional Deep Dive for Netflix",
+      "url": "https://www.hollywoodreporter.com/movies/movie-reviews/14th-review-ava-duvernay-netflix-documentary-1236726558/",
       "source_count": 1,
       "sources": [
         "The Hollywood Reporter"
@@ -118,11 +147,27 @@
       ]
     },
     {
-      "title": "Israeli Americans Protest 'NAZA' Los Angeles Screening as Doc Releases Theatrically in U.S.",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/israeli-americans-protest-naza-los-angeles-screening-1236726709/",
+      "title": "Gunmaaster G9: Emraan Hashmi starrer gets a major overseas distribution boost ahead of November 27 release",
+      "url": "https://www.bollywoodhungama.com/news/bollywood/gunmaaster-g9-emraan-hashmi-starrer-gets-a-major-overseas-distribution-boost-ahead-of-november-27-release/",
       "source_count": 1,
       "sources": [
-        "The Hollywood Reporter"
+        "Bollywood Hungama"
+      ]
+    },
+    {
+      "title": "Ajay Devgn begins shooting for Chauhaan in Kargil; returns to Ladakh 23 years after LOC: Kargil",
+      "url": "https://www.bollywoodhungama.com/news/bollywood/ajay-devgn-begins-shooting-for-chauhaan-in-kargil-returns-to-ladakh-23-years-after-loc-kargil/",
+      "source_count": 1,
+      "sources": [
+        "Bollywood Hungama"
+      ]
+    },
+    {
+      "title": "Ranveer Singh brings home a Rs. 1.95 crore electric luxury sedan; all you need to know about his BMW i7",
+      "url": "https://www.bollywoodhungama.com/news/bollywood/ranveer-singh-brings-home-a-rs-1-95-crore-electric-luxury-sedan-all-you-need-to-know-about-his-bmw-i7/",
+      "source_count": 1,
+      "sources": [
+        "Bollywood Hungama"
       ]
     },
     {
@@ -150,27 +195,35 @@
       ]
     },
     {
-      "title": "Hanuman Ansh, Cocktail 2 create tourism BOOM: Kainchi Dham witnesses MASSIVE crowds; Italy bookings jump 38%",
-      "url": "https://www.bollywoodhungama.com/news/bollywood/hanuman-ansh-cocktail-2-create-tourism-boom-kainchi-dham-witnesses-massive-crowds-italy-bookings-jump-38/",
+      "title": "Law & Order Star Reid Scott Has Also Played Two Of The DC Universe's Most Important Dads",
+      "url": "https://www.tvline.com/2281568/law-and-order-reid-scott-played-two-dc-universe-most-important-dads/",
       "source_count": 1,
       "sources": [
-        "Bollywood Hungama"
+        "TVLine"
       ]
     },
     {
-      "title": "Awarapan 2 gets OTT premiere: Emraan Hashmi starrer starts streaming on Prime Video",
-      "url": "https://www.bollywoodhungama.com/news/bollywood/awarapan-2-gets-ott-premiere-emraan-hashmi-starrer-starts-streaming-on-prime-video/",
+      "title": "Percy Jackson Season 3 At New York Comic Con: Live Panel Updates From Walker Scobell",
+      "url": "https://www.tvline.com/2282586/percy-jackson-new-york-comic-con-panel-2026-walker-scobell/",
       "source_count": 1,
       "sources": [
-        "Bollywood Hungama"
+        "TVLine"
       ]
     },
     {
-      "title": "Nana Patekar cremated at Pune farmhouse with Full State Honours; son Malhar Patekar performs last rites",
-      "url": "https://www.bollywoodhungama.com/news/bollywood/nana-patekar-cremated-at-pune-farmhouse-with-full-state-honours-son-malhar-patekar-performs-last-rites/",
+      "title": "Quote Of The Day By Audrey Hepburn: 'I Had To Make A Choice At One Point In My Life, Of Missing Films Or...'",
+      "url": "https://www.tvline.com/2282686/quote-of-the-day-audrey-hepburn-priorities/",
       "source_count": 1,
       "sources": [
-        "Bollywood Hungama"
+        "TVLine"
+      ]
+    },
+    {
+      "title": "What To Watch Saturday: Shane Gillis Hosts SNL, Matthew Morrison Stars In Lifetime Movie, And More",
+      "url": "https://www.tvline.com/2282010/what-to-watch-october-10-2026-tv-shows-movies/",
+      "source_count": 1,
+      "sources": [
+        "TVLine"
       ]
     },
     {
@@ -184,31 +237,6 @@
     {
       "title": "Fire Country Season 5 Premiere Ends With A Bang: EP Talks Serious 'Fallout,' Unpacks New Characters (Grade It!)",
       "url": "https://www.tvline.com/2282874/fire-country-season-5-episode-1-premiere-ending-explained-shooting/",
-      "source_count": 2,
-      "sources": [
-        "TVLine",
-        "TVLine"
-      ]
-    },
-    {
-      "title": "Casting News: Survivor Champ On Ghosts, Little House On The Prairie Adds 10, And More",
-      "url": "https://www.tvline.com/2282899/ghosts-parvati-shallow-cast-episode-100-little-house-on-prairie-season-2/",
-      "source_count": 1,
-      "sources": [
-        "TVLine"
-      ]
-    },
-    {
-      "title": "Cupertino Co-Creator Reveals Why Two Popular Restaurant Chains Play A Big Part In The Series Premiere",
-      "url": "https://www.tvline.com/2282695/cupertino-tgi-fridays-ihop-series-premiere-explained/",
-      "source_count": 1,
-      "sources": [
-        "TVLine"
-      ]
-    },
-    {
-      "title": "5 Best Female SNL Cast Members, Ranked",
-      "url": "https://www.tvline.com/2281403/snl-best-female-cast-members-ranked/",
       "source_count": 1,
       "sources": [
         "TVLine"
@@ -297,14 +325,13 @@
       ]
     },
     {
-      "title": "Magic: The Gathering Returns to Marvel with Darkhold Destiny",
-      "url": "https://www.ign.com/articles/magic-the-gathering-returns-to-marvel-with-darkhold-destiny",
-      "source_count": 4,
+      "title": "Magic: The Gathering Marvel: Darkhold Destiny Preorders Are Now Live",
+      "url": "https://www.ign.com/articles/magic-the-gathering-marvel-darkhold-destiny-preorders-are-now-live",
+      "source_count": 3,
       "sources": [
         "IGN Games",
-        "Everything Announced",
-        "GameSpot",
-        "Polygon"
+        "IGN Games",
+        "GameSpot"
       ]
     },
     {
@@ -372,6 +399,22 @@
       ]
     },
     {
+      "title": "'If you're skilful enough, you can chop the head off a monster, kick it midair, and then kill another monster with it': Consider me sold on this indie first-person ARPG",
+      "url": "https://www.pcgamer.com/games/rpg/if-youre-skilful-enough-you-can-chop-the-head-off-a-monster-kick-it-midair-and-then-kill-another-monster-with-it-consider-me-sold-on-this-indie-first-person-arpg/",
+      "source_count": 1,
+      "sources": [
+        "PC Gamer"
+      ]
+    },
+    {
+      "title": "Mafia 3, which PC Gamer scored 54% but which I say is great, got a nice little 10th-anniversary update",
+      "url": "https://www.pcgamer.com/games/third-person-shooter/mafia-3-which-pc-gamer-scored-54-percent-but-which-i-say-is-great-got-a-nice-little-10th-anniversary-update/",
+      "source_count": 1,
+      "sources": [
+        "PC Gamer"
+      ]
+    },
+    {
       "title": "2026's OLED monitors can nearly recreate the sublime clarity of a '90s CRT, but Windows will have to change before we can achieve true nirvana",
       "url": "https://www.pcgamer.com/hardware/gaming-monitors/2026s-oled-monitors-can-nearly-recreate-the-sublime-clarity-of-a-90s-crt-but-windows-will-have-to-change-before-we-can-achieve-true-nirvana/",
       "source_count": 1,
@@ -404,19 +447,19 @@
       ]
     },
     {
-      "title": "Leisure Suit Larry is about to take his final bow",
-      "url": "https://www.pcgamer.com/games/adventure/leisure-suit-larry-is-about-to-take-his-final-bow/",
+      "title": "Singapore Grand Prix entertainment may be curbed if haze worsens, FIA says",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNNnhmMXN2WlJkY01MdFlvMEVta0ZlWG84VERVZF9BWEZKUGdteGhlRklDRVEyQVpIRVROYkM3SGtqWDFMR1N4bkxtb0V1OHRwSUJ0cHltMFNsMHYtMFQ3M0VkemM0amxZQnB5UnJRVDdySzkySUhGNDRFTnZxOWc1ZlJVZjRBSVRYQU0zY2FScGxmbWx3WGVkZi1XdkRYa0JCVHB2NkJ1VE1UampiWmlkTm01bTVkejNFOERPNzNiVGNqaHVDRUxwbTlB",
       "source_count": 1,
       "sources": [
-        "PC Gamer"
+        "Reuters"
       ]
     },
     {
-      "title": "I might finally have gone too far with a GTA 5 mod that imports most of Doom 2",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/i-might-finally-have-gone-too-far-with-a-gta-5-mod-that-imports-most-of-doom-2/",
+      "title": "Reuters Entertainment News Summary",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOR3BGYjgyN1JKdW5hVmR6OFFXdERUanFSRWVCaEhJeERqbXR3QVNKaF9pUVc2Y19JdWVRNFpnT1p1THg3WTZwUGVHRmlRYlFGX1ozeklpd2RWOVNZV2NySzNqakRWU2lraEZsLVBLai1IWW9MZUpmVHU0QjZWU2wwbHBzNjU4WUZMaGktb0NacE1wSHVvd01ZeFdpbkd1QdIBngFBVV95cUxOR3BGYjgyN1JKdW5hVmR6OFFXdERUanFSRWVCaEhJeERqbXR3QVNKaF9pUVc2Y19JdWVRNFpnT1p1THg3WTZwUGVHRmlRYlFGX1ozeklpd2RWOVNZV2NySzNqakRWU2lraEZsLVBLai1IWW9MZUpmVHU0QjZWU2wwbHBzNjU4WUZMaGktb0NacE1wSHVvd01ZeFdpbkd1QQ",
       "source_count": 1,
       "sources": [
-        "PC Gamer"
+        "Devdiscourse"
       ]
     },
     {
@@ -428,28 +471,19 @@
       ]
     },
     {
-      "title": "Singapore Grand Prix entertainment may be curbed if haze worsens, FIA says",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNNnhmMXN2WlJkY01MdFlvMEVta0ZlWG84VERVZF9BWEZKUGdteGhlRklDRVEyQVpIRVROYkM3SGtqWDFMR1N4bkxtb0V1OHRwSUJ0cHltMFNsMHYtMFQ3M0VkemM0amxZQnB5UnJRVDdySzkySUhGNDRFTnZxOWc1ZlJVZjRBSVRYQU0zY2FScGxmbWx3WGVkZi1XdkRYa0JCVHB2NkJ1VE1UampiWmlkTm01bTVkejNFOERPNzNiVGNqaHVDRUxwbTlB",
-      "source_count": 1,
-      "sources": [
-        "Reuters"
-      ]
-    },
-    {
-      "title": "Reuters Entertainment News Summary",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPRkJ0Y0J6N2NQdEVKQ1U3VGFaS3NMMDNDV2hBc3ZweDlYa3RiNHVUVDd6d0Jrbi1maTNqakNKcmNNUW82U0FXa1VKbFRocHR2Yzk5cExBX2J4dWVlb01ESkVFWkNqZ05keDU3ZUU2UVdtQ2VzRGNxaldQSkEtb1pNTGlXZWhKME40aVpYMmhQTTdZT2Y3eVB2btIBngFBVV95cUxNR3JTY3QxWTRrV0h5TEp6Z1c1eURWQnJfTnJEOVZoWmFJblRpVElBY1V1WWtkeExHS2pZYjRFSnQtdHVhTkJOOVlpZWEtQkRlajctZzVyeWY4ZlB3bGpGWFJkX0N2ZmNhMG5xa25JOXFIY0ZaVDM2djlZS2NyY2lqRkdYbUJ6QnZyU0p1VTBzaDUzMW5EcmFFaHFhMmVIZw",
-      "source_count": 2,
-      "sources": [
-        "Devdiscourse",
-        "Devdiscourse"
-      ]
-    },
-    {
       "title": "OpenAI's September annualized revenue nears $50 billion, less than previously indicated, source says",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVnh6aG1CX1FJUnZkZkU2dEQ2emZJMWViN1JYXzBOWjZ2eDdkOHhocENpaER5TzBibUIybm1RN1JnNWs0YXh2OTdlVU9ydkE5eExveDJibm9vV3dFbUM0X2pWa1pyYTJuTlBtQk1kTFVSbExRS3JzVC1KUlFBYmNQNmVCTFJyMkdh",
       "source_count": 1,
       "sources": [
         "AOL.com"
+      ]
+    },
+    {
+      "title": "US imposes sanctions on International Criminal Court, hours after former judge wins Nobel, World News",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNOElkYmJ1VmRXMEsyS3RYTWppSzByTkh5eVdraHBBSmNmc2ZlS0FWcDNrbWFwWFJOUWtrMlRDaFlXX1Z5SGNFS1NqVXc5UVhXNFdUbkN5MU9HODJmVmR1cl9HUG4yeDlpa0hSUU1NTVBpS09aTkVkbkRoRWJWLWVRcTFKTzgxeGZIeDNrbkxIU3U5N1F0WW9zSl9ZZzMzbndteTFLQkM0eEpZM0VsS015dzJnbFBldw",
+      "source_count": 1,
+      "sources": [
+        "AsiaOne"
       ]
     },
     {
@@ -557,6 +591,22 @@
       ]
     },
     {
+      "title": "Ashnikko Covers Gwen Stefani's 'What You Waiting For?' for Like A Version",
+      "url": "https://www.billboard.com/music/music-news/ashnikko-gwen-stefani-what-you-waiting-for-like-a-version-1236358578/",
+      "source_count": 1,
+      "sources": [
+        "Billboard"
+      ]
+    },
+    {
+      "title": "Lance Bass Says He Earned Just $35 a Day at the Height of *NSYNC's Fame",
+      "url": "https://www.billboard.com/music/music-news/lance-bass-nsync-fame-1236358572/",
+      "source_count": 1,
+      "sources": [
+        "Billboard"
+      ]
+    },
+    {
       "title": "Phil Wickham, Josiah Queen, Brandon Lake, Tasha Cobbs Leonard Top GMA Dove Awards Winners",
       "url": "https://www.billboard.com/music/awards/phil-wickham-josiah-queen-gma-dove-awards-winners-1236358562/",
       "source_count": 1,
@@ -583,22 +633,6 @@
     {
       "title": "Gunna Launches SB The Label Imprint & Releases 'Pop It' Video With Tennis Star Coco Gauff: 'A New Chapter for Me'",
       "url": "https://www.billboard.com/music/rb-hip-hop/gunna-sb-label-pop-it-coco-gauff-1236358460/",
-      "source_count": 1,
-      "sources": [
-        "Billboard"
-      ]
-    },
-    {
-      "title": "50 Cent Jokes That Jay-Z Will Perform at His Future Wedding - Kanye Too, 'If He's Not Banned at the Time'",
-      "url": "https://www.billboard.com/music/rb-hip-hop/50-cent-jay-z-kanye-wedding-performers-1236358464/",
-      "source_count": 1,
-      "sources": [
-        "Billboard"
-      ]
-    },
-    {
-      "title": "Summer Walker in Legal Dispute With Interscope Over Record Deal",
-      "url": "https://www.billboard.com/pro/summer-walker-legal-dispute-interscope-record-deal/",
       "source_count": 1,
       "sources": [
         "Billboard"
@@ -653,45 +687,53 @@
       ]
     },
     {
+      "title": "Persona's Horrifying Dong Monster Will Haunt My Nightmares Forever",
+      "url": "https://www.polygon.com/persona-atlus-scariest-mara/",
+      "source_count": 1,
+      "sources": [
+        "Polygon"
+      ]
+    },
+    {
+      "title": "Halo officially returns in 2 weeks with new release",
+      "url": "https://www.polygon.com/halo-novel-release-date/",
+      "source_count": 1,
+      "sources": [
+        "Polygon"
+      ]
+    },
+    {
+      "title": "Avatar: Seven Havens's Biggest Plot Twist May Be Hiding in Plain Sight",
+      "url": "https://www.polygon.com/avatar-seven-havens-seven-chakras/",
+      "source_count": 1,
+      "sources": [
+        "Polygon"
+      ]
+    },
+    {
+      "title": "5 Brilliant Anime That Don't Waste a Single Episode",
+      "url": "https://www.polygon.com/brilliant-anime-with-no-bad-episodes/",
+      "source_count": 1,
+      "sources": [
+        "Polygon"
+      ]
+    },
+    {
+      "title": "5 Sci-Fi Books That Are Better Than Their Movie Adaptations",
+      "url": "https://www.polygon.com/sci-fi-books-better-movie-adaptations/",
+      "source_count": 1,
+      "sources": [
+        "Polygon"
+      ]
+    },
+    {
       "title": "Pokémon Go Zorua Community Day event guide",
       "url": "https://www.polygon.com/pokemon-go-zorua-community-day-event-shiny-zoroark-moveset/",
       "source_count": 1,
       "sources": [
         "Polygon"
       ]
-    },
-    {
-      "title": "Scarlett Johansson's New Exorcist Movie Gets First Terrifying Trailer",
-      "url": "https://www.polygon.com/the-exorcist-martyrs-trailer-mike-flanagan/",
-      "source_count": 1,
-      "sources": [
-        "Polygon"
-      ]
-    },
-    {
-      "title": "Pokémon Winds and Waves' Water Starter Breaks a Series Curse",
-      "url": "https://www.polygon.com/pokemon-winds-waves-water-starter-series-curse/",
-      "source_count": 1,
-      "sources": [
-        "Polygon"
-      ]
-    },
-    {
-      "title": "MTG Officially Reveals 4 Epic New Marvel Commander Decks Coming in 2027",
-      "url": "https://www.polygon.com/magic-the-gathering-marvel-darkhold-destiny-commander-decks/",
-      "source_count": 1,
-      "sources": [
-        "Polygon"
-      ]
-    },
-    {
-      "title": "'Common Side Effects' Officially Break Their Silence on Season 2 Plans",
-      "url": "https://www.polygon.com/common-side-effects-season-2-release-date-creators-interview/",
-      "source_count": 1,
-      "sources": [
-        "Polygon"
-      ]
     }
   ],
-  "summary": "Verified intelligence gathered across 85 deduplicated editorial clusters."
+  "summary": "Verified intelligence gathered across 91 deduplicated editorial clusters."
 }
