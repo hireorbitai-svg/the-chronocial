@@ -1,111 +1,139 @@
 {
-  "timestamp": "2026-10-11T16:09:35.032340+00:00",
-  "headline_count": 83,
+  "timestamp": "2026-10-11T21:32:27.174266+00:00",
+  "headline_count": 86,
   "headlines": [
     {
-      "title": "Javier Bardem on Adding Homoeroticism to 007 and Telling Sam Mendes That His 'Skyfall' Villain Should Be Someone Who 'Wants to Have Sex With Bond'",
-      "url": "https://variety.com/2026/film/global/javier-bardem-skyfall-villain-wants-to-have-sex-with-bond-1236908082/",
-      "source_count": 2,
-      "sources": [
-        "Variety",
-        "The Hollywood Reporter"
-      ]
-    },
-    {
-      "title": "'The Social Reckoning' Flops With $5.5 Million Debut, 'Other Mommy' Tops Box Office With $27.5 Million",
-      "url": "https://variety.com/2026/film/box-office/social-reckoning-flops-other-mommy-leads-box-office-1236908161/",
-      "source_count": 2,
-      "sources": [
-        "Variety",
-        "Deadline Hollywood"
-      ]
-    },
-    {
-      "title": "John Malkovich Says the Oscars Race Was a 'Different World' When He Was Last on the Campaign Trail: 'Now, That's the Only Way to Get People to Go to Theaters'",
-      "url": "https://variety.com/2026/film/festivals/john-malkovich-oscars-campaigning-only-way-people-theaters-1236907530/",
-      "source_count": 2,
-      "sources": [
-        "Variety",
-        "The Hollywood Reporter"
-      ]
-    },
-    {
-      "title": "'Wildwood' Director Travis Knight Reflects on Animated Feature's 16-Year Journey at London Premiere: 'When We Started This, Barack Obama Was a Fresh-Faced President'",
-      "url": "https://variety.com/2026/film/global/wildwood-director-animation-16-year-journey-london-premiere-1236908166/",
+      "title": "'Animals' Star Luis Gerardo Méndez on Working With Ben Affleck and Speaking Out About Immigration: 'You Could Be Next'",
+      "url": "https://variety.com/2026/film/columns/animals-luis-gerardo-mendez-ben-affleck-immigrant-rights-1236907764/",
       "source_count": 1,
       "sources": [
         "Variety"
       ]
     },
     {
-      "title": "Disney Broadens Super Bowl LXI Plans With Pat McAfee, Next-Gen Stats",
-      "url": "https://variety.com/2026/tv/musicians/disney-super-bowl-lxi-pat-mcafee-next-gen-stats-1236908159/",
+      "title": "Taylor Swift Spends Her 100th Week at No. 1 on the Billboard 200, as 'Life of a Showgirl' Stays on Top in Week 2 of 'Encore' Rebound",
+      "url": "https://variety.com/2026/music/news/taylor-swift-100th-week-billboard-200-number-one-beatles-1236908356/",
       "source_count": 1,
       "sources": [
         "Variety"
       ]
     },
     {
-      "title": "'Wildwood' Review: Laika's Most Ambitious Feature to Date Is a Richly Textured, Transportive Fairytale Epic",
-      "url": "https://variety.com/2026/film/reviews/wildwood-review-1236908019/",
-      "source_count": 3,
+      "title": "Why Disney's Kids & Family Division Is Working With Creators Like Dhar Mann and Nastya: We Need to 'Meet Kids Where They Are'",
+      "url": "https://variety.com/2026/tv/global/disney-kids-family-creators-dhar-mann-nastya-1236908306/",
+      "source_count": 1,
+      "sources": [
+        "Variety"
+      ]
+    },
+    {
+      "title": "Globo Bets on 'To Love Is to Care' at Mipcom as It Ushers 'Super Drama' Concept: 'Titles That Represent the Best of the Brazilian Telenovela Tradition'",
+      "url": "https://variety.com/2026/tv/global/globo-to-love-is-to-care-mipcom-super-drama-telenovela-1236908154/",
+      "source_count": 1,
+      "sources": [
+        "Variety"
+      ]
+    },
+    {
+      "title": "Sally Field Was Like a 'Mother Figure' While Filming 'Mrs. Doubtfire,' Says Star Matthew Lawrence: 'We Really Became a Family Unit'",
+      "url": "https://variety.com/2026/film/news/matthew-lawrence-sally-field-mrs-doubtfire-1236908316/",
+      "source_count": 1,
+      "sources": [
+        "Variety"
+      ]
+    },
+    {
+      "title": "'Artemis Fowl' Animated TV Show Set at Disney",
+      "url": "https://variety.com/2026/tv/news/artemis-fowl-animated-tv-show-disney-1236908229/",
+      "source_count": 2,
       "sources": [
         "Variety",
-        "London Film Festival",
+        "NYCC"
+      ]
+    },
+    {
+      "title": "Noah Centineo Credits 'Street Fighter' Stunt Coordinator With Bringing Game's \"Specific Fighting Style\" To Screen: \"Insane Fights\"",
+      "url": "https://deadline.com/2026/10/noah-centineo-street-fighter-stunt-coordinator-fighting-style-1237154431/",
+      "source_count": 1,
+      "sources": [
+        "Deadline Hollywood"
+      ]
+    },
+    {
+      "title": "'The Rookie' Season 9 & Spinoff 'North' Get Premiere Dates, Teaser & Guest Stars As ABC Sets 'Rookie' Block On Wednesday",
+      "url": "https://deadline.com/2026/10/the-rookie-season-9-north-premiere-date-teaser-guest-stars-1237154409/",
+      "source_count": 1,
+      "sources": [
+        "Deadline Hollywood"
+      ]
+    },
+    {
+      "title": "Bend Film Festival Prizes Go To 'Hot Water,' 'Edward Said: Between Worlds,' 'Kikuyu Land,' 'The Lake' & More",
+      "url": "https://deadline.com/2026/10/2026-bend-film-festival-awards-1237154380/",
+      "source_count": 1,
+      "sources": [
+        "Deadline Hollywood"
+      ]
+    },
+    {
+      "title": "Palme d'Or Prestige: 'Fjord' Tops Indie Openers, 'Naza' Eyes $500k Surge",
+      "url": "https://deadline.com/2026/10/indie-film-box-office-fjord-naza-misty-green-musk-1237154375/",
+      "source_count": 1,
+      "sources": [
+        "Specialty Box Office"
+      ]
+    },
+    {
+      "title": "Dhar Mann Says Creator City In L.A. Will Bring Brands, Creators & Culture Under One Roof",
+      "url": "https://deadline.com/2026/10/dhar-mann-creator-city-la-brands-creators-1237154291/",
+      "source_count": 1,
+      "sources": [
+        "Deadline Hollywood"
+      ]
+    },
+    {
+      "title": "Where to Watch the 49ers vs. Seahawks Game Online",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/watch-49ers-vs-seahawks-football-game-free-nfl-streams-2026-1236727294/",
+      "source_count": 1,
+      "sources": [
         "The Hollywood Reporter"
       ]
     },
     {
-      "title": "James Gray Says He Considers 'Two Lovers' His First Successful Feature: \"I Don't Regard The Films I Made Before This Very Highly\"",
-      "url": "https://deadline.com/2026/10/james-gray-two-lovers-london-film-festival-1237154274/",
+      "title": "Non-Alcoholic Drink Pairings Up Their Game (and their Prices) at L.A.'s Top Restaurants",
+      "url": "https://www.hollywoodreporter.com/lifestyle/lifestyle-news/non-alcoholic-drink-pairings-los-angeles-restaurants-1236723436/",
       "source_count": 1,
       "sources": [
-        "Deadline Hollywood"
+        "The Hollywood Reporter"
       ]
     },
     {
-      "title": "'Shy & Lola': How Bel Powley, Hayley Squires & Amanda Coe Brought A Coen Brothers Vibe To BBC Thriller In UK Port Town",
-      "url": "https://deadline.com/2026/10/shy-lola-bel-powley-hayley-squires-on-bbc-series-grimsby-1237148882/",
+      "title": "'Carrie' Star Samantha Sloyan Finds the Love Inside Horror's Most Nefarious Mother",
+      "url": "https://www.hollywoodreporter.com/tv/tv-features/carrie-ending-samantha-sloyan-margaret-white-interview-1236717193/",
       "source_count": 1,
       "sources": [
-        "Deadline Hollywood"
+        "The Hollywood Reporter"
       ]
     },
     {
-      "title": "AI Productions Require Traditional Skills To Be Cinematic, Say Filmmakers On Kling AI Panel: \"You Need Experts To Prevent Everything Looking The Same\"",
-      "url": "https://deadline.com/2026/10/ai-filmmaking-kling-ai-kim-sung-soo-mbc-busan-1237154243/",
+      "title": "You Want Those Tattoos From 'The Bear'? Call Benny Shields",
+      "url": "https://www.hollywoodreporter.com/lifestyle/lifestyle-news/tattoo-artist-jeremy-allen-white-the-bear-1236723459/",
       "source_count": 1,
       "sources": [
-        "Deadline Hollywood"
+        "The Hollywood Reporter"
       ]
     },
     {
-      "title": "Ann Hui, Busan Camellia Award Recipient, Talks Learning From Women Bosses & Hong Kong New Generation",
-      "url": "https://deadline.com/2026/10/ann-hui-busan-camellia-award-hong-kong-new-generation-1237150754/",
+      "title": "'Social Reckoning' Goes Dark With $5.5M as 'Other Mommy' Delivers at Box Office",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/other-mommy-box-office-social-reckoning-opening-1236726908/",
       "source_count": 1,
       "sources": [
-        "Deadline Hollywood"
+        "The Hollywood Reporter"
       ]
     },
     {
       "title": "R.L. Stine's 'The Babysitter' Adaptation Coming to Tubi in 2027 (Exclusive)",
       "url": "https://www.hollywoodreporter.com/movies/movie-news/tubi-the-babysitter-movie-r-l-stine-2027-1236727014/",
-      "source_count": 1,
-      "sources": [
-        "The Hollywood Reporter"
-      ]
-    },
-    {
-      "title": "Netflix Has Used AI on About 300 Titles, but \"Human Touch Is Critical,\" Exec Says in Busan",
-      "url": "https://www.hollywoodreporter.com/business/business-news/netflix-ai-300-titles-busan-film-fest-1236727138/",
-      "source_count": 1,
-      "sources": [
-        "The Hollywood Reporter"
-      ]
-    },
-    {
-      "title": "'New Girl' Stars Reunite - in a Slightly Different Way Than Max Greenfield Claimed",
-      "url": "https://www.hollywoodreporter.com/tv/tv-news/new-girl-stars-reunite-different-way-max-greenfield-claimed-1236727002/",
       "source_count": 1,
       "sources": [
         "The Hollywood Reporter"
@@ -160,48 +188,48 @@
       ]
     },
     {
-      "title": "10 Best The Sopranos Guest Stars, Ranked",
-      "url": "https://www.tvline.com/2283180/the-sopranos-best-guest-stars-ranked/",
+      "title": "Kaley Cuoco Played A '70s Icon In The Behind-The-Scenes Brady Bunch TV Movie",
+      "url": "https://www.tvline.com/2281080/kaley-cuoco-played-70s-icon-behind-the-scenes-brady-bunch-tv-movie/",
       "source_count": 1,
       "sources": [
         "TVLine"
       ]
     },
     {
-      "title": "Mark Hamill's Criminal Minds Character Terrorized The Show For An Entire Season",
-      "url": "https://www.tvline.com/2280231/mark-hamill-criminal-minds-season-8-character-explained/",
+      "title": "10 Marvel Cartoons Canceled Way Too Soon",
+      "url": "https://www.tvline.com/2283189/marvel-cartoons-canceled-too-soon/",
       "source_count": 1,
       "sources": [
         "TVLine"
       ]
     },
     {
-      "title": "5 Best Teenage Mutant Ninja Turtle Villains, Ranked",
-      "url": "https://www.tvline.com/2280056/teenage-mutant-ninja-turtles-best-villains-ranked/",
+      "title": "After Gunsmoke, Star Dennis Weaver Joined The Sequel To One Of TV's Greatest Westerns",
+      "url": "https://www.tvline.com/2281015/gunsmoke-star-dennis-weaver-sequel-tv-western-lonesome-dove/",
       "source_count": 1,
       "sources": [
         "TVLine"
       ]
     },
     {
-      "title": "10 Game Of Thrones Episodes To Skip On A Rewatch",
-      "url": "https://www.tvline.com/2283178/game-of-thrones-episodes-skip-rewatch/",
+      "title": "Law & Order Star Maura Tierney's Big TV Break Was In A Dick Van Dyke Sitcom",
+      "url": "https://www.tvline.com/2280945/law-and-order-maura-tierney-tv-break-dick-van-dyke-sitcom/",
       "source_count": 1,
       "sources": [
         "TVLine"
       ]
     },
     {
-      "title": "Why Tommy Ross From Carrie Looks So Familiar",
-      "url": "https://www.tvline.com/2281190/tommy-ross-carrie-actor-joel-oulette/",
+      "title": "15 Everybody Loves Raymond Episodes To Skip On A Rewatch",
+      "url": "https://www.tvline.com/2283187/everybody-loves-raymond-episodes-skip-rewatch/",
       "source_count": 1,
       "sources": [
         "TVLine"
       ]
     },
     {
-      "title": "This Classic '60s Western Was Deemed One Of TV's Most Violent Shows",
-      "url": "https://www.tvline.com/2280037/wild-wild-west-60s-western-tv-most-violent-shows/",
+      "title": "Why South Park 'Permanently' Killed Off Kenny In Season 5",
+      "url": "https://www.tvline.com/2280486/why-south-park-killed-kenny-permanently-season-5/",
       "source_count": 1,
       "sources": [
         "TVLine"
@@ -250,11 +278,10 @@
     {
       "title": "Everything you need to know about DMZ mode in Call of Duty: Modern Warfare 4",
       "url": "https://blog.playstation.com/2026/10/05/everything-you-need-to-know-about-dmz-mode-in-call-of-duty-modern-warfare-4/",
-      "source_count": 4,
+      "source_count": 3,
       "sources": [
         "PlayStation Blog",
         "Xbox Wire",
-        "IGN Games",
         "GameSpot"
       ]
     },
@@ -291,6 +318,14 @@
       ]
     },
     {
+      "title": "Tekken 8 Yujiro Teaser Reveals Baki Rep's In-Game Render Is Just as Uncanny as Fans Expected",
+      "url": "https://www.ign.com/articles/tekken-8-yujiro-teaser-reveals-baki-reps-in-game-render-is-just-as-uncanny-as-fans-expected",
+      "source_count": 1,
+      "sources": [
+        "IGN Games"
+      ]
+    },
+    {
       "title": "'I'm Shocked That People Are Still Playing' - How GTA 5 Took Over the World",
       "url": "https://www.ign.com/articles/im-shocked-that-people-are-still-playing-how-gta-5-took-over-the-world",
       "source_count": 1,
@@ -301,10 +336,9 @@
     {
       "title": "Marvel Tokon DLC Roadmap Reveals First Look at Jane Foster Thor, Venom and Jubilee Coming in 2027",
       "url": "https://www.ign.com/articles/marvel-tokon-dlc-roadmap-reveals-first-look-at-jane-foster-thor-venom-and-jubilee-coming-in-2027",
-      "source_count": 2,
+      "source_count": 1,
       "sources": [
-        "IGN Games",
-        "Polygon"
+        "IGN Games"
       ]
     },
     {
@@ -372,6 +406,22 @@
       ]
     },
     {
+      "title": "Nier creator Yoko Taro says he's achieved his career dreams, but he continues working because it's 'good for preventing dementia'",
+      "url": "https://www.pcgamer.com/gaming-industry/nier-creator-yoko-taro-says-hes-achieved-his-career-dreams-but-he-continues-working-because-its-good-for-preventing-dementia/",
+      "source_count": 1,
+      "sources": [
+        "PC Gamer"
+      ]
+    },
+    {
+      "title": "Arc Raiders 2.0 is here, and you can finally turn those lights on your backpack off",
+      "url": "https://www.pcgamer.com/games/third-person-shooter/arc-raiders-2-0-is-here-and-you-can-finally-turn-those-lights-on-your-backpack-off/",
+      "source_count": 1,
+      "sources": [
+        "PC Gamer"
+      ]
+    },
+    {
       "title": "RPGs are simply better when you're an idiot",
       "url": "https://www.pcgamer.com/games/rpg/rpgs-are-simply-better-when-youre-an-idiot/",
       "source_count": 1,
@@ -404,22 +454,6 @@
       ]
     },
     {
-      "title": "The developer of an AI-powered driving instruction simulator is spending $1,000 per month just to keep its demo running",
-      "url": "https://www.pcgamer.com/games/sim/the-developer-of-an-ai-powered-driving-instruction-simulator-is-spending-usd1-000-per-month-just-to-keep-its-demo-running/",
-      "source_count": 1,
-      "sources": [
-        "PC Gamer"
-      ]
-    },
-    {
-      "title": "Deadlock's City Never Sleeps update makes Valve's MOBA my favorite videogame setting in years",
-      "url": "https://www.pcgamer.com/games/moba/deadlocks-city-never-sleeps-update-makes-valves-moba-my-favorite-videogame-setting-in-years/",
-      "source_count": 1,
-      "sources": [
-        "PC Gamer"
-      ]
-    },
-    {
       "title": "Reuters Entertainment News Summary",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPSy1yNXVpeXRHQlVRUTEtWXRuZWpyTzVqVjBxWThFSjlxNjJRc2tWOUdqTjVfU3RKNVhQempXQjBJMHNuY1F1Z2JsWjM3UXhFV28wa0lWM1ZCWmdWWHVSZWQ3RjBvQWlwc2dDM25HaGN5UkVHRFkwY0JvQS1Qc3hGMVQwc2Jpd1pLYkJXakR2cXRXUFpxck5ZbGZmV2J1Z9IBngFBVV95cUxPSy1yNXVpeXRHQlVRUTEtWXRuZWpyTzVqVjBxWThFSjlxNjJRc2tWOUdqTjVfU3RKNVhQempXQjBJMHNuY1F1Z2JsWjM3UXhFV28wa0lWM1ZCWmdWWHVSZWQ3RjBvQWlwc2dDM25HaGN5UkVHRFkwY0JvQS1Qc3hGMVQwc2Jpd1pLYkJXakR2cXRXUFpxck5ZbGZmV2J1Zw",
       "source_count": 2,
@@ -429,19 +463,19 @@
       ]
     },
     {
-      "title": "Republican opposition widens to livestreamed execution; Trump still weighing it",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPaE12czZ4Y1pNSFk4OVRfaVlSc3dXbGxZXzJPZkk1aDJpaDR0THc5aF9TT0YyZS1WWkVnT2lmQjJGQ0JfZnZZY08yR1E1MXZna2NVaXVkV2RoV2sxNmM0RWZvemlVbVRmSFF5a3F4TERQQnZONzYzVUZJMjhxSTJUeXRJc21lQ2NTN2FHZ3pHeGFoVVZKX2tLX0M0WWNKU2NaUzY5Wi1CR2VsU2NDRjA1Yk1jMDU1T0ZYYkFlbnZFbFA",
-      "source_count": 1,
-      "sources": [
-        "Reuters"
-      ]
-    },
-    {
       "title": "UAE says Omani flydubai co-pilot planned suicide attack on Tel Aviv flight",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPRHdLZC1GTmFXdkN5M3VPZXl3VE1uV0hvckhZeHhKaVBxNTBqeklQZ2d0MXpaT05rME5RN2lNa19vSFB2b2c4Sm1QbzRtZWtRUmxMclJ6cmpkdk14VTg3cVktcFN5d2NVd0haRU1KbGRUT0NnNzdBbnJZOXJHdlQzanVLcnFjUWRHeE9LdEZjd3UtWHA5bTFpcExvNmRNRzdLY0lFLVZ3",
       "source_count": 1,
       "sources": [
         "DZRH"
+      ]
+    },
+    {
+      "title": "Box Office: 'NAZA,' Documentary About Israel's Attacks on Gaza That Was Too Hot for Distributors, Crosses $500,000",
+      "url": "https://www.indiewire.com/news/box-office/naza-documentary-israel-gaza-crosses-500k-self-distributed-1235221331/",
+      "source_count": 1,
+      "sources": [
+        "IndieWire"
       ]
     },
     {
@@ -485,11 +519,11 @@
       ]
     },
     {
-      "title": "Oscars: U.K. Selects 'Rehearsals for a Revolution,' Documentary About Iran, as Best International Feature Entry",
-      "url": "https://www.indiewire.com/awards/industry/rehearsals-for-a-revolution-iran-uk-best-international-oscar-1235221263/",
+      "title": "Pope Leo XIV to Undergo Surgery After Nodule Found in Lung",
+      "url": "https://www.rollingstone.com/culture/culture-news/pope-leo-xiv-undergo-surgery-nodule-lung-1235641026/",
       "source_count": 1,
       "sources": [
-        "IndieWire"
+        "Rolling Stone Culture"
       ]
     },
     {
@@ -533,59 +567,45 @@
       ]
     },
     {
-      "title": "'Fissures and Cracks': America's Division, From 9/11 to the Rise of White Supremacy",
-      "url": "https://www.rollingstone.com/culture/culture-features/911-white-supremacy-inheritance-janet-reitman-1235635979/",
-      "source_count": 1,
-      "sources": [
-        "Rolling Stone Culture"
-      ]
-    },
-    {
-      "title": "Rosalía Dazzles With Balletic and Rain-Soaked 'LUX' Performances on 'Saturday Night Live': Watch",
-      "url": "https://www.billboard.com/music/latin/rosalia-snl-reliquia-magnolias-performances-1236358663/",
+      "title": "Ella Langley Addresses Bomb Threat That Led to Show Cancellation: 'A Concert's Not Worth a Human Life'",
+      "url": "https://www.billboard.com/music/country/ella-langley-concert-bomb-threat-stage-return-1236358808/",
       "source_count": 1,
       "sources": [
         "Billboard"
       ]
     },
     {
-      "title": "NFL London Game Halftime Show 2026: Here's Where to Watch Perform Ayra Starr Live Online Free",
-      "url": "https://www.billboard.com/culture/product-recommendations/nfl-london-2026-ayra-starr-halftime-show-watch-live-free-1236358001/",
+      "title": "'Sunday Night Football': How to Watch the Baltimore Ravens vs. Atlanta Falcons Game Live Online Free",
+      "url": "https://www.billboard.com/culture/product-recommendations/sunday-night-football-2026-2027-watch-nfl-live-online-free-1236343279/",
       "source_count": 1,
       "sources": [
         "Billboard"
       ]
     },
     {
-      "title": "Soulja Boy Teases 2028 Presidential Run: 'A Bigger Vision'",
-      "url": "https://www.billboard.com/music/rb-hip-hop/soulja-boy-teases-2028-presidential-run-1236358638/",
+      "title": "Kelly Clarkson Slams Brooklyn Store for Giving Her the 'Pretty Woman' Treatment: 'Just Lost a Huge Sale'",
+      "url": "https://www.billboard.com/music/music-news/kelly-clarkson-brooklyn-store-pretty-woman-snub-1236358775/",
       "source_count": 1,
       "sources": [
         "Billboard"
       ]
     },
     {
-      "title": "Night One Of Head Trip 2026 Ends Early Due to Weather",
-      "url": "https://www.billboard.com/music/music-news/head-trip-2026-ends-early-weather-1236358640/",
-      "source_count": 1,
+      "title": "The Beatles, Drake & Taylor Swift Are Together in Top 10 on Billboard 200 for First Time",
+      "url": "https://www.billboard.com/music/chart-beat/beatles-drake-taylor-swift-top-ten-billboard-200-first-time-1236358742/",
+      "source_count": 3,
       "sources": [
+        "Billboard",
+        "Billboard",
         "Billboard"
       ]
     },
     {
-      "title": "Barry Manilow Walks Off Stage, Cancels Vegas Shows Due to Bronchitis",
-      "url": "https://www.billboard.com/music/music-news/barry-manilow-cuts-short-las-vegas-show-cancels-concerts-1236358635/",
+      "title": "'Ray Gunn' Gets Rousing LFF Premiere as Scarlett Johansson Reveals Why She Signed On",
+      "url": "https://www.whats-on-netflix.com/news/ray-gunn-gets-rousing-lff-premiere-as-scarlett-johansson-reveals-why-she-signed-on/",
       "source_count": 1,
       "sources": [
-        "Billboard"
-      ]
-    },
-    {
-      "title": "'Golden' Is Still Golden, Wins Best Song at 2026 World Soundtrack Awards (Full Winners List)",
-      "url": "https://www.billboard.com/music/awards/2026-world-soundtrack-awards-winners-list-1236358619/",
-      "source_count": 1,
-      "sources": [
-        "Billboard"
+        "What's on Netflix"
       ]
     },
     {
@@ -629,11 +649,35 @@
       ]
     },
     {
-      "title": "Little House on the Prairie Season 2 Wraps Filming as Netflix Rounds Out the Walnut Grove Cast",
-      "url": "https://www.whats-on-netflix.com/news/little-house-on-the-prairie-season-2-production-wrap-cast/",
+      "title": "3 Essential Remedy Games To Play After Control Resonant",
+      "url": "https://www.polygon.com/control-resonant-games-to-play/",
       "source_count": 1,
       "sources": [
-        "What's on Netflix"
+        "Polygon"
+      ]
+    },
+    {
+      "title": "Robert De Niro's 123-Minute Gothic Thriller Is Officially Streaming on Netflix",
+      "url": "https://www.polygon.com/robert-de-niro-gothic-horror-streaming-netflix/",
+      "source_count": 1,
+      "sources": [
+        "Polygon"
+      ]
+    },
+    {
+      "title": "Disney Officially Confirms New 'Die Hard with Fairies' TV Series Adaptation",
+      "url": "https://www.polygon.com/artemis-fowl-tv-series-announced-disney-plus/",
+      "source_count": 1,
+      "sources": [
+        "Polygon"
+      ]
+    },
+    {
+      "title": "9 Most Haunted Masks in The Legend of Zelda: Majora's Mask, Ranked",
+      "url": "https://www.polygon.com/zelda-majoras-masks-scariest-ranked/",
+      "source_count": 1,
+      "sources": [
+        "Polygon"
       ]
     },
     {
@@ -651,31 +695,7 @@
       "sources": [
         "Polygon"
       ]
-    },
-    {
-      "title": "Halo Already Delivered the Perfect Master Chief Origin Story, 25 Years Ago",
-      "url": "https://www.polygon.com/halo-activision-master-chief-origin-story-fall-of-reach/",
-      "source_count": 1,
-      "sources": [
-        "Polygon"
-      ]
-    },
-    {
-      "title": "The 5 Best Games to Play if You Loved Fire Emblem: Fortune's Weave",
-      "url": "https://www.polygon.com/fire-emblem-fortunes-weave-best-games-replacements/",
-      "source_count": 1,
-      "sources": [
-        "Polygon"
-      ]
-    },
-    {
-      "title": "'Avengers: Doomsday' Has An Exclusive Magic Card",
-      "url": "https://www.polygon.com/avengers-doomsday-magic-the-gathering-exclusive-doctor-doom-card/",
-      "source_count": 1,
-      "sources": [
-        "But There's a Catch"
-      ]
     }
   ],
-  "summary": "Verified intelligence gathered across 83 deduplicated editorial clusters."
+  "summary": "Verified intelligence gathered across 86 deduplicated editorial clusters."
 }
