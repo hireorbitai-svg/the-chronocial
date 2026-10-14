@@ -1,54 +1,93 @@
 {
-  "timestamp": "2026-10-14T03:43:02.181582+00:00",
-  "headline_count": 83,
+  "timestamp": "2026-10-14T09:18:46.200077+00:00",
+  "headline_count": 92,
   "headlines": [
     {
-      "title": "Martha Plimpton Slams Shane Gillis' 'Really F - g Stupid' 'SNL' Monologue: 'He Deserves a Spanking From His Mom'",
-      "url": "https://variety.com/2026/tv/news/shane-gillis-snl-monologue-martha-plimpton-lorne-michaels-1236910915/",
+      "title": "Banijay Kids & Family Sells 'Little Princess' to Sky U.K. (EXCLUSIVE)",
+      "url": "https://variety.com/2026/tv/global/banijay-kids-family-little-princess-sky-u-k-nordisk-film-1236911035/",
       "source_count": 1,
       "sources": [
         "Variety"
       ]
     },
     {
-      "title": "'All About Corinne' Review: Isabelle Huppert Stalks Sandrine Kiberlain in a Witty, Deliciously Acted French Industry Satire",
-      "url": "https://variety.com/2026/film/news/all-about-corinne-review-isabelle-huppert-1236908606/",
+      "title": "Russell T Davies Calls BBC Boss' AI 'Doctor Who' Comment 'Clumsy' and Teases Show's Future: 'You'll Start to See Production' in 'Summer Next Year'",
+      "url": "https://variety.com/2026/tv/global/russell-t-davies-bbc-boss-ai-doctor-who-comment-clumsy-1236911048/",
       "source_count": 1,
       "sources": [
         "Variety"
       ]
     },
     {
-      "title": "Kelly Clarkson vs. Art of Play: Footage Revealed of Singer's Visit to Brooklyn Novelty Store She Slammed for 'Pretty Woman' Treatment",
-      "url": "https://variety.com/2026/music/news/kelly-clarkson-art-of-play-molly-bird-footage-revealed-1236910838/",
-      "source_count": 2,
-      "sources": [
-        "Variety",
-        "The Hollywood Reporter"
-      ]
-    },
-    {
-      "title": "'Clean Hands' Review: Zach Braff Is a Cop on a Crusade to Save His Addict Daughter in an Uneasy Fact-Based Crime Drama",
-      "url": "https://variety.com/2026/film/reviews/clean-hands-review-1236910791/",
+      "title": "Edinburgh Film Festival Reveals Dates for 2027 Edition (EXCLUSIVE)",
+      "url": "https://variety.com/2026/film/global/edinburgh-film-festival-reveals-2027-dates-1236910766/",
       "source_count": 1,
       "sources": [
         "Variety"
       ]
     },
     {
-      "title": "'Tommy & Tuppence' Stars Josh Dylan and Antonia Thomas on That 'Intense' Finale, Why the Detective Duo 'Keep Missing Each Other' Romantically and a Potential Season 2",
-      "url": "https://variety.com/2026/tv/global/tommy-tuppence-finale-josh-dylan-antonia-thomas-romance-season-2-1236909902/",
+      "title": "Philippine-Italian Sales Alliance Targets Indie Film Buyers in Asia, Europe and North America (EXCLUSIVE)",
+      "url": "https://variety.com/2026/film/markets-festivals/philippine-italian-sales-firms-fire-ice-coccinelle-unite-indies-1236911055/",
       "source_count": 1,
       "sources": [
         "Variety"
       ]
     },
     {
-      "title": "Why the 'Girls' Revival Is Such an Exciting Idea",
-      "url": "https://variety.com/2026/tv/columns/girls-revival-hbo-1236910307/",
+      "title": "Tallinn-Bound Indian Drama 'Kidney' Boarded by Shiladitya Bora's Platoon One Films (EXCLUSIVE)",
+      "url": "https://variety.com/2026/film/news/tallinn-indian-drama-kidney-platoon-one-films-1236909621/",
       "source_count": 1,
       "sources": [
         "Variety"
+      ]
+    },
+    {
+      "title": "ORF-Enterprise Boards 'Crème de la Crème' - About a Sperm Bank Business - Produced by Whatever Pictures and a 'Playful and Irreverent' Series",
+      "url": "https://variety.com/2026/tv/global/orf-enterprise-creme-de-la-creme-whatever-pictures-rein-film-1236910449/",
+      "source_count": 1,
+      "sources": [
+        "Variety"
+      ]
+    },
+    {
+      "title": "Russell Brand Rape Trial: Prosecution Opens Case Against 'Forgetting Sarah Marshall' Star",
+      "url": "https://deadline.com/2026/10/russell-brand-trial-prosecution-case-1237155753/",
+      "source_count": 1,
+      "sources": [
+        "Deadline Hollywood"
+      ]
+    },
+    {
+      "title": "'La Bola Negra', 'Woman Unknown', 'NAZA' & 'Fjord' Among 68 Films On Short List For 39th European Film Awards",
+      "url": "https://deadline.com/2026/10/short-list-39th-european-film-awards-1237156545/",
+      "source_count": 1,
+      "sources": [
+        "Deadline Hollywood"
+      ]
+    },
+    {
+      "title": "Rohit Jain Launches Tiger TV",
+      "url": "https://deadline.com/2026/10/rohit-jain-tiger-tv-1237156538/",
+      "source_count": 1,
+      "sources": [
+        "Deadline Hollywood"
+      ]
+    },
+    {
+      "title": "Electrify Enlists Ex-Vice Exec Al Brown & Former YouTube EMEA Boss Patrick Walker For Creator Push",
+      "url": "https://deadline.com/2026/10/electrify-hires-al-brown-patrick-walker-creator-push-1237155598/",
+      "source_count": 1,
+      "sources": [
+        "Deadline Hollywood"
+      ]
+    },
+    {
+      "title": "'A Chronicle Of Minor Things' & 'Goldfish' Among Award Winners At Busan's Asian Project Market",
+      "url": "https://deadline.com/2026/10/busan-apm-a-chronicle-of-minor-things-goldfish-1237156369/",
+      "source_count": 1,
+      "sources": [
+        "Deadline Hollywood"
       ]
     },
     {
@@ -60,45 +99,43 @@
       ]
     },
     {
-      "title": "James McAvoy Recalls Being Bullied On The Set Of HBO's 'Band Of Brothers'",
-      "url": "https://deadline.com/2026/10/james-mcavoy-bullied-set-hbo-band-of-brothers-1237156356/",
+      "title": "Tallinn Black Nights Fest Unveils Baltic Film Competition",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/poff-2026-tallinn-black-nights-baltic-film-competition-1236729636/",
       "source_count": 1,
       "sources": [
-        "Deadline Hollywood"
-      ]
-    },
-    {
-      "title": "'Dancing With The Stars' Recap: Super Bowl Night Sends Home A Fan Favorite",
-      "url": "https://deadline.com/2026/10/dancing-with-the-stars-season-35-week-5-recap-super-bowl-1237155960/",
-      "source_count": 2,
-      "sources": [
-        "Deadline Hollywood",
         "The Hollywood Reporter"
       ]
     },
     {
-      "title": "Candle In The Wind: 5-Year-Old Media Firm Faces New Questions After Hello Sunshine Exit",
-      "url": "https://deadline.com/2026/10/candle-media-faces-questions-hello-sunshine-exit-1237156037/",
+      "title": "Noah Centineo, Andrew Koji's 'Street Fighter': First Reactions",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/street-fighter-2026-movie-first-reactions-1236729666/",
       "source_count": 1,
       "sources": [
-        "Deadline Hollywood"
-      ]
-    },
-    {
-      "title": "Drake Bell Calls Out SAG-AFTRA After Losing Health Insurance & Urges People To \"Not Become An Actor\" Or \"Join SAG\"",
-      "url": "https://deadline.com/2026/10/drake-bell-sag-aftra-health-insurance-1237156308/",
-      "source_count": 2,
-      "sources": [
-        "Deadline Hollywood",
         "The Hollywood Reporter"
       ]
     },
     {
-      "title": "'The White Lotus' Filming In Cannes As Season 4 Production Enters Final Stretch, Hôtel Martinez Transformation Confirms New Resort Logo",
-      "url": "https://deadline.com/2026/10/white-lotus-season-4-production-cannes-final-stretch-1237155644/",
+      "title": "Mikael Marcimain's 'The Cold Song' Marks a Rare Return to Big Swing European TV Drama (Exclusive First Look)",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/mikael-marcimain-the-cold-song-first-look-images-1236729634/",
       "source_count": 1,
       "sources": [
-        "Deadline Hollywood"
+        "The Hollywood Reporter"
+      ]
+    },
+    {
+      "title": "DC Studios' 'Clayface': First Reactions",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/dc-studios-clayface-first-reactions-1236729618/",
+      "source_count": 1,
+      "sources": [
+        "The Hollywood Reporter"
+      ]
+    },
+    {
+      "title": "Ben Affleck Calls Filming 'Justice League' a \"Low Point\" in His Career: \"About as Gross as It Gets\"",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/ben-affleck-calls-justice-league-low-point-career-1236729523/",
+      "source_count": 1,
+      "sources": [
+        "The Hollywood Reporter"
       ]
     },
     {
@@ -110,67 +147,67 @@
       ]
     },
     {
-      "title": "Parke Brings Back Its Sold-Out Shrunken Sweatshirt in Fan-Favorite Colorways",
-      "url": "https://www.hollywoodreporter.com/lifestyle/shopping/parke-october-2026-everyday-edit-mockneck-sweatshirt-restock-1236729249/",
-      "source_count": 1,
-      "sources": [
-        "The Hollywood Reporter"
-      ]
-    },
-    {
-      "title": "Theo James, Hoyeon, Christian Slater Thriller 'The Hole' Lands Summer 2027 Release From Orion (Exclusive)",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/the-hole-theo-james-hoyeon-christian-slater-release-orion-1236729322/",
-      "source_count": 1,
-      "sources": [
-        "The Hollywood Reporter"
-      ]
-    },
-    {
-      "title": "Emraan Hashmi narrowly escapes injury after car flip stunt goes wrong on Gunmaaster G9 set; watch",
-      "url": "https://www.bollywoodhungama.com/news/bollywood/emraan-hashmi-narrowly-escapes-injury-after-car-flip-stunt-goes-wrong-on-gunmaaster-g9-set-watch/",
+      "title": "Sharvari named first-ever brand ambassador of Reva by PNGS",
+      "url": "https://www.bollywoodhungama.com/news/bollywood/sharvari-named-first-ever-brand-ambassador-of-reva-by-pngs/",
       "source_count": 1,
       "sources": [
         "Bollywood Hungama"
       ]
     },
     {
-      "title": "Mrunal Thakur neither confirms nor denies Raaka casting rumours, says film announcements will come on social media",
-      "url": "https://www.bollywoodhungama.com/news/bollywood/mrunal-thakur-neither-confirms-nor-denies-raaka-casting-rumours-says-film-announcements-will-come-on-social-media/",
+      "title": "Kedar Shinde reunites with Jio Studios for women-centric Marathi film Aai Bhadyane Havi?",
+      "url": "https://www.bollywoodhungama.com/news/bollywood/kedar-shinde-reunites-with-jio-studios-for-women-centric-marathi-film-aai-bhadyane-havi/",
       "source_count": 1,
       "sources": [
         "Bollywood Hungama"
       ]
     },
     {
-      "title": "Sadhu Tiwari to perform Nayyi Navelli song 'Awadhiya Ke Raja' at Ram Ki Paidi in Ayodhya",
-      "url": "https://www.bollywoodhungama.com/news/bollywood/sadhu-tiwari-to-perform-nayyi-navelli-song-awadhiya-ke-raja-at-ram-ki-paidi-in-ayodhya/",
+      "title": "Guru Randhawa announces The Sirra Era Live In Concert in Delhi on December 12; details inside",
+      "url": "https://www.bollywoodhungama.com/news/bollywood/guru-randhawa-announces-the-sirra-era-live-in-concert-in-delhi-on-december-12-details-inside/",
       "source_count": 1,
       "sources": [
         "Bollywood Hungama"
       ]
     },
     {
-      "title": "Banita Sandhu set to play British-born Indian environmentalist in Akshay Kumar's Samuk",
-      "url": "https://www.bollywoodhungama.com/news/bollywood/banita-sandhu-set-to-play-british-born-indian-environmentalist-in-akshay-kumars-samuk/",
+      "title": "EXCLUSIVE: Rohit Shetty-backed Krithi Shetty-starrer titled Hum Tere Pyaar Mein; to be directed by his protégé Vidhi Ghodgaonkar",
+      "url": "https://www.bollywoodhungama.com/news/bollywood/exclusive-rohit-shetty-backed-krithi-shetty-starrer-titled-hum-tere-pyaar-mein-to-be-directed-by-his-protege-vidhi-ghodgaonkar/",
       "source_count": 1,
       "sources": [
         "Bollywood Hungama"
       ]
     },
     {
-      "title": "Sidharth Malhotra suffers leg injury, shares photo with a witty note!",
-      "url": "https://www.bollywoodhungama.com/news/bollywood/sidharth-malhotra-suffers-leg-injury-shares-photo-with-a-witty-note/",
+      "title": "Adivi Sesh writes to Assam government over reported resort development near Kaziranga National Park",
+      "url": "https://www.bollywoodhungama.com/news/bollywood/adivi-sesh-writes-to-assam-government-over-reported-resort-development-near-kaziranga-national-park/",
       "source_count": 1,
       "sources": [
         "Bollywood Hungama"
       ]
     },
     {
-      "title": "Rahul Vaidya passes beeped remark about Disha Parmar on Pati Patni Aur Panga 2; leaves contestants shocked as fans call him out on Reddit",
-      "url": "https://www.bollywoodhungama.com/news/bollywood/rahul-vaidya-passes-beeped-remark-about-disha-parmar-on-pati-patni-aur-panga-2-leaves-contestants-shocked-as-fans-call-him-out-on-reddit/",
+      "title": "Drishyam The Conclusion show-sharing row: Panorama Studios' Week 3 show demands put exhibitors in a fix as Nayyi Navelli, Prahaar, Jailer 2 gear up for release",
+      "url": "https://www.bollywoodhungama.com/news/bollywood/drishyam-the-conclusion-show-sharing-row-panorama-studios-week-3-show-demands-put-exhibitors-in-a-fix-as-nayyi-navelli-prahaar-jailer-2-gear-up-for-release/",
       "source_count": 1,
       "sources": [
         "Bollywood Hungama"
+      ]
+    },
+    {
+      "title": "Quote Of The Day By Denzel Washington: 'I Never Shed A Tear For My Father. I Never Did All Through The Funeral. There Was...'",
+      "url": "https://www.tvline.com/2285338/quote-of-the-day-denzel-washington-feelings-valid/",
+      "source_count": 1,
+      "sources": [
+        "TVLine"
+      ]
+    },
+    {
+      "title": "What To Watch Wednesday: The Lowdown And Beavis And Butt-Head Return, The Ark Finale, And More",
+      "url": "https://www.tvline.com/2277461/what-to-watch-october-14-2026-tv-shows-movies/",
+      "source_count": 1,
+      "sources": [
+        "TVLine"
       ]
     },
     {
@@ -206,19 +243,51 @@
       ]
     },
     {
-      "title": "Why Robyn Wells From NCIS: New York Looks So Familiar",
-      "url": "https://www.tvline.com/2283743/robyn-wells-ncis-new-york-actor-jennifer-beals/",
+      "title": "Helldivers 2: Scope of Authority Premium Warbond launches Oct 20",
+      "url": "https://blog.playstation.com/2026/10/13/helldivers-2-scope-of-authority-premium-warbond-launches-oct-20/",
       "source_count": 1,
       "sources": [
-        "TVLine"
+        "PlayStation Blog"
       ]
     },
     {
-      "title": "RJ Mitte's 5 Best Walter White Jr. Scenes On Breaking Bad",
-      "url": "https://www.tvline.com/2286123/rj-mitte-best-walter-white-jr-scenes-breaking-bad/",
+      "title": "Escape Academy 2: Back 2 School comes to PS5 on November 5",
+      "url": "https://blog.playstation.com/2026/10/13/escape-academy-2-back-2-school-comes-to-ps5-on-november-5/",
       "source_count": 1,
       "sources": [
-        "TVLine"
+        "PlayStation Blog"
+      ]
+    },
+    {
+      "title": "Official PlayStation Podcast Episode 550: Now This is Podcasting",
+      "url": "https://blog.playstation.com/2026/10/09/official-playstation-podcast-episode-550-now-this-is-podcasting/",
+      "source_count": 1,
+      "sources": [
+        "PlayStation Blog"
+      ]
+    },
+    {
+      "title": "Share of the Week: Marvel's Wolverine",
+      "url": "https://blog.playstation.com/2026/10/09/share-of-the-week-marvels-wolverine-allies-villains/",
+      "source_count": 1,
+      "sources": [
+        "Allies & Villains"
+      ]
+    },
+    {
+      "title": "Critical Role joins Rockbeasts, launching January 2027",
+      "url": "https://blog.playstation.com/2026/10/08/critical-role-joins-rockbeasts-launching-january-2027/",
+      "source_count": 1,
+      "sources": [
+        "PlayStation Blog"
+      ]
+    },
+    {
+      "title": "Phoenix Cyclops joins MARVEL Tōkon: Fighting Souls on November 2",
+      "url": "https://blog.playstation.com/2026/10/07/phoenix-cyclops-joins-marvel-tokon-fighting-souls-on-november-2/",
+      "source_count": 1,
+      "sources": [
+        "PlayStation Blog"
       ]
     },
     {
@@ -400,19 +469,27 @@
       ]
     },
     {
-      "title": "Hackers heat French supermarket fridges, sparking fires and spoiling food",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOLU1iNVd4N0RyM29yWVFhSldLS2lsa0YydGZld3hRWTFONXlPWGhMcHVNcDB2N3JUSjdiNU1OVURBY0taUVVhMFBOTFNmZHV6dVREX2hsdjBEQ3g3RWRQa0dGLUZQUTZNTERGNlFnT1YzNUFHVVNGd3JLVDNCMnVINHo2Y285UF9sUktjblE1Sm9jcXFuZWZPUFk4cVJpZTNERzZJM2tVT2RzVWVKZXNhQ3NCYzZyeWU1LUM5UEVMRnB6V3ZpUm9IbU5PdzlvX0h2R3ZF",
+      "title": "Publicis reaffirms outlook as AI-powered marketing demand drives quarterly growth",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPeHptRzJpUVNvSDlKbW5oWEt3dG9uWWc3VGNhbHFFZTlCNmU2T2RGdFF1d3lRVTI4YkpRQnhYdnhNREZ6a3JVX0V5dHpPUlR1Sk56Tk4weEd3ajJ2ckxrVmNOMHpkdVBCWXR1OW4zMXNvTkNrUHVqeUMwc2V4ejlsMGdWSFhwWXpZRkJuNjBvX1BHWXJQcEhWcjV4YWhNdGVydUc3WnRkN3prYzEwb3pjYnFZTkRRTWV1eGJyRjBFQnQ",
       "source_count": 1,
       "sources": [
         "Reuters"
       ]
     },
     {
-      "title": "Deanna Harris Joins Alloy Entertainment As VP, TV",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNNXVfNHFxajFVWlBXZkJKM0NwbjRYbmFwWEduQzJmM3piYzFhQzV1TWg4Mk5LSUJVNjBoMXJpR2FzZmlzS3JaT2hySUZrUkp6MW84a0hPV2lXZHA4Q0ZZVU1tcTdTSnhRVmxGTDZNUm1yRWZRUmlxWFhwZ0Jyd0FhcW9OVUtXMXBfOUpZTmxCNTFFQQ",
+      "title": "Fox Entertainment Partners With Hartbeat Brands for Vertical IP Development, Distribution",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORUFkaW51Qzk2bjNYQlJFVWNGZmduSEpLeGVSWEtUUk9US2Q2eDVYUzBiUTJoOTVaWWRKNUZhU3hfUldrTHRHQXVHQWFEeXYyVEU4SW5fUk1hQ09tb1BVX2RFSXIxaDRNSkF5WEZuZWVSbkJiVzlEdExNb2N0ZTF3YXBHMTItbFNHMnFORGdJaUVFTHNHUWUybTg0ZDRFeFczYVBIQWVZSXBtc28",
       "source_count": 1,
       "sources": [
-        "Deadline"
+        "Yahoo"
+      ]
+    },
+    {
+      "title": "Hackers heat French supermarket fridges, sparking fires and spoiling food",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOLU1iNVd4N0RyM29yWVFhSldLS2lsa0YydGZld3hRWTFONXlPWGhMcHVNcDB2N3JUSjdiNU1OVURBY0taUVVhMFBOTFNmZHV6dVREX2hsdjBEQ3g3RWRQa0dGLUZQUTZNTERGNlFnT1YzNUFHVVNGd3JLVDNCMnVINHo2Y285UF9sUktjblE1Sm9jcXFuZWZPUFk4cVJpZTNERzZJM2tVT2RzVWVKZXNhQ3NCYzZyeWU1LUM5UEVMRnB6V3ZpUm9IbU5PdzlvX0h2R3ZF",
+      "source_count": 1,
+      "sources": [
+        "Reuters"
       ]
     },
     {
@@ -432,16 +509,8 @@
       ]
     },
     {
-      "title": "Singapore-based Zenyum's parent MakeO raises $13m for Asian expansion, Money News",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQVkJDT2I1OVlHQ2lGa1JHcVM3djUtT3ItcGNpeUQxNEtsWFJHaFRUSm0zQUZraGFHZHE3NDZCUDJ2UmFLTDlZRHVZN1Zkd0xCN0NfOTJJNFpBWGNtREtTcmp2eXVMMU15TWstbTh6N2xFZERNM3RJc0s5bk1MdDBzZGlPMVpsMXhkWnlCNG4tSnFsUmpjOTE3bA",
-      "source_count": 1,
-      "sources": [
-        "AsiaOne"
-      ]
-    },
-    {
-      "title": "Russell Brand appears in a London court for trial on rape and sexual assault charges",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNQlF0am1qanQ2azJHU3p6bzJzYTY5VzRrd3VoeVI4OXFGRUdpNUtsakExeUktTGFkTjZmM1JJTzVtbUdrNTRRZDlfcTcwREVEcU02NEZ2MUJkd2xvSE56dU84SU5wRWtaSHBPWDFFYThmZ3htRFdRSXdPMTJHRTcxZlhFbVAxekh6UC1JUGQxRFY3blp5ZUdnaENPYkpJSnVOUi1naGhlTXhaTkJ3Y1VwMkdjNm9fMjBvN0hTSlFBNFZYVW1XVVdlLVp3",
+      "title": "What newly released 911 calls reveal about the failed execution of the death row inmate",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPRkNmQTM5aHRreE5wbVlPNzdtZE9rem5rdzN4cTJMYWM0STlFVHZlMkZfSGhuUGdXOXVZUXpNdC1lRjNvc0FKMHk5Qll2d05sRGl0YzZRMjVDZXlOSDA3aWE3NDd4T3FKckZFNWhpY2xzY1g5WjhXc1RJTHRHeUVqN2NuVFZwazI4MnhGZzZ0UWtSVTVXMzM3WlA3OUtob3dDdE45U082WW1qNWhJR0t1ZzJKRF95Y2ZKTUJfSjRPN1FCUkU",
       "source_count": 1,
       "sources": [
         "CTV News"
@@ -544,6 +613,30 @@
       ]
     },
     {
+      "title": "'The Voice' Singers Chari and Marcus Ladden Jr. Power Through 'Incredible' Battle With 'On My Own': Watch",
+      "url": "https://www.billboard.com/culture/tv-film/the-voice-chari-marcus-ladden-jr-battle-on-my-own-1236360461/",
+      "source_count": 1,
+      "sources": [
+        "Billboard"
+      ]
+    },
+    {
+      "title": "Cezary Skubiszewski to Be Saluted at 2026 Screen Music Awards",
+      "url": "https://www.billboard.com/music/awards/cezary-skubiszewski-saluted-2026-screen-music-awards-1236360450/",
+      "source_count": 1,
+      "sources": [
+        "Billboard"
+      ]
+    },
+    {
+      "title": "Dom Dolla Launches Good Fortune Records",
+      "url": "https://www.billboard.com/music/music-news/dom-dolla-lgood-fortune-records-1236360432/",
+      "source_count": 1,
+      "sources": [
+        "Billboard"
+      ]
+    },
+    {
       "title": "Costco's Exclusive 'KPop Demon Hunters' Trading Card Set Includes 11 Rarity Levels & A Character-Inspired Frame",
       "url": "https://www.billboard.com/culture/product-recommendations/kpop-demon-hunters-costco-exclusive-trading-cards-shop-1236360008/",
       "source_count": 1,
@@ -562,30 +655,6 @@
     {
       "title": "Watch Troye Sivan and Role Model Saddle Up and Sway to Troye's New Track 'Cowboy'",
       "url": "https://www.billboard.com/music/music-news/troye-sivan-role-model-dance-cowboy-tiktok-1236360392/",
-      "source_count": 1,
-      "sources": [
-        "Billboard"
-      ]
-    },
-    {
-      "title": "Rosalía's 'LUX' Is Making Hailey Bieber 'Wanna Throw Up in a Good Way'",
-      "url": "https://www.billboard.com/music/pop/hailey-bieber-loves-rosalia-lux-album-1236360374/",
-      "source_count": 1,
-      "sources": [
-        "Billboard"
-      ]
-    },
-    {
-      "title": "Here's How Greta Gerwig Got Led Zeppelin to Say Yes to Using 'Stairway to Heaven' in 'Narnia' Trailer",
-      "url": "https://www.billboard.com/culture/tv-film/led-zeppelin-stairway-to-heaven-narnia-trailer-greta-gerwig-1236360368/",
-      "source_count": 1,
-      "sources": [
-        "Billboard"
-      ]
-    },
-    {
-      "title": "A$AP Rocky Extends Olive Branch, Offers to Distribute New FERG Album: 'U Know Where Home Is'",
-      "url": "https://www.billboard.com/music/rb-hip-hop/asap-rocky-ferg-new-album-1236360253/",
       "source_count": 1,
       "sources": [
         "Billboard"
@@ -626,8 +695,16 @@
       ]
     },
     {
-      "title": "18 Years Later, the MCU Just Killed Off One of Its Oldest Heroee",
-      "url": "https://www.polygon.com/visionquest-jarvis-death/",
+      "title": "28 Years Ago, 'Buffy's Darkest Villain Got a Perfect Introduction",
+      "url": "https://www.polygon.com/buffy-the-vampire-slayer-season-3-episode-3-retrospective/",
+      "source_count": 1,
+      "sources": [
+        "Polygon"
+      ]
+    },
+    {
+      "title": "10 Sci-Fi Books You Need to Read Before You Die",
+      "url": "https://www.polygon.com/essential-sci-fi-books-you-need-to-read-at-least-once-in-your-life/",
       "source_count": 1,
       "sources": [
         "Polygon"
@@ -664,15 +741,7 @@
       "sources": [
         "Polygon"
       ]
-    },
-    {
-      "title": "New Xbox Labs Team Officially Announced",
-      "url": "https://www.polygon.com/xbox-labs-asha-sharma-ai-vibe-coding/",
-      "source_count": 1,
-      "sources": [
-        "Polygon"
-      ]
     }
   ],
-  "summary": "Verified intelligence gathered across 83 deduplicated editorial clusters."
+  "summary": "Verified intelligence gathered across 92 deduplicated editorial clusters."
 }
