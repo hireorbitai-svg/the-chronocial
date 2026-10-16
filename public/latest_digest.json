@@ -1,55 +1,93 @@
 {
-  "timestamp": "2026-10-16T03:19:11.507065+00:00",
-  "headline_count": 91,
+  "timestamp": "2026-10-16T08:46:39.756206+00:00",
+  "headline_count": 92,
   "headlines": [
     {
-      "title": "'Grey's Anatomy' Boss Unpacks Season 23 Premiere and Teases Dolly Parton Episode, Texas Spinoff and Whether This Really Could Be the Final Season",
-      "url": "https://variety.com/2026/tv/news/greys-anatomy-season-23-premiere-spinoff-update-final-season-1236911978/",
-      "source_count": 3,
-      "sources": [
-        "Variety",
-        "Deadline Hollywood",
-        "The Hollywood Reporter"
-      ]
-    },
-    {
-      "title": "Why Did Netflix Boot Bela Bajaria?",
-      "url": "https://variety.com/2026/film/news/netflix-bela-bajaria-why-did-she-leave-1236913635/",
+      "title": "Singapore Media Festival Launches Creator Summit as Asia TV Forum Adds AI Zone, Microdrama Focus",
+      "url": "https://variety.com/2026/tv/markets-festivals/singapore-media-festival-asia-creator-summit-ai-zone-atf-1236913825/",
       "source_count": 1,
       "sources": [
         "Variety"
       ]
     },
     {
-      "title": "Olivia Rodrigo and Chappell Roan Compete on Game Shows Hosted by David Byrne in the Retro Video for 'Expectations' Remix",
-      "url": "https://variety.com/2026/music/news/olivia-rodrigo-chappell-roan-expectations-video-david-byrne-1236913618/",
+      "title": "Busan Takeaways: Record Crowds Meet a Political Storm as Asia's Producers Close Ranks",
+      "url": "https://variety.com/2026/film/markets-festivals/busan-film-festival-2026-takeaways-record-crowds-political-storm-1236913812/",
       "source_count": 1,
       "sources": [
         "Variety"
       ]
     },
     {
-      "title": "The 27 Best 'American Horror Story' Characters, Ranked",
-      "url": "https://variety.com/lists/american-horror-story-characters-ranked/",
+      "title": "'Norm: The Tale of Norm Macdonald': Five Biggest Takeaways, From the 'SNL' Firing to Concealing His Cancer Diagnosis",
+      "url": "https://variety.com/lists/norm-tale-norm-macdonald-netflix-snl-cancer-metoo/",
       "source_count": 1,
       "sources": [
         "Variety"
       ]
     },
     {
-      "title": "Jenna Ortega Says She Hopes 'Klara and the Sun' Encourages People to 'Put Down the Computers and Phones' as Dystopian Film World Premieres in London",
-      "url": "https://variety.com/2026/film/festivals/jenna-ortega-klara-and-the-sun-put-down-phones-london-premiere-1236912808/",
+      "title": "Serielizados Program: Steven Moffat, Ferran Adrià and Rodrigo Sorogoyen Bring Star Creator Power to Barcelona",
+      "url": "https://variety.com/2026/tv/global/serielizados-program-steven-moffat-ferran-adria-1236913188/",
       "source_count": 1,
       "sources": [
         "Variety"
       ]
     },
     {
-      "title": "Steven Soderbergh to Help Finish 'The Batman 2' Filming After Matt Reeves Stepped Away for Family Matter",
-      "url": "https://variety.com/2026/film/news/steven-soderbergh-finish-batman-2-matt-reeves-stepped-away-1236913552/",
+      "title": "'Avatar: Fire and Ash' Composer and More Speak Out About AI at Ghent's WSA Film Music Days: 'We Must Continue to Defend Our Art'",
+      "url": "https://variety.com/2026/artisans/festivals/avatar-ai-ghent-wsa-film-music-days-1236910224/",
       "source_count": 1,
       "sources": [
         "Variety"
+      ]
+    },
+    {
+      "title": "Nawazuddin Siddiqui to Star as Delhi Street Detective in 'Kabootar' (EXCLUSIVE)",
+      "url": "https://variety.com/2026/film/news/nawazuddin-siddiqui-delhi-street-detective-kabootar-1236913102/",
+      "source_count": 1,
+      "sources": [
+        "Variety"
+      ]
+    },
+    {
+      "title": "Layoffs Take Place At 'The Repair Shop' Producer Ricochet",
+      "url": "https://deadline.com/2026/10/ricochet-layoffs-the-repair-shop-skydance-damon-pattison-1237157978/",
+      "source_count": 1,
+      "sources": [
+        "Deadline Hollywood"
+      ]
+    },
+    {
+      "title": "Bryson Fire Has Burned More Than 140 Acres; Evacuation Orders Issued; Wind Gusts Expected To 50 MPH Overnight",
+      "url": "https://deadline.com/2026/10/bryson-fire-malibu-1237158950/",
+      "source_count": 1,
+      "sources": [
+        "Deadline Hollywood"
+      ]
+    },
+    {
+      "title": "'Street Fighter' Punches $4M In U.S. Previews, 'You Can See Everything' $2M",
+      "url": "https://deadline.com/2026/10/box-office-street-fighter-you-can-see-everything-1237159320/",
+      "source_count": 1,
+      "sources": [
+        "Box Office Update"
+      ]
+    },
+    {
+      "title": "'Cupertino' Creators Robert & Michelle King On Episode 2's Shocking AGI Twist & Predicting The Future Again With AI Guardrails Storyline",
+      "url": "https://deadline.com/2026/10/cupertino-creators-episode-102-bo-agi-storyline-interview-1237158656/",
+      "source_count": 1,
+      "sources": [
+        "Deadline Hollywood"
+      ]
+    },
+    {
+      "title": "Kylie Minogue, Jonathan Groff & Catherine Tate Join 'Bad Fairies' Cast With Cynthia Erivo",
+      "url": "https://deadline.com/2026/10/kylie-minogue-jonathan-groff-catherine-tate-bad-fairies-1237158983/",
+      "source_count": 1,
+      "sources": [
+        "Deadline Hollywood"
       ]
     },
     {
@@ -61,40 +99,24 @@
       ]
     },
     {
-      "title": "'Law & Order' Season 26, Episode 2 Recap: What Happened To Det. Vincent Riley In Reid Scott's Final Episode?",
-      "url": "https://deadline.com/2026/10/law-and-order-season-26-episode-2-recap-vincent-riley-reid-scott-final-episode-1237150631/",
+      "title": "'Norm: The Tale of Norm Macdonald' Review: Judd Apatow's Latest Comedy Doc Sends Viewers Down a Laugh-Filled Rabbit Hole",
+      "url": "https://www.hollywoodreporter.com/movies/movie-reviews/norm-the-tale-of-norm-macdonald-review-judd-apatow-netflix-1236733208/",
       "source_count": 1,
       "sources": [
-        "Deadline Hollywood"
-      ]
-    },
-    {
-      "title": "Netflix's New Content Chief Peter Rice Will Continue As EP Of LA28 Opening & Closing Ceremonies",
-      "url": "https://deadline.com/2026/10/peter-rice-remains-la28-opening-closing-ceremonies-ep-1237159010/",
-      "source_count": 1,
-      "sources": [
-        "Deadline Hollywood"
-      ]
-    },
-    {
-      "title": "Everything We Know About 'The Housemaid's Secret' Film So Far",
-      "url": "https://deadline.com/feature/the-housemaid-2-movie-news-updates-sequel-adaptation-1237045522/",
-      "source_count": 1,
-      "sources": [
-        "Deadline Hollywood"
-      ]
-    },
-    {
-      "title": "Bryson Fire Has Burned More Than 100 Acres; Evacuation Orders Issued; Expected Wind Gusts To 50 MPH Overnight",
-      "url": "https://deadline.com/2026/10/bryson-fire-malibu-1237158950/",
-      "source_count": 1,
-      "sources": [
-        "Deadline Hollywood"
+        "The Hollywood Reporter"
       ]
     },
     {
       "title": "James McAvoy Reveals Which Film Paid Him \"Bonkers\" Residuals",
       "url": "https://www.hollywoodreporter.com/movies/movie-news/james-mcavoy-film-split-paid-bonkers-residuals-1236733475/",
+      "source_count": 1,
+      "sources": [
+        "The Hollywood Reporter"
+      ]
+    },
+    {
+      "title": "'Grey's Anatomy' Boss Meg Marinis on Texas Spinoff, Ellen Pompeo and Season 23 Premiere Cliffhangers",
+      "url": "https://www.hollywoodreporter.com/tv/tv-features/greys-anatomy-premiere-season-23-texas-spinoff-ellen-pompeo-1236733218/",
       "source_count": 1,
       "sources": [
         "The Hollywood Reporter"
@@ -125,59 +147,75 @@
       ]
     },
     {
-      "title": "'Street Fighter' Eyes Box Office Victory as Buzzy Elizabeth Holmes Doc Heads for Strong Launch",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/street-fighter-box-office-whalefall-you-can-see-everything-1236733042/",
-      "source_count": 1,
-      "sources": [
-        "The Hollywood Reporter"
-      ]
-    },
-    {
-      "title": "Imran Khan to challenge FRRO's directive asking him to leave India by Oct 28; veteran Raza Murad slams him for taking part in protest",
-      "url": "https://www.bollywoodhungama.com/news/bollywood/imran-khan-to-challenge-frros-directive-asking-him-to-leave-india-by-oct-28-veteran-raza-murad-slams-him-for-taking-part-in-protest/",
+      "title": "Has Bollywood crowned Aneet Padda a SUPERSTAR too soon? Shakti Shalini could expose the gap between hype and reality",
+      "url": "https://www.bollywoodhungama.com/news/bollywood/has-bollywood-crowned-aneet-padda-a-superstar-too-soon-shakti-shalini-could-expose-the-gap-between-hype-and-reality/",
       "source_count": 1,
       "sources": [
         "Bollywood Hungama"
       ]
     },
     {
-      "title": "Kiss Ka Kissa: Vidhi Kasliwal announces romantic short film starring Priyanshu Painyuli and Vandana Josh",
-      "url": "https://www.bollywoodhungama.com/news/bollywood/kiss-ka-kissa-vidhi-kasliwal-announces-romantic-short-film-starring-priyanshu-painyuli-and-vandana-josh/",
+      "title": "Janhvi Kapoor, Sreeleela and Siddharth Gupta team up for Umesh Bisht's thriller, first schedule begins in Nainital",
+      "url": "https://www.bollywoodhungama.com/news/bollywood/janhvi-kapoor-sreeleela-and-siddharth-gupta-team-up-for-umesh-bishts-thriller-first-schedule-begins-in-nainital/",
       "source_count": 1,
       "sources": [
         "Bollywood Hungama"
       ]
     },
     {
-      "title": "Nushrratt Bharuccha undergoes spine surgery, discharged from hospital; team shares health update",
-      "url": "https://www.bollywoodhungama.com/news/bollywood/nushrratt-bharuccha-undergoes-spine-surgery-discharged-from-hospital-team-shares-health-update/",
+      "title": "BREAKING: Jacqueline Fernandez has a hilarious cameo in Yami Gautam Dhar's Nayyi Navelli",
+      "url": "https://www.bollywoodhungama.com/news/bollywood/breaking-jacqueline-fernandez-has-a-hilarious-cameo-in-yami-gautam-dhars-nayyi-navelli/",
       "source_count": 1,
       "sources": [
         "Bollywood Hungama"
       ]
     },
     {
-      "title": "Niti Taylor recalls casting couch ordeal with Telugu film director: \"You will have to sleep with me for it this time\"",
-      "url": "https://www.bollywoodhungama.com/news/bollywood/niti-taylor-recalls-casting-couch-ordeal-with-telugu-film-director-you-will-have-to-sleep-with-me-for-it-this-time/",
+      "title": "Saif Ali Khan leases two Mumbai office units for Rs. 22.76 lakhs a month; security deposit stands at Rs. 2.36 crores",
+      "url": "https://www.bollywoodhungama.com/news/bollywood/saif-ali-khan-leases-two-mumbai-office-units-for-rs-22-76-lakhs-a-month-security-deposit-stands-at-rs-2-36-crores/",
       "source_count": 1,
       "sources": [
         "Bollywood Hungama"
       ]
     },
     {
-      "title": "Ramayana international trailer to be unveiled at Bengaluru event; Ranbir Kapoor, Yash, Sai Pallavi to attend",
-      "url": "https://www.bollywoodhungama.com/news/bollywood/ramayana-international-trailer-to-be-unveiled-at-bengaluru-event-ranbir-kapoor-yash-sai-pallavi-to-attend/",
+      "title": "Nitanshi Goel joins Korean skincare brand Mamonde as its first India brand ambassador",
+      "url": "https://www.bollywoodhungama.com/news/bollywood/nitanshi-goel-joins-korean-skincare-brand-mamonde-as-its-first-india-brand-ambassador/",
       "source_count": 1,
       "sources": [
         "Bollywood Hungama"
       ]
     },
     {
-      "title": "Kartik Aaryan and Sreeleela's Anurag Basu-directed film locks April 30, 2027 release date",
-      "url": "https://www.bollywoodhungama.com/news/bollywood/kartik-aaryan-and-sreeleelas-anurag-basu-directed-film-locks-april-30-2027-release-date/",
+      "title": "Watch the drama, BUY the heroine's outfit! Microdramas cross 1 BILLION daily episode views as shopping enters the storyline",
+      "url": "https://www.bollywoodhungama.com/news/bollywood/watch-the-drama-buy-the-heroines-outfit-microdramas-cross-1-billion-daily-episode-views-as-shopping-enters-the-storyline/",
       "source_count": 1,
       "sources": [
         "Bollywood Hungama"
+      ]
+    },
+    {
+      "title": "Quote Of The Day By Tom Hanks: 'So I Just Got Used To Occupying Myself By Being Alone. And That's Really Great. And...'",
+      "url": "https://www.tvline.com/2286517/quote-of-the-day-tom-hanks-loneliness/",
+      "source_count": 1,
+      "sources": [
+        "TVLine"
+      ]
+    },
+    {
+      "title": "What To Watch Friday: Tulsa King And Rainmaker Return, New Dark Matter And MobLand, And More",
+      "url": "https://www.tvline.com/2287442/what-to-watch-october-16-2026-tv-shows-movies/",
+      "source_count": 1,
+      "sources": [
+        "TVLine"
+      ]
+    },
+    {
+      "title": "Grey's Anatomy Season 23 Premiere: Who Quit? Who's Pregnant? And Did Toni Forgive Amelia? (Grade It!)",
+      "url": "https://www.tvline.com/2288467/greys-anatomy-season-23-episode-1-premiere-explained-simone-pregnant/",
+      "source_count": 1,
+      "sources": [
+        "TVLine"
       ]
     },
     {
@@ -199,30 +237,6 @@
     {
       "title": "One Of The Love Boat's Most Memorable Guest Stars Tried To Turn The Show Down",
       "url": "https://www.tvline.com/2282334/the-love-boat-most-memorable-guest-star-charo-tried-turn-show-down/",
-      "source_count": 1,
-      "sources": [
-        "TVLine"
-      ]
-    },
-    {
-      "title": "9-1-1: Nashville's Chris O'Donnell And Ryan Phillippe React To Season 2 Premiere's Biggest Twists",
-      "url": "https://www.tvline.com/2288419/911-nashville-season-2-episode-1-rogue-kelly-explained/",
-      "source_count": 1,
-      "sources": [
-        "Grade It!"
-      ]
-    },
-    {
-      "title": "9-1-1: Nashville Season 2's Fiona Lowe Tribute Explained",
-      "url": "https://www.tvline.com/2288429/911-nashville-season-2-fiona-lowe-tribute-explained/",
-      "source_count": 1,
-      "sources": [
-        "TVLine"
-      ]
-    },
-    {
-      "title": "Mom's Anna Faris Reveals She's A Year And A Half Sober After Chuck Lorre's Memoir Comments About Her 'Not Mysterious' Exit From CBS Comedy",
-      "url": "https://www.tvline.com/2288436/anna-faris-sober-chuck-lorre-memoir-mom-exit-response/",
       "source_count": 1,
       "sources": [
         "TVLine"
@@ -471,8 +485,8 @@
       ]
     },
     {
-      "title": "EXCLUSIVE: WEF could appoint Lagarde as early as November, sources say",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQNExHamNuVlEwYUJMR1pmbjhxVFpNYURJVDNqU2wydDRMSDV3WkNSajkweDMzTU9FRGpsclhFLWFJVVRzcWxpMWlZN0VkYkNyUVlOWmhoZ1BNNXA5M2s4WU1EUEZVMDRWM3ktWUtaTmM2UkhfMEdSZ29oXzBZMFJyUngxN05NYjYzUUVQVksxaHBjSzFyVjNHLVpaaFZweTVlUkMtNnQ3dUI",
+      "title": "CERN and Mistral partner to build Flare, a new AI model for physics",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOejlwRzRlN1BnaFhFZ1VYb0ZKSVFmN1NRcFppbWFLdXV3ZzEtdUFpc0RRcFNtTmRVeGhjX0pLVmV1bElvQmpFeVlsYkcwX0h2WDFQaksyZ2JYSng5c3MwbVJ2V20zN0hQYU1vNXc3bWZlWjlSX1ZwTHE2NnRmNzRjX3VodU5ZemRfU2NqaXdPWGVyNzJXWTYyU0I5dFFLSmZq",
       "source_count": 1,
       "sources": [
         "Reuters"
@@ -487,19 +501,19 @@
       ]
     },
     {
+      "title": "'Godfather' star Al Pacino",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE45ejVGR1NOS0wzaHU3a2FVeWtwYTczakZucGJEZmdjTE5LNTJRdVBPUmtKWUw1ejVXdnAtN3NOa0hvQWg3UnNlRk8ybnhFQmtIWk9CUW9vOUFsNUlTUEtKOEZXUlFqZEU2NmVrdWhuWEZZbW1p",
+      "source_count": 1,
+      "sources": [
+        "FBC News"
+      ]
+    },
+    {
       "title": "Netflix cuts about 6 per cent of jobs in biggest layoff since 2022",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNeHFPblZqNkZ1Y1pKUFlzalRYdGUwemJTcUVqZU55dTJ0ZGtnODJFTmVvQmw2SGo1akJLc2pBVi1acTBLblJOc1ZyeFkzVHk1MmZNenc4RGRJV1VMcE9OelFMdEc5cmIxdmdvcnNybXlmcnVxVkRIc1BuMFd0U1JOLUcwZ3A3djhDR2VqR25VOG1lYkZqQjV1bFU4a3BZUkhZYkdfTUJUT1B4TWtkWmJxdW4yeGJzTEVrclZYSnJWdVVDczQ",
       "source_count": 1,
       "sources": [
         "The Financial Express"
-      ]
-    },
-    {
-      "title": "Hackers heat French supermarket fridges, sparking fires and spoiling food",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOLU1iNVd4N0RyM29yWVFhSldLS2lsa0YydGZld3hRWTFONXlPWGhMcHVNcDB2N3JUSjdiNU1OVURBY0taUVVhMFBOTFNmZHV6dVREX2hsdjBEQ3g3RWRQa0dGLUZQUTZNTERGNlFnT1YzNUFHVVNGd3JLVDNCMnVINHo2Y285UF9sUktjblE1Sm9jcXFuZWZPUFk4cVJpZTNERzZJM2tVT2RzVWVKZXNhQ3NCYzZyeWU1LUM5UEVMRnB6V3ZpUm9IbU5PdzlvX0h2R3ZF",
-      "source_count": 1,
-      "sources": [
-        "Reuters"
       ]
     },
     {
@@ -551,6 +565,14 @@
       ]
     },
     {
+      "title": "Oregon School Shooting: 3 Children and a Teacher Killed in Tragedy",
+      "url": "https://www.rollingstone.com/culture/culture-news/bend-oregon-school-shooting-1235643739/",
+      "source_count": 1,
+      "sources": [
+        "Rolling Stone Culture"
+      ]
+    },
+    {
       "title": "Mike Tyson Accuses Supreme of Breaching Contract Over Palestinian Flag Hoodie",
       "url": "https://www.rollingstone.com/culture/culture-news/mike-tyson-supreme-palestinian-flag-hoodie-1235643362/",
       "source_count": 1,
@@ -591,16 +613,8 @@
       ]
     },
     {
-      "title": "'Ruthless and Calculated': Opening Statements Begin in Russell Brand Rape Trial",
-      "url": "https://www.rollingstone.com/culture/culture-news/russell-brand-rape-trial-london-opening-statements-1235642407/",
-      "source_count": 1,
-      "sources": [
-        "Rolling Stone Culture"
-      ]
-    },
-    {
-      "title": "Chappell Roan Talks Bringing Her Perspective to Olivia Rodrigo's 'Expectations': 'I Love Making Things a Little Gay'",
-      "url": "https://www.billboard.com/music/pop/chappell-roan-olivia-rodrigo-zane-lowe-expectations-1236361689/",
+      "title": "Zach Bryan's 'Young Manhood and Other Donatable Organs': Every Song Ranked",
+      "url": "https://www.billboard.com/lists/zach-bryans-young-manhood-and-other-donatable-organs-ranked/",
       "source_count": 2,
       "sources": [
         "Billboard",
@@ -608,32 +622,32 @@
       ]
     },
     {
-      "title": "Nelly & Ashtani Get Ready for Taylor Swift and Travis Kelce's Wedding in Reality Show Trailer: 'Nelly Is a Swiftie'",
-      "url": "https://www.billboard.com/music/rb-hip-hop/nelly-ashtani-taylor-swift-travis-kelce-wedding-show-trailer-1236361670/",
+      "title": "Olivia Rodrigo feat. Chappell Roan, Tate McRae, Zach Bryan & Angèle: New Music Friday Guide",
+      "url": "https://www.billboard.com/music/music-news/olivia-rodrigo-tate-mcrae-zach-bryan-new-music-friday-guide-1236361399/",
       "source_count": 1,
       "sources": [
         "Billboard"
       ]
     },
     {
-      "title": "Watch Madonna Channel Her Inner-'Nicole Kidman' With Adela's Viral Hit in New TikTok",
-      "url": "https://www.billboard.com/music/pop/madonna-adela-nicole-kidman-tiktok-video-1236361654/",
+      "title": "Troye Sivan Enjoys 'Best' Start on ARIA Chart",
+      "url": "https://www.billboard.com/music/chart-beat/troye-sivan-best-start-aria-albums-chart-1236361738/",
       "source_count": 1,
       "sources": [
         "Billboard"
       ]
     },
     {
-      "title": "Billboard's Music Industry Events Calendar",
-      "url": "https://www.billboard.com/pro/music-industry-events-calendar-festivals-awards-conferences/",
+      "title": "The Avalanches Press Play on 'No Bad Memories': Stream It Now",
+      "url": "https://www.billboard.com/music/music-news/the-avalanches-no-bad-memories-stream-it-now-1236361730/",
       "source_count": 1,
       "sources": [
         "Billboard"
       ]
     },
     {
-      "title": "Tate McRae Isn't Your 'Housewife' in Stunning New Visual: Watch",
-      "url": "https://www.billboard.com/music/pop/tate-mcrae-housewife-single-video-1236361592/",
+      "title": "A$AP Rocky Brings Trippy 'Shroom Clouds' to Streaming Services for the First Time: Listen",
+      "url": "https://www.billboard.com/music/rb-hip-hop/asap-rocky-shroom-clouds-single-disc-2-1236361622/",
       "source_count": 1,
       "sources": [
         "Billboard"
@@ -688,10 +702,19 @@
       ]
     },
     {
-      "title": "53 Years Later, The Greatest Closing Line In Sci-Fi History Is Still The Best Book Quote Of The 1970s",
-      "url": "https://www.polygon.com/best-scifi-book-closing-line/",
+      "title": "The 10 Best Low Fantasy Books",
+      "url": "https://www.polygon.com/best-low-fantasy-books/",
       "source_count": 1,
       "sources": [
+        "Polygon"
+      ]
+    },
+    {
+      "title": "34 Years Later, the Best-Ever 'Far Side' Quote Will Still Leave You Speechless",
+      "url": "https://www.polygon.com/best-far-side-quote-ever/",
+      "source_count": 2,
+      "sources": [
+        "Polygon",
         "Polygon"
       ]
     },
@@ -718,23 +741,7 @@
       "sources": [
         "Polygon"
       ]
-    },
-    {
-      "title": "6 Fire Emblem Fortune's Weave Characters Who Need to Be in the Next Smash Bros Game",
-      "url": "https://www.polygon.com/fire-emblem-fortunes-weave-characters-next-smash-bros/",
-      "source_count": 1,
-      "sources": [
-        "Polygon"
-      ]
-    },
-    {
-      "title": "2026's Bloodiest Game Just Got a Release Date",
-      "url": "https://www.polygon.com/acts-of-blood-steam-release-date-console-launch-announced/",
-      "source_count": 1,
-      "sources": [
-        "Polygon"
-      ]
     }
   ],
-  "summary": "Verified intelligence gathered across 91 deduplicated editorial clusters."
+  "summary": "Verified intelligence gathered across 92 deduplicated editorial clusters."
 }
