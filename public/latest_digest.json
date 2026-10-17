@@ -1,125 +1,132 @@
 {
-  "timestamp": "2026-10-17T20:11:40.468035+00:00",
-  "headline_count": 90,
+  "timestamp": "2026-10-17T23:46:19.151747+00:00",
+  "headline_count": 91,
   "headlines": [
+    {
+      "title": "James McAvoy Says 'Split' Is The Only Film That 'Really Consistently Pays Me'",
+      "url": "https://variety.com/2026/film/news/james-mcavoy-split-only-film-that-consistently-pays-me-1236915162/",
+      "source_count": 1,
+      "sources": [
+        "Variety"
+      ]
+    },
+    {
+      "title": "Here's Where to Buy New York Knicks Home Opener Tickets at Madison Square Garden Online",
+      "url": "https://variety.com/2026/shopping/news/new-york-knicks-home-opener-2026-msg-tickets-buy-online-1236874638/",
+      "source_count": 1,
+      "sources": [
+        "Variety"
+      ]
+    },
+    {
+      "title": "Here's Where to Watch Sebastian Fundora vs. Ermal Hadribeaj Title Boxing Match Live Online for Free",
+      "url": "https://variety.com/2026/shopping/news/how-to-watch-fundora-vs-hadribeaj-boxing-live-online-free-1236909640/",
+      "source_count": 1,
+      "sources": [
+        "Variety"
+      ]
+    },
+    {
+      "title": "Paul Bettany Says He and Johnny Depp 'Hadn't Spoken' in Years When Their Texts Were Read During Libel Trial: 'I Was Being Painted As This Close Friend'",
+      "url": "https://variety.com/2026/film/news/paul-bettany-johnny-depp-hadnt-spoken-in-years-libel-trial-1236915108/",
+      "source_count": 1,
+      "sources": [
+        "Variety"
+      ]
+    },
+    {
+      "title": "'Klara and the Sun' Review: There's No Life - Intelligent, Artificial or Otherwise - in Taika Waititi's Calamitous Android Fantasy",
+      "url": "https://variety.com/2026/film/news/klara-and-the-sun-review-1236914992/",
+      "source_count": 1,
+      "sources": [
+        "Variety"
+      ]
+    },
     {
       "title": "'Dancing With the Stars' Pulls Val Chmerkovskiy After 'Inappropriate' Carrie Ann Inaba Slap Joke: 'The Well-Being' of Our Staff Is 'Non-Negotiable'",
       "url": "https://variety.com/2026/tv/news/dancing-with-the-stars-pulls-val-chmerkovskiy-carrie-ann-inaba-slap-joke-1236915031/",
-      "source_count": 3,
+      "source_count": 2,
       "sources": [
         "Variety",
-        "Deadline Hollywood",
-        "The Hollywood Reporter"
+        "Deadline Hollywood"
       ]
     },
     {
-      "title": "Harry Styles 'Together, Together' Tour Doc Coming From John Wilson, Universal Pictures Content Group (EXCLUSIVE)",
-      "url": "https://variety.com/2026/film/news/harry-styles-john-wilson-tour-documentary-universal-1236914875/",
+      "title": "Clive Barker Teases 'Hellraiser: Revival' Video Game Has Reignited \"Many Ideas\" For Film Franchise: \"Planning To Keep My Fingers In That Pie\"",
+      "url": "https://deadline.com/2026/10/clive-barker-hellraiser-revival-reignited-ideas-film-franchise-1237166512/",
       "source_count": 1,
       "sources": [
-        "Variety"
+        "Deadline Hollywood"
       ]
     },
     {
-      "title": "KJ Apa on Becoming Jimmy Stewart, Speculation That He Is the Singer Mr. Fantasy and Opening Up About His Addictions and Recovery: 'This Is A Huge Part of Who I Am'",
-      "url": "https://variety.com/2026/film/columns/kj-apa-jimmy-stewart-mr-fantasy-addictions-recovery-1236912309/",
+      "title": "Paul McCartney Was Concerned Paul Mescal Is \"Markedly Shorter\" Than 'The Beatles' Co-Stars",
+      "url": "https://deadline.com/2026/10/paul-mccartney-concerned-paul-mescal-markedly-shorter-beatles-1237166503/",
       "source_count": 1,
       "sources": [
-        "Variety"
+        "Deadline Hollywood"
       ]
     },
     {
-      "title": "'Musk' TikTok Account Permanently Suspended Ahead of Documentary's Wide Release",
-      "url": "https://variety.com/2026/film/news/musk-documentary-tiktok-account-permanently-suspended-1236914995/",
+      "title": "Donald Trump Finally Arrives On 'SNL UK' In Job Swap Cold Open With Andy Burnham & Volodymyr Zelenskyy",
+      "url": "https://deadline.com/2026/10/snl-uk-donald-trump-first-time-andy-burnham-zelensky-1237166466/",
       "source_count": 1,
       "sources": [
-        "Variety"
+        "Deadline Hollywood"
       ]
     },
     {
-      "title": "How 'Whalefall' Production Designer Ramsey Avery Built the Creature's Stomach Using Mattress Foam and Silicone Bits",
-      "url": "https://variety.com/2026/artisans/features/whalefall-production-design-whale-stomach-bile-1236910368/",
+      "title": "'Street Fighter's Orville Peck Tried To \"Orchestrate\" Kylie Minogue Cameo: \"Guys, I Can Text Her\"",
+      "url": "https://deadline.com/2026/10/street-fighter-orville-peck-tried-kylie-minogue-cameo-1237166445/",
       "source_count": 1,
       "sources": [
-        "Variety"
-      ]
-    },
-    {
-      "title": "'Sense and Sensibility' Costume Designer on Blending Historical Accuracy and Modern Styling for the Dashwood Sisters: 'We Want to Do Jane Austen Justice'",
-      "url": "https://variety.com/2026/film/news/sense-and-sensibility-costume-designer-dashwood-1236913296/",
-      "source_count": 1,
-      "sources": [
-        "Variety"
+        "Deadline Hollywood"
       ]
     },
     {
       "title": "Miley Cyrus Tearfully Remembers Dolly Parton At Hollywood Bowl Concert, Performs 'Jolene'",
       "url": "https://deadline.com/2026/10/miley-cyrus-dolly-parton-jolene-hollywood-bowl-1237166419/",
-      "source_count": 1,
+      "source_count": 2,
       "sources": [
-        "Deadline Hollywood"
+        "Deadline Hollywood",
+        "The Hollywood Reporter"
       ]
     },
     {
-      "title": "Harry Styles Pays Tribute To Liam Payne With New Song At Madison Square Garden Concert",
-      "url": "https://deadline.com/2026/10/harry-styles-liam-payne-madison-square-garden-1237166392/",
+      "title": "Gene Schwam, Hollywood Publicist to Elvis Presley, Judy Garland and Julie Andrews, Dies at 96",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/gene-schwam-dead-publicist-elvis-judy-garland-julie-andrews-1236734445/",
       "source_count": 1,
       "sources": [
-        "Deadline Hollywood"
+        "The Hollywood Reporter"
       ]
     },
     {
-      "title": "Pro Wrestler Benjamin Satterley Cause Of Death Determined",
-      "url": "https://deadline.com/2026/10/benjamin-satterley-cause-of-death-1237166368/",
+      "title": "'The Diplomat' U.K. Prime Minister on the Operatic Way He Learned of His \"Shocking\" Season 4 Storyline",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/the-diplomat-trowbridge-resigns-rory-kinnear-interview-1236734442/",
       "source_count": 1,
       "sources": [
-        "Deadline Hollywood"
+        "The Hollywood Reporter"
       ]
     },
     {
-      "title": "'Street Fighter' Socks $31M, 'You Can See Everything' Has Lines Around The Block With $12M+ Docu Milestone",
-      "url": "https://deadline.com/2026/10/box-office-street-fighter-you-can-see-everything-1237159320/",
+      "title": "Harry Styles Debuts Unreleased Song at MSG to Honor Liam Payne on Second Death Anniversary",
+      "url": "https://www.hollywoodreporter.com/music/music-news/harry-styles-unreleased-song-honor-liam-payne-anniversary-1236734395/",
       "source_count": 1,
       "sources": [
-        "Saturday Update"
+        "The Hollywood Reporter"
       ]
     },
     {
-      "title": "Michael Forest Dies: Actor In Roger Corman B-Movies, 'Star Trek's Apollo Was 97",
-      "url": "https://deadline.com/2026/10/michael-forest-dead-1237166329/",
+      "title": "Ari Emanuel Pitches Brother Rahm as Centrist Democratic President and Says He Isn't Too Worried About AI: \"It Doesn't Have Taste\"",
+      "url": "https://www.hollywoodreporter.com/business/business-news/ari-emanuel-pitches-brother-rahm-president-ai-has-no-taste-1236734288/",
       "source_count": 1,
       "sources": [
-        "Deadline Hollywood"
+        "The Hollywood Reporter"
       ]
     },
     {
       "title": "Carrot Top Breaks Silence After Suicide Attempt and Hospitalization as Comedian Preps Return to Stage",
       "url": "https://www.hollywoodreporter.com/news/general-news/carrot-top-suicide-attempt-hospitalization-luxor-residency-1236734402/",
-      "source_count": 1,
-      "sources": [
-        "The Hollywood Reporter"
-      ]
-    },
-    {
-      "title": "'9-1-1: Nashville' Pays Tribute to Chad Lowe's Daughter Fiona After Her Death at 13",
-      "url": "https://www.hollywoodreporter.com/tv/tv-news/9-1-1-nashville-tribute-chad-lowe-daughter-death-1236734354/",
-      "source_count": 1,
-      "sources": [
-        "The Hollywood Reporter"
-      ]
-    },
-    {
-      "title": "UCLA Bruins vs. Wisconsin Badgers: Where to Watch the 2026 College Football Game Online",
-      "url": "https://www.hollywoodreporter.com/tv/tv-news/watch-ucla-bruins-wisconsin-badgers-football-game-free-2026-1236733782/",
-      "source_count": 2,
-      "sources": [
-        "The Hollywood Reporter",
-        "The Hollywood Reporter"
-      ]
-    },
-    {
-      "title": "'American Horror Story' Actor Orlando Jones on Taking Over Lance Reddick's Role and His Season 13 Prediction: \"Somebody Gonna Die!\"",
-      "url": "https://www.hollywoodreporter.com/tv/tv-features/american-horror-story-13-orlando-jones-papa-legba-coven-1236730435/",
       "source_count": 1,
       "sources": [
         "The Hollywood Reporter"
@@ -174,48 +181,48 @@
       ]
     },
     {
-      "title": "10 Most Underrated HBO Shows Ever Made, Ranked",
-      "url": "https://www.tvline.com/2289302/hbo-most-underrated-tv-shows-ranked/",
+      "title": "Larry David Got His Big Break On A 'Rip-Off' Of SNL",
+      "url": "https://www.tvline.com/2289432/larry-david-big-break-snl-rip-off-fridays/",
       "source_count": 1,
       "sources": [
         "TVLine"
       ]
     },
     {
-      "title": "What To Watch This Week: 30+ Premieres, Finales, And More",
-      "url": "https://www.tvline.com/2289301/what-to-watch-week-of-october-18-2026-tv-shows-movies/",
+      "title": "The First 19 Seasons Of Canada's Hit Western Series Are Streaming On Netflix",
+      "url": "https://www.tvline.com/2285212/heartland-19-seasons-hit-western-series-canada-streaming-netflix/",
       "source_count": 1,
       "sources": [
         "TVLine"
       ]
     },
     {
-      "title": "ABC's First Big TV Show Was A Hit Western Series With Over 200 Episodes",
-      "url": "https://www.tvline.com/2285123/abc-first-big-tv-show-hit-western-series-over-200-episodes-the-lone-ranger/",
+      "title": "Is SNL New Tonight (October 17, 2026)? Host, Musical Guest, Episode Details",
+      "url": "https://www.tvline.com/2288716/is-snl-new-tonight-october-17-2026-host-musical-guest-watch-details/",
       "source_count": 1,
       "sources": [
         "TVLine"
       ]
     },
     {
-      "title": "5 Celebrities You Forgot Guest Starred On Game Of Thrones",
-      "url": "https://www.tvline.com/2285012/celebrities-forgot-guest-starred-game-of-thrones/",
+      "title": "The One Frasier Storyline Jane Leeves And David Hyde Pierce Would Change",
+      "url": "https://www.tvline.com/2285259/jane-leeves-david-hyde-pierce-frasier-storyline-change-daphne-weight/",
       "source_count": 1,
       "sources": [
         "TVLine"
       ]
     },
     {
-      "title": "15 TV Shows To Watch If You Like The Sopranos",
-      "url": "https://www.tvline.com/2289535/tv-shows-like-the-sopranos/",
+      "title": "15 Star Trek: Voyager Episodes To Skip On A Rewatch",
+      "url": "https://www.tvline.com/2289542/star-trek-voyager-episodes-skip-rewatch/",
       "source_count": 1,
       "sources": [
         "TVLine"
       ]
     },
     {
-      "title": "5 Law & Order: SVU Plot Twists That Shocked Audiences",
-      "url": "https://www.tvline.com/2284614/law-and-order-svu-plot-twists-shocked-audience/",
+      "title": "Chicago Fire's Creators Wanted To Avoid Becoming A Remake Of This Beloved Firefighting Drama",
+      "url": "https://www.tvline.com/2285227/chicago-fire-creators-avoid-remake-beloved-firefighting-drama-rescue-me/",
       "source_count": 1,
       "sources": [
         "TVLine"
@@ -311,12 +318,27 @@
       ]
     },
     {
+      "title": "Battlefield 6 Devs Respond After Players Take Aim at 'Secuty' Typo and Cosmetic With 5 Pistols",
+      "url": "https://www.ign.com/articles/battlefield-6-devs-respond-after-players-take-aim-at-secuty-typo-and-cosmetic-with-5-pistols",
+      "source_count": 1,
+      "sources": [
+        "IGN Games"
+      ]
+    },
+    {
+      "title": "The Best Deals Today: Cyberpunk 2077 for Switch 2, Pikmin 4, Star Wars Zero Company, and More",
+      "url": "https://www.ign.com/articles/best-deals-for-october-17-2026",
+      "source_count": 1,
+      "sources": [
+        "IGN Games"
+      ]
+    },
+    {
       "title": "Captain Price Actor Sends Message to Fans as Call of Duty: Modern Warfare 4 Campaign Praise Rolls in",
       "url": "https://www.ign.com/articles/captain-price-actor-sends-message-to-fans-as-call-of-duty-modern-warfare-4-campaign-praise-rolls-in",
-      "source_count": 2,
+      "source_count": 1,
       "sources": [
-        "IGN Games",
-        "Captain Price's Fate Explained"
+        "IGN Games"
       ]
     },
     {
@@ -338,14 +360,6 @@
     {
       "title": "'There Should be a Game Award for Hot Dads' - Castlevania: Belmont's Curse Devs Are Fully Aware and Loving the 'Horny' Fanart for Their Game",
       "url": "https://www.ign.com/articles/there-should-be-a-game-award-for-hot-dads-castlevania-belmonts-curse-devs-are-fully-aware-and-loving-the-horny-fanart-for-their-game",
-      "source_count": 1,
-      "sources": [
-        "IGN Games"
-      ]
-    },
-    {
-      "title": "Ghost of Yotei Sales Lag Behind Tsushima but Are Still Strong on PS5, Analyst Estimates Show",
-      "url": "https://www.ign.com/articles/ghost-of-yotei-sales-lagging-behind-tsushima-but-still-strong-on-ps5-analyst-estimates-show",
       "source_count": 1,
       "sources": [
         "IGN Games"
@@ -400,6 +414,14 @@
       ]
     },
     {
+      "title": "Metal band Genitorturers allegedly claims a Vampire: The Masquerade - Bloodlines remake is coming, getting a dozen crusty nerds way too worked up",
+      "url": "https://www.pcgamer.com/games/rpg/metal-band-genitorturers-allegedly-claims-a-vampire-the-masquerade-bloodlines-remake-is-coming-getting-a-dozen-crusty-nerds-way-too-worked-up/",
+      "source_count": 1,
+      "sources": [
+        "PC Gamer"
+      ]
+    },
+    {
       "title": "Qualcomm wins $2 legal decision against fellow tech giant Arm, and that's not a typo",
       "url": "https://www.pcgamer.com/gaming-industry/qualcomm-wins-usd2-legal-decision-against-fellow-tech-giant-arm-and-thats-not-a-typo/",
       "source_count": 1,
@@ -424,14 +446,6 @@
       ]
     },
     {
-      "title": "Discussion time: Do you think zone chats in MMOs are forces for good, or evil?",
-      "url": "https://www.pcgamer.com/games/world-of-warcraft/discussion-time-do-you-think-zone-chats-in-mmos-are-forces-for-good-or-evil/",
-      "source_count": 1,
-      "sources": [
-        "PC Gamer"
-      ]
-    },
-    {
       "title": "Surprising no-one, Wizards of the Coast 'doesn't intend to voluntarily recognize' union efforts for the second time this year",
       "url": "https://www.pcgamer.com/gaming-industry/surprising-no-one-wizards-of-the-coast-doesnt-intend-to-voluntarily-recognize-union-efforts-for-the-second-time-this-year/",
       "source_count": 1,
@@ -440,19 +454,11 @@
       ]
     },
     {
-      "title": "This game about grinding mute lumps of shapeless flesh has made me realise I've been hornswoggled by capitalism",
-      "url": "https://www.pcgamer.com/games/horror/this-game-about-grinding-mute-lumps-of-shapeless-flesh-has-made-me-realise-ive-been-hornswoggled-by-capitalism/",
+      "title": "Discussion time: Do you think zone chats in MMOs are forces for good, or evil?",
+      "url": "https://www.pcgamer.com/games/world-of-warcraft/discussion-time-do-you-think-zone-chats-in-mmos-are-forces-for-good-or-evil/",
       "source_count": 1,
       "sources": [
         "PC Gamer"
-      ]
-    },
-    {
-      "title": "Investors temper Anthropic IPO valuation expectations over revenue growth slowdown, sources say",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQRW4tSGppV2U0ZWtvaXBsQmlyaDVVLVFCSmJNMWdmMHpod0FWd25kUXRNQzFvZXJPTmhoQUNvMlFrQzI3NjBQVG9McWFPRHdUODhMbVItOGg4S0N3ZmJ4R2psZVd1aWFZM2M0aEY4R3VaYnFZWUxhOFZiRXAxTnc5UG9hMm1ERGpKbURkX3BWYzQ5UWl3THBFTDhWUWR0SVhUSWJsekpMZjM4OUZRQl9BVmY2djVKRENDSldCSUpOWmdvbHVK",
-      "source_count": 1,
-      "sources": [
-        "Reuters"
       ]
     },
     {
@@ -472,14 +478,6 @@
       ]
     },
     {
-      "title": "Novavax shareholder Shah Capital to step back from activist role",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPRWNVWE1RUEhhUnZ3YXNRbzhyUndqR3Jnc3dKRVBPdUhRNVF3Qm5yN1prTTBMSVdQd1dhVG1hSk1RcUVJNE53V0drT0Rpcl9YRFh1TmJJODFUX21TU28tT1hDVXlHZ1lsUWhWYTBJcHQzQ0N3aUhRYjFZLTZ2UlpTZk15anhnaWh4SkxyMDBsbEt2N1FuMG1xSThuVDc3UkpaLUdFa2lxTDFaN0dDRVMwLTQzVXJGRGN1cE1hZ3RJc3hqOEdBOGNr",
-      "source_count": 1,
-      "sources": [
-        "Reuters"
-      ]
-    },
-    {
       "title": "Nasdaq resolves network disruption that caused data gaps, source says By Reuters",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNckg5Nm54LTBpdERNNlcxUnM1bHdfV3lZN3E0eUc4WXpWc0I5QjVNallrSVZRYmZuSUZYbDRBOWxXU1dZU2pVdEpYbFVMRnZFZUtXUTgwcG8tWFRnS3VpX1ZWeUIwVml5Um1MbGpKM1BCcnBrU3RUR2V5N2g0Um1JRmJiLVF2NTJha1JJNmIyMFFYaVVmaXBlLUpEMWMtbzZwUjFoaDhPcnFsLUNxdEV2Z1dZR2V6VWlGMU1tWGdEWQ",
       "source_count": 1,
@@ -493,6 +491,22 @@
       "source_count": 1,
       "sources": [
         "FBC News"
+      ]
+    },
+    {
+      "title": "Exclusive-US holds more secret talks with Myanmar's military-backed rulers in Tokyo, sources say",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNSjhQUGIwbXJ0dFhSWUVIN0xXdjFxc3NvTjhyVUtmTWhXZ2RFYWVtamdQQXAySTBjWFM3SDgzVUNaVjV0SHRET0dZRXI4akhqVE5IbmgwM1JaLWxkaGJXRUVMRng0NE1FZVF4Rjl6QVNGME82empVVXNOUmx6aldlRy1pcXFGRHBIMG1PU3RLWGdxcFY5YWFBbnM4WFJOeEEwY0FFTHo5SHpBTmZ3MzVuYkpCT1VKRVM4d0tqekNYOG4wZExUdDFucdIBzgFBVV95cUxNOGV0UVFhOFA4VlAzUW81UlBic0l4Rm9oMllXX2RNakdNeWE4eE9Scmp6SUlwTXJTdjRsRXRKSE5nZlFtR2NHekVCUVV4QXRYZ0d1eUE0U210ZnZVU2NTQ3Q3ZGxlQUYxZktsWGttTEVzQmxxTGxXZEVhNVVmLXA2R0JLVmQ0TldpaG9lU3A4LTFINS1EVVJOd2NuakJxcGMxb0tQd0hSei1jbDlpVTZJSXNEanBvLVUwMW5Rd3FEWGxlMWRXMGFyejdwMXg0UQ",
+      "source_count": 1,
+      "sources": [
+        "ThePrint"
+      ]
+    },
+    {
+      "title": "Bill Hader Always Wanted to Direct a Film - His Divorce, 'SNL,' and Kiyoshi Kurosawa Helped Him Finally Build 'They Know'",
+      "url": "https://www.indiewire.com/news/events/bill-hader-first-film-they-know-snl-divorce-1235222526/",
+      "source_count": 1,
+      "sources": [
+        "IndieWire"
       ]
     },
     {
@@ -530,14 +544,6 @@
     {
       "title": "Fall Festival Movies Sold So Far: Niki Byrne's Chase Infiniti-Starring College Drama 'The Julia Set' Goes to SPC",
       "url": "https://www.indiewire.com/news/festivals/fall-festival-movies-sold-so-far-babies-ink-elsinore-1235213179/",
-      "source_count": 1,
-      "sources": [
-        "IndieWire"
-      ]
-    },
-    {
-      "title": "The Costumes of 'Sense and Sensibility' Are a Love Letter to Stealing Your Sister's Clothes",
-      "url": "https://www.indiewire.com/features/craft/sense-and-sensibility-costumes-sisters-who-steal-1235222259/",
       "source_count": 1,
       "sources": [
         "IndieWire"
@@ -681,6 +687,22 @@
       ]
     },
     {
+      "title": "8 Most Disappointing Switch Games, Ranked",
+      "url": "https://www.polygon.com/most-disappointing-switch-games-ranked/",
+      "source_count": 1,
+      "sources": [
+        "Polygon"
+      ]
+    },
+    {
+      "title": "Pokémon Go Minior Shower schedule",
+      "url": "https://www.polygon.com/pokemon-go-minior-shower-schedule-how-to-find-shiny/",
+      "source_count": 1,
+      "sources": [
+        "Polygon"
+      ]
+    },
+    {
       "title": "5 Years Later, One Game's Blood Sacrifice Mechanic Still Haunts Me",
       "url": "https://www.polygon.com/inscryption-retrospective-blood-sacrifice/",
       "source_count": 1,
@@ -711,23 +733,7 @@
       "sources": [
         "Polygon"
       ]
-    },
-    {
-      "title": "D&D's Arcana Unleashed Officially Fixes One of the Game's Most Frustrating Problems",
-      "url": "https://www.polygon.com/dnd-arcana-unleashed-evolving-magic-items/",
-      "source_count": 1,
-      "sources": [
-        "Polygon"
-      ]
-    },
-    {
-      "title": "True Detective Season 5 to feature the best starring duo since Matthew McConaughey and Woody Harrelson",
-      "url": "https://www.polygon.com/true-detective-season-5-casting/",
-      "source_count": 1,
-      "sources": [
-        "Polygon"
-      ]
     }
   ],
-  "summary": "Verified intelligence gathered across 90 deduplicated editorial clusters."
+  "summary": "Verified intelligence gathered across 91 deduplicated editorial clusters."
 }
