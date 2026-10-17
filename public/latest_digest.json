@@ -1,7 +1,31 @@
 {
-  "timestamp": "2026-10-16T22:34:14.175675+00:00",
-  "headline_count": 87,
+  "timestamp": "2026-10-17T03:09:58.821002+00:00",
+  "headline_count": 93,
   "headlines": [
+    {
+      "title": "How Netflix's Messy Transition Will Rock Hollywood: Looking at You, NBCU",
+      "url": "https://variety.com/2026/film/news/netflix-peter-rice-bajaria-messy-dan-lin-jinny-howe-nbcu-1236914573/",
+      "source_count": 1,
+      "sources": [
+        "Variety"
+      ]
+    },
+    {
+      "title": "The Impossible 'Whalefall': Director Brian Duffield Wanted a Challenge, So He Discovered a Way to Crush Austin Abrams in a Whale Stomach That Left Onlookers 'Baffled'",
+      "url": "https://variety.com/2026/film/features/whalefall-austin-abrams-crushed-whale-stomach-on-set-1236912491/",
+      "source_count": 1,
+      "sources": [
+        "Variety"
+      ]
+    },
+    {
+      "title": "The Hiring of Peter Rice at Netflix Could Set the Stage for a Corporate Culture Clash About the Future of Movies",
+      "url": "https://variety.com/2026/film/columns/peter-rice-hired-by-netflix-ted-sarandos-1236914367/",
+      "source_count": 1,
+      "sources": [
+        "Variety"
+      ]
+    },
     {
       "title": "'Street Fighter' Cast Guide: All the WWE Stars, UFC Champs and Celebs Playing Video Game Fighters in the Live-Action Movie",
       "url": "https://variety.com/lists/street-fighter-cast-video-game-vs-live-action/",
@@ -16,7 +40,7 @@
       "source_count": 2,
       "sources": [
         "Variety",
-        "Friday Box Office Update"
+        "The Hollywood Reporter"
       ]
     },
     {
@@ -28,31 +52,43 @@
       ]
     },
     {
-      "title": "'Red Rising' Movie in the Works at Paramount With 'Hunger Games' Director Francis Lawrence",
-      "url": "https://variety.com/2026/film/news/red-rising-movie-paramount-hunger-games-director-books-1236914459/",
-      "source_count": 3,
+      "title": "KJ Apa Asked 'Riverdale' Showrunner Roberto Aguirre-Sacasa For 'Afterlife with Archie' Cameo: \"I Don't Know Who I'd Play\"",
+      "url": "https://deadline.com/2026/10/kj-apa-asked-roberto-aguirre-sacasa-afterlife-archie-cameo-1237166299/",
+      "source_count": 1,
       "sources": [
-        "Variety",
-        "Deadline Hollywood",
-        "The Hollywood Reporter"
-      ]
-    },
-    {
-      "title": "Timothy Busfield Indictment on Child Sex Abuse Charges Thrown Out by Judge",
-      "url": "https://variety.com/2026/tv/news/timothy-busfield-indictment-child-sex-abuse-dismissed-1236914433/",
-      "source_count": 2,
-      "sources": [
-        "Variety",
         "Deadline Hollywood"
       ]
     },
     {
-      "title": "'I Play Rocky' Surprise Screens at London Film Festival",
-      "url": "https://variety.com/2026/film/festivals/i-play-rocky-surprise-movie-london-film-festival-1236914385/",
-      "source_count": 2,
+      "title": "Brad Caleb Kane Teases 'It: Welcome to Derry' Is \"Bigger\" In Season 2 With \"A Different Kind Of Pennywise\"",
+      "url": "https://deadline.com/2026/10/brad-caleb-kane-teases-it-welcome-to-derry-season-2-pennywise-1237166286/",
+      "source_count": 1,
       "sources": [
-        "Variety",
-        "The Hollywood Reporter"
+        "Deadline Hollywood"
+      ]
+    },
+    {
+      "title": "Diablo Cody Teases 'Jennifer's Body 2' Explores A More \"Sympathetic\" Side Of Megan Fox's Character",
+      "url": "https://deadline.com/2026/10/diablo-cody-jennifers-body-2-more-sympathetic-1237166245/",
+      "source_count": 1,
+      "sources": [
+        "Deadline Hollywood"
+      ]
+    },
+    {
+      "title": "Malibu's Bryson Fire Containment Grows To 39% As Wind Conditions Begin To Improve",
+      "url": "https://deadline.com/2026/10/bryson-fire-malibu-1237158950/",
+      "source_count": 1,
+      "sources": [
+        "Deadline Hollywood"
+      ]
+    },
+    {
+      "title": "How 'Whalefall's Director & Author Wove The Closure Of A Father-Son Relationship Into A Survival Tale",
+      "url": "https://deadline.com/2026/10/whalefall-dad-son-themes-director-author-explain-set-visit-1237158531/",
+      "source_count": 1,
+      "sources": [
+        "Deadline Hollywood"
       ]
     },
     {
@@ -64,48 +100,40 @@
       ]
     },
     {
-      "title": "'Crystal Lake's Gwendolyn Sundstrom On Grace's Friendship With Jason, \"Learning A Lot\" From Linda Cardellini & That Killer Twist",
-      "url": "https://deadline.com/2026/10/crystal-lake-gwendolyn-sundstrom-killer-twist-1237158527/",
-      "source_count": 1,
-      "sources": [
-        "Deadline Hollywood"
-      ]
-    },
-    {
-      "title": "'Whalefall' Review: Austin Abrams Wrestles With Grief, Toxic Masculinity & Grotesque Whale Innards In Emotionally Gutsy Body Horror",
-      "url": "https://deadline.com/2026/10/whalefall-review-austin-abrams-josh-brolin-emotional-body-horror-1237166094/",
-      "source_count": 1,
-      "sources": [
-        "Deadline Hollywood"
-      ]
-    },
-    {
-      "title": "K-pop Entertainment Company Hello82 Aims to Plant a Flag in Festival Market with Inaugural 82World",
-      "url": "https://www.hollywoodreporter.com/music/music-features/hello82-kpop-festival-82-world-ateez-p1harmony-1236733943/",
+      "title": "Jacob Elordi Thought He Was Having a Mental Breakdown Until He Saw a John Cassavetes Film: \"Made Me Feel a Lot Less Insane and Alone\"",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/jacob-elordi-interview-cartier-john-cassavetes-film-sean-baker-1236734149/",
       "source_count": 1,
       "sources": [
         "The Hollywood Reporter"
       ]
     },
     {
-      "title": "Hallmark's Christmas Workshop: On the Set of 'Holiday Touchdown: A Bears Love Story'",
-      "url": "https://www.hollywoodreporter.com/tv/tv-features/hallmark-nfl-christmas-movie-bears-love-story-1236734057/",
+      "title": "Angie Nixon Says Black Republican Byron Donalds \"Doesn't Support Black People\"",
+      "url": "https://www.hollywoodreporter.com/news/politics-news/angie-nixon-byron-donalds-criticism-polls-ahead-running-1236734130/",
       "source_count": 1,
       "sources": [
         "The Hollywood Reporter"
       ]
     },
     {
-      "title": "The Hollywood Reporter, Animation Is Film Festival Partner on Live Animation Roundtable With Bill Hader, Travis Knight, More",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/bill-hader-travis-knight-live-animation-roundtable-1236733998/",
+      "title": "Timothy Busfield Child Sex Abuse Case Dismissed Over Prosecutorial Misconduct",
+      "url": "https://www.hollywoodreporter.com/news/general-news/timothy-busfield-child-sex-abuse-case-dismissed-1236734102/",
       "source_count": 1,
       "sources": [
         "The Hollywood Reporter"
       ]
     },
     {
-      "title": "Michael Forest, Actor in Roger Corman Movies and 'Star Trek,' Dies at 97",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/michael-forest-dead-roger-corman-star-trek-dick-van-dyke-1236733987/",
+      "title": "John Amos' Daughter Sues Brother for Wrongful Death Over Actor's Death",
+      "url": "https://www.hollywoodreporter.com/news/general-news/john-amos-daughter-sues-brother-for-wrongful-death-over-actors-death-1236733965/",
+      "source_count": 1,
+      "sources": [
+        "The Hollywood Reporter"
+      ]
+    },
+    {
+      "title": "Austin Abrams Still Won't Admit Which Was Tougher to Shoot, 'Whalefall' or 'Resident Evil'",
+      "url": "https://www.hollywoodreporter.com/movies/movie-features/whalefall-austin-abrams-resident-evil-1236733923/",
       "source_count": 1,
       "sources": [
         "The Hollywood Reporter"
@@ -160,6 +188,22 @@
       ]
     },
     {
+      "title": "Sheriff Country Boss Unpacks Boone's Kiss With [Spoiler]: 'It's Just Really Messy And Rich'",
+      "url": "https://www.tvline.com/2289180/sheriff-country-season-2-episode-2-boone-emmy-kiss-explained/",
+      "source_count": 1,
+      "sources": [
+        "Are You On Board?"
+      ]
+    },
+    {
+      "title": "Crystal Lake Finale Includes A Major Throwback To Friday The 13th Part 2",
+      "url": "https://www.tvline.com/2289385/crystal-lake-finale-recap-baghead-jason-voorhees-returns-friday-the-13th/",
+      "source_count": 1,
+      "sources": [
+        "TVLine"
+      ]
+    },
+    {
       "title": "Why Sean Sullivan From NCIS: New York Looks So Familiar",
       "url": "https://www.tvline.com/2284163/sean-sullivan-ncis-new-york-actor-devin-druid/",
       "source_count": 1,
@@ -189,22 +233,6 @@
       "source_count": 1,
       "sources": [
         "TVLine"
-      ]
-    },
-    {
-      "title": "TVLine Asks: Did Chicago P.D. Sendoff Satisfy? Who Hired VisionQuest's Bounty Hunter? Was Love Is Blind Question A Jaw-Dropper? And More",
-      "url": "https://www.tvline.com/2288863/chicago-pd-laroyce-hawkins-exit-visionquest-love-is-blind-stew-tv-questions/",
-      "source_count": 1,
-      "sources": [
-        "TVLine"
-      ]
-    },
-    {
-      "title": "Did Tulsa King's [Spoiler] And [Spoiler] Just Die In Season 4 Premiere?!",
-      "url": "https://www.tvline.com/2288910/tulsa-king-season-4-premiere-margaret-cal-death-episode-1-recap/",
-      "source_count": 1,
-      "sources": [
-        "Read Recap"
       ]
     },
     {
@@ -297,12 +325,27 @@
       ]
     },
     {
+      "title": "Super Smash Bros. Player Mew2King Banned From Tournament After Bug Bites Spark Health Concerns",
+      "url": "https://www.ign.com/articles/super-smash-bros-player-mew2king-banned-from-tournament-after-bug-bites-spark-health-concerns",
+      "source_count": 1,
+      "sources": [
+        "IGN Games"
+      ]
+    },
+    {
+      "title": "'There Should be a Game Award for Hot Dads' - Castlevania: Belmont's Curse Devs Are Fully Aware and Loving the 'Horny' Fanart for Their Game",
+      "url": "https://www.ign.com/articles/there-should-be-a-game-award-for-hot-dads-castlevania-belmonts-curse-devs-are-fully-aware-and-loving-the-horny-fanart-for-their-game",
+      "source_count": 1,
+      "sources": [
+        "IGN Games"
+      ]
+    },
+    {
       "title": "Call of Duty: Modern Warfare 4",
       "url": "https://www.ign.com/articles/call-of-duty-modern-warfare-4-captain-prices-fate-explained",
-      "source_count": 3,
+      "source_count": 2,
       "sources": [
         "Captain Price's Fate Explained",
-        "Campaign Review",
         "PC Gamer"
       ]
     },
@@ -325,14 +368,6 @@
     {
       "title": "'It Was an Unofficial Goal of the Team to Be Banned, Unrated, or Restricted' - How Hellraiser: Revival Expands Cenobite Lore While Staying True to Clive Barker",
       "url": "https://www.ign.com/articles/it-was-an-unofficial-goal-of-the-team-to-be-banned-unrated-or-restricted-how-hellraiser-revival-expands-cenobite-lore-while-staying-true-to-clive-barker",
-      "source_count": 1,
-      "sources": [
-        "IGN Games"
-      ]
-    },
-    {
-      "title": "Modern Warfare 4 on Switch 2 Is Not The Disaster You'd Imagine",
-      "url": "https://www.ign.com/articles/modern-warfare-4-switch-2-gameplay",
       "source_count": 1,
       "sources": [
         "IGN Games"
@@ -387,6 +422,14 @@
       ]
     },
     {
+      "title": "Tech founder criticized for vibe coding game about shooting 'zombies' in San Francisco's poorest neighborhood",
+      "url": "https://www.pcgamer.com/software/ai/tech-founder-vibe-codes-game-about-shooting-zombies-in-san-franciscos-poorest-neighborhood/",
+      "source_count": 1,
+      "sources": [
+        "PC Gamer"
+      ]
+    },
+    {
       "title": "The Cyberpunk 2077 movie won't be 'a film adaptation of the game,' CD Projekt chief says",
       "url": "https://www.pcgamer.com/movies-tv/the-cyberpunk-2077-movie-wont-be-a-film-adaptation-of-the-game-cd-projekt-chief-says/",
       "source_count": 1,
@@ -413,14 +456,6 @@
     {
       "title": "My career as a weed farmer was derailed by my unslakeable lust for golf",
       "url": "https://www.pcgamer.com/games/grand-theft-auto/my-career-as-a-weed-farmer-was-derailed-by-my-unslakeable-lust-for-golf/",
-      "source_count": 1,
-      "sources": [
-        "PC Gamer"
-      ]
-    },
-    {
-      "title": "Asus not only replaced an RTX 4080 Super with an RTX 5080 but also swapped it *again* just to give this lucky Redditor one that matches their all-white build",
-      "url": "https://www.pcgamer.com/hardware/graphics-cards/asus-not-only-replaced-an-rtx-4080-super-with-an-rtx-5080-but-also-swapped-it-again-just-to-give-this-lucky-redditor-one-that-matches-their-all-white-build/",
       "source_count": 1,
       "sources": [
         "PC Gamer"
@@ -459,6 +494,14 @@
       ]
     },
     {
+      "title": "Hyundai to recall over 94,600 US vehicles over seat motor fire risk, NHTSA says, Money News",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPeWF3Q2hLcExGX3pFNS04d201OU1EYUUxbklmVGt0S1FCRjBiR2JRRkVHWnJxcU1YaWVib0VueUdSRl9QX18wbUxfYlJqd0ZoTlExX2Nxb0FTWFBHRXVsTnpPeFdiYXdlZi1OQkhfQjUzT3RJUHBORkZ5UWlJNlVzRW45TTFIR1ZGX2hyUzhRVVFoczE2Z1h1THR4dDcxRXlOUzVudDlmQQ",
+      "source_count": 1,
+      "sources": [
+        "AsiaOne.com"
+      ]
+    },
+    {
       "title": "Netflix cuts about 6 per cent of jobs in biggest layoff since 2022",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNeHFPblZqNkZ1Y1pKUFlzalRYdGUwemJTcUVqZU55dTJ0ZGtnODJFTmVvQmw2SGo1akJLc2pBVi1acTBLblJOc1ZyeFkzVHk1MmZNenc4RGRJV1VMcE9OelFMdEc5cmIxdmdvcnNybXlmcnVxVkRIc1BuMFd0U1JOLUcwZ3A3djhDR2VqR25VOG1lYkZqQjV1bFU4a3BZUkhZYkdfTUJUT1B4TWtkWmJxdW4yeGJzTEVrclZYSnJWdVVDczQ",
       "source_count": 1,
@@ -467,11 +510,11 @@
       ]
     },
     {
-      "title": "'Godfather' star Al Pacino",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE45ejVGR1NOS0wzaHU3a2FVeWtwYTczakZucGJEZmdjTE5LNTJRdVBPUmtKWUw1ejVXdnAtN3NOa0hvQWg3UnNlRk8ybnhFQmtIWk9CUW9vOUFsNUlTUEtKOEZXUlFqZEU2NmVrdWhuWEZZbW1p",
+      "title": "Can AI Make a Sci-Fi Series for $38,000? Artlist's 'The Arc' Puts It to the Test",
+      "url": "https://www.indiewire.com/features/craft/artlist-the-arc-tests-if-ai-can-make-sci-fi-series-1235222447/",
       "source_count": 1,
       "sources": [
-        "FBC News"
+        "IndieWire"
       ]
     },
     {
@@ -509,14 +552,6 @@
     {
       "title": "Is Meme Casting a Viable Hollywood Marketing Strategy?",
       "url": "https://www.indiewire.com/features/commentary/street-fighter-meme-casting-marketing-strategy-1235222185/",
-      "source_count": 1,
-      "sources": [
-        "IndieWire"
-      ]
-    },
-    {
-      "title": "As the Major Fall Film Festivals Wrap, the Oscar Race Goes Regional",
-      "url": "https://www.indiewire.com/news/festivals/2026-fall-film-fests-regional-middleburg-1235222345/",
       "source_count": 1,
       "sources": [
         "IndieWire"
@@ -571,48 +606,48 @@
       ]
     },
     {
+      "title": "50 Cent Says Diddy's 'Gonna Turn Up in This Next Joint' After Reported Prison Transfer",
+      "url": "https://www.billboard.com/music/rb-hip-hop/50-cent-diddy-transfer-prison-reaction-1236362276/",
+      "source_count": 1,
+      "sources": [
+        "Billboard"
+      ]
+    },
+    {
+      "title": "Diddy Moved From New Jersey Prison to Similar Facility in Pennsylvania",
+      "url": "https://www.billboard.com/business/legal/diddy-moved-from-new-jersey-prison-to-pennsylvania-1236362285/",
+      "source_count": 1,
+      "sources": [
+        "Billboard"
+      ]
+    },
+    {
+      "title": "Swizz Beatz Reveals Michael Jackson Had a Crush on Alicia Keys: 'I Think Janet Was the One That Told A.K.'",
+      "url": "https://www.billboard.com/music/rb-hip-hop/swizz-beatz-michael-jackson-crush-alicia-keys-1236362241/",
+      "source_count": 1,
+      "sources": [
+        "Billboard"
+      ]
+    },
+    {
+      "title": "Billboard's Music Industry Events Calendar",
+      "url": "https://www.billboard.com/pro/music-industry-events-calendar-festivals-awards-conferences/",
+      "source_count": 1,
+      "sources": [
+        "Billboard"
+      ]
+    },
+    {
+      "title": "Mark Pucci, Veteran Music Publicist & Recognized Blues Advocate, Dies at 79",
+      "url": "https://www.billboard.com/pro/mark-pucci-death-publicist-lynyrd-skynyrd-johnny-cash-dead/",
+      "source_count": 1,
+      "sources": [
+        "Billboard"
+      ]
+    },
+    {
       "title": "Drake Sued Over 'Janice STFU': Songwriter Claims Chorus Is 'Literally Identical' to His Demo",
       "url": "https://www.billboard.com/pro/drake-janice-stfu-lawsuit-songwriter-sues-copied-demo/",
-      "source_count": 1,
-      "sources": [
-        "Billboard"
-      ]
-    },
-    {
-      "title": "In Canada: Cardi B Named First-Ever Global Woman of the Year at Billboard Canada Women in Music 2026",
-      "url": "https://www.billboard.com/pro/cardi-b-billboard-canada-women-in-music-2026-award-news/",
-      "source_count": 1,
-      "sources": [
-        "Billboard"
-      ]
-    },
-    {
-      "title": "NuNew on Whether Acting or Singing Makes Him More Nervous: 'If You Make a Mistake, That's It'",
-      "url": "https://www.billboard.com/music/pop/nunew-tima-interview-1236362238/",
-      "source_count": 1,
-      "sources": [
-        "Billboard"
-      ]
-    },
-    {
-      "title": "Hall of Fame Basketball Coach Recalls Being Too 'Embarrassed' to Talk to Taylor Swift at Knicks Game: 'I Acted Like I Was on My Phone'",
-      "url": "https://www.billboard.com/music/pop/taylor-swift-intimidated-basketball-coach-cal-knicks-game-1236362225/",
-      "source_count": 1,
-      "sources": [
-        "Billboard"
-      ]
-    },
-    {
-      "title": "NEXZ Share Their Favorite Songs From 'SAUCIN\": 'The Lyrics Fit Us Perfectly'",
-      "url": "https://www.billboard.com/music/pop/nexz-tima-interview-1236362212/",
-      "source_count": 1,
-      "sources": [
-        "Billboard"
-      ]
-    },
-    {
-      "title": "'BTS Lyrics Inside Volume 2': The K-Pop Supergroup Breaks Down More of Its Songs In a New Book",
-      "url": "https://www.billboard.com/culture/product-recommendations/bts-lyrics-inside-volume-2-book-buy-online-1236360741/",
       "source_count": 1,
       "sources": [
         "Billboard"
@@ -667,6 +702,22 @@
       ]
     },
     {
+      "title": "Beloved Fantasy Novel Series Redwall Sets Return After 16 Years",
+      "url": "https://www.polygon.com/redwall-fantasy-book-series-2027-release-orphans-of-mossflower/",
+      "source_count": 1,
+      "sources": [
+        "Polygon"
+      ]
+    },
+    {
+      "title": "Rockstar Officially Comments on GTA 6's Approach to Trump & COVID-19",
+      "url": "https://www.polygon.com/gta-6-trump-rockstar-games/",
+      "source_count": 1,
+      "sources": [
+        "Polygon"
+      ]
+    },
+    {
       "title": "8 Call of Duty Games Still Missing from Game Pass",
       "url": "https://www.polygon.com/best-call-of-duty-games-missing-from-game-pass/",
       "source_count": 1,
@@ -693,20 +744,11 @@
     {
       "title": "10 New Movies to Watch This Weekend on Netflix, Prime Video, and HBO Max (October 16-18)",
       "url": "https://www.polygon.com/new-movies-streaming-this-weekend-netflix-october-16-18/",
-      "source_count": 2,
-      "sources": [
-        "Polygon",
-        "Polygon"
-      ]
-    },
-    {
-      "title": "Every DC Studios Movie and TV Show in Coming Through 2028 (and Beyond)",
-      "url": "https://www.polygon.com/dc-movies-tv-shows-dcu-release-calendar-james-gunn/",
       "source_count": 1,
       "sources": [
         "Polygon"
       ]
     }
   ],
-  "summary": "Verified intelligence gathered across 87 deduplicated editorial clusters."
+  "summary": "Verified intelligence gathered across 93 deduplicated editorial clusters."
 }
