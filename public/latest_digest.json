@@ -1,47 +1,62 @@
 {
-  "timestamp": "2026-10-17T08:17:13.005519+00:00",
-  "headline_count": 92,
+  "timestamp": "2026-10-17T13:29:04.621630+00:00",
+  "headline_count": 87,
   "headlines": [
     {
-      "title": "Miley Cyrus Embraces Being the Anti-Pop Pop Star With Her First 'Bass Persuades' Concert at Hollywood Bowl: Concert Review",
-      "url": "https://variety.com/2026/music/news/miley-cyrus-bass-persuades-hollywood-bowl-concert-review-1236914661/",
-      "source_count": 3,
+      "title": "Joel Coen Talks Studio Consolidation - 'Competition Is What Produces Opportunities for Different Kinds of Movies' - and Teases Reunion Film With Brother Ethan",
+      "url": "https://variety.com/2026/film/global/joel-coen-on-studio-consolidation-competition-1236914741/",
+      "source_count": 1,
+      "sources": [
+        "Variety"
+      ]
+    },
+    {
+      "title": "Pathé Unveils Sofia Coppola's 'Marie Antoinette' 4K Restoration as Sophie and Jérôme Seydoux Are Feted in Lyon",
+      "url": "https://variety.com/2026/film/global/pathe-sofia-coppola-marie-antoinette-jerome-seydoux-1236914657/",
+      "source_count": 1,
+      "sources": [
+        "Variety"
+      ]
+    },
+    {
+      "title": "'Trust Me, I'm a Doctor' Review: Kal Penn and Abbie Cornish Star in a Minor Sidebar to the Anna Nicole Smith Story",
+      "url": "https://variety.com/2026/film/reviews/trust-me-im-a-doctor-review-1236914737/",
+      "source_count": 1,
+      "sources": [
+        "Variety"
+      ]
+    },
+    {
+      "title": "J.K. Rowling's Agent Slams Trans Rights Protest at 'Harry Potter and the Cursed Child' in London: It Put 'Others at Risk'",
+      "url": "https://variety.com/2026/legit/global/jk-rowling-trans-protest-harry-potter-and-the-cursed-child-1236914728/",
+      "source_count": 2,
       "sources": [
         "Variety",
-        "Variety",
-        "The Hollywood Reporter"
+        "Deadline Hollywood"
       ]
     },
     {
-      "title": "'Renoir' Producers Join Asia-Europe Co-Production Panel at Tokyo Market as Japanese Accelerator Atmovie Global Track Partners With Ties That Bind",
-      "url": "https://variety.com/2026/film/markets-festivals/renoir-producers-asia-europe-co-production-panel-tiffcom-1236914637/",
+      "title": "Taylor Swift Heroine Clara Bow's Breakout Movie 'It' Leads Carlotta Films, Artcraft Pictures French Distribution Deal of Hollywood Classics",
+      "url": "https://variety.com/2026/film/global/taylor-swift-heroine-clara-bow-it-in-carlotta-artcraft-deal-1236914724/",
       "source_count": 1,
       "sources": [
         "Variety"
       ]
     },
     {
-      "title": "How Netflix's Messy Transition Will Rock Hollywood: Looking at You, NBCU",
-      "url": "https://variety.com/2026/film/news/netflix-peter-rice-bajaria-messy-dan-lin-jinny-howe-nbcu-1236914573/",
+      "title": "Coen Brothers Bring Laughs to Lumière Award Ceremony as Javier Bardem Recalls 'No Country for Old Men': 'They Gave Me One Masterpiece'",
+      "url": "https://variety.com/2026/film/global/coen-brothers-profane-thank-you-lumiere-award-1236914700/",
       "source_count": 1,
       "sources": [
         "Variety"
       ]
     },
     {
-      "title": "The Impossible 'Whalefall': Director Brian Duffield Wanted a Challenge, So He Discovered a Way to Crush Austin Abrams in a Whale Stomach That Left Onlookers 'Baffled'",
-      "url": "https://variety.com/2026/film/features/whalefall-austin-abrams-crushed-whale-stomach-on-set-1236912491/",
+      "title": "Controversial 'Downstate' Again Delays First Broadway Preview Due To Illness",
+      "url": "https://deadline.com/2026/10/downstate-broadway-opening-date-1237155592/",
       "source_count": 1,
       "sources": [
-        "Variety"
-      ]
-    },
-    {
-      "title": "The Hiring of Peter Rice at Netflix Could Set the Stage for a Corporate Culture Clash About the Future of Movies",
-      "url": "https://variety.com/2026/film/columns/peter-rice-hired-by-netflix-ted-sarandos-1236914367/",
-      "source_count": 1,
-      "sources": [
-        "Variety"
+        "Deadline Hollywood"
       ]
     },
     {
@@ -77,19 +92,19 @@
       ]
     },
     {
-      "title": "Diablo Cody Teases 'Jennifer's Body 2' Explores A More \"Sympathetic\" Side Of Megan Fox's Character",
-      "url": "https://deadline.com/2026/10/diablo-cody-jennifers-body-2-more-sympathetic-1237166245/",
+      "title": "Joe Keery On Making His Broadway Debut and Balancing Music and Acting Post-'Stranger Things'",
+      "url": "https://www.hollywoodreporter.com/lifestyle/arts/joe-keery-broadway-debut-stranger-things-1236733706/",
       "source_count": 1,
       "sources": [
-        "Deadline Hollywood"
+        "The Hollywood Reporter"
       ]
     },
     {
-      "title": "Malibu's Bryson Fire Containment Grows To 39% As Wind Conditions Begin To Improve",
-      "url": "https://deadline.com/2026/10/bryson-fire-malibu-1237158950/",
+      "title": "Indiana vs. Ohio State: Where to Watch the Top-Five College Football Matchup Online",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/watch-indiana-vs-ohio-state-football-game-free-streams-2026-1236734000/",
       "source_count": 1,
       "sources": [
-        "Deadline Hollywood"
+        "The Hollywood Reporter"
       ]
     },
     {
@@ -98,6 +113,14 @@
       "source_count": 1,
       "sources": [
         "and Freedom"
+      ]
+    },
+    {
+      "title": "Miley Cyrus Tearfully Pays Tribute to Dolly Parton With \"Jolene\" Performance at Hollywood Bowl: \"Me and Dolly, We Are Eternal\"",
+      "url": "https://www.hollywoodreporter.com/music/music-news/miley-cyrus-dolly-parton-hollywood-bowl-jolene-watch-1236734264/",
+      "source_count": 1,
+      "sources": [
+        "The Hollywood Reporter"
       ]
     },
     {
@@ -117,67 +140,91 @@
       ]
     },
     {
-      "title": "How 'You Can See Everything' Exacts Hollywood's Revenge on Big Tech",
-      "url": "https://www.hollywoodreporter.com/business/digital/you-can-see-everything-fielder-holmes-themes-showtimes-1236734072/",
-      "source_count": 1,
-      "sources": [
-        "The Hollywood Reporter"
-      ]
-    },
-    {
-      "title": "Timothy Busfield Child Sex Abuse Case Dismissed Over Prosecutorial Misconduct",
-      "url": "https://www.hollywoodreporter.com/news/general-news/timothy-busfield-child-sex-abuse-case-dismissed-1236734102/",
-      "source_count": 1,
-      "sources": [
-        "The Hollywood Reporter"
-      ]
-    },
-    {
-      "title": "SCOOP: Tukaram Mundhe's FDA crackdown reportedly shuts food counters at INOX R City Mall for 5 days",
-      "url": "https://www.bollywoodhungama.com/news/bollywood/scoop-tukaram-mundhes-fda-crackdown-reportedly-shuts-food-counters-at-inox-r-city-mall-for-5-days/",
+      "title": "Yo Yo Honey Singh records statement in alleged obscene remarks case, questioned for over two hours: Reports",
+      "url": "https://www.bollywoodhungama.com/news/bollywood/yo-yo-honey-singh-records-statement-in-alleged-obscene-remarks-case-questioned-for-over-two-hours-reports/",
       "source_count": 1,
       "sources": [
         "Bollywood Hungama"
       ]
     },
     {
-      "title": "Akka teaser out: Netflix CONFIRMS October 30 premiere for Keerthy Suresh and Radhika Apte-starrer",
-      "url": "https://www.bollywoodhungama.com/news/bollywood/akka-teaser-out-netflix-confirms-october-30-premiere-for-keerthy-suresh-and-radhika-apte-starrer/",
+      "title": "Country Delight names Rishab Shetty as its new brand ambassador",
+      "url": "https://www.bollywoodhungama.com/news/bollywood/country-delight-names-rishab-shetty-as-its-new-brand-ambassador/",
       "source_count": 1,
       "sources": [
         "Bollywood Hungama"
       ]
     },
     {
-      "title": "Giorgia Andriani to star in Hindi thriller web series Dice, shoot to begin in November",
-      "url": "https://www.bollywoodhungama.com/news/bollywood/giorgia-andriani-to-star-in-hindi-thriller-web-series-dice-shoot-to-begin-in-november/",
+      "title": "EXCLUSIVE: Yeh Prem Mol Liya stars Ayushmann Khurrana and Sharvari to join Falguni Pathak for Navratri celebrations in Mumbai",
+      "url": "https://www.bollywoodhungama.com/news/bollywood/exclusive-yeh-prem-mol-liya-stars-ayushmann-khurrana-and-sharvari-to-join-falguni-pathak-for-navratri-celebrations-in-mumbai/",
       "source_count": 1,
       "sources": [
         "Bollywood Hungama"
       ]
     },
     {
-      "title": "Kriti Sanon approaches Delhi High Court seeking protection against AI-generated impersonation, unauthorised use of identity",
-      "url": "https://www.bollywoodhungama.com/news/bollywood/kriti-sanon-approaches-delhi-high-court-seeking-protection-against-ai-generated-impersonation-unauthorised-use-of-identity/",
+      "title": "BMC demolishes parts of Ajay Devgn's Juhu bungalow over alleged unauthorised construction: Reports",
+      "url": "https://www.bollywoodhungama.com/news/bollywood/bmc-demolishes-parts-of-ajay-devgns-juhu-bungalow-over-alleged-unauthorised-construction-reports/",
       "source_count": 1,
       "sources": [
         "Bollywood Hungama"
       ]
     },
     {
-      "title": "Ranbir Kapoor leases Pune apartment for Rs 4.63 lakh monthly rent: Report",
-      "url": "https://www.bollywoodhungama.com/news/bollywood/ranbir-kapoor-leases-pune-apartment-for-rs-4-63-lakh-monthly-rent-report/",
+      "title": "Neha Sharma warns against unauthorised AI content using her likeness: \"I will take legal action\"",
+      "url": "https://www.bollywoodhungama.com/news/bollywood/neha-sharma-warns-against-unauthorised-ai-content-using-her-likeness-i-will-take-legal-action/",
       "source_count": 1,
       "sources": [
         "Bollywood Hungama"
       ]
     },
     {
-      "title": "The best ending for Drishyam is NO Drishyam 4. Why Ajay Devgn and Abhishek Pathak are RIGHT to end the blockbuster franchise",
-      "url": "https://www.bollywoodhungama.com/news/bollywood/the-best-ending-for-drishyam-is-no-drishyam-4-why-ajay-devgn-and-abhishek-pathak-are-right-to-end-the-blockbuster-franchise/",
+      "title": "EXCLUSIVE: Frontal nudity gets censor clearance! CBFC retains 2-second adult magazine shot in Doosra; Abhinay Deo calls it an \"achievement\"",
+      "url": "https://www.bollywoodhungama.com/news/bollywood/exclusive-frontal-nudity-gets-censor-clearance-cbfc-retains-2-second-adult-magazine-shot-in-doosra-abhinay-deo-calls-it-an-achievement/",
       "source_count": 1,
       "sources": [
         "Bollywood Hungama"
+      ]
+    },
+    {
+      "title": "The First Western TV Series Ever Made Is Streaming For Free",
+      "url": "https://www.tvline.com/2284270/first-western-tv-series-hopalong-cassidy-streaming-free/",
+      "source_count": 1,
+      "sources": [
+        "TVLine"
+      ]
+    },
+    {
+      "title": "Why Wyatt Hill From NCIS: New York Looks So Familiar",
+      "url": "https://www.tvline.com/2284198/wyatt-hill-ncis-new-york-actor-shane-harper/",
+      "source_count": 1,
+      "sources": [
+        "TVLine"
+      ]
+    },
+    {
+      "title": "Quote Of The Day By Robin Williams: 'Am I The World's Greatest Dad? Not At All, I'm A Work-In-Progress, But...'",
+      "url": "https://www.tvline.com/2288881/quote-of-the-day-robin-williams-work-in-progress/",
+      "source_count": 1,
+      "sources": [
+        "TVLine"
+      ]
+    },
+    {
+      "title": "What To Watch Saturday: WNBA Finals Game 1, New Hallmark Movie, 48 Hours Premiere, And More",
+      "url": "https://www.tvline.com/2288702/what-to-watch-october-17-2026-tv-shows-movies/",
+      "source_count": 1,
+      "sources": [
+        "TVLine"
+      ]
+    },
+    {
+      "title": "Donnie Wahlberg, Boston Blue Showrunners Tease 'Tremendous' Complication For Danny And Baez - Plus, Lena And Brian's Future",
+      "url": "https://www.tvline.com/2279520/boston-blue-season-2-episode-2-explained-danny-baez-elena-grandmother/",
+      "source_count": 1,
+      "sources": [
+        "TVLine"
       ]
     },
     {
@@ -186,46 +233,6 @@
       "source_count": 1,
       "sources": [
         "Are You On Board?"
-      ]
-    },
-    {
-      "title": "Crystal Lake Finale Includes A Major Throwback To Friday The 13th Part 2",
-      "url": "https://www.tvline.com/2289385/crystal-lake-finale-recap-baghead-jason-voorhees-returns-friday-the-13th/",
-      "source_count": 1,
-      "sources": [
-        "TVLine"
-      ]
-    },
-    {
-      "title": "Why Sean Sullivan From NCIS: New York Looks So Familiar",
-      "url": "https://www.tvline.com/2284163/sean-sullivan-ncis-new-york-actor-devin-druid/",
-      "source_count": 1,
-      "sources": [
-        "TVLine"
-      ]
-    },
-    {
-      "title": "The Diplomat EP And Keri Russell Break Down Jodie Whittaker's Debut As The New British PM",
-      "url": "https://www.tvline.com/2289326/the-diplomat-jodie-whittaker-season-4-cast-bethan-vaughn/",
-      "source_count": 1,
-      "sources": [
-        "TVLine"
-      ]
-    },
-    {
-      "title": "Michael Landon's Popular '80s Fantasy Drama Series Is Streaming For Free",
-      "url": "https://www.tvline.com/2284146/michael-landon-80s-fantasy-drama-series-streaming-free-highway-to-heaven/",
-      "source_count": 1,
-      "sources": [
-        "TVLine"
-      ]
-    },
-    {
-      "title": "True Detective: Nicolas Cage And Antonio Banderas Confirmed As Season 5 Stars",
-      "url": "https://www.tvline.com/2289187/true-detective-nicolas-cage-antonio-banderas-season-5-cast/",
-      "source_count": 1,
-      "sources": [
-        "TVLine"
       ]
     },
     {
@@ -339,7 +346,7 @@
       "source_count": 2,
       "sources": [
         "Captain Price's Fate Explained",
-        "PC Gamer"
+        "Campaign Review"
       ]
     },
     {
@@ -353,14 +360,6 @@
     {
       "title": "MTG Darkhold Destiny Arcanum Bundle: What's Inside and Is It Worth The Price Tag?",
       "url": "https://www.ign.com/articles/mtg-darkhold-destiny-arcanum-bundle-whats-inside",
-      "source_count": 1,
-      "sources": [
-        "IGN Games"
-      ]
-    },
-    {
-      "title": "'It Was an Unofficial Goal of the Team to Be Banned, Unrated, or Restricted' - How Hellraiser: Revival Expands Cenobite Lore While Staying True to Clive Barker",
-      "url": "https://www.ign.com/articles/it-was-an-unofficial-goal-of-the-team-to-be-banned-unrated-or-restricted-how-hellraiser-revival-expands-cenobite-lore-while-staying-true-to-clive-barker",
       "source_count": 1,
       "sources": [
         "IGN Games"
@@ -415,6 +414,22 @@
       ]
     },
     {
+      "title": "Developer cancels public demo of its upcoming horror drinking game, fearing it will be instantly cloned by AI vibe coders: 'We sincerely apologise for the short notice'",
+      "url": "https://www.pcgamer.com/gaming-industry/game-development/developer-cancels-public-demo-of-its-upcoming-horror-drinking-game-fearing-it-will-be-instantly-cloned-by-ai-vibe-coders-we-sincerely-apologise-for-the-short-notice/",
+      "source_count": 1,
+      "sources": [
+        "PC Gamer"
+      ]
+    },
+    {
+      "title": "Funcom is laying off yet more developers as it pivots to supporting Dune: Awakening and Conan Exiles",
+      "url": "https://www.pcgamer.com/gaming-industry/funcom-is-laying-off-yet-more-developers-as-it-pivots-to-supporting-dune-awakening-and-conan-exiles/",
+      "source_count": 1,
+      "sources": [
+        "PC Gamer"
+      ]
+    },
+    {
       "title": "Tech founder criticized for vibe coding game about shooting 'zombies' in San Francisco's poorest neighborhood",
       "url": "https://www.pcgamer.com/software/ai/tech-founder-vibe-codes-game-about-shooting-zombies-in-san-franciscos-poorest-neighborhood/",
       "source_count": 1,
@@ -444,62 +459,6 @@
       "source_count": 1,
       "sources": [
         "PC Gamer"
-      ]
-    },
-    {
-      "title": "My career as a weed farmer was derailed by my unslakeable lust for golf",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/my-career-as-a-weed-farmer-was-derailed-by-my-unslakeable-lust-for-golf/",
-      "source_count": 1,
-      "sources": [
-        "PC Gamer"
-      ]
-    },
-    {
-      "title": "Novavax shareholder Shah Capital to step back from activist role",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPRWNVWE1RUEhhUnZ3YXNRbzhyUndqR3Jnc3dKRVBPdUhRNVF3Qm5yN1prTTBMSVdQd1dhVG1hSk1RcUVJNE53V0drT0Rpcl9YRFh1TmJJODFUX21TU28tT1hDVXlHZ1lsUWhWYTBJcHQzQ0N3aUhRYjFZLTZ2UlpTZk15anhnaWh4SkxyMDBsbEt2N1FuMG1xSThuVDc3UkpaLUdFa2lxTDFaN0dDRVMwLTQzVXJGRGN1cE1hZ3RJc3hqOEdBOGNr",
-      "source_count": 1,
-      "sources": [
-        "Reuters"
-      ]
-    },
-    {
-      "title": "Reuters Entertainment News Summary",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQVXJNT05maGF4Sk5MQXVUU1UxVnI5ZlY5a19Xc1QxdTRsYnRnNWw2MDc1ZEgyMmZheW9fMWY1N241bU4yWEJaajVJck1xVnZRbGNxNXpZajNEeWt5LV9RUmx2ZjVaRmFGakdWWkdjY0dGb0NiaUdReE9zbTl0Q1h0c2laSzNlVUJna1FPRGZSN2Z4Q2VDTUhuRkktbHJnZ9IBngFBVV95cUxQVXJNT05maGF4Sk5MQXVUU1UxVnI5ZlY5a19Xc1QxdTRsYnRnNWw2MDc1ZEgyMmZheW9fMWY1N241bU4yWEJaajVJck1xVnZRbGNxNXpZajNEeWt5LV9RUmx2ZjVaRmFGakdWWkdjY0dGb0NiaUdReE9zbTl0Q1h0c2laSzNlVUJna1FPRGZSN2Z4Q2VDTUhuRkktbHJnZw",
-      "source_count": 1,
-      "sources": [
-        "Devdiscourse"
-      ]
-    },
-    {
-      "title": "Live entertainment emerging as winner in streaming era",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNY3lWSHBvVmZiRW5FRmNYTWI1OUp3WUY3d1c0bUtGWXJsUk4tXzdPTVVDUTFqNDBSNzUxbC1OZk1jRkVxSVZuUG82ZnA1VTBEUWFBbjFFclVLZTBfN0tLLW5rbGF3UzFCVUJFdlVNN1ZfbXZlVkJ0bnI4TjV6SGQxTC1mVVZlTHhNYWxRQ2w5TUE5NThWbmNVNnFwR2ViVzFqR2VSYzZUUm1qVGpyQVo2ZlhfWVdwWlFZbk4xQ2lfQkExUQ",
-      "source_count": 1,
-      "sources": [
-        "TradingView"
-      ]
-    },
-    {
-      "title": "Anthropic signs lease for first Canadian data center By Reuters",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOVzM5Qk5oUzRjYmpRNHItRkhJNWZkOVJteWFmTk5IdnJEWVRQYk4wQzdJaDgyaXNxZXZFcmFXSW1fd0hoUFpGd0N6dmdEY0w3Ylp1SHA4NUlzSDl0czZTenNVZGk3STl3TUpteFNVUUhza2h6RWY0N0JQU1VaTmpncFpHMEoyV18wck9RYVNtTU9GR1JqNS1raFlxUjlaR3Y4eW1ObHRPVlREaXYwdEE",
-      "source_count": 1,
-      "sources": [
-        "Investing.com"
-      ]
-    },
-    {
-      "title": "Why is the battle for Yemen's Taiz so important?",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQVE5NX1dPV1lsbk1MeFB4OGoyZHJ0OUhNV3hxRkQxT3FmcGo4emVHVi1fRDhrV1ByWlUwSURBZ1pPUzQzanIxbWx4MXVwUnFmQWtPNjAzd3NTUDEzOU5NSmJTVHF3OHoxdHk1d0VpUm13YjcwQ2FjT1djOGVGTC1MSkFvVjhVTmM",
-      "source_count": 1,
-      "sources": [
-        "Reuters"
-      ]
-    },
-    {
-      "title": "SoftBank weighs $23.1b acquisition of Allied Universal, source says, Money News",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOYnJLV3gyZTlweXJGVERwaUVzMGhEc2xwckpvZ1pNVkJYTERYb0RTTkVKaEcwWm1YUk8yS0tZeUJkQzV6TmRzdElpeDQ2VUo5RHc4ZzE2b0ExRERIUVZ6T1ZuZzhVUzBwOEg0RzE1cWtkMFl0RlV1RmpwQzA0NS1MRlU2eS15VmdieWczNnhoRmRIM1dRU3c",
-      "source_count": 1,
-      "sources": [
-        "AsiaOne.com"
       ]
     },
     {
@@ -695,53 +654,53 @@
       ]
     },
     {
-      "title": "26 Years Ago, 'Buffy the Vampire Slayer' Officially Launched Its Most Controversial Couple",
-      "url": "https://www.polygon.com/buffy-the-vampire-slayer-season-5-episode-4-retrospective/",
+      "title": "Early Modern Warfare 4 Consensus Unanimous That It Features On Of The Best COD Campaigns Ever",
+      "url": "https://www.polygon.com/modern-warfare-4-campaign-early-reactions/",
       "source_count": 1,
       "sources": [
         "Polygon"
       ]
     },
     {
-      "title": "Event Habitat Dex and Pokédex list in Pokémon Pokopia",
-      "url": "https://www.polygon.com/pokemon-pokopia-event-habitat-dex-pokedex-list-requirements-unlock/",
+      "title": "The 8 Best Vampire Books Not Written by Anne Rice",
+      "url": "https://www.polygon.com/8-best-vampire-books/",
       "source_count": 1,
       "sources": [
         "Polygon"
       ]
     },
     {
-      "title": "Pokémon Pokopia event schedule",
-      "url": "https://www.polygon.com/pokemon-pokopia-event-schedule-holiday-dates/",
+      "title": "Netflix's 'Dealies' Will Be a More Comedy-Focused Joe Bennet Series",
+      "url": "https://www.polygon.com/joe-bennet-netflix-dealies-workplace-comedy/",
       "source_count": 1,
       "sources": [
         "Polygon"
       ]
     },
     {
-      "title": "Pokémon Pokopia 'Pumpkaboo's Sweet Surprises' event guide",
-      "url": "https://www.polygon.com/pokemon-pokopia-pumpkaboos-sweet-surprises-gourgeist-habitats-items/",
+      "title": "Grand Theft Auto 4 Was Rockstar at Its Best: Unpredictable",
+      "url": "https://www.polygon.com/grand-theft-auto-4-was-rockstar-at-its-best-unpredictable/",
       "source_count": 1,
       "sources": [
         "Polygon"
       ]
     },
     {
-      "title": "10 Perfect Detective Thrillers That Get More Intense With Every Episode",
-      "url": "https://www.polygon.com/best-mystery-tv-shows-worth-solving/",
+      "title": "New Street Fighter Movie Ends on the Strangest Song Choice Possible",
+      "url": "https://www.polygon.com/street-fighter-movie-2026-ending-its-raining-men/",
       "source_count": 1,
       "sources": [
         "Polygon"
       ]
     },
     {
-      "title": "Beloved Fantasy Novel Series Redwall Sets Return After 16 Years",
-      "url": "https://www.polygon.com/redwall-fantasy-book-series-2027-release-orphans-of-mossflower/",
+      "title": "Stephen King Meets 'The Backrooms' in Syfy's Underrated 6-Part Anthology Series",
+      "url": "https://www.polygon.com/horror-anthology-creepypasta-halloween-countdown/",
       "source_count": 1,
       "sources": [
         "Polygon"
       ]
     }
   ],
-  "summary": "Verified intelligence gathered across 92 deduplicated editorial clusters."
+  "summary": "Verified intelligence gathered across 87 deduplicated editorial clusters."
 }
