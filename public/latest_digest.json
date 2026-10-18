@@ -1,9 +1,17 @@
 {
-  "timestamp": "2026-10-18T03:12:45.685919+00:00",
-  "headline_count": 93,
+  "timestamp": "2026-10-18T08:34:41.386400+00:00",
+  "headline_count": 92,
   "headlines": [
     {
-      "title": "Academy Museum Gala 2026 Red Carpet: Taylor Swift, Inde Navarrette and More",
+      "title": "Ryan Gosling's Zero-G Stunts on 'Project Hail Mary' Broken Down by the Space Epic's VFX Supervisors",
+      "url": "https://variety.com/2026/film/global/ryan-gosling-zero-g-stunts-in-project-hail-mary-explained-1236915066/",
+      "source_count": 1,
+      "sources": [
+        "Variety"
+      ]
+    },
+    {
+      "title": "Academy Museum Gala 2026 Red Carpet: Taylor Swift, Inde Navarrette, Kate Hudson and More",
       "url": "https://variety.com/gallery/academy-museum-gala-2026-red-carpet-photos/",
       "source_count": 2,
       "sources": [
@@ -38,14 +46,6 @@
     {
       "title": "Here's Where to Watch Sebastian Fundora vs. Ermal Hadribeaj Title Boxing Match Live Online for Free",
       "url": "https://variety.com/2026/shopping/news/how-to-watch-fundora-vs-hadribeaj-boxing-live-online-free-1236909640/",
-      "source_count": 1,
-      "sources": [
-        "Variety"
-      ]
-    },
-    {
-      "title": "Paul Bettany Says He and Johnny Depp 'Hadn't Spoken' in Years When Their Texts Were Read During Libel Trial: 'I Was Being Painted As This Close Friend'",
-      "url": "https://variety.com/2026/film/news/paul-bettany-johnny-depp-hadnt-spoken-in-years-libel-trial-1236915108/",
       "source_count": 1,
       "sources": [
         "Variety"
@@ -100,6 +100,14 @@
       ]
     },
     {
+      "title": "South Africa's Oscar Entry 'Variations on a Theme' Was Written With Microsoft Excel",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/oscars-2027-south-africa-film-variations-on-a-theme-excel-1236734314/",
+      "source_count": 1,
+      "sources": [
+        "The Hollywood Reporter"
+      ]
+    },
+    {
       "title": "Gene Schwam, Hollywood Publicist to Elvis Presley, Judy Garland and Julie Andrews, Dies at 96",
       "url": "https://www.hollywoodreporter.com/movies/movie-news/gene-schwam-dead-publicist-elvis-judy-garland-julie-andrews-1236734445/",
       "source_count": 1,
@@ -132,11 +140,28 @@
       ]
     },
     {
-      "title": "Ari Emanuel Pitches Brother Rahm as Centrist Democratic President and Says He Isn't Too Worried About AI: \"It Doesn't Have Taste\"",
-      "url": "https://www.hollywoodreporter.com/business/business-news/ari-emanuel-pitches-brother-rahm-president-ai-has-no-taste-1236734288/",
+      "title": "Amit Trivedi makes a SHOCKING confession about Anurag Kashyap's No Smoking: \"Mujhe film dekh ke kuch samaj nahin aaya!\"; reveals Shilpa Rao STRUGGLED to get him his Bollywood break",
+      "url": "https://www.bollywoodhungama.com/news/bollywood/amit-trivedi-makes-a-shocking-confession-about-anurag-kashyaps-no-smoking-mujhe-film-dekh-ke-kuch-samaj-nahin-aaya-reveals-shilpa-rao-struggled-to-get-him-his-bollywood-b/",
+      "source_count": 2,
+      "sources": [
+        "Bollywood Hungama",
+        "Bollywood Hungama"
+      ]
+    },
+    {
+      "title": "Sandeep Reddy Vanga-Prabhas' Spirit postponed to Diwali 2027, set to release on October 29",
+      "url": "https://www.bollywoodhungama.com/news/bollywood/sandeep-reddy-vanga-prabhas-spirit-postponed-to-diwali-2027-set-to-release-on-october-29/",
       "source_count": 1,
       "sources": [
-        "The Hollywood Reporter"
+        "Bollywood Hungama"
+      ]
+    },
+    {
+      "title": "EXCLUSIVE: Addinath M Kothare reveals 2 out of 5 ACs on Nayyi Navelli sets were reserved ONLY for him: \"My sweat was dripping through the prosthetics; andar se mera body melt ho raha tha!\"",
+      "url": "https://www.bollywoodhungama.com/news/bollywood/exclusive-addinath-m-kothare-reveals-2-out-of-5-acs-on-nayyi-navelli-sets-were-reserved-only-for-him-my-sweat-was-dripping-through-the-prosthetics-andar-se-mera-body-melt-ho-raha-tha/",
+      "source_count": 1,
+      "sources": [
+        "Bollywood Hungama"
       ]
     },
     {
@@ -156,35 +181,19 @@
       ]
     },
     {
-      "title": "Country Delight names Rishab Shetty as its new brand ambassador",
-      "url": "https://www.bollywoodhungama.com/news/bollywood/country-delight-names-rishab-shetty-as-its-new-brand-ambassador/",
+      "title": "Quote Of The Day By Betty White: 'By Appreciating And Celebrating The Good Stuff, You Can...'",
+      "url": "https://www.tvline.com/2289169/quote-of-the-day-betty-white-appreciate-good-stuff/",
       "source_count": 1,
       "sources": [
-        "Bollywood Hungama"
+        "TVLine"
       ]
     },
     {
-      "title": "EXCLUSIVE: Yeh Prem Mol Liya stars Ayushmann Khurrana and Sharvari to join Falguni Pathak for Navratri celebrations in Mumbai",
-      "url": "https://www.bollywoodhungama.com/news/bollywood/exclusive-yeh-prem-mol-liya-stars-ayushmann-khurrana-and-sharvari-to-join-falguni-pathak-for-navratri-celebrations-in-mumbai/",
+      "title": "What To Watch Sunday: Vampire Diaries Vet Joins Tracker, Simpsons Goes Slasher, New Marshals, And More",
+      "url": "https://www.tvline.com/2287925/what-to-watch-october-18-2026-tv-shows-movies/",
       "source_count": 1,
       "sources": [
-        "Bollywood Hungama"
-      ]
-    },
-    {
-      "title": "BMC demolishes parts of Ajay Devgn's Juhu bungalow over alleged unauthorised construction: Reports",
-      "url": "https://www.bollywoodhungama.com/news/bollywood/bmc-demolishes-parts-of-ajay-devgns-juhu-bungalow-over-alleged-unauthorised-construction-reports/",
-      "source_count": 1,
-      "sources": [
-        "Bollywood Hungama"
-      ]
-    },
-    {
-      "title": "Neha Sharma warns against unauthorised AI content using her likeness: \"I will take legal action\"",
-      "url": "https://www.bollywoodhungama.com/news/bollywood/neha-sharma-warns-against-unauthorised-ai-content-using-her-likeness-i-will-take-legal-action/",
-      "source_count": 1,
-      "sources": [
-        "Bollywood Hungama"
+        "TVLine"
       ]
     },
     {
@@ -214,22 +223,6 @@
     {
       "title": "Mike Flanagan's Only Unfinished Netflix Series Is An Underrated Horror Gem",
       "url": "https://www.tvline.com/2285386/mike-flanagan-only-unfinished-netflix-series-underrated-horror-gem-the-midnight-club/",
-      "source_count": 1,
-      "sources": [
-        "TVLine"
-      ]
-    },
-    {
-      "title": "15 Best Netflix Original Shows Based On Books, Ranked",
-      "url": "https://www.tvline.com/2285929/best-netflix-original-shows-based-books-ranked/",
-      "source_count": 1,
-      "sources": [
-        "TVLine"
-      ]
-    },
-    {
-      "title": "Larry David Got His Big Break On A 'Rip-Off' Of SNL",
-      "url": "https://www.tvline.com/2289432/larry-david-big-break-snl-rip-off-fridays/",
       "source_count": 1,
       "sources": [
         "TVLine"
@@ -509,11 +502,11 @@
       ]
     },
     {
-      "title": "Exclusive-US holds more secret talks with Myanmar's military-backed rulers in Tokyo, sources say",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNSjhQUGIwbXJ0dFhSWUVIN0xXdjFxc3NvTjhyVUtmTWhXZ2RFYWVtamdQQXAySTBjWFM3SDgzVUNaVjV0SHRET0dZRXI4akhqVE5IbmgwM1JaLWxkaGJXRUVMRng0NE1FZVF4Rjl6QVNGME82empVVXNOUmx6aldlRy1pcXFGRHBIMG1PU3RLWGdxcFY5YWFBbnM4WFJOeEEwY0FFTHo5SHpBTmZ3MzVuYkpCT1VKRVM4d0tqekNYOG4wZExUdDFucdIBzgFBVV95cUxNOGV0UVFhOFA4VlAzUW81UlBic0l4Rm9oMllXX2RNakdNeWE4eE9Scmp6SUlwTXJTdjRsRXRKSE5nZlFtR2NHekVCUVV4QXRYZ0d1eUE0U210ZnZVU2NTQ3Q3ZGxlQUYxZktsWGttTEVzQmxxTGxXZEVhNVVmLXA2R0JLVmQ0TldpaG9lU3A4LTFINS1EVVJOd2NuakJxcGMxb0tQd0hSei1jbDlpVTZJSXNEanBvLVUwMW5Rd3FEWGxlMWRXMGFyejdwMXg0UQ",
+      "title": "'Godfather' star Al Pacino",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE45ejVGR1NOS0wzaHU3a2FVeWtwYTczakZucGJEZmdjTE5LNTJRdVBPUmtKWUw1ejVXdnAtN3NOa0hvQWg3UnNlRk8ybnhFQmtIWk9CUW9vOUFsNUlTUEtKOEZXUlFqZEU2NmVrdWhuWEZZbW1p",
       "source_count": 1,
       "sources": [
-        "ThePrint"
+        "FBC News"
       ]
     },
     {
@@ -613,6 +606,14 @@
       ]
     },
     {
+      "title": "Eminem Defends Kid Rock Collaboration: 'Not About Choosing Sides'",
+      "url": "https://www.billboard.com/music/rb-hip-hop/eminem-defends-kid-rock-collaboration-heal-my-faith-1236362405/",
+      "source_count": 1,
+      "sources": [
+        "Billboard"
+      ]
+    },
+    {
       "title": "Zach Bryan Gets Candid About Sobriety in Matthew McConaughey Interview: 'Why Am I Drinking?'",
       "url": "https://www.billboard.com/music/country/zach-bryan-sobriety-matthew-mcconaughey-interview-1236362369/",
       "source_count": 1,
@@ -647,14 +648,6 @@
     {
       "title": "'I'm Experiencing Everything I've Ever Wanted': Recapping Miley's Live Return, On Her Own Terms",
       "url": "https://www.billboard.com/lists/miley-hollywood-bowl-live-return-recap/",
-      "source_count": 1,
-      "sources": [
-        "Billboard"
-      ]
-    },
-    {
-      "title": "Harry Styles Pays Tribute to Liam Payne With Unreleased Song on Anniversary of His Death",
-      "url": "https://www.billboard.com/music/music-news/harry-styles-dedicates-song-to-liam-payne-1236362307/",
       "source_count": 1,
       "sources": [
         "Billboard"
@@ -702,6 +695,30 @@
       ]
     },
     {
+      "title": "Stephen King and Stanley Kubrick's Near-Perfect Psychological Thriller Is Officially Back on Streaming",
+      "url": "https://www.polygon.com/stephen-king-the-shining-on-hbo-max/",
+      "source_count": 1,
+      "sources": [
+        "Polygon"
+      ]
+    },
+    {
+      "title": "60 Years Ago, the Best Charlie Brown Quote Was So Perfect It Made It Into the Movie",
+      "url": "https://www.polygon.com/peanuts-best-charlie-brown-quote-ever/",
+      "source_count": 1,
+      "sources": [
+        "Polygon"
+      ]
+    },
+    {
+      "title": "Every Major Game Releasing in November That Isn't GTA 6",
+      "url": "https://www.polygon.com/november-2026-game-releases/",
+      "source_count": 1,
+      "sources": [
+        "Polygon"
+      ]
+    },
+    {
       "title": "42 Years Later, the Definitive Sci-Fi Action Thriller is Free to Watch on YouTube",
       "url": "https://www.polygon.com/the-terminator-1984-free-on-youtube/",
       "source_count": 1,
@@ -724,31 +741,7 @@
       "sources": [
         "Polygon"
       ]
-    },
-    {
-      "title": "44 Years Later, Steven Spielberg's Scariest Movie of All Time Is Officially Back on Streaming",
-      "url": "https://www.polygon.com/poltergeist-tobe-hooper-steven-spielberg-on-hbo-max/",
-      "source_count": 1,
-      "sources": [
-        "Polygon"
-      ]
-    },
-    {
-      "title": "8 Most Disappointing Switch Games, Ranked",
-      "url": "https://www.polygon.com/most-disappointing-switch-games-ranked/",
-      "source_count": 1,
-      "sources": [
-        "Polygon"
-      ]
-    },
-    {
-      "title": "Pokémon Go Minior Shower schedule",
-      "url": "https://www.polygon.com/pokemon-go-minior-shower-schedule-how-to-find-shiny/",
-      "source_count": 1,
-      "sources": [
-        "Polygon"
-      ]
     }
   ],
-  "summary": "Verified intelligence gathered across 93 deduplicated editorial clusters."
+  "summary": "Verified intelligence gathered across 92 deduplicated editorial clusters."
 }
