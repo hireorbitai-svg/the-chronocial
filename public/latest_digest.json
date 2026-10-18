@@ -1,7 +1,49 @@
 {
-  "timestamp": "2026-10-18T08:34:41.386400+00:00",
-  "headline_count": 92,
+  "timestamp": "2026-10-18T13:46:42.248946+00:00",
+  "headline_count": 91,
   "headlines": [
+    {
+      "title": "NFL Introduces Celebrity Guest Cheerleaders: On the Sidelines With Comedian Atsuko Okatsuka and the L.A. Rams (EXCLUSIVE)",
+      "url": "https://variety.com/2026/sports/news/nfl-celebrity-guest-cheerleaders-atsuko-okatsuka-la-rams-1236915556/",
+      "source_count": 1,
+      "sources": [
+        "Variety"
+      ]
+    },
+    {
+      "title": "Sergei Loznitsa's 'Imperium' Wins Best Film at BFI London Film Festival",
+      "url": "https://variety.com/2026/film/festivals/sergei-loznitsa-imperium-best-film-london-film-festival-1236915621/",
+      "source_count": 3,
+      "sources": [
+        "Variety",
+        "Full List",
+        "The Hollywood Reporter"
+      ]
+    },
+    {
+      "title": "James Austin Johnson's Trump Stops by 'SNL U.K.' for Meeting With Burnham and Zelenskyy: 'You Don't Have One Guy Who Can Play Trump?'",
+      "url": "https://variety.com/2026/tv/global/snl-uk-james-austin-johnson-trump-surprise-cold-open-1236915603/",
+      "source_count": 1,
+      "sources": [
+        "Variety"
+      ]
+    },
+    {
+      "title": "'SNL U.K.' Weekend Update Takes Jab at Shane Gillis: 'You Stupid F - ing C",
+      "url": "https://variety.com/2026/tv/global/snl-uk-shane-gillis-monologue-weekend-update-1236915579/",
+      "source_count": 1,
+      "sources": [
+        "'"
+      ]
+    },
+    {
+      "title": "Roger Deakins on Instinct, Experience and Not Knowing What Is a Cinematographer: 'I Still Can't Answer That'",
+      "url": "https://variety.com/2026/artisans/global/roger-deakins-instinct-experience-not-knowing-1236914679/",
+      "source_count": 1,
+      "sources": [
+        "Variety"
+      ]
+    },
     {
       "title": "Ryan Gosling's Zero-G Stunts on 'Project Hail Mary' Broken Down by the Space Epic's VFX Supervisors",
       "url": "https://variety.com/2026/film/global/ryan-gosling-zero-g-stunts-in-project-hail-mary-explained-1236915066/",
@@ -11,44 +53,11 @@
       ]
     },
     {
-      "title": "Academy Museum Gala 2026 Red Carpet: Taylor Swift, Inde Navarrette, Kate Hudson and More",
-      "url": "https://variety.com/gallery/academy-museum-gala-2026-red-carpet-photos/",
-      "source_count": 2,
-      "sources": [
-        "Variety",
-        "The Hollywood Reporter"
-      ]
-    },
-    {
-      "title": "Quentin Tarantino Confirms He's 'Written a Script' for His Tenth Film, But Won't Pursue It Yet Because He Wants to 'Live a Little'",
-      "url": "https://variety.com/2026/film/news/quentin-tarantino-confirms-script-for-tenth-film-1236915169/",
+      "title": "El Gouna Unveils Third Cohort Of CineGouna Emerge Program's Rising Stars",
+      "url": "https://deadline.com/2026/10/el-gouna-cinegouna-emerge-2026-rising-stars-1237166913/",
       "source_count": 1,
       "sources": [
-        "Variety"
-      ]
-    },
-    {
-      "title": "James McAvoy Says 'Split' Is The Only Film That 'Really Consistently Pays Me'",
-      "url": "https://variety.com/2026/film/news/james-mcavoy-split-only-film-that-consistently-pays-me-1236915162/",
-      "source_count": 1,
-      "sources": [
-        "Variety"
-      ]
-    },
-    {
-      "title": "Here's Where to Buy New York Knicks Home Opener Tickets at Madison Square Garden Online",
-      "url": "https://variety.com/2026/shopping/news/new-york-knicks-home-opener-2026-msg-tickets-buy-online-1236874638/",
-      "source_count": 1,
-      "sources": [
-        "Variety"
-      ]
-    },
-    {
-      "title": "Here's Where to Watch Sebastian Fundora vs. Ermal Hadribeaj Title Boxing Match Live Online for Free",
-      "url": "https://variety.com/2026/shopping/news/how-to-watch-fundora-vs-hadribeaj-boxing-live-online-free-1236909640/",
-      "source_count": 1,
-      "sources": [
-        "Variety"
+        "Deadline Hollywood"
       ]
     },
     {
@@ -84,24 +93,24 @@
       ]
     },
     {
-      "title": "Donald Trump Finally Arrives On 'SNL UK' In Job Swap Cold Open With Andy Burnham & Volodymyr Zelenskyy",
-      "url": "https://deadline.com/2026/10/snl-uk-donald-trump-first-time-andy-burnham-zelensky-1237166466/",
+      "title": "'What Belongs to Others' Wins Top Warsaw Film Festival Award",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/warsaw-film-festival-2026-awards-winners-what-belongs-to-others-1236734712/",
       "source_count": 1,
       "sources": [
-        "Deadline Hollywood"
-      ]
-    },
-    {
-      "title": "'Street Fighter's Orville Peck Tried To \"Orchestrate\" Kylie Minogue Cameo: \"Guys, I Can Text Her\"",
-      "url": "https://deadline.com/2026/10/street-fighter-orville-peck-tried-kylie-minogue-cameo-1237166445/",
-      "source_count": 1,
-      "sources": [
-        "Deadline Hollywood"
+        "The Hollywood Reporter"
       ]
     },
     {
       "title": "South Africa's Oscar Entry 'Variations on a Theme' Was Written With Microsoft Excel",
       "url": "https://www.hollywoodreporter.com/movies/movie-news/oscars-2027-south-africa-film-variations-on-a-theme-excel-1236734314/",
+      "source_count": 1,
+      "sources": [
+        "The Hollywood Reporter"
+      ]
+    },
+    {
+      "title": "Academy Museum Gala: Taylor Swift, Sabrina Carpenter, Jennifer Hudson, Connor Storrie, More Stars Walk the Carpet",
+      "url": "https://www.hollywoodreporter.com/gallery/taylor-swift-anna-kendrick-photos-academy-museum-gala-2026-1236734470/",
       "source_count": 1,
       "sources": [
         "The Hollywood Reporter"
@@ -118,22 +127,6 @@
     {
       "title": "Miley Cyrus Returns to the Stage With Emotional and Cathartic Hollywood Bowl Show",
       "url": "https://www.hollywoodreporter.com/music/music-news/miley-cyrus-live-hollywood-bowl-2026-night-1-highlights-1236734276/",
-      "source_count": 1,
-      "sources": [
-        "The Hollywood Reporter"
-      ]
-    },
-    {
-      "title": "'The Diplomat' U.K. Prime Minister on the Operatic Way He Learned of His \"Shocking\" Season 4 Storyline",
-      "url": "https://www.hollywoodreporter.com/tv/tv-news/the-diplomat-trowbridge-resigns-rory-kinnear-interview-1236734442/",
-      "source_count": 1,
-      "sources": [
-        "The Hollywood Reporter"
-      ]
-    },
-    {
-      "title": "Harry Styles Debuts Unreleased Song at MSG to Honor Liam Payne on Second Death Anniversary",
-      "url": "https://www.hollywoodreporter.com/music/music-news/harry-styles-unreleased-song-honor-liam-payne-anniversary-1236734395/",
       "source_count": 1,
       "sources": [
         "The Hollywood Reporter"
@@ -181,6 +174,38 @@
       ]
     },
     {
+      "title": "This '60s TV Action Thriller Broke Ground By Being Named After Its Female Lead",
+      "url": "https://www.tvline.com/2285397/honey-west-60s-tv-action-thriller-named-after-female-lead/",
+      "source_count": 1,
+      "sources": [
+        "TVLine"
+      ]
+    },
+    {
+      "title": "10 Netflix Shows That Are Better On A Rewatch",
+      "url": "https://www.tvline.com/2286677/netflix-shows-better-rewatch/",
+      "source_count": 1,
+      "sources": [
+        "TVLine"
+      ]
+    },
+    {
+      "title": "One Of Chicago Fire's Longest-Tenured Stars Is A Real Firefighter Who Was Hired As An Extra",
+      "url": "https://www.tvline.com/2285378/chicago-fire-star-real-firefighter-hired-extra-anthony-ferraris/",
+      "source_count": 1,
+      "sources": [
+        "TVLine"
+      ]
+    },
+    {
+      "title": "Gilligan's Island's Final Reunion TV Movie Was A Sci-Fi Story With The Harlem Globetrotters",
+      "url": "https://www.tvline.com/2284430/gilligans-island-final-reunion-tv-movie-sci-fi-story-the-harlem-globetrotters/",
+      "source_count": 1,
+      "sources": [
+        "TVLine"
+      ]
+    },
+    {
       "title": "Quote Of The Day By Betty White: 'By Appreciating And Celebrating The Good Stuff, You Can...'",
       "url": "https://www.tvline.com/2289169/quote-of-the-day-betty-white-appreciate-good-stuff/",
       "source_count": 1,
@@ -191,38 +216,6 @@
     {
       "title": "What To Watch Sunday: Vampire Diaries Vet Joins Tracker, Simpsons Goes Slasher, New Marshals, And More",
       "url": "https://www.tvline.com/2287925/what-to-watch-october-18-2026-tv-shows-movies/",
-      "source_count": 1,
-      "sources": [
-        "TVLine"
-      ]
-    },
-    {
-      "title": "5 TV Shows To Watch If You Like Interview With The Vampire",
-      "url": "https://www.tvline.com/2289199/tv-shows-like-interview-with-the-vampire/",
-      "source_count": 1,
-      "sources": [
-        "TVLine"
-      ]
-    },
-    {
-      "title": "15 The Twilight Zone Episodes Everyone Should Watch At Least Once",
-      "url": "https://www.tvline.com/2286381/the-twilight-zone-episodes-everyone-watch-once/",
-      "source_count": 1,
-      "sources": [
-        "TVLine"
-      ]
-    },
-    {
-      "title": "All 4 Criminal Minds Shows, Ranked",
-      "url": "https://www.tvline.com/2284593/criminal-minds-shows-ranked/",
-      "source_count": 1,
-      "sources": [
-        "TVLine"
-      ]
-    },
-    {
-      "title": "Mike Flanagan's Only Unfinished Netflix Series Is An Underrated Horror Gem",
-      "url": "https://www.tvline.com/2285386/mike-flanagan-only-unfinished-netflix-series-underrated-horror-gem-the-midnight-club/",
       "source_count": 1,
       "sources": [
         "TVLine"
@@ -366,6 +359,14 @@
       ]
     },
     {
+      "title": "Tenebris Somnia Blends 2D Visuals With Live-Action Horror Scenes, And It's Already On Sale At Launch",
+      "url": "https://www.gamespot.com/articles/tenebris-somnia-blends-2d-visuals-with-live-action-horror-scenes-and-its-already-on-sale-at-launch/",
+      "source_count": 1,
+      "sources": [
+        "GameSpot"
+      ]
+    },
+    {
       "title": "All The Records GTA 6 Will Break, We Think",
       "url": "https://www.gamespot.com/articles/all-the-records-gta-6-will-break-we-think/",
       "source_count": 1,
@@ -406,11 +407,27 @@
       ]
     },
     {
-      "title": "A Comically On-The-Nose New Title Has Me Even More Excited For This Upcoming Tactics Game",
-      "url": "https://www.gamespot.com/articles/a-comically-on-the-nose-new-title-has-me-even-more-excited-for-this-upcoming-tactics-game/",
+      "title": "Clive Barker says he's 'genuinely astonished' by Hellraiser: Revival: 'I'm proud as f**k at the end result'",
+      "url": "https://www.pcgamer.com/games/horror/clive-barker-says-hes-genuinely-astonished-by-hellraiser-revival-im-proud-as-f-k-at-the-end-result/",
       "source_count": 1,
       "sources": [
-        "GameSpot"
+        "PC Gamer"
+      ]
+    },
+    {
+      "title": "Outlast designer says that one playtester was so upset by the horror series they 'ran out of the studio to go cry outside' and didn't return",
+      "url": "https://www.pcgamer.com/games/horror/outlast-designer-says-that-one-playtester-was-so-upset-by-the-horror-series-they-ran-out-of-the-studio-to-go-cry-outside-and-didnt-return/",
+      "source_count": 1,
+      "sources": [
+        "PC Gamer"
+      ]
+    },
+    {
+      "title": "Liquid Swords, developer of open-city crime sim Samson, has gone bankrupt following staff claims that they haven't been paid in two months",
+      "url": "https://www.pcgamer.com/gaming-industry/liquid-swords-developer-of-open-city-crime-sim-samson-has-gone-bankrupt-following-staff-claims-that-they-havent-been-paid-in-two-months/",
+      "source_count": 1,
+      "sources": [
+        "PC Gamer"
       ]
     },
     {
@@ -432,30 +449,6 @@
     {
       "title": "'I am overwhelmed and overstimulated': The actor behind Star Wars: Galactic Racer's Biddy Blas is scribbing doon all your enthusiasm",
       "url": "https://www.pcgamer.com/games/racing/i-am-overwhelmed-and-overstimulated-the-actor-behind-star-wars-galactic-racers-biddy-blas-is-scribbing-doon-all-your-enthusiasm/",
-      "source_count": 1,
-      "sources": [
-        "PC Gamer"
-      ]
-    },
-    {
-      "title": "To help America, I used Crusader Kings 3 to figure out how to remove a doddering, senile lunatic from power",
-      "url": "https://www.pcgamer.com/games/strategy/to-help-america-i-used-crusader-kings-3-to-figure-out-how-to-remove-a-doddering-senile-lunatic-from-power/",
-      "source_count": 1,
-      "sources": [
-        "PC Gamer"
-      ]
-    },
-    {
-      "title": "Surprising no-one, Wizards of the Coast 'doesn't intend to voluntarily recognize' union efforts for the second time this year",
-      "url": "https://www.pcgamer.com/gaming-industry/surprising-no-one-wizards-of-the-coast-doesnt-intend-to-voluntarily-recognize-union-efforts-for-the-second-time-this-year/",
-      "source_count": 1,
-      "sources": [
-        "PC Gamer"
-      ]
-    },
-    {
-      "title": "Discussion time: Do you think zone chats in MMOs are forces for good, or evil?",
-      "url": "https://www.pcgamer.com/games/world-of-warcraft/discussion-time-do-you-think-zone-chats-in-mmos-are-forces-for-good-or-evil/",
       "source_count": 1,
       "sources": [
         "PC Gamer"
@@ -494,11 +487,11 @@
       ]
     },
     {
-      "title": "Nasdaq resolves network disruption that caused data gaps, source says By Reuters",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNckg5Nm54LTBpdERNNlcxUnM1bHdfV3lZN3E0eUc4WXpWc0I5QjVNallrSVZRYmZuSUZYbDRBOWxXU1dZU2pVdEpYbFVMRnZFZUtXUTgwcG8tWFRnS3VpX1ZWeUIwVml5Um1MbGpKM1BCcnBrU3RUR2V5N2g0Um1JRmJiLVF2NTJha1JJNmIyMFFYaVVmaXBlLUpEMWMtbzZwUjFoaDhPcnFsLUNxdEV2Z1dZR2V6VWlGMU1tWGdEWQ",
+      "title": "China proposes export controls on solar-manufacturing technologies, China News",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNMGduNHhqQ2NzZlF4LUJLT3A1UGZZSVlZQ21KNDZsLXlydndmNm1iZ081SnNKdE1EMTNmZ1doS3o0WG02VkZndEp0bzlsWUMzM29MdnltNGNEcVZvdjFBYVFKYl9qQ2N6Y3JhRWJaWGNFWFF3Mnh2bWItRTl0VkwwZkRaSzlSaEtPbTg1d3N3R1lJWktaMWh4Yw",
       "source_count": 1,
       "sources": [
-        "Investing.com"
+        "AsiaOne.com"
       ]
     },
     {
@@ -606,6 +599,14 @@
       ]
     },
     {
+      "title": "NFL London Game 2026: Where to Watch Houston Texans vs. Jacksonville Jaguars Live Online Free",
+      "url": "https://www.billboard.com/culture/product-recommendations/nfl-london-2026-texans-jaguars-watch-live-online-free-1236359693/",
+      "source_count": 1,
+      "sources": [
+        "Billboard"
+      ]
+    },
+    {
       "title": "Eminem Defends Kid Rock Collaboration: 'Not About Choosing Sides'",
       "url": "https://www.billboard.com/music/rb-hip-hop/eminem-defends-kid-rock-collaboration-heal-my-faith-1236362405/",
       "source_count": 1,
@@ -640,14 +641,6 @@
     {
       "title": "Becky G Brings World Mental Health Day Festival to a Powerful Close in NYC & More Uplifting Moments",
       "url": "https://www.billboard.com/music/latin/becky-g-world-mental-health-day-latin-grammys-leading-ladies-1236360559/",
-      "source_count": 1,
-      "sources": [
-        "Billboard"
-      ]
-    },
-    {
-      "title": "'I'm Experiencing Everything I've Ever Wanted': Recapping Miley's Live Return, On Her Own Terms",
-      "url": "https://www.billboard.com/lists/miley-hollywood-bowl-live-return-recap/",
       "source_count": 1,
       "sources": [
         "Billboard"
@@ -695,53 +688,53 @@
       ]
     },
     {
+      "title": "Jessica Rothe Officially Confirms Return Plans for Hit Time-Loop Thriller Trilogy",
+      "url": "https://www.polygon.com/happy-death-day-3-jessica-rothe-scream-queen/",
+      "source_count": 1,
+      "sources": [
+        "Polygon"
+      ]
+    },
+    {
+      "title": "America's Dominance in The Game Awards Is Officially Over",
+      "url": "https://www.polygon.com/the-game-awards-goty-jury-usa/",
+      "source_count": 1,
+      "sources": [
+        "Polygon"
+      ]
+    },
+    {
+      "title": "13 Years Ago, Rockstar Suffered a Leak Worse Than GTA 6",
+      "url": "https://www.polygon.com/gta-5-leak-gta-6-reddit-vine-reactions-ban-sony-rockstar-response/",
+      "source_count": 1,
+      "sources": [
+        "Polygon"
+      ]
+    },
+    {
+      "title": "Before Dark Souls, FromSoftware's Forgotten PS1 Horror Game Was a Haunting Exercise in Empathy",
+      "url": "https://www.polygon.com/fromsoftware-echo-night-ps1/",
+      "source_count": 1,
+      "sources": [
+        "Polygon"
+      ]
+    },
+    {
+      "title": "The 10 Best Horror Books of All Time According to Goodreads, Ranked",
+      "url": "https://www.polygon.com/10-best-horror-books-ranked-goodreads/",
+      "source_count": 1,
+      "sources": [
+        "Polygon"
+      ]
+    },
+    {
       "title": "Stephen King and Stanley Kubrick's Near-Perfect Psychological Thriller Is Officially Back on Streaming",
       "url": "https://www.polygon.com/stephen-king-the-shining-on-hbo-max/",
       "source_count": 1,
       "sources": [
         "Polygon"
       ]
-    },
-    {
-      "title": "60 Years Ago, the Best Charlie Brown Quote Was So Perfect It Made It Into the Movie",
-      "url": "https://www.polygon.com/peanuts-best-charlie-brown-quote-ever/",
-      "source_count": 1,
-      "sources": [
-        "Polygon"
-      ]
-    },
-    {
-      "title": "Every Major Game Releasing in November That Isn't GTA 6",
-      "url": "https://www.polygon.com/november-2026-game-releases/",
-      "source_count": 1,
-      "sources": [
-        "Polygon"
-      ]
-    },
-    {
-      "title": "42 Years Later, the Definitive Sci-Fi Action Thriller is Free to Watch on YouTube",
-      "url": "https://www.polygon.com/the-terminator-1984-free-on-youtube/",
-      "source_count": 1,
-      "sources": [
-        "Polygon"
-      ]
-    },
-    {
-      "title": "GTA: San Andreas' Bigfoot myth is a classic urban legend",
-      "url": "https://www.polygon.com/gta-san-andreas-bigfoot-myth/",
-      "source_count": 1,
-      "sources": [
-        "Polygon"
-      ]
-    },
-    {
-      "title": "Game of Thrones Prequel The Mad King Officially Returns in 2027",
-      "url": "https://www.polygon.com/game-of-thrones-the-mad-king-prequel-2027-return/",
-      "source_count": 1,
-      "sources": [
-        "Polygon"
-      ]
     }
   ],
-  "summary": "Verified intelligence gathered across 92 deduplicated editorial clusters."
+  "summary": "Verified intelligence gathered across 91 deduplicated editorial clusters."
 }
