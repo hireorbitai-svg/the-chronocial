@@ -1,7 +1,42 @@
 {
-  "timestamp": "2026-10-18T13:46:42.248946+00:00",
-  "headline_count": 91,
+  "timestamp": "2026-10-18T17:05:29.827254+00:00",
+  "headline_count": 89,
   "headlines": [
+    {
+      "title": "Georgina Cates, 'An Awfully Big Adventure' and '2point4 Children' Actress, Dies at 51",
+      "url": "https://variety.com/2026/film/news/georgina-cates-dead-awfully-big-adventure-2point4-children-1236915784/",
+      "source_count": 2,
+      "sources": [
+        "Variety",
+        "The Hollywood Reporter"
+      ]
+    },
+    {
+      "title": "Box Office: 'You Can See Everything' Stuns With $15 Million Debut, 'Street Fighter' Leads With $31 Million",
+      "url": "https://variety.com/2026/film/box-office/you-can-see-everything-box-office-nathan-fielder-elizabeth-holmes-huge-start-1236915640/",
+      "source_count": 3,
+      "sources": [
+        "Variety",
+        "Sunday Update",
+        "The Hollywood Reporter"
+      ]
+    },
+    {
+      "title": "Inside 'The New Stanford Prison Experiment,' Netflix's Controversial Reality Series: 'People Are Going to Have Very Strong Feelings' (EXCLUSIVE)",
+      "url": "https://variety.com/2026/tv/features/new-stanford-prison-experiment-netflix-prison-reality-series-1236915539/",
+      "source_count": 1,
+      "sources": [
+        "Variety"
+      ]
+    },
+    {
+      "title": "Apichatpong Weerasethakul's 'Jengira's Magnificent Dream,' With Tilda Swinton, Boarded by 'Triangle of Sadness' Mexican Co-Producer Piano",
+      "url": "https://variety.com/2026/film/global/apichatpong-weerasethakul-tilda-swinton-piano-1236915017/",
+      "source_count": 1,
+      "sources": [
+        "Variety"
+      ]
+    },
     {
       "title": "NFL Introduces Celebrity Guest Cheerleaders: On the Sidelines With Comedian Atsuko Okatsuka and the L.A. Rams (EXCLUSIVE)",
       "url": "https://variety.com/2026/sports/news/nfl-celebrity-guest-cheerleaders-atsuko-okatsuka-la-rams-1236915556/",
@@ -13,123 +48,89 @@
     {
       "title": "Sergei Loznitsa's 'Imperium' Wins Best Film at BFI London Film Festival",
       "url": "https://variety.com/2026/film/festivals/sergei-loznitsa-imperium-best-film-london-film-festival-1236915621/",
-      "source_count": 3,
-      "sources": [
-        "Variety",
-        "Full List",
-        "The Hollywood Reporter"
-      ]
-    },
-    {
-      "title": "James Austin Johnson's Trump Stops by 'SNL U.K.' for Meeting With Burnham and Zelenskyy: 'You Don't Have One Guy Who Can Play Trump?'",
-      "url": "https://variety.com/2026/tv/global/snl-uk-james-austin-johnson-trump-surprise-cold-open-1236915603/",
       "source_count": 1,
       "sources": [
         "Variety"
       ]
     },
     {
-      "title": "'SNL U.K.' Weekend Update Takes Jab at Shane Gillis: 'You Stupid F - ing C",
-      "url": "https://variety.com/2026/tv/global/snl-uk-shane-gillis-monologue-weekend-update-1236915579/",
-      "source_count": 1,
-      "sources": [
-        "'"
-      ]
-    },
-    {
-      "title": "Roger Deakins on Instinct, Experience and Not Knowing What Is a Cinematographer: 'I Still Can't Answer That'",
-      "url": "https://variety.com/2026/artisans/global/roger-deakins-instinct-experience-not-knowing-1236914679/",
-      "source_count": 1,
-      "sources": [
-        "Variety"
-      ]
-    },
-    {
-      "title": "Ryan Gosling's Zero-G Stunts on 'Project Hail Mary' Broken Down by the Space Epic's VFX Supervisors",
-      "url": "https://variety.com/2026/film/global/ryan-gosling-zero-g-stunts-in-project-hail-mary-explained-1236915066/",
-      "source_count": 1,
-      "sources": [
-        "Variety"
-      ]
-    },
-    {
-      "title": "El Gouna Unveils Third Cohort Of CineGouna Emerge Program's Rising Stars",
-      "url": "https://deadline.com/2026/10/el-gouna-cinegouna-emerge-2026-rising-stars-1237166913/",
+      "title": "'Dreadline Express' Game Developer David Konecny Talks Stressful Player Choice & The Art Of Building A Psychological Horror",
+      "url": "https://deadline.com/2026/10/dreadline-express-video-game-interview-david-konecny-1237166952/",
       "source_count": 1,
       "sources": [
         "Deadline Hollywood"
       ]
     },
     {
-      "title": "James McAvoy Pitched 'Star Trek' Series About \"Young Picard,\" Jokes \"All I Really Want To Do\" Is Play Young Patrick Stewart",
-      "url": "https://deadline.com/2026/10/james-mcavoy-pitched-star-trek-series-young-picard-1237166532/",
+      "title": "'Street Fighter' Rings Up No. 1 $51M+ WW Opening, Largely Driven By Fans",
+      "url": "https://deadline.com/2026/10/box-office-global-street-fighter-1237167021/",
+      "source_count": 1,
+      "sources": [
+        "Global Box Office Update"
+      ]
+    },
+    {
+      "title": "Curtain Up: 'La Bola Negra' Shines As Netflix Shares Grosses In Historic First",
+      "url": "https://deadline.com/2026/10/indie-film-box-office-la-bola-negra-shines-netflix-shares-grosses-1237167026/",
+      "source_count": 1,
+      "sources": [
+        "Specialty Box Office"
+      ]
+    },
+    {
+      "title": "Georgina Cates Dead: BBC Star & 'Clay Pigeons' Actress Was 51",
+      "url": "https://deadline.com/2026/10/georgina-cates-dead-bbc-1237167085/",
       "source_count": 1,
       "sources": [
         "Deadline Hollywood"
       ]
     },
     {
-      "title": "Jaime Pressly Defends 'Mom' Co-Stars As \"Beautifully Flawed\" After Chuck Lorre Memoir: \"Incredible Cast Of Women\"",
-      "url": "https://deadline.com/2026/10/jaime-pressly-defends-mom-co-stars-chuck-lorre-memoir-1237166522/",
+      "title": "'Monday Night' Friction? ESPN NFL Broadcasters Joe Buck & Troy Aikman Have Noisy Start To Super Bowl Year",
+      "url": "https://deadline.com/2026/10/nfl-espn-joe-buck-troy-aikman-monday-night-1237166923/",
       "source_count": 1,
       "sources": [
         "Deadline Hollywood"
       ]
     },
     {
-      "title": "Clive Barker Teases 'Hellraiser: Revival' Video Game Has Reignited \"Many Ideas\" For Film Franchise: \"Planning To Keep My Fingers In That Pie\"",
-      "url": "https://deadline.com/2026/10/clive-barker-hellraiser-revival-reignited-ideas-film-franchise-1237166512/",
-      "source_count": 1,
-      "sources": [
-        "Deadline Hollywood"
-      ]
-    },
-    {
-      "title": "Paul McCartney Was Concerned Paul Mescal Is \"Markedly Shorter\" Than 'The Beatles' Co-Stars",
-      "url": "https://deadline.com/2026/10/paul-mccartney-concerned-paul-mescal-markedly-shorter-beatles-1237166503/",
-      "source_count": 1,
-      "sources": [
-        "Deadline Hollywood"
-      ]
-    },
-    {
-      "title": "'What Belongs to Others' Wins Top Warsaw Film Festival Award",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/warsaw-film-festival-2026-awards-winners-what-belongs-to-others-1236734712/",
+      "title": "Inside Tubi's Plan to Build an R.L. Stine Cinematic Universe",
+      "url": "https://www.hollywoodreporter.com/movies/movie-features/tubi-r-l-stine-pumpkinhead-2-the-babysitter-strategy-1236730062/",
       "source_count": 1,
       "sources": [
         "The Hollywood Reporter"
       ]
     },
     {
-      "title": "South Africa's Oscar Entry 'Variations on a Theme' Was Written With Microsoft Excel",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/oscars-2027-south-africa-film-variations-on-a-theme-excel-1236734314/",
+      "title": "R.J. Mitte's Mother Opens Up About His Tragic Passing to Help Other Families (While Clarifying Speculation About His Finances, Career and Fiancé)",
+      "url": "https://www.hollywoodreporter.com/news/general-news/r-j-mitte-mother-family-interview-death-suicide-prevention-1236734202/",
       "source_count": 1,
       "sources": [
         "The Hollywood Reporter"
       ]
     },
     {
-      "title": "Academy Museum Gala: Taylor Swift, Sabrina Carpenter, Jennifer Hudson, Connor Storrie, More Stars Walk the Carpet",
-      "url": "https://www.hollywoodreporter.com/gallery/taylor-swift-anna-kendrick-photos-academy-museum-gala-2026-1236734470/",
+      "title": "Taylor Swift, Charlize Theron, Colman Domingo and Many More Stars Help Academy Museum Gala Raise Over $14M",
+      "url": "https://www.hollywoodreporter.com/lifestyle/lifestyle-news/taylor-swift-stars-academy-museum-gala-raise-14m-1236734684/",
       "source_count": 1,
       "sources": [
         "The Hollywood Reporter"
       ]
     },
     {
-      "title": "Gene Schwam, Hollywood Publicist to Elvis Presley, Judy Garland and Julie Andrews, Dies at 96",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/gene-schwam-dead-publicist-elvis-judy-garland-julie-andrews-1236734445/",
+      "title": "Tim O'Donnell, Veteran Sitcom Writer, Producer and Director, Dies at 77",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/tim-odonnell-dead-growing-pains-clueless-daves-world-1236734794/",
       "source_count": 1,
       "sources": [
         "The Hollywood Reporter"
       ]
     },
     {
-      "title": "Miley Cyrus Returns to the Stage With Emotional and Cathartic Hollywood Bowl Show",
-      "url": "https://www.hollywoodreporter.com/music/music-news/miley-cyrus-live-hollywood-bowl-2026-night-1-highlights-1236734276/",
+      "title": "Tiger Shroff safe after firing incident reported under Juhu Police Station",
+      "url": "https://www.bollywoodhungama.com/news/bollywood/tiger-shroff-safe-after-firing-incident-reported-under-juhu-police-station/",
       "source_count": 1,
       "sources": [
-        "The Hollywood Reporter"
+        "Bollywood Hungama"
       ]
     },
     {
@@ -166,56 +167,48 @@
       ]
     },
     {
-      "title": "Yo Yo Honey Singh records statement in alleged obscene remarks case, questioned for over two hours: Reports",
-      "url": "https://www.bollywoodhungama.com/news/bollywood/yo-yo-honey-singh-records-statement-in-alleged-obscene-remarks-case-questioned-for-over-two-hours-reports/",
-      "source_count": 1,
-      "sources": [
-        "Bollywood Hungama"
-      ]
-    },
-    {
-      "title": "This '60s TV Action Thriller Broke Ground By Being Named After Its Female Lead",
-      "url": "https://www.tvline.com/2285397/honey-west-60s-tv-action-thriller-named-after-female-lead/",
+      "title": "10 Best Twilight Zone Episodes About Time Travel, Ranked",
+      "url": "https://www.tvline.com/2289590/the-twilight-zone-best-time-travel-episodes-ranked/",
       "source_count": 1,
       "sources": [
         "TVLine"
       ]
     },
     {
-      "title": "10 Netflix Shows That Are Better On A Rewatch",
-      "url": "https://www.tvline.com/2286677/netflix-shows-better-rewatch/",
+      "title": "The Diplomat Stars And EP Tell All About That Stunning Finale Twist",
+      "url": "https://www.tvline.com/2289434/the-diplomat-season-4-finale-kate-resigns-interview-ending-explained/",
+      "source_count": 1,
+      "sources": [
+        "Plus, Grade The Season!"
+      ]
+    },
+    {
+      "title": "Frasier's David Hyde Pierce Reveals Studio Audience Reaction To Niles And Daphne's First Kiss",
+      "url": "https://www.tvline.com/2285856/david-hyde-pierce-frasier-studio-audience-reaction-niles-daphne-kiss/",
       "source_count": 1,
       "sources": [
         "TVLine"
       ]
     },
     {
-      "title": "One Of Chicago Fire's Longest-Tenured Stars Is A Real Firefighter Who Was Hired As An Extra",
-      "url": "https://www.tvline.com/2285378/chicago-fire-star-real-firefighter-hired-extra-anthony-ferraris/",
+      "title": "Zoe Saldaña And Jason Isaacs Starred In A Forgotten TV Remake Of A Classic Horror Movie",
+      "url": "https://www.tvline.com/2285775/zoe-saldana-jason-isaacs-tv-remake-horror-movie-rosemarys-baby/",
       "source_count": 1,
       "sources": [
         "TVLine"
       ]
     },
     {
-      "title": "Gilligan's Island's Final Reunion TV Movie Was A Sci-Fi Story With The Harlem Globetrotters",
-      "url": "https://www.tvline.com/2284430/gilligans-island-final-reunion-tv-movie-sci-fi-story-the-harlem-globetrotters/",
+      "title": "10 TV Shows To Watch If You Like Alien: Earth",
+      "url": "https://www.tvline.com/2289588/tv-shows-like-alien-earth/",
       "source_count": 1,
       "sources": [
         "TVLine"
       ]
     },
     {
-      "title": "Quote Of The Day By Betty White: 'By Appreciating And Celebrating The Good Stuff, You Can...'",
-      "url": "https://www.tvline.com/2289169/quote-of-the-day-betty-white-appreciate-good-stuff/",
-      "source_count": 1,
-      "sources": [
-        "TVLine"
-      ]
-    },
-    {
-      "title": "What To Watch Sunday: Vampire Diaries Vet Joins Tracker, Simpsons Goes Slasher, New Marshals, And More",
-      "url": "https://www.tvline.com/2287925/what-to-watch-october-18-2026-tv-shows-movies/",
+      "title": "Jane Seymour's Hit '90s Western Series Is Streaming For Free",
+      "url": "https://www.tvline.com/2285681/jane-seymour-hit-western-series-90s-streaming-free-dr-quinn-medicine-woman/",
       "source_count": 1,
       "sources": [
         "TVLine"
@@ -407,6 +400,30 @@
       ]
     },
     {
+      "title": "No soundtrack does it like Hades 2",
+      "url": "https://www.pcgamer.com/games/roguelike/no-soundtrack-does-it-like-hades-2/",
+      "source_count": 1,
+      "sources": [
+        "PC Gamer"
+      ]
+    },
+    {
+      "title": "Frozen Trail finally puts the 'raid' in Arc Raiders",
+      "url": "https://www.pcgamer.com/games/third-person-shooter/frozen-trail-finally-puts-the-raid-in-arc-raiders/",
+      "source_count": 1,
+      "sources": [
+        "PC Gamer"
+      ]
+    },
+    {
+      "title": "'There were a lot of disagreements across the place': Former Marathon director Joe Ziegler on leading Bungie's extraction shooter, playing Path of Exile for 3,437 hours, and why he'll never uninstall Kingdom Hearts",
+      "url": "https://www.pcgamer.com/gaming-industry/there-were-a-lot-of-disagreements-across-the-place-former-marathon-director-joe-ziegler-on-leading-bungies-extraction-shooter-playing-path-of-exile-for-3-437-hours-and-why-hell-never-uninstall-kingdom-hearts/",
+      "source_count": 1,
+      "sources": [
+        "PC Gamer"
+      ]
+    },
+    {
       "title": "Clive Barker says he's 'genuinely astonished' by Hellraiser: Revival: 'I'm proud as f**k at the end result'",
       "url": "https://www.pcgamer.com/games/horror/clive-barker-says-hes-genuinely-astonished-by-hellraiser-revival-im-proud-as-f-k-at-the-end-result/",
       "source_count": 1,
@@ -431,30 +448,6 @@
       ]
     },
     {
-      "title": "Metal band Genitorturers allegedly claims a Vampire: The Masquerade - Bloodlines remake is coming, getting a dozen crusty nerds way too worked up",
-      "url": "https://www.pcgamer.com/games/rpg/metal-band-genitorturers-allegedly-claims-a-vampire-the-masquerade-bloodlines-remake-is-coming-getting-a-dozen-crusty-nerds-way-too-worked-up/",
-      "source_count": 1,
-      "sources": [
-        "PC Gamer"
-      ]
-    },
-    {
-      "title": "Qualcomm wins $2 legal decision against fellow tech giant Arm, and that's not a typo",
-      "url": "https://www.pcgamer.com/gaming-industry/qualcomm-wins-usd2-legal-decision-against-fellow-tech-giant-arm-and-thats-not-a-typo/",
-      "source_count": 1,
-      "sources": [
-        "PC Gamer"
-      ]
-    },
-    {
-      "title": "'I am overwhelmed and overstimulated': The actor behind Star Wars: Galactic Racer's Biddy Blas is scribbing doon all your enthusiasm",
-      "url": "https://www.pcgamer.com/games/racing/i-am-overwhelmed-and-overstimulated-the-actor-behind-star-wars-galactic-racers-biddy-blas-is-scribbing-doon-all-your-enthusiasm/",
-      "source_count": 1,
-      "sources": [
-        "PC Gamer"
-      ]
-    },
-    {
       "title": "Investors temper Anthropic IPO valuation expectations over revenue growth slowdown, sources say",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQRW4tSGppV2U0ZWtvaXBsQmlyaDVVLVFCSmJNMWdmMHpod0FWd25kUXRNQzFvZXJPTmhoQUNvMlFrQzI3NjBQVG9McWFPRHdUODhMbVItOGg4S0N3ZmJ4R2psZVd1aWFZM2M0aEY4R3VaYnFZWUxhOFZiRXAxTnc5UG9hMm1ERGpKbURkX3BWYzQ5UWl3THBFTDhWUWR0SVhUSWJsekpMZjM4OUZRQl9BVmY2djVKRENDSldCSUpOWmdvbHVK",
       "source_count": 1,
@@ -471,14 +464,6 @@
       ]
     },
     {
-      "title": "Live entertainment emerging as winner in streaming era",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNY3lWSHBvVmZiRW5FRmNYTWI1OUp3WUY3d1c0bUtGWXJsUk4tXzdPTVVDUTFqNDBSNzUxbC1OZk1jRkVxSVZuUG82ZnA1VTBEUWFBbjFFclVLZTBfN0tLLW5rbGF3UzFCVUJFdlVNN1ZfbXZlVkJ0bnI4TjV6SGQxTC1mVVZlTHhNYWxRQ2w5TUE5NThWbmNVNnFwR2ViVzFqR2VSYzZUUm1qVGpyQVo2ZlhfWVdwWlFZbk4xQ2lfQkExUQ",
-      "source_count": 1,
-      "sources": [
-        "TradingView"
-      ]
-    },
-    {
       "title": "Novavax shareholder Shah Capital to step back from activist role",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPRWNVWE1RUEhhUnZ3YXNRbzhyUndqR3Jnc3dKRVBPdUhRNVF3Qm5yN1prTTBMSVdQd1dhVG1hSk1RcUVJNE53V0drT0Rpcl9YRFh1TmJJODFUX21TU28tT1hDVXlHZ1lsUWhWYTBJcHQzQ0N3aUhRYjFZLTZ2UlpTZk15anhnaWh4SkxyMDBsbEt2N1FuMG1xSThuVDc3UkpaLUdFa2lxTDFaN0dDRVMwLTQzVXJGRGN1cE1hZ3RJc3hqOEdBOGNr",
       "source_count": 1,
@@ -487,19 +472,43 @@
       ]
     },
     {
-      "title": "China proposes export controls on solar-manufacturing technologies, China News",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNMGduNHhqQ2NzZlF4LUJLT3A1UGZZSVlZQ21KNDZsLXlydndmNm1iZ081SnNKdE1EMTNmZ1doS3o0WG02VkZndEp0bzlsWUMzM29MdnltNGNEcVZvdjFBYVFKYl9qQ2N6Y3JhRWJaWGNFWFF3Mnh2bWItRTl0VkwwZkRaSzlSaEtPbTg1d3N3R1lJWktaMWh4Yw",
-      "source_count": 1,
-      "sources": [
-        "AsiaOne.com"
-      ]
-    },
-    {
       "title": "'Godfather' star Al Pacino",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE45ejVGR1NOS0wzaHU3a2FVeWtwYTczakZucGJEZmdjTE5LNTJRdVBPUmtKWUw1ejVXdnAtN3NOa0hvQWg3UnNlRk8ybnhFQmtIWk9CUW9vOUFsNUlTUEtKOEZXUlFqZEU2NmVrdWhuWEZZbW1p",
       "source_count": 1,
       "sources": [
         "FBC News"
+      ]
+    },
+    {
+      "title": "World News | US State Department Report Keeps China in Tier 3 over Forced Labour, Trafficking Concerns",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNWkcybXNKYkRhbE1CQno4dzVGejhHOWp0OW1WQ09lR05vc2V5MVJnRlpTVFRZSkJGd0hPNWpFbG9DUkR6NmpsdGZVLUdGaFRwTE55cTJfWGI0N3gxZnhnWUR4djMyMjRBbzc5OFRfNGh5U2JyNmwzTTRUVFhKMlJ0eEJmVzl4bXdIcTgtMWRGWTRlaV9NaE51VDQzaDlQbzhrd1RpWlVpYTU2d2tCalRFLVFhREtUcjUyTEFteTFTTmhnN216R3gtX1lyS0NJbllmRF9QQWVVWlZZQ2M1SVEtRFNqMUwxemNj0gHoAUFVX3lxTE1aRzJtc0piRGFsTUJCejh3NUZ6OEc5anQ5bVZDT2VHTm9zZXkxUmdGWlNUVFlKQkZ3SE81akVsb0NSRHo2amx0ZlUtR0ZoVHBMTnlxMl9YYjQ3eDFmeGdZRHh2MzIyNEFvNzk4VF80aHlTYnI2bDNNNFRUWEoyUnR4QmZXOXhtd0hxOC0xZEZZNGVpX01oTnVUNDNoOVBvOGt3VGlaVWlhNTZ3a0JqVEUtUWFES1RyNTJMQW15MVNOaGc3bXpHeC1fWXJLQ0luWWZEX1BBZVVaVllDYzVJUS1EU2oxTDF6Y2M",
+      "source_count": 1,
+      "sources": [
+        "LatestLY"
+      ]
+    },
+    {
+      "title": "'La Bola Negra' Earns $277,500 in Limited Release as Netflix Reports Box Office Results for the First Time in History",
+      "url": "https://www.indiewire.com/news/box-office/la-bola-negra-earns-limited-release-netflix-reports-box-office-1235222671/",
+      "source_count": 1,
+      "sources": [
+        "IndieWire"
+      ]
+    },
+    {
+      "title": "How Titmouse Animation Gave 'Street Fighter' Its Secret Sauce",
+      "url": "https://www.indiewire.com/features/animation/street-fighter-2026-animation-titmouse-chris-prynoski-1235222676/",
+      "source_count": 1,
+      "sources": [
+        "IndieWire"
+      ]
+    },
+    {
+      "title": "'You Can See Everything' Opens to a Staggering $15 Million, Securing A24's Place as Hollywood's Hottest Brand",
+      "url": "https://www.indiewire.com/news/box-office/you-can-see-everything-record-breaking-opening-a24-hollywoods-hottest-brand-1235222446/",
+      "source_count": 1,
+      "sources": [
+        "IndieWire"
       ]
     },
     {
@@ -521,30 +530,6 @@
     {
       "title": "John Wilson's Next Documentary Will Reportedly Show Audiences 'How to' Tour Like Harry Styles",
       "url": "https://www.indiewire.com/news/breaking-news/john-wilson-documentary-harry-styles-tour-1235222552/",
-      "source_count": 1,
-      "sources": [
-        "IndieWire"
-      ]
-    },
-    {
-      "title": "Seth Rogen Trusted Animated 'Tangles' Would Resonate Because of Its 'Specificity'",
-      "url": "https://www.indiewire.com/news/festivals/seth-rogen-tangles-specificity-animated-middleburg-1235222534/",
-      "source_count": 1,
-      "sources": [
-        "IndieWire"
-      ]
-    },
-    {
-      "title": "Can AI Make a Sci-Fi Series for $38,000? Artlist's 'The Arc' Puts It to the Test",
-      "url": "https://www.indiewire.com/features/craft/artlist-the-arc-tests-if-ai-can-make-sci-fi-series-1235222447/",
-      "source_count": 1,
-      "sources": [
-        "IndieWire"
-      ]
-    },
-    {
-      "title": "Julianne Moore and Paul Giamatti Were So 'Perfect' in 'The Debut' That They Cut Shooting Time Short",
-      "url": "https://www.indiewire.com/news/festivals/julianne-moore-paul-giamatti-perfect-takes-the-debut-1235222468/",
       "source_count": 1,
       "sources": [
         "IndieWire"
@@ -599,6 +584,14 @@
       ]
     },
     {
+      "title": "Taylor Swift Performs 'The Fate of Ophelia' Live for First Time at 2026 Academy Museum Gala",
+      "url": "https://www.billboard.com/music/music-news/taylor-swift-fate-of-ophelia-live-debut-academy-museum-gala-1236362416/",
+      "source_count": 1,
+      "sources": [
+        "Billboard"
+      ]
+    },
+    {
       "title": "NFL London Game 2026: Where to Watch Houston Texans vs. Jacksonville Jaguars Live Online Free",
       "url": "https://www.billboard.com/culture/product-recommendations/nfl-london-2026-texans-jaguars-watch-live-online-free-1236359693/",
       "source_count": 1,
@@ -633,14 +626,6 @@
     {
       "title": "Bette Midler Accepts 2026 Woody Guthrie Prize, Sings Protest Classic: 'My Small Contribution to the Resistance'",
       "url": "https://www.billboard.com/music/awards/bette-midler-woody-guthrie-prize-2026-accepts-performs-1236362345/",
-      "source_count": 1,
-      "sources": [
-        "Billboard"
-      ]
-    },
-    {
-      "title": "Becky G Brings World Mental Health Day Festival to a Powerful Close in NYC & More Uplifting Moments",
-      "url": "https://www.billboard.com/music/latin/becky-g-world-mental-health-day-latin-grammys-leading-ladies-1236360559/",
       "source_count": 1,
       "sources": [
         "Billboard"
@@ -688,53 +673,53 @@
       ]
     },
     {
-      "title": "Jessica Rothe Officially Confirms Return Plans for Hit Time-Loop Thriller Trilogy",
-      "url": "https://www.polygon.com/happy-death-day-3-jessica-rothe-scream-queen/",
+      "title": "8 Mass Effect Replay Ideas That Make the Trilogy Feel Brand-New",
+      "url": "https://www.polygon.com/mass-effect-challenge-runs/",
       "source_count": 1,
       "sources": [
         "Polygon"
       ]
     },
     {
-      "title": "America's Dominance in The Game Awards Is Officially Over",
-      "url": "https://www.polygon.com/the-game-awards-goty-jury-usa/",
+      "title": "Drunken Goddess Reflux Devs Cancel Steam Next Fest Demo Over AI Clone Concerns",
+      "url": "https://www.polygon.com/drunken-goddess-reflux-demo-canceled/",
       "source_count": 1,
       "sources": [
         "Polygon"
       ]
     },
     {
-      "title": "13 Years Ago, Rockstar Suffered a Leak Worse Than GTA 6",
-      "url": "https://www.polygon.com/gta-5-leak-gta-6-reddit-vine-reactions-ban-sony-rockstar-response/",
+      "title": "Street Fighter Fails To Match Resident Evil's Opening Weekend Box Office Success",
+      "url": "https://www.polygon.com/street-fighter-opening-weekend-box-office/",
       "source_count": 1,
       "sources": [
         "Polygon"
       ]
     },
     {
-      "title": "Before Dark Souls, FromSoftware's Forgotten PS1 Horror Game Was a Haunting Exercise in Empathy",
-      "url": "https://www.polygon.com/fromsoftware-echo-night-ps1/",
+      "title": "13 Years Ago, 'The Legend of Korra' Finally Answered the Biggest Avatar Mystery",
+      "url": "https://www.polygon.com/avatar-legend-of-korra-beginnings-origin-story/",
       "source_count": 1,
       "sources": [
         "Polygon"
       ]
     },
     {
-      "title": "The 10 Best Horror Books of All Time According to Goodreads, Ranked",
-      "url": "https://www.polygon.com/10-best-horror-books-ranked-goodreads/",
+      "title": "Epic Games CEO Believes A 'Golden Age Of Gaming' Is Imminent Because of AI",
+      "url": "https://www.polygon.com/epic-games-tim-sweeney-gold-age-of-gaming-ai-development/",
       "source_count": 1,
       "sources": [
         "Polygon"
       ]
     },
     {
-      "title": "Stephen King and Stanley Kubrick's Near-Perfect Psychological Thriller Is Officially Back on Streaming",
-      "url": "https://www.polygon.com/stephen-king-the-shining-on-hbo-max/",
+      "title": "Deathstroke Actor Reveals Scrapped Batman Film Would've Featured Batgirl And A Shocking Death",
+      "url": "https://www.polygon.com/ben-affleck-batman-movie-plot-details/",
       "source_count": 1,
       "sources": [
         "Polygon"
       ]
     }
   ],
-  "summary": "Verified intelligence gathered across 91 deduplicated editorial clusters."
+  "summary": "Verified intelligence gathered across 89 deduplicated editorial clusters."
 }
