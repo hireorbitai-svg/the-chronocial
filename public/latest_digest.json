@@ -1,7 +1,24 @@
 {
-  "timestamp": "2026-10-17T23:46:19.151747+00:00",
-  "headline_count": 91,
+  "timestamp": "2026-10-18T03:12:45.685919+00:00",
+  "headline_count": 93,
   "headlines": [
+    {
+      "title": "Academy Museum Gala 2026 Red Carpet: Taylor Swift, Inde Navarrette and More",
+      "url": "https://variety.com/gallery/academy-museum-gala-2026-red-carpet-photos/",
+      "source_count": 2,
+      "sources": [
+        "Variety",
+        "The Hollywood Reporter"
+      ]
+    },
+    {
+      "title": "Quentin Tarantino Confirms He's 'Written a Script' for His Tenth Film, But Won't Pursue It Yet Because He Wants to 'Live a Little'",
+      "url": "https://variety.com/2026/film/news/quentin-tarantino-confirms-script-for-tenth-film-1236915169/",
+      "source_count": 1,
+      "sources": [
+        "Variety"
+      ]
+    },
     {
       "title": "James McAvoy Says 'Split' Is The Only Film That 'Really Consistently Pays Me'",
       "url": "https://variety.com/2026/film/news/james-mcavoy-split-only-film-that-consistently-pays-me-1236915162/",
@@ -35,19 +52,18 @@
       ]
     },
     {
-      "title": "'Klara and the Sun' Review: There's No Life - Intelligent, Artificial or Otherwise - in Taika Waititi's Calamitous Android Fantasy",
-      "url": "https://variety.com/2026/film/news/klara-and-the-sun-review-1236914992/",
+      "title": "James McAvoy Pitched 'Star Trek' Series About \"Young Picard,\" Jokes \"All I Really Want To Do\" Is Play Young Patrick Stewart",
+      "url": "https://deadline.com/2026/10/james-mcavoy-pitched-star-trek-series-young-picard-1237166532/",
       "source_count": 1,
       "sources": [
-        "Variety"
+        "Deadline Hollywood"
       ]
     },
     {
-      "title": "'Dancing With the Stars' Pulls Val Chmerkovskiy After 'Inappropriate' Carrie Ann Inaba Slap Joke: 'The Well-Being' of Our Staff Is 'Non-Negotiable'",
-      "url": "https://variety.com/2026/tv/news/dancing-with-the-stars-pulls-val-chmerkovskiy-carrie-ann-inaba-slap-joke-1236915031/",
-      "source_count": 2,
+      "title": "Jaime Pressly Defends 'Mom' Co-Stars As \"Beautifully Flawed\" After Chuck Lorre Memoir: \"Incredible Cast Of Women\"",
+      "url": "https://deadline.com/2026/10/jaime-pressly-defends-mom-co-stars-chuck-lorre-memoir-1237166522/",
+      "source_count": 1,
       "sources": [
-        "Variety",
         "Deadline Hollywood"
       ]
     },
@@ -84,17 +100,16 @@
       ]
     },
     {
-      "title": "Miley Cyrus Tearfully Remembers Dolly Parton At Hollywood Bowl Concert, Performs 'Jolene'",
-      "url": "https://deadline.com/2026/10/miley-cyrus-dolly-parton-jolene-hollywood-bowl-1237166419/",
-      "source_count": 2,
+      "title": "Gene Schwam, Hollywood Publicist to Elvis Presley, Judy Garland and Julie Andrews, Dies at 96",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/gene-schwam-dead-publicist-elvis-judy-garland-julie-andrews-1236734445/",
+      "source_count": 1,
       "sources": [
-        "Deadline Hollywood",
         "The Hollywood Reporter"
       ]
     },
     {
-      "title": "Gene Schwam, Hollywood Publicist to Elvis Presley, Judy Garland and Julie Andrews, Dies at 96",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/gene-schwam-dead-publicist-elvis-judy-garland-julie-andrews-1236734445/",
+      "title": "Miley Cyrus Returns to the Stage With Emotional and Cathartic Hollywood Bowl Show",
+      "url": "https://www.hollywoodreporter.com/music/music-news/miley-cyrus-live-hollywood-bowl-2026-night-1-highlights-1236734276/",
       "source_count": 1,
       "sources": [
         "The Hollywood Reporter"
@@ -119,14 +134,6 @@
     {
       "title": "Ari Emanuel Pitches Brother Rahm as Centrist Democratic President and Says He Isn't Too Worried About AI: \"It Doesn't Have Taste\"",
       "url": "https://www.hollywoodreporter.com/business/business-news/ari-emanuel-pitches-brother-rahm-president-ai-has-no-taste-1236734288/",
-      "source_count": 1,
-      "sources": [
-        "The Hollywood Reporter"
-      ]
-    },
-    {
-      "title": "Carrot Top Breaks Silence After Suicide Attempt and Hospitalization as Comedian Preps Return to Stage",
-      "url": "https://www.hollywoodreporter.com/news/general-news/carrot-top-suicide-attempt-hospitalization-luxor-residency-1236734402/",
       "source_count": 1,
       "sources": [
         "The Hollywood Reporter"
@@ -181,48 +188,48 @@
       ]
     },
     {
+      "title": "5 TV Shows To Watch If You Like Interview With The Vampire",
+      "url": "https://www.tvline.com/2289199/tv-shows-like-interview-with-the-vampire/",
+      "source_count": 1,
+      "sources": [
+        "TVLine"
+      ]
+    },
+    {
+      "title": "15 The Twilight Zone Episodes Everyone Should Watch At Least Once",
+      "url": "https://www.tvline.com/2286381/the-twilight-zone-episodes-everyone-watch-once/",
+      "source_count": 1,
+      "sources": [
+        "TVLine"
+      ]
+    },
+    {
+      "title": "All 4 Criminal Minds Shows, Ranked",
+      "url": "https://www.tvline.com/2284593/criminal-minds-shows-ranked/",
+      "source_count": 1,
+      "sources": [
+        "TVLine"
+      ]
+    },
+    {
+      "title": "Mike Flanagan's Only Unfinished Netflix Series Is An Underrated Horror Gem",
+      "url": "https://www.tvline.com/2285386/mike-flanagan-only-unfinished-netflix-series-underrated-horror-gem-the-midnight-club/",
+      "source_count": 1,
+      "sources": [
+        "TVLine"
+      ]
+    },
+    {
+      "title": "15 Best Netflix Original Shows Based On Books, Ranked",
+      "url": "https://www.tvline.com/2285929/best-netflix-original-shows-based-books-ranked/",
+      "source_count": 1,
+      "sources": [
+        "TVLine"
+      ]
+    },
+    {
       "title": "Larry David Got His Big Break On A 'Rip-Off' Of SNL",
       "url": "https://www.tvline.com/2289432/larry-david-big-break-snl-rip-off-fridays/",
-      "source_count": 1,
-      "sources": [
-        "TVLine"
-      ]
-    },
-    {
-      "title": "The First 19 Seasons Of Canada's Hit Western Series Are Streaming On Netflix",
-      "url": "https://www.tvline.com/2285212/heartland-19-seasons-hit-western-series-canada-streaming-netflix/",
-      "source_count": 1,
-      "sources": [
-        "TVLine"
-      ]
-    },
-    {
-      "title": "Is SNL New Tonight (October 17, 2026)? Host, Musical Guest, Episode Details",
-      "url": "https://www.tvline.com/2288716/is-snl-new-tonight-october-17-2026-host-musical-guest-watch-details/",
-      "source_count": 1,
-      "sources": [
-        "TVLine"
-      ]
-    },
-    {
-      "title": "The One Frasier Storyline Jane Leeves And David Hyde Pierce Would Change",
-      "url": "https://www.tvline.com/2285259/jane-leeves-david-hyde-pierce-frasier-storyline-change-daphne-weight/",
-      "source_count": 1,
-      "sources": [
-        "TVLine"
-      ]
-    },
-    {
-      "title": "15 Star Trek: Voyager Episodes To Skip On A Rewatch",
-      "url": "https://www.tvline.com/2289542/star-trek-voyager-episodes-skip-rewatch/",
-      "source_count": 1,
-      "sources": [
-        "TVLine"
-      ]
-    },
-    {
-      "title": "Chicago Fire's Creators Wanted To Avoid Becoming A Remake Of This Beloved Firefighting Drama",
-      "url": "https://www.tvline.com/2285227/chicago-fire-creators-avoid-remake-beloved-firefighting-drama-rescue-me/",
       "source_count": 1,
       "sources": [
         "TVLine"
@@ -318,6 +325,14 @@
       ]
     },
     {
+      "title": "Dev Behind Russian Roulette Drinking Game Cancels Steam Demo Plans Following AI Copycat Concerns",
+      "url": "https://www.ign.com/articles/dev-behind-russian-roulette-drinking-game-cancels-steam-demo-plans-following-ai-copycat-concerns",
+      "source_count": 1,
+      "sources": [
+        "IGN Games"
+      ]
+    },
+    {
       "title": "Battlefield 6 Devs Respond After Players Take Aim at 'Secuty' Typo and Cosmetic With 5 Pistols",
       "url": "https://www.ign.com/articles/battlefield-6-devs-respond-after-players-take-aim-at-secuty-typo-and-cosmetic-with-5-pistols",
       "source_count": 1,
@@ -352,14 +367,6 @@
     {
       "title": "[UPDATE] Super Smash Bros. Player Mew2King Responds After Tournament Bans Him Over Bug Bite Concerns",
       "url": "https://www.ign.com/articles/super-smash-bros-player-mew2king-banned-from-tournament-after-bug-bites-spark-health-concerns",
-      "source_count": 1,
-      "sources": [
-        "IGN Games"
-      ]
-    },
-    {
-      "title": "'There Should be a Game Award for Hot Dads' - Castlevania: Belmont's Curse Devs Are Fully Aware and Loving the 'Horny' Fanart for Their Game",
-      "url": "https://www.ign.com/articles/there-should-be-a-game-award-for-hot-dads-castlevania-belmonts-curse-devs-are-fully-aware-and-loving-the-horny-fanart-for-their-game",
       "source_count": 1,
       "sources": [
         "IGN Games"
@@ -462,6 +469,14 @@
       ]
     },
     {
+      "title": "Investors temper Anthropic IPO valuation expectations over revenue growth slowdown, sources say",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQRW4tSGppV2U0ZWtvaXBsQmlyaDVVLVFCSmJNMWdmMHpod0FWd25kUXRNQzFvZXJPTmhoQUNvMlFrQzI3NjBQVG9McWFPRHdUODhMbVItOGg4S0N3ZmJ4R2psZVd1aWFZM2M0aEY4R3VaYnFZWUxhOFZiRXAxTnc5UG9hMm1ERGpKbURkX3BWYzQ5UWl3THBFTDhWUWR0SVhUSWJsekpMZjM4OUZRQl9BVmY2djVKRENDSldCSUpOWmdvbHVK",
+      "source_count": 1,
+      "sources": [
+        "Reuters"
+      ]
+    },
+    {
       "title": "Reuters Entertainment News Summary",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQVXJNT05maGF4Sk5MQXVUU1UxVnI5ZlY5a19Xc1QxdTRsYnRnNWw2MDc1ZEgyMmZheW9fMWY1N241bU4yWEJaajVJck1xVnZRbGNxNXpZajNEeWt5LV9RUmx2ZjVaRmFGakdWWkdjY0dGb0NiaUdReE9zbTl0Q1h0c2laSzNlVUJna1FPRGZSN2Z4Q2VDTUhuRkktbHJnZ9IBngFBVV95cUxQVXJNT05maGF4Sk5MQXVUU1UxVnI5ZlY5a19Xc1QxdTRsYnRnNWw2MDc1ZEgyMmZheW9fMWY1N241bU4yWEJaajVJck1xVnZRbGNxNXpZajNEeWt5LV9RUmx2ZjVaRmFGakdWWkdjY0dGb0NiaUdReE9zbTl0Q1h0c2laSzNlVUJna1FPRGZSN2Z4Q2VDTUhuRkktbHJnZw",
       "source_count": 1,
@@ -478,6 +493,14 @@
       ]
     },
     {
+      "title": "Novavax shareholder Shah Capital to step back from activist role",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPRWNVWE1RUEhhUnZ3YXNRbzhyUndqR3Jnc3dKRVBPdUhRNVF3Qm5yN1prTTBMSVdQd1dhVG1hSk1RcUVJNE53V0drT0Rpcl9YRFh1TmJJODFUX21TU28tT1hDVXlHZ1lsUWhWYTBJcHQzQ0N3aUhRYjFZLTZ2UlpTZk15anhnaWh4SkxyMDBsbEt2N1FuMG1xSThuVDc3UkpaLUdFa2lxTDFaN0dDRVMwLTQzVXJGRGN1cE1hZ3RJc3hqOEdBOGNr",
+      "source_count": 1,
+      "sources": [
+        "Reuters"
+      ]
+    },
+    {
       "title": "Nasdaq resolves network disruption that caused data gaps, source says By Reuters",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNckg5Nm54LTBpdERNNlcxUnM1bHdfV3lZN3E0eUc4WXpWc0I5QjVNallrSVZRYmZuSUZYbDRBOWxXU1dZU2pVdEpYbFVMRnZFZUtXUTgwcG8tWFRnS3VpX1ZWeUIwVml5Um1MbGpKM1BCcnBrU3RUR2V5N2g0Um1JRmJiLVF2NTJha1JJNmIyMFFYaVVmaXBlLUpEMWMtbzZwUjFoaDhPcnFsLUNxdEV2Z1dZR2V6VWlGMU1tWGdEWQ",
       "source_count": 1,
@@ -486,19 +509,19 @@
       ]
     },
     {
-      "title": "'Godfather' star Al Pacino",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE45ejVGR1NOS0wzaHU3a2FVeWtwYTczakZucGJEZmdjTE5LNTJRdVBPUmtKWUw1ejVXdnAtN3NOa0hvQWg3UnNlRk8ybnhFQmtIWk9CUW9vOUFsNUlTUEtKOEZXUlFqZEU2NmVrdWhuWEZZbW1p",
-      "source_count": 1,
-      "sources": [
-        "FBC News"
-      ]
-    },
-    {
       "title": "Exclusive-US holds more secret talks with Myanmar's military-backed rulers in Tokyo, sources say",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNSjhQUGIwbXJ0dFhSWUVIN0xXdjFxc3NvTjhyVUtmTWhXZ2RFYWVtamdQQXAySTBjWFM3SDgzVUNaVjV0SHRET0dZRXI4akhqVE5IbmgwM1JaLWxkaGJXRUVMRng0NE1FZVF4Rjl6QVNGME82empVVXNOUmx6aldlRy1pcXFGRHBIMG1PU3RLWGdxcFY5YWFBbnM4WFJOeEEwY0FFTHo5SHpBTmZ3MzVuYkpCT1VKRVM4d0tqekNYOG4wZExUdDFucdIBzgFBVV95cUxNOGV0UVFhOFA4VlAzUW81UlBic0l4Rm9oMllXX2RNakdNeWE4eE9Scmp6SUlwTXJTdjRsRXRKSE5nZlFtR2NHekVCUVV4QXRYZ0d1eUE0U210ZnZVU2NTQ3Q3ZGxlQUYxZktsWGttTEVzQmxxTGxXZEVhNVVmLXA2R0JLVmQ0TldpaG9lU3A4LTFINS1EVVJOd2NuakJxcGMxb0tQd0hSei1jbDlpVTZJSXNEanBvLVUwMW5Rd3FEWGxlMWRXMGFyejdwMXg0UQ",
       "source_count": 1,
       "sources": [
         "ThePrint"
+      ]
+    },
+    {
+      "title": "'Dirty Dancing' Sequel Will Honor Patrick Swayze, as Producers Work with Jennifer Grey to Write Baby's Next Chapter",
+      "url": "https://www.indiewire.com/news/events/dirty-dancing-2-honor-patrick-swayze-baby-90s-1235222530/",
+      "source_count": 1,
+      "sources": [
+        "IndieWire"
       ]
     },
     {
@@ -536,14 +559,6 @@
     {
       "title": "Julianne Moore and Paul Giamatti Were So 'Perfect' in 'The Debut' That They Cut Shooting Time Short",
       "url": "https://www.indiewire.com/news/festivals/julianne-moore-paul-giamatti-perfect-takes-the-debut-1235222468/",
-      "source_count": 1,
-      "sources": [
-        "IndieWire"
-      ]
-    },
-    {
-      "title": "Fall Festival Movies Sold So Far: Niki Byrne's Chase Infiniti-Starring College Drama 'The Julia Set' Goes to SPC",
-      "url": "https://www.indiewire.com/news/festivals/fall-festival-movies-sold-so-far-babies-ink-elsinore-1235213179/",
       "source_count": 1,
       "sources": [
         "IndieWire"
@@ -687,6 +702,38 @@
       ]
     },
     {
+      "title": "42 Years Later, the Definitive Sci-Fi Action Thriller is Free to Watch on YouTube",
+      "url": "https://www.polygon.com/the-terminator-1984-free-on-youtube/",
+      "source_count": 1,
+      "sources": [
+        "Polygon"
+      ]
+    },
+    {
+      "title": "GTA: San Andreas' Bigfoot myth is a classic urban legend",
+      "url": "https://www.polygon.com/gta-san-andreas-bigfoot-myth/",
+      "source_count": 1,
+      "sources": [
+        "Polygon"
+      ]
+    },
+    {
+      "title": "Game of Thrones Prequel The Mad King Officially Returns in 2027",
+      "url": "https://www.polygon.com/game-of-thrones-the-mad-king-prequel-2027-return/",
+      "source_count": 1,
+      "sources": [
+        "Polygon"
+      ]
+    },
+    {
+      "title": "44 Years Later, Steven Spielberg's Scariest Movie of All Time Is Officially Back on Streaming",
+      "url": "https://www.polygon.com/poltergeist-tobe-hooper-steven-spielberg-on-hbo-max/",
+      "source_count": 1,
+      "sources": [
+        "Polygon"
+      ]
+    },
+    {
       "title": "8 Most Disappointing Switch Games, Ranked",
       "url": "https://www.polygon.com/most-disappointing-switch-games-ranked/",
       "source_count": 1,
@@ -701,39 +748,7 @@
       "sources": [
         "Polygon"
       ]
-    },
-    {
-      "title": "5 Years Later, One Game's Blood Sacrifice Mechanic Still Haunts Me",
-      "url": "https://www.polygon.com/inscryption-retrospective-blood-sacrifice/",
-      "source_count": 1,
-      "sources": [
-        "Polygon"
-      ]
-    },
-    {
-      "title": "Tim Burton's 77-Minute Stop-Motion Masterpiece Is Officially Back on Streaming",
-      "url": "https://www.polygon.com/forget-wildwood-tim-burton-corpse-bride/",
-      "source_count": 1,
-      "sources": [
-        "Polygon"
-      ]
-    },
-    {
-      "title": "The Zelda: Ocarina of Time Remake Sounds Meaningfully Better Than the Original",
-      "url": "https://www.polygon.com/switchboard-zelda-ocarina-of-time-previews/",
-      "source_count": 1,
-      "sources": [
-        "Polygon"
-      ]
-    },
-    {
-      "title": "The 8 Best Castlevania Games, Ranked",
-      "url": "https://www.polygon.com/best-castlevania-games-ranked/",
-      "source_count": 1,
-      "sources": [
-        "Polygon"
-      ]
     }
   ],
-  "summary": "Verified intelligence gathered across 91 deduplicated editorial clusters."
+  "summary": "Verified intelligence gathered across 93 deduplicated editorial clusters."
 }
