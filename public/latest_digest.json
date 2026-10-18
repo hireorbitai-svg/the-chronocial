@@ -1,10 +1,18 @@
 {
-  "timestamp": "2026-10-18T17:05:29.827254+00:00",
-  "headline_count": 89,
+  "timestamp": "2026-10-18T20:09:22.832597+00:00",
+  "headline_count": 86,
   "headlines": [
     {
-      "title": "Georgina Cates, 'An Awfully Big Adventure' and '2point4 Children' Actress, Dies at 51",
-      "url": "https://variety.com/2026/film/news/georgina-cates-dead-awfully-big-adventure-2point4-children-1236915784/",
+      "title": "Taylor Swift's 'The Life of a Showgirl' Spends 15th Week at No. 1 on Albums Chart",
+      "url": "https://variety.com/2026/music/news/taylor-swift-the-life-of-a-showgirl-15th-week-no-1-chart-1236915983/",
+      "source_count": 1,
+      "sources": [
+        "Variety"
+      ]
+    },
+    {
+      "title": "Betty McGuire, 'Growing Pains' Actress, Dies at 100",
+      "url": "https://variety.com/2026/tv/people-news/betty-mcguire-dead-growing-pains-1236915890/",
       "source_count": 2,
       "sources": [
         "Variety",
@@ -12,45 +20,77 @@
       ]
     },
     {
-      "title": "Box Office: 'You Can See Everything' Stuns With $15 Million Debut, 'Street Fighter' Leads With $31 Million",
-      "url": "https://variety.com/2026/film/box-office/you-can-see-everything-box-office-nathan-fielder-elizabeth-holmes-huge-start-1236915640/",
-      "source_count": 3,
+      "title": "Jesse Eisenberg Says He 'Couldn't Get Movie Studio Parts Anymore' After Winning A Razzie For 'Batman v Superman': 'The Industry Did Not Want Me to Be in a Superhero Movie'",
+      "url": "https://variety.com/2026/film/global/jesse-eisenberg-razzie-batman-v-superman-1236915876/",
+      "source_count": 1,
       "sources": [
-        "Variety",
-        "Sunday Update",
+        "Variety"
+      ]
+    },
+    {
+      "title": "'Capturing Bigfoot' Review: An Astounding Documentary Uncovers the Truth",
+      "url": "https://variety.com/2026/film/reviews/capturing-bigfoot-review-an-amazing-doc-uncovers-the-truth-1236915797/",
+      "source_count": 1,
+      "sources": [
+        "Variety"
+      ]
+    },
+    {
+      "title": "Taylor Swift Fires Up Academy Gala With Four Songs in Her First Band Performance Since the Eras Tour",
+      "url": "https://variety.com/2026/film/news/taylor-swift-performance-academy-gala-five-songs-1236915817/",
+      "source_count": 1,
+      "sources": [
+        "Variety"
+      ]
+    },
+    {
+      "title": "Aran Murphy on Playing an Angry Young Man in 'Youth' and 'War' - and His Father Cillian's Influence",
+      "url": "https://variety.com/2026/tv/news/aran-murphy-youth-war-and-cillian-murphy-influence-1236909378/",
+      "source_count": 1,
+      "sources": [
+        "Variety"
+      ]
+    },
+    {
+      "title": "TikTok Restores 'Musk' Doc Account \"After An Error\" Resulted In Suspension",
+      "url": "https://deadline.com/2026/10/tiktok-restores-musk-doc-account-after-error-1237167167/",
+      "source_count": 1,
+      "sources": [
+        "Deadline Hollywood"
+      ]
+    },
+    {
+      "title": "Cindy Crawford & Family Pay Tribute To Late Son Presley Gerber: \"'Til We Meet Again, Our Sweet Boy\"",
+      "url": "https://deadline.com/2026/10/cindy-crawford-family-pay-tribute-presley-gerber-1237167162/",
+      "source_count": 2,
+      "sources": [
+        "Deadline Hollywood",
         "The Hollywood Reporter"
       ]
     },
     {
-      "title": "Inside 'The New Stanford Prison Experiment,' Netflix's Controversial Reality Series: 'People Are Going to Have Very Strong Feelings' (EXCLUSIVE)",
-      "url": "https://variety.com/2026/tv/features/new-stanford-prison-experiment-netflix-prison-reality-series-1236915539/",
-      "source_count": 1,
+      "title": "How A24 Spurred A Meme Craze & Got The Many To Watch 'You Can See Everything': Documentary Opens To $15M Milestone",
+      "url": "https://deadline.com/2026/10/you-can-see-everything-box-office-elizabeth-holmes-1237167129/",
+      "source_count": 2,
       "sources": [
-        "Variety"
+        "Deadline Hollywood",
+        "The Hollywood Reporter"
       ]
     },
     {
-      "title": "Apichatpong Weerasethakul's 'Jengira's Magnificent Dream,' With Tilda Swinton, Boarded by 'Triangle of Sadness' Mexican Co-Producer Piano",
-      "url": "https://variety.com/2026/film/global/apichatpong-weerasethakul-tilda-swinton-piano-1236915017/",
+      "title": "Woodstock Film Festival Names Jessica Edwards Executive Director, Announces 2026 Maverick Award Winners",
+      "url": "https://deadline.com/2026/10/woodstock-film-festival-jessica-edwards-executive-director-1237167150/",
       "source_count": 1,
       "sources": [
-        "Variety"
+        "Full List"
       ]
     },
     {
-      "title": "NFL Introduces Celebrity Guest Cheerleaders: On the Sidelines With Comedian Atsuko Okatsuka and the L.A. Rams (EXCLUSIVE)",
-      "url": "https://variety.com/2026/sports/news/nfl-celebrity-guest-cheerleaders-atsuko-okatsuka-la-rams-1236915556/",
+      "title": "Tom Arnold Denies Chuck Lorre's Claim That He Made Writers Put His Name On 'Roseanne' Scripts: \"Never\"",
+      "url": "https://deadline.com/2026/10/tom-arnold-denies-chuck-lorre-claim-roseanne-scripts-1237167120/",
       "source_count": 1,
       "sources": [
-        "Variety"
-      ]
-    },
-    {
-      "title": "Sergei Loznitsa's 'Imperium' Wins Best Film at BFI London Film Festival",
-      "url": "https://variety.com/2026/film/festivals/sergei-loznitsa-imperium-best-film-london-film-festival-1236915621/",
-      "source_count": 1,
-      "sources": [
-        "Variety"
+        "Deadline Hollywood"
       ]
     },
     {
@@ -62,35 +102,11 @@
       ]
     },
     {
-      "title": "'Street Fighter' Rings Up No. 1 $51M+ WW Opening, Largely Driven By Fans",
-      "url": "https://deadline.com/2026/10/box-office-global-street-fighter-1237167021/",
+      "title": "Young Miko Gets Flirty With L.A. During Her Late Checkout Tour",
+      "url": "https://www.hollywoodreporter.com/music/music-news/young-miko-la-concert-late-checkout-tour-highlights-1236734751/",
       "source_count": 1,
       "sources": [
-        "Global Box Office Update"
-      ]
-    },
-    {
-      "title": "Curtain Up: 'La Bola Negra' Shines As Netflix Shares Grosses In Historic First",
-      "url": "https://deadline.com/2026/10/indie-film-box-office-la-bola-negra-shines-netflix-shares-grosses-1237167026/",
-      "source_count": 1,
-      "sources": [
-        "Specialty Box Office"
-      ]
-    },
-    {
-      "title": "Georgina Cates Dead: BBC Star & 'Clay Pigeons' Actress Was 51",
-      "url": "https://deadline.com/2026/10/georgina-cates-dead-bbc-1237167085/",
-      "source_count": 1,
-      "sources": [
-        "Deadline Hollywood"
-      ]
-    },
-    {
-      "title": "'Monday Night' Friction? ESPN NFL Broadcasters Joe Buck & Troy Aikman Have Noisy Start To Super Bowl Year",
-      "url": "https://deadline.com/2026/10/nfl-espn-joe-buck-troy-aikman-monday-night-1237166923/",
-      "source_count": 1,
-      "sources": [
-        "Deadline Hollywood"
+        "The Hollywood Reporter"
       ]
     },
     {
@@ -104,22 +120,6 @@
     {
       "title": "R.J. Mitte's Mother Opens Up About His Tragic Passing to Help Other Families (While Clarifying Speculation About His Finances, Career and Fiancé)",
       "url": "https://www.hollywoodreporter.com/news/general-news/r-j-mitte-mother-family-interview-death-suicide-prevention-1236734202/",
-      "source_count": 1,
-      "sources": [
-        "The Hollywood Reporter"
-      ]
-    },
-    {
-      "title": "Taylor Swift, Charlize Theron, Colman Domingo and Many More Stars Help Academy Museum Gala Raise Over $14M",
-      "url": "https://www.hollywoodreporter.com/lifestyle/lifestyle-news/taylor-swift-stars-academy-museum-gala-raise-14m-1236734684/",
-      "source_count": 1,
-      "sources": [
-        "The Hollywood Reporter"
-      ]
-    },
-    {
-      "title": "Tim O'Donnell, Veteran Sitcom Writer, Producer and Director, Dies at 77",
-      "url": "https://www.hollywoodreporter.com/tv/tv-news/tim-odonnell-dead-growing-pains-clueless-daves-world-1236734794/",
       "source_count": 1,
       "sources": [
         "The Hollywood Reporter"
@@ -167,48 +167,48 @@
       ]
     },
     {
-      "title": "10 Best Twilight Zone Episodes About Time Travel, Ranked",
-      "url": "https://www.tvline.com/2289590/the-twilight-zone-best-time-travel-episodes-ranked/",
+      "title": "ABC's First Movie Of The Week Was An Adventure Story Starring Comedian Milton Berle",
+      "url": "https://www.tvline.com/2286539/abc-first-movie-of-the-week-adventure-story-star-comedian-milton-berle/",
       "source_count": 1,
       "sources": [
         "TVLine"
       ]
     },
     {
-      "title": "The Diplomat Stars And EP Tell All About That Stunning Finale Twist",
-      "url": "https://www.tvline.com/2289434/the-diplomat-season-4-finale-kate-resigns-interview-ending-explained/",
-      "source_count": 1,
-      "sources": [
-        "Plus, Grade The Season!"
-      ]
-    },
-    {
-      "title": "Frasier's David Hyde Pierce Reveals Studio Audience Reaction To Niles And Daphne's First Kiss",
-      "url": "https://www.tvline.com/2285856/david-hyde-pierce-frasier-studio-audience-reaction-niles-daphne-kiss/",
+      "title": "All 12 Seasons Of The Big Bang Theory, Ranked",
+      "url": "https://www.tvline.com/2289651/the-big-bang-theory-ranked-seasons/",
       "source_count": 1,
       "sources": [
         "TVLine"
       ]
     },
     {
-      "title": "Zoe Saldaña And Jason Isaacs Starred In A Forgotten TV Remake Of A Classic Horror Movie",
-      "url": "https://www.tvline.com/2285775/zoe-saldana-jason-isaacs-tv-remake-horror-movie-rosemarys-baby/",
+      "title": "NBC Rejected Madonna For A Lead Role In A Hit '80s Drama Series",
+      "url": "https://www.tvline.com/2286466/nbc-rejected-madonna-lead-role-hit-80s-drama-series-fame/",
       "source_count": 1,
       "sources": [
         "TVLine"
       ]
     },
     {
-      "title": "10 TV Shows To Watch If You Like Alien: Earth",
-      "url": "https://www.tvline.com/2289588/tv-shows-like-alien-earth/",
+      "title": "10 Most Disappointing TV Show Revivals Of All Time, Ranked",
+      "url": "https://www.tvline.com/2288218/most-disappointing-tv-show-revivals-ranked/",
       "source_count": 1,
       "sources": [
         "TVLine"
       ]
     },
     {
-      "title": "Jane Seymour's Hit '90s Western Series Is Streaming For Free",
-      "url": "https://www.tvline.com/2285681/jane-seymour-hit-western-series-90s-streaming-free-dr-quinn-medicine-woman/",
+      "title": "HBO's Westworld Had A Subtle Game Of Thrones 'Crossover' In Season 3",
+      "url": "https://www.tvline.com/2286399/hbo-westworld-game-of-thrones-crossover-season-3-explained/",
+      "source_count": 1,
+      "sources": [
+        "TVLine"
+      ]
+    },
+    {
+      "title": "5 TV Shows To Watch If You Like Blue Ridge",
+      "url": "https://www.tvline.com/2285857/tv-shows-like-blue-ridge/",
       "source_count": 1,
       "sources": [
         "TVLine"
@@ -304,6 +304,15 @@
       ]
     },
     {
+      "title": "The Best Deals Today: The Adventures of Elliot, Pikmin 4, Mouse: P.I. For Hire, and More",
+      "url": "https://www.ign.com/articles/best-deals-for-october-18-2026",
+      "source_count": 2,
+      "sources": [
+        "IGN Games",
+        "IGN Games"
+      ]
+    },
+    {
       "title": "Dev Behind Russian Roulette Drinking Game Cancels Steam Demo Plans Following AI Copycat Concerns",
       "url": "https://www.ign.com/articles/dev-behind-russian-roulette-drinking-game-cancels-steam-demo-plans-following-ai-copycat-concerns",
       "source_count": 1,
@@ -320,14 +329,6 @@
       ]
     },
     {
-      "title": "The Best Deals Today: Cyberpunk 2077 for Switch 2, Pikmin 4, Star Wars Zero Company, and More",
-      "url": "https://www.ign.com/articles/best-deals-for-october-17-2026",
-      "source_count": 1,
-      "sources": [
-        "IGN Games"
-      ]
-    },
-    {
       "title": "Captain Price Actor Sends Message to Fans as Call of Duty: Modern Warfare 4 Campaign Praise Rolls in",
       "url": "https://www.ign.com/articles/captain-price-actor-sends-message-to-fans-as-call-of-duty-modern-warfare-4-campaign-praise-rolls-in",
       "source_count": 1,
@@ -338,14 +339,6 @@
     {
       "title": "We Sat Down with D&D Game Designer James Wyatt to Talk Dungeons & Dragons: World of Warcraft",
       "url": "https://www.ign.com/articles/we-sat-down-with-dd-game-designer-james-wyatt-to-talk-dungeons-and-dragons-world-of-warcraft",
-      "source_count": 1,
-      "sources": [
-        "IGN Games"
-      ]
-    },
-    {
-      "title": "[UPDATE] Super Smash Bros. Player Mew2King Responds After Tournament Bans Him Over Bug Bite Concerns",
-      "url": "https://www.ign.com/articles/super-smash-bros-player-mew2king-banned-from-tournament-after-bug-bites-spark-health-concerns",
       "source_count": 1,
       "sources": [
         "IGN Games"
@@ -400,6 +393,30 @@
       ]
     },
     {
+      "title": "Dark Souls 2 dataminer shows off massive prototype coliseum level from early development",
+      "url": "https://www.pcgamer.com/games/dark-souls/dark-souls-2-dataminer-shows-off-massive-prototype-coliseum-level-from-early-development/",
+      "source_count": 1,
+      "sources": [
+        "PC Gamer"
+      ]
+    },
+    {
+      "title": "Leaked AI safety bill from Anthropic only requires government intervention if 50+ injuries or $1 billion are at risk",
+      "url": "https://www.pcgamer.com/software/ai/leaked-ai-safety-bill-from-anthropic-only-lets-government-act-if-50-deaths-or-usd1-billion-are-on-the-line/",
+      "source_count": 1,
+      "sources": [
+        "PC Gamer"
+      ]
+    },
+    {
+      "title": "The Outlast Trials' initial playtests went poorly: Designer says 6-year development took 'a f**king long time' and 'a s**t-ton of prototypes'",
+      "url": "https://www.pcgamer.com/games/horror/the-outlast-trials-initial-playtests-went-poorly-designer-says-6-year-development-took-a-f-king-long-time-and-a-s-t-ton-of-prototypes/",
+      "source_count": 1,
+      "sources": [
+        "PC Gamer"
+      ]
+    },
+    {
       "title": "No soundtrack does it like Hades 2",
       "url": "https://www.pcgamer.com/games/roguelike/no-soundtrack-does-it-like-hades-2/",
       "source_count": 1,
@@ -424,32 +441,8 @@
       ]
     },
     {
-      "title": "Clive Barker says he's 'genuinely astonished' by Hellraiser: Revival: 'I'm proud as f**k at the end result'",
-      "url": "https://www.pcgamer.com/games/horror/clive-barker-says-hes-genuinely-astonished-by-hellraiser-revival-im-proud-as-f-k-at-the-end-result/",
-      "source_count": 1,
-      "sources": [
-        "PC Gamer"
-      ]
-    },
-    {
-      "title": "Outlast designer says that one playtester was so upset by the horror series they 'ran out of the studio to go cry outside' and didn't return",
-      "url": "https://www.pcgamer.com/games/horror/outlast-designer-says-that-one-playtester-was-so-upset-by-the-horror-series-they-ran-out-of-the-studio-to-go-cry-outside-and-didnt-return/",
-      "source_count": 1,
-      "sources": [
-        "PC Gamer"
-      ]
-    },
-    {
-      "title": "Liquid Swords, developer of open-city crime sim Samson, has gone bankrupt following staff claims that they haven't been paid in two months",
-      "url": "https://www.pcgamer.com/gaming-industry/liquid-swords-developer-of-open-city-crime-sim-samson-has-gone-bankrupt-following-staff-claims-that-they-havent-been-paid-in-two-months/",
-      "source_count": 1,
-      "sources": [
-        "PC Gamer"
-      ]
-    },
-    {
-      "title": "Investors temper Anthropic IPO valuation expectations over revenue growth slowdown, sources say",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQRW4tSGppV2U0ZWtvaXBsQmlyaDVVLVFCSmJNMWdmMHpod0FWd25kUXRNQzFvZXJPTmhoQUNvMlFrQzI3NjBQVG9McWFPRHdUODhMbVItOGg4S0N3ZmJ4R2psZVd1aWFZM2M0aEY4R3VaYnFZWUxhOFZiRXAxTnc5UG9hMm1ERGpKbURkX3BWYzQ5UWl3THBFTDhWUWR0SVhUSWJsekpMZjM4OUZRQl9BVmY2djVKRENDSldCSUpOWmdvbHVK",
+      "title": "Novavax shareholder Shah Capital to step back from activist role",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPRWNVWE1RUEhhUnZ3YXNRbzhyUndqR3Jnc3dKRVBPdUhRNVF3Qm5yN1prTTBMSVdQd1dhVG1hSk1RcUVJNE53V0drT0Rpcl9YRFh1TmJJODFUX21TU28tT1hDVXlHZ1lsUWhWYTBJcHQzQ0N3aUhRYjFZLTZ2UlpTZk15anhnaWh4SkxyMDBsbEt2N1FuMG1xSThuVDc3UkpaLUdFa2lxTDFaN0dDRVMwLTQzVXJGRGN1cE1hZ3RJc3hqOEdBOGNr",
       "source_count": 1,
       "sources": [
         "Reuters"
@@ -464,19 +457,11 @@
       ]
     },
     {
-      "title": "Novavax shareholder Shah Capital to step back from activist role",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPRWNVWE1RUEhhUnZ3YXNRbzhyUndqR3Jnc3dKRVBPdUhRNVF3Qm5yN1prTTBMSVdQd1dhVG1hSk1RcUVJNE53V0drT0Rpcl9YRFh1TmJJODFUX21TU28tT1hDVXlHZ1lsUWhWYTBJcHQzQ0N3aUhRYjFZLTZ2UlpTZk15anhnaWh4SkxyMDBsbEt2N1FuMG1xSThuVDc3UkpaLUdFa2lxTDFaN0dDRVMwLTQzVXJGRGN1cE1hZ3RJc3hqOEdBOGNr",
+      "title": "Milan police clash with protesters on second day of unrest",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQbmJkOHlONlktNzBZbFdyaTN1MFFsSWFhd3Btbm0wUFYzRzRIRXdpRHpYMUY2RHAyT3ZraF9SYVBhbUR5S1RvLTVXdE5iZXBCRTRHdGhrMXZ0SWo2Q000Ym1Idkp1UGtzYzE5cGd2ZmVSUUhQNU5tdl9GYWFtM1I2MVBxTG53MVZNSl9wbFBhUzNjZVgwOFdjLdIBngFBVV95cUxObDNlbVc0eU0zaVJaY0RGblVXMW02MjNTVkFlYnl3ZTVwVTZQa1phNktpX0pUTXBGY1l5SWZ0WTVJU3Ezb3MwcVdvZV9pcFNrcnBSdEVjc291Zjl1dUFiZVRkbUtNYnZTaXBFUU9qaFRkblVPWTZiejNXNjZKbzJGcnUtUXRrUS1wQVFneEdWOXkzQUNpNHlJOHp2TTExUQ",
       "source_count": 1,
       "sources": [
-        "Reuters"
-      ]
-    },
-    {
-      "title": "'Godfather' star Al Pacino",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE45ejVGR1NOS0wzaHU3a2FVeWtwYTczakZucGJEZmdjTE5LNTJRdVBPUmtKWUw1ejVXdnAtN3NOa0hvQWg3UnNlRk8ybnhFQmtIWk9CUW9vOUFsNUlTUEtKOEZXUlFqZEU2NmVrdWhuWEZZbW1p",
-      "source_count": 1,
-      "sources": [
-        "FBC News"
+        "ThePrint"
       ]
     },
     {
@@ -536,6 +521,14 @@
       ]
     },
     {
+      "title": "Cindy Crawford, Kaia Gerber Pay Tribute to Presley Gerber: 'Til We Meet Again Our Sweet Boy'",
+      "url": "https://www.rollingstone.com/culture/culture-news/cindy-crawford-kaia-gerber-tribute-presley-gerber-1235644475/",
+      "source_count": 1,
+      "sources": [
+        "Rolling Stone Culture"
+      ]
+    },
+    {
       "title": "If You Take Elon Musk at His Word, Tesla Just Debuted a 'Flying Car'",
       "url": "https://www.rollingstone.com/culture/culture-news/elon-musk-tesla-flying-car-roadster-2-1235643874/",
       "source_count": 1,
@@ -576,59 +569,52 @@
       ]
     },
     {
-      "title": "Shop Owner Says Kelly Clarkson 'Used Her Fame to Try to Destroy Our Business'",
-      "url": "https://www.rollingstone.com/culture/culture-news/kelly-clarkson-brooklyn-shop-art-of-play-owner-interview-1235642589/",
-      "source_count": 1,
+      "title": "Morgan Wallen, Garth Brooks, Taylor Swift & More Artists With Most Weeks at No. 1 on Top Country Albums Chart: Full List",
+      "url": "https://www.billboard.com/lists/top-country-albums-number-ones-biggest/",
+      "source_count": 2,
       "sources": [
-        "Rolling Stone Culture"
+        "Billboard",
+        "Billboard"
       ]
     },
     {
-      "title": "Taylor Swift Performs 'The Fate of Ophelia' Live for First Time at 2026 Academy Museum Gala",
-      "url": "https://www.billboard.com/music/music-news/taylor-swift-fate-of-ophelia-live-debut-academy-museum-gala-1236362416/",
+      "title": "Britney Spears Seemingly Calls Out Stars Copying Her Image: 'At Least Mine Was Real'",
+      "url": "https://www.billboard.com/music/pop/britney-spears-image-copycats-im-original-post-1236362459/",
       "source_count": 1,
       "sources": [
         "Billboard"
       ]
     },
     {
-      "title": "NFL London Game 2026: Where to Watch Houston Texans vs. Jacksonville Jaguars Live Online Free",
-      "url": "https://www.billboard.com/culture/product-recommendations/nfl-london-2026-texans-jaguars-watch-live-online-free-1236359693/",
+      "title": "Taylor Swift's 'The Life of a Showgirl' Rules Billboard 200 for 15th Week",
+      "url": "https://www.billboard.com/music/chart-beat/taylor-swift-showgirl-number-one-15th-week-billboard-200-1236362449/",
       "source_count": 1,
       "sources": [
         "Billboard"
       ]
     },
     {
-      "title": "Eminem Defends Kid Rock Collaboration: 'Not About Choosing Sides'",
-      "url": "https://www.billboard.com/music/rb-hip-hop/eminem-defends-kid-rock-collaboration-heal-my-faith-1236362405/",
+      "title": "Here's How to Get MGM+ Online for Free",
+      "url": "https://www.billboard.com/culture/product-recommendations/how-to-get-mgm-plus-free-trial-online-1236361507/",
       "source_count": 1,
       "sources": [
         "Billboard"
       ]
     },
     {
-      "title": "Zach Bryan Gets Candid About Sobriety in Matthew McConaughey Interview: 'Why Am I Drinking?'",
-      "url": "https://www.billboard.com/music/country/zach-bryan-sobriety-matthew-mcconaughey-interview-1236362369/",
+      "title": "Fuerza Regida Offers Reward for 22 Stolen Videos as It Works to 'Resolve Our Differences' With Rancho Humilde",
+      "url": "https://www.billboard.com/music/latin/fuerza-regida-stolen-live-videos-reward-rancho-humilde-1236362428/",
       "source_count": 1,
       "sources": [
         "Billboard"
       ]
     },
     {
-      "title": "Iron Maiden Announce 2027 Run for Your Lives North American Tour: See the Dates",
-      "url": "https://www.billboard.com/music/rock/iron-maiden-2027-north-american-tour-dates-1236362365/",
+      "title": "'Sacrifice' Review: Romain Gavras Leads an A-List Cast in Frustrating Netflix Satire",
+      "url": "https://www.whats-on-netflix.com/what-to-watch/sacrifice-netflix-chris-evans-anya-taylor-joy-release/",
       "source_count": 1,
       "sources": [
-        "Billboard"
-      ]
-    },
-    {
-      "title": "Bette Midler Accepts 2026 Woody Guthrie Prize, Sings Protest Classic: 'My Small Contribution to the Resistance'",
-      "url": "https://www.billboard.com/music/awards/bette-midler-woody-guthrie-prize-2026-accepts-performs-1236362345/",
-      "source_count": 1,
-      "sources": [
-        "Billboard"
+        "What's on Netflix"
       ]
     },
     {
@@ -665,11 +651,27 @@
       ]
     },
     {
-      "title": "Netflix Book-To-Screen Adaptations Teased At Book Festival Launch In Paris",
-      "url": "https://www.whats-on-netflix.com/news/netflix-book-to-screen-adaptations-teased-at-book-festival-launch-in-paris/",
+      "title": "New Steam Game is Basically Kiki's Delivery Service in Video Game Form",
+      "url": "https://www.polygon.com/the-witchs-bakery-recommendation-steam-switch-ps5-xbox/",
       "source_count": 1,
       "sources": [
-        "What's on Netflix"
+        "Polygon"
+      ]
+    },
+    {
+      "title": "CBS's Definitive '80s Action Thriller Series Is Officially Free to Watch on Streaming",
+      "url": "https://www.polygon.com/airwolf-coolest-helicopter-80s-tv/",
+      "source_count": 1,
+      "sources": [
+        "Polygon"
+      ]
+    },
+    {
+      "title": "36 Years Later, Robert De Niro's Greatest Gangster Movie Quote Is Still One of a Kind",
+      "url": "https://www.polygon.com/robert-de-niro-best-gangster-movie-quote-goodfellas/",
+      "source_count": 1,
+      "sources": [
+        "Polygon"
       ]
     },
     {
@@ -695,31 +697,7 @@
       "sources": [
         "Polygon"
       ]
-    },
-    {
-      "title": "13 Years Ago, 'The Legend of Korra' Finally Answered the Biggest Avatar Mystery",
-      "url": "https://www.polygon.com/avatar-legend-of-korra-beginnings-origin-story/",
-      "source_count": 1,
-      "sources": [
-        "Polygon"
-      ]
-    },
-    {
-      "title": "Epic Games CEO Believes A 'Golden Age Of Gaming' Is Imminent Because of AI",
-      "url": "https://www.polygon.com/epic-games-tim-sweeney-gold-age-of-gaming-ai-development/",
-      "source_count": 1,
-      "sources": [
-        "Polygon"
-      ]
-    },
-    {
-      "title": "Deathstroke Actor Reveals Scrapped Batman Film Would've Featured Batgirl And A Shocking Death",
-      "url": "https://www.polygon.com/ben-affleck-batman-movie-plot-details/",
-      "source_count": 1,
-      "sources": [
-        "Polygon"
-      ]
     }
   ],
-  "summary": "Verified intelligence gathered across 89 deduplicated editorial clusters."
+  "summary": "Verified intelligence gathered across 86 deduplicated editorial clusters."
 }
