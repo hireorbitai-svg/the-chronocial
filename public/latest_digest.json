@@ -1,18 +1,42 @@
 {
-  "timestamp": "2026-10-18T20:09:22.832597+00:00",
-  "headline_count": 86,
+  "timestamp": "2026-10-18T23:55:46.338769+00:00",
+  "headline_count": 85,
   "headlines": [
     {
-      "title": "Taylor Swift's 'The Life of a Showgirl' Spends 15th Week at No. 1 on Albums Chart",
-      "url": "https://variety.com/2026/music/news/taylor-swift-the-life-of-a-showgirl-15th-week-no-1-chart-1236915983/",
+      "title": "Katseye Says They're 'So Proud' of Sophia Ahead of Her Return to the Group: 'She's Our Sister'",
+      "url": "https://variety.com/2026/music/news/katseye-sophia-return-1236916064/",
       "source_count": 1,
       "sources": [
         "Variety"
       ]
     },
     {
-      "title": "Betty McGuire, 'Growing Pains' Actress, Dies at 100",
-      "url": "https://variety.com/2026/tv/people-news/betty-mcguire-dead-growing-pains-1236915890/",
+      "title": "Taika Waititi Confirms His 'Star Wars' Movie Has Been 'Put on Ice' Indefinitely",
+      "url": "https://variety.com/2026/film/news/taika-waititi-confirms-star-wars-movie-is-on-hold-1236916086/",
+      "source_count": 1,
+      "sources": [
+        "Variety"
+      ]
+    },
+    {
+      "title": "Jason Sudeikis Hopes to Continue 'Ted Lasso' for Season 5, Says Coverage of Split From Olivia Wilde Missed a 'Million Little Things': 'It's Always More Complicated'",
+      "url": "https://variety.com/2026/tv/news/jason-sudeikis-wants-ted-lasso-season-5-olivia-wilde-split-1236916062/",
+      "source_count": 1,
+      "sources": [
+        "Variety"
+      ]
+    },
+    {
+      "title": "'Glee' Reunion: Chris Colfer Joins Darren Criss Onstage to Perform 'Baby It's Cold Outside' During London Concert",
+      "url": "https://variety.com/2026/tv/news/glee-reunion-chris-colfer-darren-criss-perform-duet-1236916050/",
+      "source_count": 1,
+      "sources": [
+        "Variety"
+      ]
+    },
+    {
+      "title": "Julianne Moore Says 'The Debut' Is 'One of the Best Scripts I've Ever Read' as Jesse Eisenberg's Musical Comedy Closes London Film Festival on a High Note",
+      "url": "https://variety.com/2026/film/festivals/julianne-moore-jesse-eisenberg-the-debut-london-premiere-1236915637/",
       "source_count": 2,
       "sources": [
         "Variety",
@@ -20,35 +44,36 @@
       ]
     },
     {
-      "title": "Jesse Eisenberg Says He 'Couldn't Get Movie Studio Parts Anymore' After Winning A Razzie For 'Batman v Superman': 'The Industry Did Not Want Me to Be in a Superhero Movie'",
-      "url": "https://variety.com/2026/film/global/jesse-eisenberg-razzie-batman-v-superman-1236915876/",
+      "title": "Joe Manganiello Says Ben Affleck's Scrapped Batman Film Would Have Seen Deathstroke 'Dismantle Batman's Entire Life' and Kill Commissioner Gordon",
+      "url": "https://variety.com/2026/film/news/joe-manganiello-ben-afflecks-batman-film-deathstroke-1236915997/",
       "source_count": 1,
       "sources": [
         "Variety"
       ]
     },
     {
-      "title": "'Capturing Bigfoot' Review: An Astounding Documentary Uncovers the Truth",
-      "url": "https://variety.com/2026/film/reviews/capturing-bigfoot-review-an-amazing-doc-uncovers-the-truth-1236915797/",
+      "title": "'SNL UK' Takes Aim At Shane Gillis On 'Weekend Update': \"You Stupid F*cking C*nt\"",
+      "url": "https://deadline.com/2026/10/snl-uk-takes-aim-shane-gillis-weekend-update-1237167181/",
       "source_count": 1,
       "sources": [
-        "Variety"
+        "Deadline Hollywood"
       ]
     },
     {
-      "title": "Taylor Swift Fires Up Academy Gala With Four Songs in Her First Band Performance Since the Eras Tour",
-      "url": "https://variety.com/2026/film/news/taylor-swift-performance-academy-gala-five-songs-1236915817/",
-      "source_count": 1,
+      "title": "Betty McGuire Dies: Broadway Actress & 'Growing Pains' Guest Star Was 100",
+      "url": "https://deadline.com/2026/10/betty-mcguire-dead-1237167173/",
+      "source_count": 2,
       "sources": [
-        "Variety"
+        "Deadline Hollywood",
+        "The Hollywood Reporter"
       ]
     },
     {
-      "title": "Aran Murphy on Playing an Angry Young Man in 'Youth' and 'War' - and His Father Cillian's Influence",
-      "url": "https://variety.com/2026/tv/news/aran-murphy-youth-war-and-cillian-murphy-influence-1236909378/",
+      "title": "Jesse Eisenberg TV Series Produced By Peter Rice To Be Taken Out By A24",
+      "url": "https://deadline.com/2026/10/jesse-eisenberg-tv-series-peter-rice-a24-1237167146/",
       "source_count": 1,
       "sources": [
-        "Variety"
+        "Deadline Hollywood"
       ]
     },
     {
@@ -60,7 +85,7 @@
       ]
     },
     {
-      "title": "Cindy Crawford & Family Pay Tribute To Late Son Presley Gerber: \"'Til We Meet Again, Our Sweet Boy\"",
+      "title": "Cindy Crawford & Kaia Gerber Pay Tribute To Presley: \"'Til We Meet Again, Our Sweet Boy\"",
       "url": "https://deadline.com/2026/10/cindy-crawford-family-pay-tribute-presley-gerber-1237167162/",
       "source_count": 2,
       "sources": [
@@ -69,36 +94,12 @@
       ]
     },
     {
-      "title": "How A24 Spurred A Meme Craze & Got The Many To Watch 'You Can See Everything': Documentary Opens To $15M Milestone",
+      "title": "How A24 Spurred A Meme Craze & Got The Many To Watch 'You Can See Everything'; Documentary Opens To $15M Milestone",
       "url": "https://deadline.com/2026/10/you-can-see-everything-box-office-elizabeth-holmes-1237167129/",
       "source_count": 2,
       "sources": [
         "Deadline Hollywood",
         "The Hollywood Reporter"
-      ]
-    },
-    {
-      "title": "Woodstock Film Festival Names Jessica Edwards Executive Director, Announces 2026 Maverick Award Winners",
-      "url": "https://deadline.com/2026/10/woodstock-film-festival-jessica-edwards-executive-director-1237167150/",
-      "source_count": 1,
-      "sources": [
-        "Full List"
-      ]
-    },
-    {
-      "title": "Tom Arnold Denies Chuck Lorre's Claim That He Made Writers Put His Name On 'Roseanne' Scripts: \"Never\"",
-      "url": "https://deadline.com/2026/10/tom-arnold-denies-chuck-lorre-claim-roseanne-scripts-1237167120/",
-      "source_count": 1,
-      "sources": [
-        "Deadline Hollywood"
-      ]
-    },
-    {
-      "title": "'Dreadline Express' Game Developer David Konecny Talks Stressful Player Choice & The Art Of Building A Psychological Horror",
-      "url": "https://deadline.com/2026/10/dreadline-express-video-game-interview-david-konecny-1237166952/",
-      "source_count": 1,
-      "sources": [
-        "Deadline Hollywood"
       ]
     },
     {
@@ -112,14 +113,6 @@
     {
       "title": "Inside Tubi's Plan to Build an R.L. Stine Cinematic Universe",
       "url": "https://www.hollywoodreporter.com/movies/movie-features/tubi-r-l-stine-pumpkinhead-2-the-babysitter-strategy-1236730062/",
-      "source_count": 1,
-      "sources": [
-        "The Hollywood Reporter"
-      ]
-    },
-    {
-      "title": "R.J. Mitte's Mother Opens Up About His Tragic Passing to Help Other Families (While Clarifying Speculation About His Finances, Career and Fiancé)",
-      "url": "https://www.hollywoodreporter.com/news/general-news/r-j-mitte-mother-family-interview-death-suicide-prevention-1236734202/",
       "source_count": 1,
       "sources": [
         "The Hollywood Reporter"
@@ -167,48 +160,48 @@
       ]
     },
     {
-      "title": "ABC's First Movie Of The Week Was An Adventure Story Starring Comedian Milton Berle",
-      "url": "https://www.tvline.com/2286539/abc-first-movie-of-the-week-adventure-story-star-comedian-milton-berle/",
+      "title": "5 Best William Shatner TV Shows That Aren't Star Trek, Ranked",
+      "url": "https://www.tvline.com/2287142/william-shatner-best-tv-shows-not-star-trek-ranked/",
       "source_count": 1,
       "sources": [
         "TVLine"
       ]
     },
     {
-      "title": "All 12 Seasons Of The Big Bang Theory, Ranked",
-      "url": "https://www.tvline.com/2289651/the-big-bang-theory-ranked-seasons/",
+      "title": "10 M*A*S*H Episodes To Skip On A Rewatch",
+      "url": "https://www.tvline.com/2289820/mash-episodes-skip-rewatch/",
       "source_count": 1,
       "sources": [
         "TVLine"
       ]
     },
     {
-      "title": "NBC Rejected Madonna For A Lead Role In A Hit '80s Drama Series",
-      "url": "https://www.tvline.com/2286466/nbc-rejected-madonna-lead-role-hit-80s-drama-series-fame/",
+      "title": "Betty McGuire, Growing Pains Grandma, Dead At 100",
+      "url": "https://www.tvline.com/2289811/betty-mcguire-dead-growing-pains-kate-malone-obituary/",
       "source_count": 1,
       "sources": [
         "TVLine"
       ]
     },
     {
-      "title": "10 Most Disappointing TV Show Revivals Of All Time, Ranked",
-      "url": "https://www.tvline.com/2288218/most-disappointing-tv-show-revivals-ranked/",
+      "title": "5 Celebrities You Forgot Guest-Starred On The Simpsons",
+      "url": "https://www.tvline.com/2286153/the-simpsons-famous-celebrity-guest-stars/",
       "source_count": 1,
       "sources": [
         "TVLine"
       ]
     },
     {
-      "title": "HBO's Westworld Had A Subtle Game Of Thrones 'Crossover' In Season 3",
-      "url": "https://www.tvline.com/2286399/hbo-westworld-game-of-thrones-crossover-season-3-explained/",
+      "title": "Gunsmoke's Miss Kitty, Amanda Blake, Had A Recurring Role On A Daytime Soap Opera",
+      "url": "https://www.tvline.com/2286811/gunsmoke-miss-kitty-amanda-blake-role-daytime-soap-opera-the-edge-of-night/",
       "source_count": 1,
       "sources": [
         "TVLine"
       ]
     },
     {
-      "title": "5 TV Shows To Watch If You Like Blue Ridge",
-      "url": "https://www.tvline.com/2285857/tv-shows-like-blue-ridge/",
+      "title": "This Forgotten Vampire Series Starred The Creator Of Heated Rivalry",
+      "url": "https://www.tvline.com/2286944/dracula-forgotten-vampire-series-star-creator-heated-rivalry/",
       "source_count": 1,
       "sources": [
         "TVLine"
@@ -304,6 +297,14 @@
       ]
     },
     {
+      "title": "Silent Hill Remake Studio Wants to Make Physical Games 'for as Long as Possible'",
+      "url": "https://www.ign.com/articles/silent-hill-remake-studio-wants-to-make-physical-games-for-as-long-as-possible",
+      "source_count": 1,
+      "sources": [
+        "IGN Games"
+      ]
+    },
+    {
       "title": "The Best Deals Today: The Adventures of Elliot, Pikmin 4, Mouse: P.I. For Hire, and More",
       "url": "https://www.ign.com/articles/best-deals-for-october-18-2026",
       "source_count": 2,
@@ -331,14 +332,6 @@
     {
       "title": "Captain Price Actor Sends Message to Fans as Call of Duty: Modern Warfare 4 Campaign Praise Rolls in",
       "url": "https://www.ign.com/articles/captain-price-actor-sends-message-to-fans-as-call-of-duty-modern-warfare-4-campaign-praise-rolls-in",
-      "source_count": 1,
-      "sources": [
-        "IGN Games"
-      ]
-    },
-    {
-      "title": "We Sat Down with D&D Game Designer James Wyatt to Talk Dungeons & Dragons: World of Warcraft",
-      "url": "https://www.ign.com/articles/we-sat-down-with-dd-game-designer-james-wyatt-to-talk-dungeons-and-dragons-world-of-warcraft",
       "source_count": 1,
       "sources": [
         "IGN Games"
@@ -393,6 +386,14 @@
       ]
     },
     {
+      "title": "23 devs teamed up to make a free game of 'innovative yet questionable volume sliders,' and it feels like browser-based WarioWare",
+      "url": "https://www.pcgamer.com/games/23-devs-teamed-up-to-make-a-free-game-of-innovative-yet-questionable-volume-sliders-and-it-feels-like-browser-based-warioware/",
+      "source_count": 1,
+      "sources": [
+        "PC Gamer"
+      ]
+    },
+    {
       "title": "Dark Souls 2 dataminer shows off massive prototype coliseum level from early development",
       "url": "https://www.pcgamer.com/games/dark-souls/dark-souls-2-dataminer-shows-off-massive-prototype-coliseum-level-from-early-development/",
       "source_count": 1,
@@ -433,27 +434,11 @@
       ]
     },
     {
-      "title": "'There were a lot of disagreements across the place': Former Marathon director Joe Ziegler on leading Bungie's extraction shooter, playing Path of Exile for 3,437 hours, and why he'll never uninstall Kingdom Hearts",
-      "url": "https://www.pcgamer.com/gaming-industry/there-were-a-lot-of-disagreements-across-the-place-former-marathon-director-joe-ziegler-on-leading-bungies-extraction-shooter-playing-path-of-exile-for-3-437-hours-and-why-hell-never-uninstall-kingdom-hearts/",
-      "source_count": 1,
-      "sources": [
-        "PC Gamer"
-      ]
-    },
-    {
-      "title": "Novavax shareholder Shah Capital to step back from activist role",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPRWNVWE1RUEhhUnZ3YXNRbzhyUndqR3Jnc3dKRVBPdUhRNVF3Qm5yN1prTTBMSVdQd1dhVG1hSk1RcUVJNE53V0drT0Rpcl9YRFh1TmJJODFUX21TU28tT1hDVXlHZ1lsUWhWYTBJcHQzQ0N3aUhRYjFZLTZ2UlpTZk15anhnaWh4SkxyMDBsbEt2N1FuMG1xSThuVDc3UkpaLUdFa2lxTDFaN0dDRVMwLTQzVXJGRGN1cE1hZ3RJc3hqOEdBOGNr",
+      "title": "EXCLUSIVE: US holds more secret talks with Myanmar's military-backed rulers in Tokyo, sources say",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPUWpMVGJHdmxrQnR6QTZzWnBsTEk1VldyRmdLdmloMFBfYnNNZTg2YmxIMm02OXlTWTRsNkkxUDRONmJoLXc1bHMxcnloRS10dDJwdDg2SmMyN04xRTdmU1JUYzRBa2ZTNmI3aDlWc08zMTRGbnh0NWMwbmdYeElFNEtFdUxuUmxGMGNORVFfZmNGazNlaTFMa0FzcHJ4S01WMWZEQ3F6Rk1GeUJLVFBFNjdHSXJOdmprZURzYzQxTG11NTIzdFFXN1h0cEM",
       "source_count": 1,
       "sources": [
         "Reuters"
-      ]
-    },
-    {
-      "title": "Reuters Entertainment News Summary",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQVXJNT05maGF4Sk5MQXVUU1UxVnI5ZlY5a19Xc1QxdTRsYnRnNWw2MDc1ZEgyMmZheW9fMWY1N241bU4yWEJaajVJck1xVnZRbGNxNXpZajNEeWt5LV9RUmx2ZjVaRmFGakdWWkdjY0dGb0NiaUdReE9zbTl0Q1h0c2laSzNlVUJna1FPRGZSN2Z4Q2VDTUhuRkktbHJnZ9IBngFBVV95cUxQVXJNT05maGF4Sk5MQXVUU1UxVnI5ZlY5a19Xc1QxdTRsYnRnNWw2MDc1ZEgyMmZheW9fMWY1N241bU4yWEJaajVJck1xVnZRbGNxNXpZajNEeWt5LV9RUmx2ZjVaRmFGakdWWkdjY0dGb0NiaUdReE9zbTl0Q1h0c2laSzNlVUJna1FPRGZSN2Z4Q2VDTUhuRkktbHJnZw",
-      "source_count": 1,
-      "sources": [
-        "Devdiscourse"
       ]
     },
     {
@@ -465,11 +450,27 @@
       ]
     },
     {
+      "title": "Newly identified green star leaves astronomers amazed",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxON1hHNE1GNzRjY1dIcVhDUDRMbTZSaHU4d3hyOGFXV0ZxOFVZRU1UZFA5bjZBcEhsUEJ1al9PVHZsVVJ1emZDVUU5MzdrRXRFeGxaQmx5RkdlY2VWaVowYlhpd1ZrNTBqYjA2YVhGY3hHOUk1NzlqOXBZUzdWMzItdWJYSDRkVHYxZTlEOHYzV0ZvOTZYZHlYV2VUSQ",
+      "source_count": 1,
+      "sources": [
+        "FBC News"
+      ]
+    },
+    {
       "title": "World News | US State Department Report Keeps China in Tier 3 over Forced Labour, Trafficking Concerns",
       "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNWkcybXNKYkRhbE1CQno4dzVGejhHOWp0OW1WQ09lR05vc2V5MVJnRlpTVFRZSkJGd0hPNWpFbG9DUkR6NmpsdGZVLUdGaFRwTE55cTJfWGI0N3gxZnhnWUR4djMyMjRBbzc5OFRfNGh5U2JyNmwzTTRUVFhKMlJ0eEJmVzl4bXdIcTgtMWRGWTRlaV9NaE51VDQzaDlQbzhrd1RpWlVpYTU2d2tCalRFLVFhREtUcjUyTEFteTFTTmhnN216R3gtX1lyS0NJbllmRF9QQWVVWlZZQ2M1SVEtRFNqMUwxemNj0gHoAUFVX3lxTE1aRzJtc0piRGFsTUJCejh3NUZ6OEc5anQ5bVZDT2VHTm9zZXkxUmdGWlNUVFlKQkZ3SE81akVsb0NSRHo2amx0ZlUtR0ZoVHBMTnlxMl9YYjQ3eDFmeGdZRHh2MzIyNEFvNzk4VF80aHlTYnI2bDNNNFRUWEoyUnR4QmZXOXhtd0hxOC0xZEZZNGVpX01oTnVUNDNoOVBvOGt3VGlaVWlhNTZ3a0JqVEUtUWFES1RyNTJMQW15MVNOaGc3bXpHeC1fWXJLQ0luWWZEX1BBZVVaVllDYzVJUS1EU2oxTDF6Y2M",
       "source_count": 1,
       "sources": [
         "LatestLY"
+      ]
+    },
+    {
+      "title": "Léa Seydoux Became Fearless After the Controversies of 'Blue Is the Warmest Color' - She's Doing It Again with 'Gentle Monster'",
+      "url": "https://www.indiewire.com/awards/consider-this/lea-seydoux-blue-is-the-warmest-color-gentle-monster-1235222558/",
+      "source_count": 1,
+      "sources": [
+        "IndieWire"
       ]
     },
     {
@@ -507,14 +508,6 @@
     {
       "title": "Bill Hader Always Wanted to Direct a Film - His Divorce, 'SNL,' and Kiyoshi Kurosawa Helped Him Finally Build 'They Know'",
       "url": "https://www.indiewire.com/news/events/bill-hader-first-film-they-know-snl-divorce-1235222526/",
-      "source_count": 1,
-      "sources": [
-        "IndieWire"
-      ]
-    },
-    {
-      "title": "John Wilson's Next Documentary Will Reportedly Show Audiences 'How to' Tour Like Harry Styles",
-      "url": "https://www.indiewire.com/news/breaking-news/john-wilson-documentary-harry-styles-tour-1235222552/",
       "source_count": 1,
       "sources": [
         "IndieWire"
@@ -569,6 +562,30 @@
       ]
     },
     {
+      "title": "Taylor Swift Joined by Caitlin Clark at Sunday's Chiefs Game",
+      "url": "https://www.billboard.com/music/pop/taylor-swift-chiefs-game-sunday-caitlin-clark-1236362496/",
+      "source_count": 1,
+      "sources": [
+        "Billboard"
+      ]
+    },
+    {
+      "title": "Fans Choose Tate McRae's 'Housewife' as This Week's Favorite New Music",
+      "url": "https://www.billboard.com/music/pop/tate-mcrae-housewife-best-new-music-poll-results-1236362476/",
+      "source_count": 1,
+      "sources": [
+        "Billboard"
+      ]
+    },
+    {
+      "title": "Harry Styles' MSG Residency Documentary in the Works From John Wilson",
+      "url": "https://www.billboard.com/culture/tv-film/harry-styles-msg-residency-documentary-film-john-wilson-1236362472/",
+      "source_count": 1,
+      "sources": [
+        "Billboard"
+      ]
+    },
+    {
       "title": "Morgan Wallen, Garth Brooks, Taylor Swift & More Artists With Most Weeks at No. 1 on Top Country Albums Chart: Full List",
       "url": "https://www.billboard.com/lists/top-country-albums-number-ones-biggest/",
       "source_count": 2,
@@ -580,30 +597,6 @@
     {
       "title": "Britney Spears Seemingly Calls Out Stars Copying Her Image: 'At Least Mine Was Real'",
       "url": "https://www.billboard.com/music/pop/britney-spears-image-copycats-im-original-post-1236362459/",
-      "source_count": 1,
-      "sources": [
-        "Billboard"
-      ]
-    },
-    {
-      "title": "Taylor Swift's 'The Life of a Showgirl' Rules Billboard 200 for 15th Week",
-      "url": "https://www.billboard.com/music/chart-beat/taylor-swift-showgirl-number-one-15th-week-billboard-200-1236362449/",
-      "source_count": 1,
-      "sources": [
-        "Billboard"
-      ]
-    },
-    {
-      "title": "Here's How to Get MGM+ Online for Free",
-      "url": "https://www.billboard.com/culture/product-recommendations/how-to-get-mgm-plus-free-trial-online-1236361507/",
-      "source_count": 1,
-      "sources": [
-        "Billboard"
-      ]
-    },
-    {
-      "title": "Fuerza Regida Offers Reward for 22 Stolen Videos as It Works to 'Resolve Our Differences' With Rancho Humilde",
-      "url": "https://www.billboard.com/music/latin/fuerza-regida-stolen-live-videos-reward-rancho-humilde-1236362428/",
       "source_count": 1,
       "sources": [
         "Billboard"
@@ -651,6 +644,22 @@
       ]
     },
     {
+      "title": "Adam Scott's Criminally Overlooked 2026 Thriller Is Finally on Streaming",
+      "url": "https://www.polygon.com/hokum-streaming-on-hulu/",
+      "source_count": 1,
+      "sources": [
+        "Polygon"
+      ]
+    },
+    {
+      "title": "63 Years Later, the Stellar Action Comic Strip Most America Never Heard of Deserves Another Shot",
+      "url": "https://www.polygon.com/modesty-blaise-retrospective/",
+      "source_count": 1,
+      "sources": [
+        "Polygon"
+      ]
+    },
+    {
       "title": "New Steam Game is Basically Kiki's Delivery Service in Video Game Form",
       "url": "https://www.polygon.com/the-witchs-bakery-recommendation-steam-switch-ps5-xbox/",
       "source_count": 1,
@@ -681,23 +690,7 @@
       "sources": [
         "Polygon"
       ]
-    },
-    {
-      "title": "Drunken Goddess Reflux Devs Cancel Steam Next Fest Demo Over AI Clone Concerns",
-      "url": "https://www.polygon.com/drunken-goddess-reflux-demo-canceled/",
-      "source_count": 1,
-      "sources": [
-        "Polygon"
-      ]
-    },
-    {
-      "title": "Street Fighter Fails To Match Resident Evil's Opening Weekend Box Office Success",
-      "url": "https://www.polygon.com/street-fighter-opening-weekend-box-office/",
-      "source_count": 1,
-      "sources": [
-        "Polygon"
-      ]
     }
   ],
-  "summary": "Verified intelligence gathered across 86 deduplicated editorial clusters."
+  "summary": "Verified intelligence gathered across 85 deduplicated editorial clusters."
 }
