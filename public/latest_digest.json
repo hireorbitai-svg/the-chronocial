@@ -1,42 +1,53 @@
 {
-  "timestamp": "2026-10-20T22:56:49.024987+00:00",
-  "headline_count": 93,
+  "timestamp": "2026-10-21T03:28:35.221629+00:00",
+  "headline_count": 90,
   "headlines": [
     {
-      "title": "Costume Designer Sandy Powell to Present Film London Jarman Award",
-      "url": "https://variety.com/2026/artisans/news/film-news-in-brief-oct19-2026-1236916412/",
-      "source_count": 1,
-      "sources": [
-        "Film News in Brief"
-      ]
-    },
-    {
-      "title": "'Princess Diaries' Actor Erik von Detten Accused of Elder Abuse and Fraud in Gold Scheme",
-      "url": "https://variety.com/2026/film/news/brink-actor-erik-von-detten-sued-for-elder-abuse-fraud-1236917976/",
+      "title": "Leica and Formula 1 Team Up on $9,950 Camera Inspired by the Racetrack (Featuring Exclusive F1 Photo Setting)",
+      "url": "https://variety.com/2026/shopping/news/leica-formula-1-camera-shop-online-1236916678/",
       "source_count": 1,
       "sources": [
         "Variety"
       ]
     },
     {
-      "title": "Music Industry Moves: Barbara Cane, BMI's VP of Worldwide Creative, to Retire After Five Decades",
-      "url": "https://variety.com/2026/music/news/barbara-cane-retire-bmi-five-decades-1236918072/",
+      "title": "'Billions' and 'John Wick 3' Star Asia Kate Dillon Says Acting Jobs Have 'Diminished' and They're in Need of Customer Service Work",
+      "url": "https://variety.com/2026/tv/news/billions-john-wick-3-asia-kate-dillon-jobs-diminished-customer-service-1236918269/",
       "source_count": 1,
       "sources": [
         "Variety"
       ]
     },
     {
-      "title": "Why 'You Can See Everything' Could Win Best Picture at the Oscars",
-      "url": "https://variety.com/2026/film/columns/you-can-see-everything-best-picture-oscars-elizabeth-holmes-1236917667/",
+      "title": "Park Min-young, Yook Sung-jae, Go Soo Lead Prime Video Korean Office Romance 'Nine to Six'",
+      "url": "https://variety.com/2026/tv/news/park-min-young-yook-sung-jae-prime-video-korean-office-romance-nine-to-six-1236918266/",
       "source_count": 1,
       "sources": [
         "Variety"
       ]
     },
     {
-      "title": "Ted Sarandos Addresses Netflix Content Exec Purge: 'I Know That We Could Do Better'",
-      "url": "https://variety.com/2026/tv/news/ted-sarandos-addresses-netflix-content-exec-purge-1236917998/",
+      "title": "Julia Stiles Reunites With '10 Things I Hate About You' Cast, Cries During Heath Ledger Tribute on 'Dancing With the Stars'",
+      "url": "https://variety.com/2026/film/news/julia-stiles-10-things-i-hate-about-you-reunion-heath-ledger-tribute-dwts-1236916762/",
+      "source_count": 4,
+      "sources": [
+        "Variety",
+        "Deadline Hollywood",
+        "Deadline Hollywood",
+        "The Hollywood Reporter"
+      ]
+    },
+    {
+      "title": "Netflix Chiefs Concede That Slowdown in U.S. Viewing Sparked the Content Leadership Shakeup: 'We're Focusing on Execution,' Ted Sarandos Says",
+      "url": "https://variety.com/2026/tv/news/netflix-slowdown-u-s-viewing-shakeup-bela-bajaria-dan-lin-1236918124/",
+      "source_count": 1,
+      "sources": [
+        "Variety"
+      ]
+    },
+    {
+      "title": "Kurosawa Kiyoshi, Shimizu Takashi Among Directors of Disney+, Hulu Japanese Horror Series 'Night Tales Club'",
+      "url": "https://variety.com/2026/tv/news/kurosawa-shimizu-disney-japanese-horror-night-tales-club-1236918137/",
       "source_count": 2,
       "sources": [
         "Variety",
@@ -44,89 +55,64 @@
       ]
     },
     {
-      "title": "'Michael': Golden Globes Reject Submission to Compete in Comedy/Musical Categories",
-      "url": "https://variety.com/2026/film/awards/michael-golden-globes-comedy-musical-denied-1236917938/",
-      "source_count": 1,
-      "sources": [
-        "Variety"
-      ]
-    },
-    {
-      "title": "Versant Unlikely To Acquire Skydance Cable Networks If They Hit The Market, CEO Mark Lazarus Says",
-      "url": "https://deadline.com/2026/10/versant-skydance-cable-tv-networks-ceo-1237169110/",
+      "title": "David Fincher Scrapped 60 Pages Of Tarantino's 'Cliff Booth' Script: \"It Was Essentially Two Movies\"",
+      "url": "https://deadline.com/2026/10/david-fincher-cut-tarantino-cliff-booth-script-1237169234/",
       "source_count": 1,
       "sources": [
         "Deadline Hollywood"
       ]
     },
     {
-      "title": "'Narnia: The Magician's Nephew' Trailer Clocks Massive 481M+ First-Week Views, More Than 'Barbie'",
-      "url": "https://deadline.com/2026/10/narnia-the-magicians-nephew-trailer-viewership-1237169108/",
+      "title": "Ted Sarandos Insists Netflix \"Strategy Is Unchanged\" As Execs Are Pressed About Growth",
+      "url": "https://deadline.com/2026/10/ted-sarandos-netflix-strategy-unchanged-earnings-1237169202/",
       "source_count": 1,
       "sources": [
         "Deadline Hollywood"
       ]
     },
     {
-      "title": "Denzel Washington And Christopher McQuarrie Team On New Thriller At United Artists And Amazon MGM Studios",
-      "url": "https://deadline.com/2026/10/denzel-washington-chris-mcquarrie-united-artists-1237168034/",
-      "source_count": 2,
-      "sources": [
-        "Deadline Hollywood",
-        "The Hollywood Reporter"
-      ]
-    },
-    {
-      "title": "Netflix's Greg Peters Calls Layoffs Hard Tradeoff For Long-Term Growth",
-      "url": "https://deadline.com/2026/10/netflix-greg-peters-layoffs-growth-1237169073/",
+      "title": "Doc Talk Podcast Live From Hot Springs Documentary Film Festival With Makers Of Four Oscar-Contending Films",
+      "url": "https://deadline.com/2026/10/doc-talk-hot-springs-documentary-film-festival-roundtable-1237168951/",
       "source_count": 1,
       "sources": [
         "Deadline Hollywood"
       ]
     },
     {
-      "title": "'The Cycle Of Love' To Return To Cinemas For One-Day Only Engagement: Extraordinary Romantic Tale From Director Orlando Von Einsiedel",
-      "url": "https://deadline.com/2026/10/the-cycle-of-love-returns-to-theaters-1237169088/",
-      "source_count": 1,
-      "sources": [
-        "Deadline Hollywood"
-      ]
-    },
-    {
-      "title": "Hunter Schafer Reveals She Underwent Gender-Affirming Bottom Surgery",
-      "url": "https://www.hollywoodreporter.com/lifestyle/lifestyle-news/hunter-schafer-gender-affirming-bottom-surgery-1236736776/",
+      "title": "James Bond Auction: Daniel Craig's 'Skyfall' Suit, Ana de Armas' 'No Time to Die' Dress Heading to Block",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/james-bond-auction-daniel-craig-skyfall-suit-ana-de-armas-1236737020/",
       "source_count": 1,
       "sources": [
         "The Hollywood Reporter"
       ]
     },
     {
-      "title": "Harrison Ford and Calista Flockhart to Receive First Joint Award as Couple Is Selected for Icon Honors",
-      "url": "https://www.hollywoodreporter.com/lifestyle/lifestyle-news/harrison-ford-calista-flockhart-couple-award-stardust-ball-1236736736/",
+      "title": "Tyler Cameron Reveals He's Going to Be a Girl Dad on 'Dancing With the Stars'",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/tyler-cameron-tate-madden-pregnant-dancing-with-the-stars-1236737022/",
       "source_count": 1,
       "sources": [
         "The Hollywood Reporter"
       ]
     },
     {
-      "title": "The Hollywood Reporter Power Business Managers Event to Honor Michael Ullman, Feature Conversations With David Kramer and Lisa Callif",
-      "url": "https://www.hollywoodreporter.com/business/business-news/hollywood-reporter-power-business-managers-michael-ullman-1236736743/",
+      "title": "F1 United States GP Guide: Last-Minute Race Tickets and Austin's Hottest New Openings",
+      "url": "https://www.hollywoodreporter.com/lifestyle/shopping/f1-united-states-grand-prix-2026-tickets-austin-hotels-food-1236736738/",
       "source_count": 1,
       "sources": [
         "The Hollywood Reporter"
       ]
     },
     {
-      "title": "John Oliver Hosts Comic Relief's 40th Anniversary Night at Carnegie Hall",
-      "url": "https://www.hollywoodreporter.com/news/general-news/john-oliver-comic-relief-40th-anniversary-carnegie-hall-1236736659/",
+      "title": "Comedy Trio Please Don't Destroy Take Their Act to J.Crew for New Suiting Campaign",
+      "url": "https://www.hollywoodreporter.com/lifestyle/style/comedy-trio-please-dont-destroy-jcrew-suit-campaign-1236736846/",
       "source_count": 1,
       "sources": [
         "The Hollywood Reporter"
       ]
     },
     {
-      "title": "'Heated Rivalry' Goes All In on Physical Media Including Special Edition Blu-Ray and DVD",
-      "url": "https://www.hollywoodreporter.com/lifestyle/shopping/heated-rivalry-bluray-dvd-ill-believe-in-anything-book-1236612287/",
+      "title": "Lance Oppenheim Bribed Robert Pattinson With 200 Zyn Canisters to Star in 'Primetime'",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/lance-oppenheim-bribed-robert-pattinson-zyn-star-primetime-1236736866/",
       "source_count": 1,
       "sources": [
         "The Hollywood Reporter"
@@ -181,48 +167,48 @@
       ]
     },
     {
+      "title": "Dancing With The Stars Sidesteps Its Own Controversy On Emotional Dedication Night",
+      "url": "https://www.tvline.com/2292511/dancing-with-the-stars-recap-week-6-results-val-absence-explained/",
+      "source_count": 1,
+      "sources": [
+        "TVLine"
+      ]
+    },
+    {
+      "title": "VisionQuest Uses A Cheesy '80s Sitcom To Make An Emotional Scene Even More Powerful",
+      "url": "https://www.tvline.com/2291240/visionquest-cheesy-80s-sitcom-small-wonder-scene-more-powerful/",
+      "source_count": 1,
+      "sources": [
+        "TVLine"
+      ]
+    },
+    {
+      "title": "Stephen King's Time-Travel Miniseries Is Essential Viewing On Netflix",
+      "url": "https://www.tvline.com/2288788/stephen-king-time-travel-miniseries-11-22-63-streaming-netflix/",
+      "source_count": 1,
+      "sources": [
+        "TVLine"
+      ]
+    },
+    {
+      "title": "Crystal Lake Puts A Surprising Twist On Pamela Voorhees' Friday The 13th Victims",
+      "url": "https://www.tvline.com/2292477/crystal-lake-twist-pamela-voorhees-friday-the-13th-victims/",
+      "source_count": 1,
+      "sources": [
+        "TVLine"
+      ]
+    },
+    {
+      "title": "5 Best Sci-Fi Shows Of The '60s (That Aren't Star Trek)",
+      "url": "https://www.tvline.com/2288682/best-sci-fi-shows-60s-not-star-trek/",
+      "source_count": 1,
+      "sources": [
+        "TVLine"
+      ]
+    },
+    {
       "title": "Casting News: Station 19 Star Joins Fire Country, The Night Agent Spies His Next TV Role, And More",
       "url": "https://www.tvline.com/2292406/fire-country-cast-jay-hayden-the-night-agent-new-show/",
-      "source_count": 1,
-      "sources": [
-        "TVLine"
-      ]
-    },
-    {
-      "title": "American Horror Story Renewed For Season 14 At FX",
-      "url": "https://www.tvline.com/2292311/american-horror-story-season-14-renewed-fx/",
-      "source_count": 1,
-      "sources": [
-        "TVLine"
-      ]
-    },
-    {
-      "title": "5 Character Deaths That Shocked '80s Television Audiences",
-      "url": "https://www.tvline.com/2288404/character-deaths-shocked-80s-television-audiences/",
-      "source_count": 1,
-      "sources": [
-        "TVLine"
-      ]
-    },
-    {
-      "title": "NCIS: Origins: Emily Wickersham To Appear In Multiple Episodes As Bishop - Get A Sneak Peek At Her Reunion With Gibbs",
-      "url": "https://www.tvline.com/2291943/ncis-origins-bishop-returns-emily-wickersham-gibbs-reunion-video/",
-      "source_count": 1,
-      "sources": [
-        "TVLine"
-      ]
-    },
-    {
-      "title": "Revival Canceled At Syfy After Just One Season",
-      "url": "https://www.tvline.com/2291930/revival-canceled-syfy-no-season-2-melanie-scrofano/",
-      "source_count": 1,
-      "sources": [
-        "TVLine"
-      ]
-    },
-    {
-      "title": "Save The Dates: Mayor Of Kingstown's Final Season, Rob Lowe Documentary, And More",
-      "url": "https://www.tvline.com/2291497/mayor-of-kingstown-season-5-rob-lowe-documentary-release-dates/",
       "source_count": 1,
       "sources": [
         "TVLine"
@@ -325,6 +311,22 @@
       ]
     },
     {
+      "title": "GTA 6 Fans Think Rockstar Games Is Shooting an Elaborate and Expensive Live-Action Trailer in Miami",
+      "url": "https://www.ign.com/articles/gta-6-fans-think-rockstar-games-is-shooting-an-elaborate-and-expensive-live-action-trailer-in-miami",
+      "source_count": 1,
+      "sources": [
+        "IGN Games"
+      ]
+    },
+    {
+      "title": "Counter-Strike 2 Pro Aleksib Faces Four-Month Suspended Prison Sentence Over Charges of Aggravated Tax Fraud",
+      "url": "https://www.ign.com/articles/counter-strike-2-pro-aleksib-faces-four-month-suspended-prison-sentence-over-charges-of-aggravated-tax-fraud",
+      "source_count": 1,
+      "sources": [
+        "IGN Games"
+      ]
+    },
+    {
       "title": "It Looks Like GTA 6's Beer Brands Are About to Become Real",
       "url": "https://www.ign.com/articles/it-looks-like-gta-6s-beer-brands-are-about-to-become-real",
       "source_count": 1,
@@ -357,28 +359,11 @@
       ]
     },
     {
-      "title": "Fortnite's Nikki Skin Sparks Debate Among Horror Fans, With Some Calling for a Boycott",
-      "url": "https://www.ign.com/articles/fortnites-nikki-skin-sparks-debate-among-horror-fans-with-some-calling-for-a-boycott",
-      "source_count": 1,
-      "sources": [
-        "IGN Games"
-      ]
-    },
-    {
-      "title": "Shrek 2 Remastered Reveal Trailer Parodies GTA 6, Sets November Release Date",
-      "url": "https://www.ign.com/articles/shrek-2-remastered-reveal-trailer-parodies-gta-6-sets-november-release-date",
-      "source_count": 1,
-      "sources": [
-        "IGN Games"
-      ]
-    },
-    {
       "title": "Next-Gen Xbox Could Be $1,800 And Launch In 2028",
       "url": "https://www.gamespot.com/articles/next-gen-xbox-could-be-1800-and-launch-in-2028-report/",
-      "source_count": 2,
+      "source_count": 1,
       "sources": [
-        "Report",
-        "Polygon"
+        "Report"
       ]
     },
     {
@@ -422,6 +407,14 @@
       ]
     },
     {
+      "title": "In this age of pervasive slop maybe we should be grateful for Shrek 2 Remastered",
+      "url": "https://www.pcgamer.com/games/action/in-this-age-of-pervasive-slop-maybe-we-should-be-grateful-for-shrek-2-remastered/",
+      "source_count": 1,
+      "sources": [
+        "PC Gamer"
+      ]
+    },
+    {
       "title": "EA Sports FC 27 gets a PEGI 16 rating in Europe because of loot boxes",
       "url": "https://www.pcgamer.com/gaming-industry/ea-sports-fc-27-gets-a-pegi-16-rating-in-europe-because-of-loot-boxes/",
       "source_count": 1,
@@ -462,14 +455,6 @@
       ]
     },
     {
-      "title": "Founder of bankrupt Samson studio mulls how to use AI for his next attempt: 'Cutting corners in game development has a habit of coming back to bite you in the ass'",
-      "url": "https://www.pcgamer.com/gaming-industry/founder-of-bankrupt-samson-studio-mulls-how-to-use-ai-for-his-next-attempt-cutting-corners-in-game-development-has-a-habit-of-coming-back-to-bite-you-in-the-ass/",
-      "source_count": 1,
-      "sources": [
-        "PC Gamer"
-      ]
-    },
-    {
       "title": "Betting giant Flutter to axe up to 1,400 jobs in UK and Ireland as tax hike bites",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxONi1WVTlnVVEtU2Z0TUlqY2VteGNncXVwallYdUtsdHhNYzFuVWlwcUF6WjZqclhNS1pDZlFfSGkySUZVTlROeVNESTZ5bEZzaVlwQjdZYklZYkotT1RfUUNpTlgwWGlSdUZHeGFGQURuRVI1Qk5iNFQ4TlZ6cHUyQW9qNHdabkVUVm13eHpCaTV2UWFYRndVMndQU1RzQQ",
       "source_count": 1,
@@ -502,19 +487,19 @@
       ]
     },
     {
-      "title": "India's Jio lures marquee investors to IPO anchor book, bids top $25 billion",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNNHgwOGdXVFJyU3hfRUhCZlNYeVI0Z2N4Si1jZGYxamlUc2NsZVZ1SkRuMHM4OEJqcmdKSFJIRmRnUUw1c1pyT2NqR1V0ZzRyRmxVd3VuSEw3ZklYVEozdkxoYV9ZZ2JOYnhIeEhPZ19VUWR3UHlSSGRlRGlYN1IybkJyZkFDOGx4MTBQRDBCVVBVRXZaV1hOQ0MwMldSbXI3Z0p3T25ONGRiQVNXTlpXM1hDeXQ3LURnQTZCWFlrelVDOW8wSXdMV3hXTjFzM044",
-      "source_count": 1,
-      "sources": [
-        "Reuters"
-      ]
-    },
-    {
       "title": "William kicks off State Visit as future King greets Sultan of Oman",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1EcUdjMnJtNmhXRmMzcmNwR2hCdlVaVHp2RHJxUUIxYk9qdU94U3l1Y2diNko0Vm5mNW9vMDhyaTBxdTF5M2c5NnBOOXJ5cU5DeGZYbXl3a01Lazk4OHpxekEwUzEyNGdENnlIRWQtczNqczFmQU1vd3dDOUtTQQ",
       "source_count": 1,
       "sources": [
         "AOL.com"
+      ]
+    },
+    {
+      "title": "India's NMDC puts nickel foray on hold on global oversupply concerns, sources say",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNc3VVUjh4MjVHelVjRDhLVm5LR0t4TnpnbXRDbmJ1MHNqcWF5T081Z0pjUVpPckVTVjJoc2NPdmhVTGo4cGg0aTdpQmwzNUFwR3dPRFVKb3BKM2lqOUpIbGk0dXJHS2pGNWNRc050YkViRDV1dkx2d0NqOWN0WTFJQXMzMVJya3ExR2VjRmx3aGo0SnRWYXVzSnNkVVVCOVZ6cFEyaXZzbXBxVGpHbjJEOE0zYi05eXU3ZTVhWDF3",
+      "source_count": 1,
+      "sources": [
+        "Reuters"
       ]
     },
     {
@@ -614,55 +599,48 @@
       ]
     },
     {
-      "title": "Best Quotes From the Superstar Q&A With Fuerza Regida & Memo Ochoa at Latin Music Week 2026",
-      "url": "https://www.billboard.com/music/latin/fuerza-regida-memo-ochoa-panel-recap-latin-music-week-2026-1236362385/",
+      "title": "'Nothing Short of Extraordinary': Powderfinger Pledges Encore Dates After Reunion Tour Sells Out",
+      "url": "https://www.billboard.com/music/rock/powderfinger-pledges-encore-dates-reunion-tour-sells-out-1236364224/",
       "source_count": 1,
       "sources": [
         "Billboard"
       ]
     },
     {
-      "title": "Lil Baby Announces 'Fresh' Album Release Date & Track List Featuring Young Thug & Future",
-      "url": "https://www.billboard.com/music/rb-hip-hop/lil-baby-fresh-album-release-date-track-list-young-thug-1236364074/",
+      "title": "Billboard's Music Industry Events Calendar",
+      "url": "https://www.billboard.com/pro/music-industry-events-calendar-festivals-awards-conferences/",
       "source_count": 1,
       "sources": [
         "Billboard"
       ]
     },
     {
-      "title": "How's Rod Stewart Doing After Canceling His Tour Due to Heart Procedure: 'F",
-      "url": "https://www.billboard.com/music/music-news/rod-stewart-health-update-canceled-tour-heart-procedure-1236364078/",
-      "source_count": 1,
+      "title": "Billboard & Maybelline Announce Partnership to Elevate Artists at Latin Music Week 2026",
+      "url": "https://www.billboard.com/music/latin/billboard-maybelline-partnership-latin-music-week-2026-1236364196/",
+      "source_count": 2,
       "sources": [
-        "ing Brilliant'"
+        "Billboard",
+        "Billboard"
       ]
     },
     {
-      "title": "Kroger and LG Sued for Allegedly Using Dog-Themed 'Cheese Tax' TikTok Song Without Licenses",
-      "url": "https://www.billboard.com/pro/kroger-lg-lawsuits-viral-tiktok-cheese-tax-dog-song/",
+      "title": "Charli xcx Cancels Arizona Concert, Says 'It Breaks Me' to Miss It",
+      "url": "https://www.billboard.com/music/pop/charli-xcx-arizona-concert-canceled-1236364200/",
       "source_count": 1,
       "sources": [
         "Billboard"
       ]
     },
     {
-      "title": "Anuel AA Reveals He's Dropping an All-Corridos Album Along With 'RHLM 2': Everything We Know",
-      "url": "https://www.billboard.com/music/latin/anuel-aa-new-album-premiere-party-latin-music-week-2026-1236362394/",
+      "title": "Alice Cooper's Third Memoir Becomes No. 1 Bestseller as the Most Accurate Account of the Rock Star's Life",
+      "url": "https://www.billboard.com/culture/product-recommendations/alice-cooper-memoir-devil-on-my-shoulder-shop-online-1236364058/",
       "source_count": 1,
       "sources": [
         "Billboard"
       ]
     },
     {
-      "title": "The Criterion Collection Drops 'The Complete Kubrick': Here's Where to Shop the Box Set Online",
-      "url": "https://www.billboard.com/culture/product-recommendations/the-complete-kubrick-criterion-collection-buy-shop-online-1236363705/",
-      "source_count": 1,
-      "sources": [
-        "Billboard"
-      ]
-    },
-    {
-      "title": "Interview: Analesa Fisher on Joining 'Cyberpunk: Edgerunners' Season 2 and Voicing Omi",
+      "title": "Analesa Fisher on Joining 'Cyberpunk: Edgerunners' Season 2 and Voicing Omi",
       "url": "https://www.whats-on-netflix.com/interviews/interview-analesa-fisher-on-joining-cyberpunk-edgerunners-season-2-and-voicing-omi/",
       "source_count": 1,
       "sources": [
@@ -710,45 +688,46 @@
       ]
     },
     {
-      "title": "20 Best Board Wipes in Magic: The Gathering",
-      "url": "https://www.polygon.com/best-board-wipes-magic-gathering-mtg/",
+      "title": "Marvel Officially Made the Saddest Death in MCU History More Tragic With Just 1 Sentence",
+      "url": "https://www.polygon.com/visionquest-episode-3-explained-friday-avengers-endgame-tony-stark-death/",
+      "source_count": 2,
+      "sources": [
+        "Polygon",
+        "Polygon"
+      ]
+    },
+    {
+      "title": "'VisionQuest' Episode 4 Ending Explained: Who Is Jocasta?",
+      "url": "https://www.polygon.com/visionquest-jocasta-explained-marvel-comics/",
       "source_count": 1,
       "sources": [
         "Polygon"
       ]
     },
     {
-      "title": "How Dare They Put This Many Parries in a Call of Duty Game",
-      "url": "https://www.polygon.com/mw4-modern-warfare-4-parries-call-duty/",
+      "title": "Forget 'Carrie,' Mike Flanagan's Best Netflix Miniseries Is a Masterpiece From Start to Finish",
+      "url": "https://www.polygon.com/midnight-mass-vs-carrie-mike-mike-flanagan/",
       "source_count": 1,
       "sources": [
         "Polygon"
       ]
     },
     {
-      "title": "Fallout 4: FEVer Dreams Gets Official Surprise Release",
-      "url": "https://www.polygon.com/fallout-4-fever-dreams-what-is-bethesda-rpg-release/",
+      "title": "Red Rising Is Officially Returning In 2027",
+      "url": "https://www.polygon.com/red-rising-digital-edition-2027-release/",
       "source_count": 1,
       "sources": [
         "Polygon"
       ]
     },
     {
-      "title": "A New DC Green Lantern Has Officially Been Unveiled",
-      "url": "https://www.polygon.com/green-lantern-doomed-cosmos-elseworlds-series-announced-dc-comics/",
-      "source_count": 1,
-      "sources": [
-        "Polygon"
-      ]
-    },
-    {
-      "title": "New Cheaper PS5 Officially Available for Pre-Order Now",
-      "url": "https://www.polygon.com/ps5-midnight-edition-preorders-open-now-japan/",
+      "title": "Shrek 2 Remastered Officially Announced With Must-See GTA 6-inspired Trailer",
+      "url": "https://www.polygon.com/shrek-2-remastered-release-date-trailer-online-co-op/",
       "source_count": 1,
       "sources": [
         "Polygon"
       ]
     }
   ],
-  "summary": "Verified intelligence gathered across 93 deduplicated editorial clusters."
+  "summary": "Verified intelligence gathered across 90 deduplicated editorial clusters."
 }
