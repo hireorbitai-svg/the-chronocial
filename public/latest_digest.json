@@ -1,85 +1,130 @@
 {
-  "timestamp": "2026-10-21T03:28:35.221629+00:00",
-  "headline_count": 90,
+  "timestamp": "2026-10-21T09:08:50.877431+00:00",
+  "headline_count": 94,
   "headlines": [
     {
-      "title": "Leica and Formula 1 Team Up on $9,950 Camera Inspired by the Racetrack (Featuring Exclusive F1 Photo Setting)",
-      "url": "https://variety.com/2026/shopping/news/leica-formula-1-camera-shop-online-1236916678/",
+      "title": "'Industry,' 'Doctor Who' Producer Jane Tranter on Resisting Trends, Centering Women and Telling Stories About 'People Being Accepted for Who They Choose to Be'",
+      "url": "https://variety.com/2026/tv/global/jane-tranter-mia-rome-1236918447/",
       "source_count": 1,
       "sources": [
         "Variety"
       ]
     },
     {
-      "title": "'Billions' and 'John Wick 3' Star Asia Kate Dillon Says Acting Jobs Have 'Diminished' and They're in Need of Customer Service Work",
-      "url": "https://variety.com/2026/tv/news/billions-john-wick-3-asia-kate-dillon-jobs-diminished-customer-service-1236918269/",
+      "title": "'Father's House,' Starring David Dencik and Trine-Dyrholm, Picked Up by DR Sales Ahead of Tallinn Competition",
+      "url": "https://variety.com/2026/film/global/trine-dyrholm-david-dencik-dr-sales-religious-sect-1236918444/",
       "source_count": 1,
       "sources": [
         "Variety"
       ]
     },
     {
-      "title": "Park Min-young, Yook Sung-jae, Go Soo Lead Prime Video Korean Office Romance 'Nine to Six'",
-      "url": "https://variety.com/2026/tv/news/park-min-young-yook-sung-jae-prime-video-korean-office-romance-nine-to-six-1236918266/",
+      "title": "'Pirates of the Caribbean' Secret Cinema Immersive Stage Show Casts George Maguire as Jack Sparrow, Extends London Run",
+      "url": "https://variety.com/2026/theater/news/pirates-of-the-caribbean-secret-cinema-jack-sparrow-1236918148/",
       "source_count": 1,
       "sources": [
         "Variety"
       ]
     },
     {
-      "title": "Julia Stiles Reunites With '10 Things I Hate About You' Cast, Cries During Heath Ledger Tribute on 'Dancing With the Stars'",
+      "title": "Thai Pop Star Jeff Satur Signs With Universal Music Southeast Asia, Sets 2027 Album and World Tour",
+      "url": "https://variety.com/2026/music/news/thai-pop-star-jeff-satur-universal-music-1236918438/",
+      "source_count": 1,
+      "sources": [
+        "Variety"
+      ]
+    },
+    {
+      "title": "Julia Stiles 'Bawled' Before Heath Ledger Tribute, Breaks Down '10 Things I Hate About You' Cast Reunion on 'Dancing With the Stars'",
       "url": "https://variety.com/2026/film/news/julia-stiles-10-things-i-hate-about-you-reunion-heath-ledger-tribute-dwts-1236916762/",
-      "source_count": 4,
+      "source_count": 2,
       "sources": [
         "Variety",
-        "Deadline Hollywood",
-        "Deadline Hollywood",
         "The Hollywood Reporter"
       ]
     },
     {
-      "title": "Netflix Chiefs Concede That Slowdown in U.S. Viewing Sparked the Content Leadership Shakeup: 'We're Focusing on Execution,' Ted Sarandos Says",
-      "url": "https://variety.com/2026/tv/news/netflix-slowdown-u-s-viewing-shakeup-bela-bajaria-dan-lin-1236918124/",
+      "title": "'Young Sheldon' Star Iain Armitage Says He Was the 'Most Happy' About the Show Ending: I Wasn't 'Going Home and Crying All Day'",
+      "url": "https://variety.com/2026/tv/news/young-sheldon-iain-armitage-show-ending-1236918379/",
       "source_count": 1,
       "sources": [
         "Variety"
       ]
     },
     {
-      "title": "Kurosawa Kiyoshi, Shimizu Takashi Among Directors of Disney+, Hulu Japanese Horror Series 'Night Tales Club'",
-      "url": "https://variety.com/2026/tv/news/kurosawa-shimizu-disney-japanese-horror-night-tales-club-1236918137/",
-      "source_count": 2,
-      "sources": [
-        "Variety",
-        "Deadline Hollywood"
-      ]
-    },
-    {
-      "title": "David Fincher Scrapped 60 Pages Of Tarantino's 'Cliff Booth' Script: \"It Was Essentially Two Movies\"",
-      "url": "https://deadline.com/2026/10/david-fincher-cut-tarantino-cliff-booth-script-1237169234/",
+      "title": "Kari Skogland To Direct Vigilante Crime Thriller 'Vigilant' From 'Severance' Star Ólafur Darri Ólafsson",
+      "url": "https://deadline.com/2026/10/kari-skogland-direct-vigilant-series-olafur-darri-olafsson-1237169507/",
       "source_count": 1,
       "sources": [
         "Deadline Hollywood"
       ]
     },
     {
-      "title": "Ted Sarandos Insists Netflix \"Strategy Is Unchanged\" As Execs Are Pressed About Growth",
-      "url": "https://deadline.com/2026/10/ted-sarandos-netflix-strategy-unchanged-earnings-1237169202/",
+      "title": "J. A. Bayona, Javier Bardem & Laurent Bouzereau Partner On Movistar Plus+ Doc About Life Of Legendary Spanish Cinematographer Néstor Almendros",
+      "url": "https://deadline.com/2026/10/nestor-almendros-doc-j-a-bayona-javier-bardem-1237169499/",
       "source_count": 1,
       "sources": [
         "Deadline Hollywood"
       ]
     },
     {
-      "title": "Doc Talk Podcast Live From Hot Springs Documentary Film Festival With Makers Of Four Oscar-Contending Films",
-      "url": "https://deadline.com/2026/10/doc-talk-hot-springs-documentary-film-festival-roundtable-1237168951/",
+      "title": "Prime Video Adds Sony LIV To Indian Offer",
+      "url": "https://deadline.com/2026/10/prime-video-adds-sony-liv-india-1237169498/",
       "source_count": 1,
       "sources": [
         "Deadline Hollywood"
       ]
     },
     {
-      "title": "James Bond Auction: Daniel Craig's 'Skyfall' Suit, Ana de Armas' 'No Time to Die' Dress Heading to Block",
+      "title": "Ex-Disney, NBCU & Bloomberg TV Execs Among New Advisory Board At Storyboarding Platform Pzaz",
+      "url": "https://deadline.com/2026/10/pzaz-advisory-board-disney-nbcu-netflix-execs-1237168388/",
+      "source_count": 1,
+      "sources": [
+        "Deadline Hollywood"
+      ]
+    },
+    {
+      "title": "The BBC & MHz Choice Board Sweden's Latest 'Wallander' Series",
+      "url": "https://deadline.com/2026/10/wallander-series-bbc-mhz-choice-1237169490/",
+      "source_count": 1,
+      "sources": [
+        "Deadline Hollywood"
+      ]
+    },
+    {
+      "title": "Paul Greengrass Says He Was Offered A 'James Bond' Film After Directing 'Bourne Supremacy'",
+      "url": "https://deadline.com/2026/10/paul-greengrass-james-bond-bourne-supremacy-1237168459/",
+      "source_count": 1,
+      "sources": [
+        "Deadline Hollywood"
+      ]
+    },
+    {
+      "title": "Hiam Abbass to Receive European Achievement in World Cinema Award",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/hiam-abbass-to-receive-european-achievement-in-world-cinema-award-1236737102/",
+      "source_count": 1,
+      "sources": [
+        "The Hollywood Reporter"
+      ]
+    },
+    {
+      "title": "Camel Racing, a Sect and Workplace Democracy: Tallinn Fest Sets Docs Lineup, Special Screenings",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/poff-2026-tallinn-black-nights-docs-special-screenings-program-1236736652/",
+      "source_count": 1,
+      "sources": [
+        "The Hollywood Reporter"
+      ]
+    },
+    {
+      "title": "Great Lakes Creative Producers Lab Unveils Cohort of 15 Film Producers From Seven African Countries",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/great-lakes-creative-producers-lab-africa-film-producers-2026-1236736677/",
+      "source_count": 1,
+      "sources": [
+        "The Hollywood Reporter"
+      ]
+    },
+    {
+      "title": "James Bond Auction: Daniel Craig's 'Skyfall' Suit, Ana de Armas' 'No Time to Die' Dress Hitting Block",
       "url": "https://www.hollywoodreporter.com/movies/movie-news/james-bond-auction-daniel-craig-skyfall-suit-ana-de-armas-1236737020/",
       "source_count": 1,
       "sources": [
@@ -95,75 +140,75 @@
       ]
     },
     {
-      "title": "F1 United States GP Guide: Last-Minute Race Tickets and Austin's Hottest New Openings",
-      "url": "https://www.hollywoodreporter.com/lifestyle/shopping/f1-united-states-grand-prix-2026-tickets-austin-hotels-food-1236736738/",
-      "source_count": 1,
-      "sources": [
-        "The Hollywood Reporter"
-      ]
-    },
-    {
-      "title": "Comedy Trio Please Don't Destroy Take Their Act to J.Crew for New Suiting Campaign",
-      "url": "https://www.hollywoodreporter.com/lifestyle/style/comedy-trio-please-dont-destroy-jcrew-suit-campaign-1236736846/",
-      "source_count": 1,
-      "sources": [
-        "The Hollywood Reporter"
-      ]
-    },
-    {
-      "title": "Lance Oppenheim Bribed Robert Pattinson With 200 Zyn Canisters to Star in 'Primetime'",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/lance-oppenheim-bribed-robert-pattinson-zyn-star-primetime-1236736866/",
-      "source_count": 1,
-      "sources": [
-        "The Hollywood Reporter"
-      ]
-    },
-    {
-      "title": "Arshad Warsi to return to Jolly LLB franchise for fourth part, film to wrap by January 2027: Report",
-      "url": "https://www.bollywoodhungama.com/news/bollywood/arshad-warsi-to-return-to-jolly-llb-franchise-for-fourth-part-film-to-wrap-by-january-2027-report/",
+      "title": "Saif Ali Khan begins shooting for Ritesh Batra's period drama in Mumbai; details of new collaboration remain under wraps",
+      "url": "https://www.bollywoodhungama.com/news/bollywood/saif-ali-khan-begins-shooting-for-ritesh-batras-period-drama-in-mumbai-details-of-new-collaboration-remain-under-wraps/",
       "source_count": 1,
       "sources": [
         "Bollywood Hungama"
       ]
     },
     {
-      "title": "Mika Singh DEFENDS Daler Mehndi amid Uttarakhand event controversy, reveals he had a big operation recently: \"Have you ever seen a glass of alcohol in his hand\"",
-      "url": "https://www.bollywoodhungama.com/news/bollywood/mika-singh-defends-daler-mehndi-amid-uttarakhand-event-controversy-reveals-he-had-a-big-operation-recently-have-you-ever-seen-a-glass-of-alcohol-in-his-hand/",
+      "title": "Sony LIV joins Prime Video India as an add-on subscription; plans start at Rs 399 per month",
+      "url": "https://www.bollywoodhungama.com/news/bollywood/sony-liv-joins-prime-video-india-as-an-add-on-subscription-plans-start-at-rs-399-per-month/",
       "source_count": 1,
       "sources": [
         "Bollywood Hungama"
       ]
     },
     {
-      "title": "Dil Raju calls Ranbir Kapoor 'Ranveer Singh' at Ramayana's grand Hyderabad event; immediately apologizes: \"Sorry, Ranbir Kapoor garu!\"",
-      "url": "https://www.bollywoodhungama.com/news/bollywood/dil-raju-calls-ranbir-kapoor-ranveer-singh-at-ramayanas-grand-hyderabad-event-immediately-apologizes-sorry-ranbir-kapoor-garu/",
+      "title": "EXCLUSIVE: Gulshan Devaiah DEBUNKS Wikipedia's claim that he made his debut in Salman Khan's Dil Ne Jise Apna Kahaa: \"Even I have seen it and I laugh at it!\"",
+      "url": "https://www.bollywoodhungama.com/news/bollywood/exclusive-gulshan-devaiah-debunks-wikipedias-claim-that-he-made-his-debut-in-salman-khans-dil-ne-jise-apna-kahaa-even-i-have-seen-it-and-i-laugh-at-it/",
       "source_count": 1,
       "sources": [
         "Bollywood Hungama"
       ]
     },
     {
-      "title": "SCOOP: Ramayana advance booking may get DELAYED due to revenue-sharing tussle; distributors demand 60% share in Week 1",
-      "url": "https://www.bollywoodhungama.com/news/bollywood/scoop-ramayana-advance-booking-may-get-delayed-due-to-revenue-sharing-tussle-distributors-demand-60-share-in-week-1/",
+      "title": "Tiger Shroff's team issues statement after firing in Juhu, says actor made \"no statements\" about incident",
+      "url": "https://www.bollywoodhungama.com/news/bollywood/tiger-shroffs-team-issues-statement-after-firing-in-juhu-says-actor-made-no-statements-about-incident/",
       "source_count": 1,
       "sources": [
         "Bollywood Hungama"
       ]
     },
     {
-      "title": "EXCLUSIVE: Himesh Reshammiya to compose music for Veer Pahariya's Naam - To Live Is War; reunites with Mahesh Bhatt after 16 years",
-      "url": "https://www.bollywoodhungama.com/news/bollywood/exclusive-himesh-reshammiya-to-compose-music-for-veer-pahariyas-naam-to-live-is-war-reunites-with-mahesh-bhatt-after-16-years/",
+      "title": "Janhvi Kapoor to pay tribute to mother Sridevi at IIFA 2027",
+      "url": "https://www.bollywoodhungama.com/news/bollywood/janhvi-kapoor-to-pay-tribute-to-mother-sridevi-at-iifa-2027/",
       "source_count": 1,
       "sources": [
         "Bollywood Hungama"
       ]
     },
     {
-      "title": "Bombay High Court directs makers of Tu Hai Meri Kiran to deposit Rs. 8.85 crores before release",
-      "url": "https://www.bollywoodhungama.com/news/bollywood/sonakshi-sinha-and-zaheer-iqbal-starrer-tu-hai-meri-kiran-release-put-on-hold-by-bombay-high-court-over-rs-8-85-crores-dispute/",
+      "title": "Ramayana: Part 1 tax-free in West Bengal: CM confirms exemption for Ranbir Kapoor starrer",
+      "url": "https://www.bollywoodhungama.com/news/bollywood/ramayana-part-1-tax-free-in-west-bengal-cm-confirms-exemption-for-ranbir-kapoor-starrer/",
       "source_count": 1,
       "sources": [
         "Bollywood Hungama"
+      ]
+    },
+    {
+      "title": "The Diplomat Season 4's Major Death Explained By Showrunner",
+      "url": "https://www.tvline.com/2292532/the-diplomat-season-4-austin-dennison-death-explained-showrunner/",
+      "source_count": 1,
+      "sources": [
+        "TVLine"
+      ]
+    },
+    {
+      "title": "Before VisionQuest, T'Nia Miller And Mary McDonnell Starred In A Mike Flanagan Miniseries",
+      "url": "https://www.tvline.com/2292315/visionquest-tnia-miller-mary-mcdonnell-mike-flanagan-miniseries-the-fall-of-the-house-of-usher/",
+      "source_count": 1,
+      "sources": [
+        "TVLine"
+      ]
+    },
+    {
+      "title": "NCIS: Origins Boss Takes Us Inside The Gibbs-Tony Reunion, Teases More 'Faces' From The Past - And Romantic 'Progress' For Gibbs And Lala",
+      "url": "https://www.tvline.com/2291220/ncis-origins-gibbs-tony-reunion-season-3-spoilers-interview/",
+      "source_count": 1,
+      "sources": [
+        "TVLine"
       ]
     },
     {
@@ -185,30 +230,6 @@
     {
       "title": "Stephen King's Time-Travel Miniseries Is Essential Viewing On Netflix",
       "url": "https://www.tvline.com/2288788/stephen-king-time-travel-miniseries-11-22-63-streaming-netflix/",
-      "source_count": 1,
-      "sources": [
-        "TVLine"
-      ]
-    },
-    {
-      "title": "Crystal Lake Puts A Surprising Twist On Pamela Voorhees' Friday The 13th Victims",
-      "url": "https://www.tvline.com/2292477/crystal-lake-twist-pamela-voorhees-friday-the-13th-victims/",
-      "source_count": 1,
-      "sources": [
-        "TVLine"
-      ]
-    },
-    {
-      "title": "5 Best Sci-Fi Shows Of The '60s (That Aren't Star Trek)",
-      "url": "https://www.tvline.com/2288682/best-sci-fi-shows-60s-not-star-trek/",
-      "source_count": 1,
-      "sources": [
-        "TVLine"
-      ]
-    },
-    {
-      "title": "Casting News: Station 19 Star Joins Fire Country, The Night Agent Spies His Next TV Role, And More",
-      "url": "https://www.tvline.com/2292406/fire-country-cast-jay-hayden-the-night-agent-new-show/",
       "source_count": 1,
       "sources": [
         "TVLine"
@@ -455,8 +476,16 @@
       ]
     },
     {
-      "title": "Betting giant Flutter to axe up to 1,400 jobs in UK and Ireland as tax hike bites",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxONi1WVTlnVVEtU2Z0TUlqY2VteGNncXVwallYdUtsdHhNYzFuVWlwcUF6WjZqclhNS1pDZlFfSGkySUZVTlROeVNESTZ5bEZzaVlwQjdZYklZYkotT1RfUUNpTlgwWGlSdUZHeGFGQURuRVI1Qk5iNFQ4TlZ6cHUyQW9qNHdabkVUVm13eHpCaTV2UWFYRndVMndQU1RzQQ",
+      "title": "Iraq closes Sheeb border crossing with Iran to check security, sources say",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPSXVnY3hDdkhUd05mS1J1MFR3RHdnX09veTI2UXB3a0ZlOVNPU1NDa184ZXhWMmpFMTFmYjFYb1ZORGlzb2FtZWdET2txWUtUUEZhTHc5MWp0YUY0ck1jcVlWc21RTWt0a0hHd1VfOG5fdVZLNmV2NmpVQzJWY0UwaHQ2c2NhUlZFMVpTejI4aE84OUNNUmNsLURqMVcyVEtJNEJOdGpxbWV6UGtJYU0wMnFvMWhVdDl3M2ZrWFRtdDItSTlvbGJLaGVqZ2xOUQ",
+      "source_count": 1,
+      "sources": [
+        "Reuters"
+      ]
+    },
+    {
+      "title": "WWE, McMahons must face sex abuse claims by former 'ring boys'",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQNmtScVEydDBkR1pKcXVER1RHMlo4QUFxemNBT1VyaF84MF9pWEFUajB1TmZiNG5Xanh5YjkyN29WVmpadV84Nm9vaGdBNEhnNEZOdm9oZVFxTjJvNjVNX2I0V0JaeXBKaXY4eTRrTTlCOHhTTV9UbHlnakdwbHpBZ2IzSnY4b3hLRFMzRjVsLWdkN2Rkbk9USWxCRm5DX1VDQXVCTERCVmFwcGR0THBKc21R",
       "source_count": 1,
       "sources": [
         "Reuters"
@@ -471,11 +500,11 @@
       ]
     },
     {
-      "title": "Nvidia-backed Nscale, Anthropic in talks for new $45 billion AI cloud deal, source says By Reuters",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQRkQzYV9XY1h2WVY0RXNsQ21MRzVpZjBSYnd5b1dEaWhZd3B0NHhlVzBCdHdvTjl0QlgyS0JLbUhUOGRpN3JtRi1reDM4b2dRYU9fTkF0bHcxUW1Vak1pZy1TUldObWdlX19LbmF3ZkN6RjE2Q3JTa1dpQUpYZ2Z0c3F0ckR5d2E3SVdUWUNhdVJ3NTJGSVFPR21wampRV3FfX0t4bmo5Ul9KR09XV3NSM3ZlZVBvd2ZReXBmYkQzMVc1WktDeUhRRUxiQ1U3VXQ5QXZ2TkdZSFA",
+      "title": "Oscar-Winning star Eva Marie Saint's cause of death disclosed",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNZVJWcjlPZDJSZElLTVFyV0VvVl8xV09kZU1SbXNvMUgzNzZrR3JOQ2ozbGVzckxCVGxyOEZCbno3QmV3djIzLUFrNURpTV9ybmVNdnlpQTdkVm5Oa0FUUndfSmo1R19SVHBBblZvVHBTTWNXb24xMWNaZE5VcFhEdXA1Q0F1SThTTGlCT1ltY2otOTJ4cXdONjNUa3FfS3ZJQ0FtMV9XdzVpeXhJck1fSXdlYkhmUXR6cERWRjJRaFhuc09xOUlJZDFB",
       "source_count": 1,
       "sources": [
-        "Investing.com"
+        "ANI News"
       ]
     },
     {
@@ -487,19 +516,11 @@
       ]
     },
     {
-      "title": "William kicks off State Visit as future King greets Sultan of Oman",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1EcUdjMnJtNmhXRmMzcmNwR2hCdlVaVHp2RHJxUUIxYk9qdU94U3l1Y2diNko0Vm5mNW9vMDhyaTBxdTF5M2c5NnBOOXJ5cU5DeGZYbXl3a01Lazk4OHpxekEwUzEyNGdENnlIRWQtczNqczFmQU1vd3dDOUtTQQ",
+      "title": "Nvidia-backed Nscale, Anthropic in talks for new $45 billion AI cloud deal, source says By Reuters",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQRkQzYV9XY1h2WVY0RXNsQ21MRzVpZjBSYnd5b1dEaWhZd3B0NHhlVzBCdHdvTjl0QlgyS0JLbUhUOGRpN3JtRi1reDM4b2dRYU9fTkF0bHcxUW1Vak1pZy1TUldObWdlX19LbmF3ZkN6RjE2Q3JTa1dpQUpYZ2Z0c3F0ckR5d2E3SVdUWUNhdVJ3NTJGSVFPR21wampRV3FfX0t4bmo5Ul9KR09XV3NSM3ZlZVBvd2ZReXBmYkQzMVc1WktDeUhRRUxiQ1U3VXQ5QXZ2TkdZSFA",
       "source_count": 1,
       "sources": [
-        "AOL.com"
-      ]
-    },
-    {
-      "title": "India's NMDC puts nickel foray on hold on global oversupply concerns, sources say",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNc3VVUjh4MjVHelVjRDhLVm5LR0t4TnpnbXRDbmJ1MHNqcWF5T081Z0pjUVpPckVTVjJoc2NPdmhVTGo4cGg0aTdpQmwzNUFwR3dPRFVKb3BKM2lqOUpIbGk0dXJHS2pGNWNRc050YkViRDV1dkx2d0NqOWN0WTFJQXMzMVJya3ExR2VjRmx3aGo0SnRWYXVzSnNkVVVCOVZ6cFEyaXZzbXBxVGpHbjJEOE0zYi05eXU3ZTVhWDF3",
-      "source_count": 1,
-      "sources": [
-        "Reuters"
+        "Investing.com"
       ]
     },
     {
@@ -599,41 +620,48 @@
       ]
     },
     {
+      "title": "Sam Fender Is Doing a Proper Massive Stadium Tour for 2027 in U.K. & Ireland, Including Nights at Wembley",
+      "url": "https://www.billboard.com/music/music-news/sam-fender-2027-tour-dates-uk-ireland-1236363653/",
+      "source_count": 1,
+      "sources": [
+        "Billboard"
+      ]
+    },
+    {
+      "title": "Jeff Satur Signs With Universal Music Southeast Asia",
+      "url": "https://www.billboard.com/music/music-news/jeff-satur-signs-universal-music-southeast-asia-1236364306/",
+      "source_count": 1,
+      "sources": [
+        "Billboard"
+      ]
+    },
+    {
+      "title": "Australia's Live Entertainment Industry Feels The Pinch From Escalating Costs",
+      "url": "https://www.billboard.com/pro/australia-live-industry-results-2025/",
+      "source_count": 1,
+      "sources": [
+        "Billboard"
+      ]
+    },
+    {
+      "title": "Beck Gets Some Help From Sacha Baron Cohen For 'Tonight Show' Performance: Watch",
+      "url": "https://www.billboard.com/culture/tv-film/beck-sacha-baron-cohen-tonight-show-performance-watch-1236364237/",
+      "source_count": 1,
+      "sources": [
+        "Billboard"
+      ]
+    },
+    {
+      "title": "APRA AMCOS Reports Record-High Revenue, Local Content Streams Experience 'Devastating' Dip",
+      "url": "https://www.billboard.com/pro/apra-amcos-reports-record-high-revenue/",
+      "source_count": 1,
+      "sources": [
+        "Billboard"
+      ]
+    },
+    {
       "title": "'Nothing Short of Extraordinary': Powderfinger Pledges Encore Dates After Reunion Tour Sells Out",
       "url": "https://www.billboard.com/music/rock/powderfinger-pledges-encore-dates-reunion-tour-sells-out-1236364224/",
-      "source_count": 1,
-      "sources": [
-        "Billboard"
-      ]
-    },
-    {
-      "title": "Billboard's Music Industry Events Calendar",
-      "url": "https://www.billboard.com/pro/music-industry-events-calendar-festivals-awards-conferences/",
-      "source_count": 1,
-      "sources": [
-        "Billboard"
-      ]
-    },
-    {
-      "title": "Billboard & Maybelline Announce Partnership to Elevate Artists at Latin Music Week 2026",
-      "url": "https://www.billboard.com/music/latin/billboard-maybelline-partnership-latin-music-week-2026-1236364196/",
-      "source_count": 2,
-      "sources": [
-        "Billboard",
-        "Billboard"
-      ]
-    },
-    {
-      "title": "Charli xcx Cancels Arizona Concert, Says 'It Breaks Me' to Miss It",
-      "url": "https://www.billboard.com/music/pop/charli-xcx-arizona-concert-canceled-1236364200/",
-      "source_count": 1,
-      "sources": [
-        "Billboard"
-      ]
-    },
-    {
-      "title": "Alice Cooper's Third Memoir Becomes No. 1 Bestseller as the Most Accurate Account of the Rock Star's Life",
-      "url": "https://www.billboard.com/culture/product-recommendations/alice-cooper-memoir-devil-on-my-shoulder-shop-online-1236364058/",
       "source_count": 1,
       "sources": [
         "Billboard"
@@ -688,6 +716,22 @@
       ]
     },
     {
+      "title": "17 Years Later, Johnny Depp's Overlooked Action Crime Thriller Is Officially Free on YouTube",
+      "url": "https://www.polygon.com/public-enemies-free-on-youtube/",
+      "source_count": 1,
+      "sources": [
+        "Polygon"
+      ]
+    },
+    {
+      "title": "All 'Stranded' keypad puzzle codes in Modern Warfare 4",
+      "url": "https://www.polygon.com/mw4-modern-warfare-4-stranded-keypad-puzzle-code-locations/",
+      "source_count": 1,
+      "sources": [
+        "Polygon"
+      ]
+    },
+    {
       "title": "Marvel Officially Made the Saddest Death in MCU History More Tragic With Just 1 Sentence",
       "url": "https://www.polygon.com/visionquest-episode-3-explained-friday-avengers-endgame-tony-stark-death/",
       "source_count": 2,
@@ -711,23 +755,7 @@
       "sources": [
         "Polygon"
       ]
-    },
-    {
-      "title": "Red Rising Is Officially Returning In 2027",
-      "url": "https://www.polygon.com/red-rising-digital-edition-2027-release/",
-      "source_count": 1,
-      "sources": [
-        "Polygon"
-      ]
-    },
-    {
-      "title": "Shrek 2 Remastered Officially Announced With Must-See GTA 6-inspired Trailer",
-      "url": "https://www.polygon.com/shrek-2-remastered-release-date-trailer-online-co-op/",
-      "source_count": 1,
-      "sources": [
-        "Polygon"
-      ]
     }
   ],
-  "summary": "Verified intelligence gathered across 90 deduplicated editorial clusters."
+  "summary": "Verified intelligence gathered across 94 deduplicated editorial clusters."
 }
