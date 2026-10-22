@@ -1,142 +1,151 @@
 {
-  "timestamp": "2026-10-22T14:53:17.020670+00:00",
-  "headline_count": 94,
+  "timestamp": "2026-10-22T19:46:01.569687+00:00",
+  "headline_count": 93,
   "headlines": [
     {
-      "title": "Wiz Khalifa Signs With 10K Projects (EXCLUSIVE)",
-      "url": "https://variety.com/2026/music/news/wiz-khalifa-signs-10k-projects-1236920998/",
+      "title": "'Halloweentown 5' in Development at Disney",
+      "url": "https://variety.com/2026/tv/news/halloweentown-5-disney-1236921734/",
       "source_count": 1,
       "sources": [
         "Variety"
       ]
     },
     {
-      "title": "'Obsession' Star Inde Navarrette Says Gen Z Wants Films 'Where We're Not Being Sold. We Are Tired of Ads in Movies and Product Placement'",
-      "url": "https://variety.com/2026/film/news/inde-navarrette-gen-z-movies-without-ads-product-placement-1236919665/",
+      "title": "Gossip Goblin's AI Film 'Gods Don't Give Gifts' Picked Up by AGC Intl.",
+      "url": "https://variety.com/2026/film/news/gossip-goblin-gods-dont-give-gifts-agc-1236921685/",
       "source_count": 1,
       "sources": [
         "Variety"
       ]
     },
     {
-      "title": "Aamir Khan Tears Up About His Family, Shares Updates on '3 Idiots 2,' 'Andaz Apna Apna 2' at Singapore Film Fest",
-      "url": "https://variety.com/2026/film/festivals/aamir-khan-tears-up-3-idiots-2-andaz-apna-apna-2-updates-1236920409/",
+      "title": "U.S. Bank and Visa Present An Evening With Jessica Alba in Partnership With Variety",
+      "url": "https://variety.com/2026/biz/news/us-bank-visa-jessica-alba-variety-1236918029/",
       "source_count": 1,
       "sources": [
         "Variety"
       ]
     },
     {
-      "title": "Comcast Plans Major Layoffs as It Preps for NBCU Spin-Off, Sees $1 Billion-Plus Restructuring Charge in Q4",
-      "url": "https://variety.com/2026/tv/news/comcast-layoffs-nbcuniversal-spin-off-1-billion-restructuring-charge-1236920356/",
-      "source_count": 1,
+      "title": "Tom Skerritt, 'Picket Fences' and 'Alien' Star, Dies at 93",
+      "url": "https://variety.com/2026/film/news/tom-skerritt-dead-picket-fences-alien-1236921694/",
+      "source_count": 3,
       "sources": [
-        "Variety"
-      ]
-    },
-    {
-      "title": "Lego Unveils Daft Punk Set Based on 2007 'Alive' Tour, Short Film Collab Set to 'Human After All'",
-      "url": "https://variety.com/2026/music/global/daft-punk-lego-set-alive-tour-1236918620/",
-      "source_count": 1,
-      "sources": [
-        "Variety"
-      ]
-    },
-    {
-      "title": "Egyptian Screenwriter Mariam Naoum on the Struggle for Arab Series to Find Buyers: 'We're Suffocating Inside'",
-      "url": "https://variety.com/2026/tv/global/el-gouna-cinegouna-series-arab-tv-mariam-naoum-1236919614/",
-      "source_count": 1,
-      "sources": [
-        "Variety"
-      ]
-    },
-    {
-      "title": "Final James Bond Screen Tests To Take Place Over Next Week As Amazon Nears Naming The Next 007",
-      "url": "https://deadline.com/2026/10/james-bond-screen-tests-names-1237170401/",
-      "source_count": 2,
-      "sources": [
-        "The Dish",
+        "Variety",
+        "Deadline Hollywood",
         "The Hollywood Reporter"
       ]
     },
     {
-      "title": "Matt Friend Joins Prime Video's 'Thursday Night Football' Postgame Show",
-      "url": "https://deadline.com/2026/10/matt-friend-prime-video-thursday-night-football-postgame-1237170159/",
+      "title": "Sony Pictures TV Signs Content Creator Thea Von Engelbrechten to First-Look Deal, Launches Animated Microdrama 'Hazelwood' (EXCLUSIVE)",
+      "url": "https://variety.com/2026/tv/news/sony-tv-thea-von-engelbrechten-deal-hazelwood-1236921621/",
+      "source_count": 1,
+      "sources": [
+        "Variety"
+      ]
+    },
+    {
+      "title": "Chappell Roan Invites Christina Aguilera for 'Coffee,' and Fully Manages 'Expectations,' in First Night of Benefits at L.A.'s Shrine: Concert Review",
+      "url": "https://variety.com/2026/music/concert-reviews/chappell-roan-duet-christina-aguilera-benefit-shrine-1236921537/",
+      "source_count": 1,
+      "sources": [
+        "Variety"
+      ]
+    },
+    {
+      "title": "MPTF Expands Board Of Directors With David Kramer And Blair Rich; Five Added To Board Of Governors",
+      "url": "https://deadline.com/2026/10/mptf-board-of-directors-david-kramer-blair-rich-expansion-1237169900/",
       "source_count": 1,
       "sources": [
         "Deadline Hollywood"
       ]
     },
     {
-      "title": "JJ Watt Named Lead Analyst For 'NFL On CBS'",
-      "url": "https://deadline.com/2026/10/jj-watt-named-lead-analyst-nfl-on-cbs-1237170604/",
+      "title": "Amanda Seyfried Joins Ramy Youssef's 'Martha & Muhammad' At A24",
+      "url": "https://deadline.com/2026/10/amanda-seyfried-joins-ramy-youssef-martha-and-muhammad-1237171034/",
       "source_count": 1,
       "sources": [
         "Deadline Hollywood"
       ]
     },
     {
-      "title": "Bianna Golodryga Says She Is Leaving CNN After Nine Years",
-      "url": "https://deadline.com/2026/10/bianna-golodryga-to-leave-cnn-1237170594/",
+      "title": "Comcast Co-CEO Brian Roberts Touts Staffers' \"Energy And Excitement\" About Pending NBCUniversal Split",
+      "url": "https://deadline.com/2026/10/comcast-nbcuniversal-split-brian-roberts-1237170992/",
       "source_count": 1,
       "sources": [
         "Deadline Hollywood"
       ]
     },
     {
-      "title": "Brian Selznick's Rome-Set Queer YA Romance 'Run Away With Me' Set For Feature Adaptation With Gianni Nunnari Producing",
-      "url": "https://deadline.com/2026/10/queer-ya-romance-run-away-with-me-film-adaptation-1237170591/",
+      "title": "Mayor Zohran Mamdani And Neon Set Free NYC Screenings Of 'Once Upon A Time In Harlem'",
+      "url": "https://deadline.com/2026/10/mayor-zohran-mamdani-neon-free-shows-once-upon-a-time-in-harlem-1237170985/",
       "source_count": 1,
       "sources": [
         "Deadline Hollywood"
       ]
     },
     {
-      "title": "ESPN Original Series To Depict Formation Of Premier Lacrosse League",
-      "url": "https://deadline.com/2026/10/espn-original-series-premier-lacrosse-league-1237169910/",
+      "title": "Kelly Reilly Confirms 'Dutton Ranch' Season 2 Filming Dates At Splashy Paramount UK Upfronts Featuring Kenneth Branagh, Peter Sarsgaard, David Glasser",
+      "url": "https://deadline.com/2026/10/dutton-ranch-season-2-filming-kelly-reilly-paramount-uk-1237170938/",
       "source_count": 1,
       "sources": [
         "Deadline Hollywood"
       ]
     },
     {
-      "title": "Chuck Lorre Talks David Ellison Optimism, Scientology and the Perks (Really!) of Working for Roseanne Barr",
-      "url": "https://www.hollywoodreporter.com/tv/tv-features/chuck-lorre-interview-david-ellison-roseanne-barr-1236737584/",
+      "title": "John Mayer Launches New Record Label Sob Rock Records",
+      "url": "https://www.hollywoodreporter.com/music/music-industry-news/john-mayer-launches-record-label-sob-rock-records-1236738437/",
       "source_count": 1,
       "sources": [
         "The Hollywood Reporter"
       ]
     },
     {
-      "title": "Ben Silverman Still Doesn't Want a Job - But He's Busier Than Ever",
-      "url": "https://www.hollywoodreporter.com/business/business-news/ben-silverman-propagate-tv-docs-1236737224/",
+      "title": "\"Respect Rather Than Reverence\": Inside the Making of a Grittier 'Sense and Sensibility'",
+      "url": "https://www.hollywoodreporter.com/movies/movie-features/sense-and-sensibility-making-of-grittier-jane-austen-1236726492/",
       "source_count": 1,
       "sources": [
         "The Hollywood Reporter"
       ]
     },
     {
-      "title": "Doc Maker Rocky Mudaliar Signs With Verve (Exclusive)",
-      "url": "https://www.hollywoodreporter.com/business/business-news/rocky-mudaliar-verve-1236738014/",
+      "title": "Why a Top Hollywood Lawyer for Indie Projects Isn't Excited About the Paramount-Warner Bros. Merger",
+      "url": "https://www.hollywoodreporter.com/business/business-news/hollywood-lawyer-indie-projects-paramount-warner-bros-merger-1236736884/",
       "source_count": 1,
       "sources": [
         "The Hollywood Reporter"
       ]
     },
     {
-      "title": "A Search for His Biological Father Led to a Top Podcast - and an Endorsement From Ira Glass",
-      "url": "https://www.hollywoodreporter.com/business/digital/sayre-quevedo-podcast-reaching-out-ira-glass-1236737522/",
+      "title": "In Latest Smear Scandal Suit, an Influencer Falsely Accused of Involvement in Matthew Perry's Death",
+      "url": "https://www.hollywoodreporter.com/news/general-news/paige-jimenez-jed-wallace-melissa-nathan-bryan-freedman-1236738368/",
       "source_count": 1,
       "sources": [
         "The Hollywood Reporter"
       ]
     },
     {
-      "title": "Italy's Movie and TV Spending Drops Amid Tax Incentive Uncertainty",
-      "url": "https://www.hollywoodreporter.com/business/business-news/italian-content-investment-2025-1236738051/",
+      "title": "NBA Romance 'Vineyard Haven' in the Works From Nkechi Okoro Carroll, Berlanti Schechter Films at Amazon MGM (Exclusive)",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/vineyard-haven-amazon-nkechi-okoro-carroll-greg-berlanti-1236738279/",
       "source_count": 1,
       "sources": [
         "The Hollywood Reporter"
+      ]
+    },
+    {
+      "title": "BREAKING: Rajkummar Rao has a hilarious cameo in Pehla Pyaar Doosri Baar",
+      "url": "https://www.bollywoodhungama.com/news/bollywood/breaking-rajkummar-rao-has-a-hilarious-cameo-in-pehla-pyaar-doosri-baar/",
+      "source_count": 1,
+      "sources": [
+        "Bollywood Hungama"
+      ]
+    },
+    {
+      "title": "Saif Ali Khan sells Bandra west apartment for Rs 4.11 crores",
+      "url": "https://www.bollywoodhungama.com/news/bollywood/saif-ali-khan-sells-bandra-west-apartment-for-rs-4-11-crores/",
+      "source_count": 1,
+      "sources": [
+        "Bollywood Hungama"
       ]
     },
     {
@@ -172,64 +181,48 @@
       ]
     },
     {
-      "title": "Tu Hai Meri Kiran to release in cinemas tomorrow as scheduled, producers Vishal Rana and Sarvesh Goel confirm",
-      "url": "https://www.bollywoodhungama.com/news/bollywood/tu-hai-meri-kiran-to-release-in-cinemas-tomorrow-as-scheduled-producers-vishal-rana-and-sarvesh-goel-confirm/",
-      "source_count": 1,
-      "sources": [
-        "Bollywood Hungama"
-      ]
-    },
-    {
-      "title": "Amitabh Bachchan takes a break from social media for a few days following medical advice",
-      "url": "https://www.bollywoodhungama.com/news/bollywood/amitabh-bachchan-takes-a-break-from-social-media-for-a-few-days-following-medical-advice/",
-      "source_count": 1,
-      "sources": [
-        "Bollywood Hungama"
-      ]
-    },
-    {
-      "title": "Quote Of The Day By Harrison Ford: 'I Can Tell You This: If I'd Been Less Successful, I'd...'",
-      "url": "https://www.tvline.com/2293364/quote-of-the-day-harrison-ford-if-less-successful/",
+      "title": "Tom Skerritt, Picket Fences And Top Gun Star, Dead At 93",
+      "url": "https://www.tvline.com/2294738/tom-skerritt-dead-picket-fences-top-gun-alien-obituary/",
       "source_count": 1,
       "sources": [
         "TVLine"
       ]
     },
     {
-      "title": "What To Watch Thursday: Nobody Wants This Returns, David Tennant Does Time, And More",
-      "url": "https://www.tvline.com/2292394/what-to-watch-october-22-2026-tv-shows-movies/",
+      "title": "Marshals Video: Kayce Honors Monica's Memory Amid Cal's Cancer Battle (Exclusive Sneak Peek)",
+      "url": "https://www.tvline.com/2294527/marshals-season-2-episode-4-monica-kayce-video/",
       "source_count": 1,
       "sources": [
         "TVLine"
       ]
     },
     {
-      "title": "Survivor 51 Recap: An Extra Vote Twist Paves The Way For The Season's Wildest Tribal Council Yet",
-      "url": "https://www.tvline.com/2293412/survivor-51-recap-episode-5-alexis-linnea-voted-out-draw-rocks/",
+      "title": "Why Lex Luthor Actor Michael Rosenbaum Left Smallville After Season 7",
+      "url": "https://www.tvline.com/2294595/why-lex-luthor-actor-michael-rosenbaum-left-smallville/",
       "source_count": 1,
       "sources": [
         "TVLine"
       ]
     },
     {
-      "title": "Scrubs Just Delivered A Wild Twist For J.D. And Elliot - And Let Sean Get His Revenge On J.D.",
-      "url": "https://www.tvline.com/2292992/scrubs-season-2-episode-5-recap-jd-elliot-charlie-sean-hookup/",
+      "title": "What Would Have Happened Next If Hannibal Hadn't Been Canceled",
+      "url": "https://www.tvline.com/2294244/hannibal-season-4-canceled-what-would-have-happened-next-spoilers/",
       "source_count": 1,
       "sources": [
         "TVLine"
       ]
     },
     {
-      "title": "5 TV Shows With Stephen King Vibes That Are Perfect For A Halloween Weekend Binge",
-      "url": "https://www.tvline.com/2293741/tv-shows-stephen-king-vibes-perfect-halloween-weekend-binge/",
+      "title": "Nobody Wants This Season 3 Delivers The Year's Best Rom-Com In Episode 7",
+      "url": "https://www.tvline.com/2294480/nobody-wants-this-season-3-morgan-sasha-romance-review/",
       "source_count": 1,
       "sources": [
-        "TVLine"
+        "Then Gets Cold Feet"
       ]
     },
     {
-      "title": "Save The Dates: The Circle Moves To Hulu, Blue Planet Returns, And More",
-      "url": "https://www.tvline.com/2293713/the-circle-hulu-season-8-release-date-blue-planet-iii-bbc-america/",
+      "title": "SNL Confirms Druski To Host In November, Along With John Mulaney",
+      "url": "https://www.tvline.com/2294477/snl-hosts-season-52-druski-john-mulaney-inde-navarrette/",
       "source_count": 1,
       "sources": [
         "TVLine"
@@ -284,6 +277,46 @@
       ]
     },
     {
+      "title": "How More Than 40 New Traits Change Your Strategy in Becastled",
+      "url": "https://news.xbox.com/en-us/2026/10/22/how-more-than-40-new-traits-change-your-strategy/",
+      "source_count": 1,
+      "sources": [
+        "Xbox Wire"
+      ]
+    },
+    {
+      "title": "The Power of PEAK Friendship, Coming to XBOX Today",
+      "url": "https://news.xbox.com/en-us/2026/10/22/peak-friendship-coming-to-xbox-today/",
+      "source_count": 1,
+      "sources": [
+        "Xbox Wire"
+      ]
+    },
+    {
+      "title": "Call of Duty: Modern Warfare 4 w/Devs - Campaign, Multiplayer, DMZ, and More | Official XBOX Podcast",
+      "url": "https://news.xbox.com/en-us/2026/10/22/call-of-duty-modern-warfare-4-w-devs-campaign-multiplayer-dmz-and-more-official-xbox-podcast/",
+      "source_count": 1,
+      "sources": [
+        "Xbox Wire"
+      ]
+    },
+    {
+      "title": "FINAL FANTASY RESONANCE is a Delightful Return to the Series' Classic Roots",
+      "url": "https://news.xbox.com/en-us/2026/10/22/final-fantasy-resonance-available-now/",
+      "source_count": 1,
+      "sources": [
+        "Xbox Wire"
+      ]
+    },
+    {
+      "title": "Free Play Days - Dying Light 2, Riders Republic, Monster Hunter Stories, Let's Build a Zoo, and More",
+      "url": "https://news.xbox.com/en-us/2026/10/22/free-play-days-10-22-2026/",
+      "source_count": 1,
+      "sources": [
+        "Xbox Wire"
+      ]
+    },
+    {
       "title": "From the Anime to the Game - Free Update Brings Edgerunners 2 Content and More to Cyberpunk 2077!",
       "url": "https://news.xbox.com/en-us/2026/10/22/cyberpunk-2077-edgerunners-2-update/",
       "source_count": 1,
@@ -292,184 +325,137 @@
       ]
     },
     {
-      "title": "Cloud Playtime Now Available to Test with XBOX Insiders",
-      "url": "https://news.xbox.com/en-us/2026/10/21/cloud-playtime-now-available-to-test-with-xbox-insiders/",
-      "source_count": 1,
-      "sources": [
-        "Xbox Wire"
-      ]
-    },
-    {
-      "title": "Thirty Years of Lara Croft",
-      "url": "https://news.xbox.com/en-us/2026/10/21/thirty-years-of-lara-croft/",
-      "source_count": 1,
-      "sources": [
-        "Xbox Wire"
-      ]
-    },
-    {
-      "title": "Think You've Beaten Fountains? Prove it in the Gauntlet",
-      "url": "https://news.xbox.com/en-us/2026/10/20/think-youve-beaten-fountains/",
-      "source_count": 1,
-      "sources": [
-        "Xbox Wire"
-      ]
-    },
-    {
-      "title": "Grounded 2: 100 Reasons to Run in the Rot and Ruin Update",
-      "url": "https://news.xbox.com/en-us/2026/10/20/grounded-2-rot-and-ruin/",
-      "source_count": 1,
-      "sources": [
-        "Xbox Wire"
-      ]
-    },
-    {
-      "title": "Ready for Launch: Modern Warfare 4 Progression and Prestige",
-      "url": "https://news.xbox.com/en-us/2026/10/20/ready-for-launch-modern-warfare-4-progression-and-prestige/",
-      "source_count": 1,
-      "sources": [
-        "Xbox Wire"
-      ]
-    },
-    {
-      "title": "'Regions Are Cheating and We Need to Address It' - Wardogs Dev Says Region Locking Is About 'Protecting the Largest Amount of Players'",
-      "url": "https://www.ign.com/articles/wardogs-fans-upset-region-lock",
+      "title": "GTA 6 Is Almost Here: Trade in Your Old Console and Save on an Upgrade at PayMore",
+      "url": "https://www.ign.com/articles/gta-6-trade-in-old-console-save-on-upgrade-paymore",
       "source_count": 1,
       "sources": [
         "IGN Games"
       ]
     },
     {
-      "title": "Resident Evil Developer Capcom Issues Phishing Warning After Data Breach Hits Over 11 Million Customer Accounts",
-      "url": "https://www.ign.com/articles/resident-evil-developer-capcom-issues-phishing-warning-after-data-breach-hits-over-11-million-customer-accounts",
+      "title": "Magic's Foundations Commander Precons Are in Stock at Amazon for MSRP",
+      "url": "https://www.ign.com/articles/mtg-foundations-commander-precons-are-in-stock-at-amazon-for-msrp-but-theres-a-catch",
+      "source_count": 1,
+      "sources": [
+        "But There's a Catch"
+      ]
+    },
+    {
+      "title": "World of Warcraft: Forever Breathes New Life Into an Iconic Classic",
+      "url": "https://www.ign.com/articles/world-of-warcraft-forever-breathes-new-life-into-an-iconic-classic",
       "source_count": 1,
       "sources": [
         "IGN Games"
       ]
     },
     {
-      "title": "Amazon Is Selling Pokémon TCG: 30th Celebration ETBs Below Market Rate - if You Can Secure an Invite",
-      "url": "https://www.ign.com/articles/pokemon-tcg-30th-celebration-elite-trainer-box-down-to-5999-at-amazon",
+      "title": "Mass Effect 5 Trailer Leaks Online With 'Mass Effect: Universe' Title, Reveals Returning Characters and Much More",
+      "url": "https://www.ign.com/articles/mass-effect-5-trailer-leaks-online-with-mass-effect-universe-title-reveals-returning-characters-and-much-more",
       "source_count": 1,
       "sources": [
         "IGN Games"
       ]
     },
     {
-      "title": "'We Were Working on a Great Game' - Former Mass Effect 5 Writers Speak Out After EA Shuts Down BioWare",
-      "url": "https://www.ign.com/articles/we-were-working-on-a-great-game-former-mass-effect-5-writers-speak-out-after-ea-shuts-down-bioware",
+      "title": "Alan Wake 2: Deluxe Edition for PS5 Drops to Its Lowest Price Ever, Just in Time for Halloween",
+      "url": "https://www.ign.com/articles/alan-wake-2-ps5-game-deal-october-2026",
       "source_count": 1,
       "sources": [
         "IGN Games"
       ]
     },
     {
-      "title": "Dragon Ball Xenoverse 3 Narrows Release Window Following Player Feedback",
-      "url": "https://www.ign.com/articles/dragon-ball-xenoverse-3-narrows-release-window-following-player-feedback",
+      "title": "Dispatch Gets Over 16 Hours of New Content With Commentary Track, Mobile Version, and Live Concert to Celebrate Its First Anniversary",
+      "url": "https://www.ign.com/articles/dispatch-gets-over-16-hours-of-new-content-with-commentary-track-mobile-version-and-live-concert-to-celebrate-its-first-anniversary",
       "source_count": 1,
       "sources": [
         "IGN Games"
       ]
     },
     {
-      "title": "GTA 6's Fast Food Restaurant, Burger Shot, Is Coming to Real Life in the Miami Heat's Arena",
-      "url": "https://www.ign.com/articles/gta-6s-fast-food-restaurant-burger-shot-is-coming-to-real-life-in-the-miami-heats-arena",
-      "source_count": 1,
-      "sources": [
-        "IGN Games"
-      ]
-    },
-    {
-      "title": "Resident Evil Director Zach Cregger Feels \"Vindicated\" Following Gamer Backlash To His Highly Successful Movie",
-      "url": "https://www.gamespot.com/articles/resident-evil-director-zach-cregger-feels-vindicated-following-gamer-backlash-to-his-highly-successful-movie/",
+      "title": "WoW: Forever Is Keeping Its Secrets Close To The Chest",
+      "url": "https://www.gamespot.com/articles/wow-forever-is-keeping-its-secrets-close-to-the-chest/",
       "source_count": 1,
       "sources": [
         "GameSpot"
       ]
     },
     {
-      "title": "Here Are The Highest-Grossing Resident Evil Movies Ever, And The New One Is Now No. 1",
-      "url": "https://www.gamespot.com/articles/here-are-the-highest-grossing-resident-evil-movies-ever-and-the-new-one-isnt-no-1/",
+      "title": "The Leaked Mass Effect 5 Trailer Is Absolutely Heartbreaking",
+      "url": "https://www.gamespot.com/articles/the-leaked-mass-effect-5-trailer-is-absolutely-heartbreaking/",
+      "source_count": 2,
+      "sources": [
+        "GameSpot",
+        "PC Gamer"
+      ]
+    },
+    {
+      "title": "Why People Think Valve Just Accidentally Confirmed Half-Life 3",
+      "url": "https://www.gamespot.com/articles/why-people-think-valve-just-accidentally-confirmed-half-life-3/",
       "source_count": 1,
       "sources": [
         "GameSpot"
       ]
     },
     {
-      "title": "You Can Now Buy GTA 6 Burgers And Fried Chicken IRL, But It's Not Cheap",
-      "url": "https://www.gamespot.com/articles/you-can-now-buy-gta-6-burgers-and-fried-chicken-irl-but-its-not-cheap/",
+      "title": "Gears Of War: E-Day Cost Half A Billion To Make, Apparently",
+      "url": "https://www.gamespot.com/articles/gears-of-war-e-day-cost-half-a-billion-to-make-apparently/",
       "source_count": 1,
       "sources": [
         "GameSpot"
       ]
     },
     {
-      "title": "Xbox's Hardware Problem: September Sales Drop To New Low Amid Sony's Market Dominance",
-      "url": "https://www.gamespot.com/articles/xbox-hardware-problem-september-sales-drop-to-new-low-amid-sonys-market-dominance/",
+      "title": "EA Could Sell BioWare's IP As It Looks To Tackle Its Massive Debt, Former Studio Boss Says",
+      "url": "https://www.gamespot.com/articles/ea-could-sell-bioware-ip-as-it-looks-to-tackle-its-massive-debt-former-boss-says/",
       "source_count": 1,
       "sources": [
         "GameSpot"
       ]
     },
     {
-      "title": "Mass Effect TV Show Still Going Ahead After EA Cancels Mass Effect 5 And Closes BioWare, Report Says",
-      "url": "https://www.gamespot.com/articles/mass-effect-tv-show-still-going-ahead-after-ea-cancels-mass-effect-5-and-closes-bioware-report-says/",
+      "title": "WoW: Forever Is Getting A New Server Option By Popular Demand",
+      "url": "https://www.gamespot.com/articles/wow-forever-is-getting-a-new-server-option-by-popular-demand/",
       "source_count": 1,
       "sources": [
         "GameSpot"
       ]
     },
     {
-      "title": "NBA 2K27 Dunks On Resident Evil Requiem To Become The US's Best-Selling Game Of 2026",
-      "url": "https://www.gamespot.com/articles/nba-2k27-dunks-on-resident-evil-requiem-to-become-the-uss-best-selling-game-of-2026/",
-      "source_count": 1,
-      "sources": [
-        "GameSpot"
-      ]
-    },
-    {
-      "title": "Game industry legend Warren Spector blows up over BioWare's closure: 'it's utter bulls**t'",
-      "url": "https://www.pcgamer.com/gaming-industry/game-industry-legend-warren-spector-blows-up-over-biowares-closure-its-utter-bulls-t/",
+      "title": "How to dual wield in Cyberpunk 2077",
+      "url": "https://www.pcgamer.com/games/rpg/how-to-dual-wield-in-cyberpunk-2077/",
       "source_count": 1,
       "sources": [
         "PC Gamer"
       ]
     },
     {
-      "title": "Where to find the Sotoyama region Treasure Hunt in Forza Horizon 6",
-      "url": "https://www.pcgamer.com/games/racing/forza-horizon-6-sotoyama-treasure-hunt-location/",
+      "title": "How to get King's outfit in Cyberpunk 2077",
+      "url": "https://www.pcgamer.com/games/rpg/cyberpunk-2077-king-outfit-clampdown-edgerunners/",
       "source_count": 1,
       "sources": [
         "PC Gamer"
       ]
     },
     {
-      "title": "No more waiting on shaders to compile as Nvidia's latest driver adds advanced shader delivery: users report lower RAM usage in Call of Duty: Modern Warfare 4 and Gears of War: E-Day",
-      "url": "https://www.pcgamer.com/hardware/graphics-cards/no-more-waiting-on-shaders-to-compile-as-nvidias-latest-driver-adds-advanced-shader-delivery-users-report-lower-ram-usage-in-call-of-duty-modern-warfare-4-and-gears-of-war-e-day/",
+      "title": "Future Capcom games will have Onimusha to thank for RE Engine's gnarly dismemberments",
+      "url": "https://www.pcgamer.com/games/action/future-capcom-games-will-have-onimusha-to-thank-for-re-engines-gnarly-dismemberments/",
       "source_count": 1,
       "sources": [
         "PC Gamer"
       ]
     },
     {
-      "title": "'What we were cooking was really cool': An award-winning science fiction author was working on Mass Effect 5's story",
-      "url": "https://www.pcgamer.com/gaming-industry/what-we-were-cooking-was-really-cool-an-award-winning-science-fiction-author-was-working-on-mass-effect-5s-story/",
+      "title": "'No other studio in the world did it better' than BioWare at its peak, says former Dragon Age lead writer David Gaider",
+      "url": "https://www.pcgamer.com/games/dragon-age/no-other-studio-in-the-world-did-it-better-than-bioware-at-its-peak-says-former-dragon-age-lead-writer-david-gaider/",
       "source_count": 1,
       "sources": [
         "PC Gamer"
       ]
     },
     {
-      "title": "Over '30 million rounds of PvE were played' over the last week in Arc Raiders but Embark still needs 'a bit of time to understand what the data is telling us'",
-      "url": "https://www.pcgamer.com/games/third-person-shooter/over-30-million-rounds-of-pve-were-played-over-the-last-week-in-arc-raiders-but-embark-still-needs-a-bit-of-time-to-understand-what-the-data-is-telling-us/",
-      "source_count": 1,
-      "sources": [
-        "PC Gamer"
-      ]
-    },
-    {
-      "title": "Redditor's mother-in-law finds missing Steam Deck on train, returns it to its rightful owner in a soap box nine months later",
-      "url": "https://www.pcgamer.com/hardware/handheld-gaming-pcs/redditors-mother-in-law-finds-missing-steam-deck-on-train-returns-it-to-its-rightful-owner-in-a-soap-box-nine-months-later/",
+      "title": "Splash Damage acquired this studio just 3 months after laying off a bunch of people - now it's laying them off, too",
+      "url": "https://www.pcgamer.com/gaming-industry/splash-damage-acquired-this-studio-just-3-months-after-laying-off-a-bunch-of-people-now-its-laying-them-off-too/",
       "source_count": 1,
       "sources": [
         "PC Gamer"
@@ -484,16 +470,16 @@
       ]
     },
     {
-      "title": "Turkey to host regional and European foreign ministers for talks on regional conflicts, source says",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNdXA0LVlsLUUxQlBxM1VZaU14NHVwZjgwSkhtQlcxdjd5Y00xS2ZRcmU3N040TFVYc3dvNVphMlJCcjJ2S3QzeTJBMGhocVZOYkFTVWdJM20zSHFLM1pMMmNzcEhyNm9sLVpkX0pRTXN6cG55a0VrX01MUG5TOVAwWGNDbUROUmNOSHBfOVVMX0hQV3p2RTROb25HaWFILUZOZWM5aV9oeGhJeFV2OG5FMEJiVW9lSXo5eUx3SlgyQjNlTjF3X3d3LUJ6MVg4bmM",
+      "title": "What is PHP and why did it take government websites offline?",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZ0lJS1lzVTBUNTJULVVJZGpTR0NwcXN3SkpEQVgzQ19CaGZxNlFGWEFGU1lRTjhyYjE2RDZDTUJqMGNyQXpnaWhMbGlhLV9qZU1HSmt4WGJlMXlJLWVRNDIwY3FPdjNMSUc3UzhLWWM0N19ubjROa3pjWHJraVNJa05EeUR2WHRSbDVhN3EzWHE3UkVPUVlPN3AxMjdMSkJXdnZfRQ",
       "source_count": 1,
       "sources": [
         "Reuters"
       ]
     },
     {
-      "title": "Tom Cruise to receive top American Film Institute honour",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQSFJnN21RQmE0NVYyMzJKcnh6UEZLM2RreXJVMHdxaFNndVp0eFVyRVllY1o3MGM0MXZHSUNGU3NLeDJfeGs1ZTJpMTFTaFNBVUJtOU5MQlM3ZGtCNEprOXRaeC0wN3hpVU9oU3ZUNzFxcGVqSXBNbGMwM1ctWHE2YmRlWVR5dmItc29Yanl6aWNaRXRuRGFoSDJQemFHLUNHZTd0Tk1jMDdSV1pO",
+      "title": "Apple TV's dark comedy Where's Wanda? shows German TV can travel, cast says",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPVnRodkZXSnk0UFhTV0NZUnJFeGlKWFZGS3JsZlR2ZUdQVmY1SXYwS1ZRMXY5cGlPMmdnVzJBR3JIbDB0ZkEyalJwT0I2TllWa01CN1RXNFl2YWpXc2pMMkxsaVJkNEpPSzcxTTV2Z1ZvXzMyQVJJSDBUdlc2Y3ppc2NKRG1jcFc4aUhZTmFkaDg2Uk9TU1hjb0dtLXY2Um56Z1k0",
       "source_count": 1,
       "sources": [
         "RTE.ie"
@@ -508,6 +494,14 @@
       ]
     },
     {
+      "title": "Turkey to host regional and European foreign ministers for talks on regional conflicts, source says",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOTlZYRTJfSWpPS1hGMGlOVXlUOWloY2pERWN3WVZCbDdYcFNkMjlFTWY1bmNlNmNCcmJBOE9KeTVkYUgxa190TVdtRlhIT2hUbzJyanhNMTJMcFpta084cEUzbnVIdTJtWlF6anRqWHp4SXJJdmFfTDN6RmJGYWJ5YUtUY0w4bmNMdVJYLWgwdXQ2TDRBVlNBbXNuR3VTcC1UZ1FDaEh3NU1rSm42cFg1N2tiLTNaci1uZ3lSRGthaWlKWjE4UUpPQmd6ckdYWWhrNWJScm1oNjRwdVhEdUlvNnRnODFPRGRMX3FlbG1veHE3OXfSAfMBQVVfeXFMTk5WWEUyX0lqT0tYRjBpTlV5VDlpaGNqREVjd1lWQmw3WHBTZDI5RU1mNW5jZTZjQnJiQThPSnk1ZGFIMWtfdE1XbUZYSE9oVG8ycmp4TTEyTHBabWtPOHBFM251SHUybVpRemp0alh6eElySXZhX0wzekZiRmFieWFLVGNMOG5jTHVSWC1oMHV0Nkw0QVZTQW1zbkd1U3AtVGdRQ2hIdzVNa0puNnBYNTdrYi0zWnItbmd5UkRrYWlpSloxOFFKT0JnenJHWFloazViUnJtaDY0cHVYRHVJbzZ0ZzgxT0RkTF9xZWxtb3hxNzl3",
+      "source_count": 1,
+      "sources": [
+        "Devdiscourse"
+      ]
+    },
+    {
       "title": "PETA wants Crystal Palace to set Phoenix free, says stadiums are no place for birds",
       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNUFdCazNIVUI4R2FHOFZmUUh1d25HS000b09IV01kLUl3b25IRGhta3NyMDhDWHRTSElQekJ0a0dMUEtsTjEzNTByeFlZTUxySDFvS0w3Nmt2cnhmbDViX1haZEJqT0RSTWlyQmZyLWZReEh1N2o4ZEpCM21INnhINzlOV2xPa1FaRGRfcnBmT1NzWnBtSjJ3cDBiaVJKWktTUUthUWlXM1BBVVk0dWl4azA3SnB3WHZmeERBWjVhM3FoQkJiVEJjM1VVanpqR0XSAc8BQVVfeXFMTVBXQmszSFVCOEdhRzhWZlFIdXduR0tNNG9PSFdNZC1Jd29uSERobWtzcjA4Q1h0U0hJUHpCdGtHTFBLbE4xMzUwcnhZWU1Mckgxb0tMNzZrdnJ4Zmw1Yl9YWmRCak9EUk1pckJmci1mUXhIdTdqOGRKQjNtSDZ4SDc5TldsT2tRWkRkX3JwZk9Tc1pwbUoyd3AwYmlSSlpLU1FLYVFpVzNQQVVZNHVpeGswN0pwd1h2ZnhEQVo1YTNxaEJCYlRCYzNVVWp6akdF",
       "source_count": 1,
@@ -516,63 +510,63 @@
       ]
     },
     {
-      "title": "OpenAI seeks to accelerate fundraising ahead of Anthropic IPO, sources say: Reuters exclusive",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQbEtUZkREcG5HS0NSY01ZZFdtVTJ0bHN0U0xmNl9RbV9wa3E1VjhxUk9Ud09zTmI3cFVoNVJTei1hODdscTFpM3REcjlqaEtfNVIzNlVYSGxabEdwa09jWjlGQTFCS3J6NWgwUUhRNGZFdHU3alZydkx4bFhxOHFHTDZKRVJpd05sNXJhRVpmTTFTMEItTWJGdHdEOUQtdmxtMnhTV1JfZno4S29hWVhTMk1ILS1QZzFjWVphc2pySHBLMVJ2RGM1emJCVXM",
-      "source_count": 1,
-      "sources": [
-        "CTV News"
-      ]
-    },
-    {
-      "title": "'A Talent for Murder' Review: Helen Mirren and Alden Ehrenreich Face Off in This Punchy Twist on Patricia Highsmith",
-      "url": "https://www.indiewire.com/criticism/movies/a-talent-for-murder-review-helen-mirren-alden-ehrenreich-1235213279/",
+      "title": "Tom Skerritt, 'Alien' and 'M*A*S*H' Star, Dies at 93",
+      "url": "https://www.indiewire.com/news/obituary/tom-skerritt-dead-alien-mash-1235223498/",
       "source_count": 1,
       "sources": [
         "IndieWire"
       ]
     },
     {
-      "title": "Is Fan Fiction Really the Next Frontier in IP?",
-      "url": "https://www.indiewire.com/features/commentary/fan-fiction-next-frontier-hollywood-ip-1235222853/",
+      "title": "Cinema Eye Honors Unveil Nominees for 2027's Best Documentary Films and Series",
+      "url": "https://www.indiewire.com/awards/results/2027-cinema-eye-honors-documentary-nominees-1235223467/",
       "source_count": 1,
       "sources": [
         "IndieWire"
       ]
     },
     {
-      "title": "When VFX and Practical Sets Work Together, Sometimes You Invent New Cameras",
-      "url": "https://www.indiewire.com/features/craft/whalefall-production-designer-ramsey-avery-interview-1235222681/",
+      "title": "'Moonlight' Turns 10: Tarell Alvin McCraney on the Film's Lasting Legacy and That Best Picture Mix-Up",
+      "url": "https://www.indiewire.com/features/interviews/moonlight-turns-10-tarell-alvin-mccraney-interview-1235223404/",
       "source_count": 1,
       "sources": [
         "IndieWire"
       ]
     },
     {
-      "title": "Ken Russell's 'The Devils' Extends Theatrical Run Following Strong Box Office Debut",
-      "url": "https://www.indiewire.com/news/general-news/ken-russell-the-devils-extends-theatrical-run-1235223277/",
+      "title": "'The Hunger Games' Producer Nina Jacobson Talks Using AI to Test ADR Lines Before Recording with Actors: 'We Would Never Use It' in the Film",
+      "url": "https://www.indiewire.com/news/events/hunger-games-sunrise-on-the-reaping-used-ai-adr-1235223271/",
       "source_count": 1,
       "sources": [
         "IndieWire"
       ]
     },
     {
-      "title": "Watch 'Man on the Run' Director Morgan Neville Unpack Paul McCartney's Life After Beatlemania",
-      "url": "https://www.indiewire.com/news/events/man-on-the-run-paul-mccartney-director-art-of-the-doc-1235223264/",
+      "title": "Artists Equity's Amy Baer on Building a Sustainable Indie Model with Movies That Don't Star Matt Damon or Ben Affleck",
+      "url": "https://www.indiewire.com/news/business/artists-equity-amy-baer-sustainable-indie-model-1235223225/",
       "source_count": 1,
       "sources": [
         "IndieWire"
       ]
     },
     {
-      "title": "'Possible Love' Review: Two Married Couples Begin to Covet Each Others' Lives in the Latest Stunner from 'Burning' Director Lee Chang-dong",
-      "url": "https://www.indiewire.com/criticism/movies/possible-love-movie-review-1235215136/",
+      "title": "Don't Get the Wrong Idea About 'The Dropout'",
+      "url": "https://www.indiewire.com/features/commentary/the-dropout-wrong-you-can-see-everything-amanda-seyfried-1235222930/",
       "source_count": 1,
       "sources": [
         "IndieWire"
       ]
     },
     {
-      "title": "'We're Not Going To Be Erased': Why Is New York Denying This Native American Tribe Recognition?",
+      "title": "Clavicular Pleads Not Guilty to Rape Charges",
+      "url": "https://www.rollingstone.com/culture/culture-news/clavicular-pleads-not-guilty-rape-charges-1235646572/",
+      "source_count": 1,
+      "sources": [
+        "Rolling Stone Culture"
+      ]
+    },
+    {
+      "title": "'We're Not Going to Be Erased': Why Is New York Denying This Native American Tribe Recognition?",
       "url": "https://www.rollingstone.com/culture/culture-features/inside-the-montaukett-fight-for-their-name-1235643233/",
       "source_count": 1,
       "sources": [
@@ -612,59 +606,83 @@
       ]
     },
     {
-      "title": "Cindy Crawford, Kaia Gerber Pay Tribute to Presley Gerber: 'Til We Meet Again Our Sweet Boy'",
-      "url": "https://www.rollingstone.com/culture/culture-news/cindy-crawford-kaia-gerber-tribute-presley-gerber-1235644475/",
-      "source_count": 1,
-      "sources": [
-        "Rolling Stone Culture"
-      ]
-    },
-    {
-      "title": "Chart Rewind: In 2011, Scotty McCreery's Debut Album Made Him a 'Clear' Country Favorite",
-      "url": "https://www.billboard.com/music/chart-beat/scotty-mccreery-clear-as-day-chart-rewind-2011-1236365683/",
+      "title": "Damon Dash Sells Roc-A-Fella Movie Rights for $550,000 at Bankruptcy Auction",
+      "url": "https://www.billboard.com/pro/damon-dash-roc-a-fella-movie-rights-bankruptcy/",
       "source_count": 1,
       "sources": [
         "Billboard"
       ]
     },
     {
-      "title": "CMA's Dolly Parton Tribute: All the Performances, Ranked",
-      "url": "https://www.billboard.com/lists/dolly-parton-cmas-tribute-performances-ranked-nashville/",
+      "title": "Feds Diss Pooh Shiesty for Claiming 'Inhumane' Jail Conditions, Citing 'Unfettered Access' to Netflix",
+      "url": "https://www.billboard.com/pro/feds-respond-to-pooh-shiesty-complaints/",
       "source_count": 1,
       "sources": [
         "Billboard"
       ]
     },
     {
-      "title": "House Democrats Press StubHub CEO for Answers Over Ticket Resale Fund: 'Potential Grift'",
-      "url": "https://www.billboard.com/pro/house-democrats-pressure-stubhub-ceo-ticket-resale-fund/",
+      "title": "'ACOTAR' Book 6 Is Almost Here: Everything to Know About Sarah J. Maas' Next Two Books",
+      "url": "https://www.billboard.com/culture/product-recommendations/acotar-books-6-7-release-dates-sarah-j-maas-buy-online-1236365976/",
       "source_count": 1,
       "sources": [
         "Billboard"
       ]
     },
     {
-      "title": "Bernie Taupin Talks His New Solo Album, Working With Elton John and Why He Can't Name a Taylor Swift Song: 'I Don't Listen to the Radio'",
-      "url": "https://www.billboard.com/music/country/bernie-taupin-solo-album-elton-john-taylor-swift-1236365066/",
+      "title": "From Adorable to Absurd, Shop Last-Minute 'KPop Demon Hunters' Halloween Costumes Online",
+      "url": "https://www.billboard.com/culture/product-recommendations/kpop-demon-hunters-2026-halloween-costumes-shop-online-1236325097/",
       "source_count": 1,
       "sources": [
         "Billboard"
       ]
     },
     {
-      "title": "Billboard & Starlite Announce the Return of Billboard No. 1s to Spain in 2026-2027: 'We've Strengthened This Strategic Alliance'",
-      "url": "https://www.billboard.com/music/latin/starlite-billboard-no-1s-to-return-to-spain-in-2026-2027-1236363846/",
+      "title": "Tate McRae, Olivia Rodrigo & Chappell Roan and Zach Bryan & Lana Del Rey Should All Crash the Hot 100 Next Week - Who's Got the Best Shot at No. 1?",
+      "url": "https://www.billboard.com/music/chart-beat/hot-100-number-one-olivia-rodrigo-tate-mcrae-zach-bryan-1236366335/",
       "source_count": 1,
       "sources": [
         "Billboard"
       ]
     },
     {
-      "title": "Daft Punk Are (Brick) Builders After All in New Collab With Classic Toy Brand",
-      "url": "https://www.billboard.com/music/music-news/daft-punk-lego-collababoration-pyramid-stage-1236364434/",
+      "title": "A Full List of Current 2026-2027 Las Vegas Residencies (Updating)",
+      "url": "https://www.billboard.com/culture/product-recommendations/current-las-vegas-residencies-shows-9654876/",
       "source_count": 1,
       "sources": [
         "Billboard"
+      ]
+    },
+    {
+      "title": "Madelaine Petsch and 'Wednesday' Star Owen Painter Among Four Joining 'The Watcher' Season 2 Cast",
+      "url": "https://www.whats-on-netflix.com/news/madelaine-petsch-and-wednesday-star-owen-painter-among-four-joining-the-watcher-season-2-cast/",
+      "source_count": 1,
+      "sources": [
+        "What's on Netflix"
+      ]
+    },
+    {
+      "title": "What's Leaving Netflix in November 2026",
+      "url": "https://www.whats-on-netflix.com/leaving-soon/whats-leaving-netflix-in-november-2026/",
+      "source_count": 1,
+      "sources": [
+        "What's on Netflix"
+      ]
+    },
+    {
+      "title": "Meryl Streep's Netflix Series 'The Corrections' Gearing Up For January 2027 Filming Start",
+      "url": "https://www.whats-on-netflix.com/news/meryl-streeps-the-corrections-netflix-series-january-2027-filming/",
+      "source_count": 1,
+      "sources": [
+        "What's on Netflix"
+      ]
+    },
+    {
+      "title": "It's Official: Netflix's Gilmore Girls Spin-off Leaving Globally in November",
+      "url": "https://www.whats-on-netflix.com/leaving-soon/gilmore-girls-a-year-in-the-life-leaving-netflix-november-2026/",
+      "source_count": 1,
+      "sources": [
+        "What's on Netflix"
       ]
     },
     {
@@ -684,78 +702,53 @@
       ]
     },
     {
-      "title": "20 New Netflix Series To Keep On Your Radar For 2027",
-      "url": "https://www.whats-on-netflix.com/coming-soon/new-netflix-series-2027-list/",
-      "source_count": 1,
-      "sources": [
-        "What's on Netflix"
-      ]
-    },
-    {
-      "title": "'Tantara' Netflix Period K-Drama Series Officially Confirmed for December 2026 Release",
-      "url": "https://www.whats-on-netflix.com/news/k-dramas/netflix-sets-december-2026-release-date-gong-yoo-k-drama-tantara/",
-      "source_count": 1,
-      "sources": [
-        "What's on Netflix"
-      ]
-    },
-    {
-      "title": "Cyberpunk Edgerunners 2 Ending Explained & Does It Set Up Season 3?",
-      "url": "https://www.whats-on-netflix.com/what-to-watch/cyberpunk-edgerunners-2-ending-explained-does-it-set-up-season-3/",
-      "source_count": 1,
-      "sources": [
-        "What's on Netflix"
-      ]
-    },
-    {
-      "title": "Cyberpunk: Edgerunners Showrunner Explains How Season 2 Flips David Martinez's Fate",
-      "url": "https://www.whats-on-netflix.com/interviews/cyberpunk-edgerunners-showrunner-explains-how-season-2-flips-david-martinezs-fate/",
-      "source_count": 1,
-      "sources": [
-        "What's on Netflix"
-      ]
-    },
-    {
-      "title": "'Dragon Ball Xenoverse 3' Officially Delayed and Fans Are Delighted",
-      "url": "https://www.polygon.com/dragon-ball-xenoverse-3-delay-gameplay-updates/",
+      "title": "BioWare Deserved Better",
+      "url": "https://www.polygon.com/bioware-farewell-mass-effect-dragon-age-baldurs-gate/",
       "source_count": 1,
       "sources": [
         "Polygon"
       ]
     },
     {
-      "title": "Nintendo Switch 2 Suffers Major Exploit in Latest AI-Assisted Hack",
-      "url": "https://www.polygon.com/nintendo-switch-2-ai-jailbreak-mario-kart-world/",
+      "title": "Jenna Ortega's New Sci-Fi Movie Turns Compelling AI Drama Into One Big Joke",
+      "url": "https://www.polygon.com/klara-and-the-sun-review/",
       "source_count": 1,
       "sources": [
         "Polygon"
       ]
     },
     {
-      "title": "Chris Pratt Officially Confirms Star-Lord's Return to the MCU",
-      "url": "https://www.polygon.com/chris-pratt-confirms-star-lord-return-marvel-guardians-galaxy-avengers/",
+      "title": "Lego Confirms Incredible Daft Punk Set for Official Release",
+      "url": "https://www.polygon.com/lego-daft-punk-ideas-set-movie/",
       "source_count": 1,
       "sources": [
         "Polygon"
       ]
     },
     {
-      "title": "How to get electronic sensors in DMZ in Modern Warfare 4",
-      "url": "https://www.polygon.com/mw4-modern-warfare-4-dmz-electronic-sensors-how-to-get/",
-      "source_count": 2,
+      "title": "You Can Try World of Warcraft: Forever for Free, but There's a Catch",
+      "url": "https://www.polygon.com/world-of-warcraft-forever-free-stress-test/",
+      "source_count": 1,
       "sources": [
-        "Polygon",
         "Polygon"
       ]
     },
     {
-      "title": "Xbox Officially Confirms Cloud Gaming's New Pay-As-You-Go Prices",
-      "url": "https://www.polygon.com/xbox-cloud-gaming-playtime-pack-prices/",
+      "title": "Forgotten Pokémon Card Collection Goes for $2 Million",
+      "url": "https://www.polygon.com/pokemon-card-forgotten-collection-millionaire-auction/",
+      "source_count": 1,
+      "sources": [
+        "Polygon"
+      ]
+    },
+    {
+      "title": "Blood of Dawnwalker's Massive Update Is Finally Here and the Full List of Changes Is Wild",
+      "url": "https://www.polygon.com/blood-of-dawnwalker-update-1-1-released-patch-notes/",
       "source_count": 1,
       "sources": [
         "Polygon"
       ]
     }
   ],
-  "summary": "Verified intelligence gathered across 94 deduplicated editorial clusters."
+  "summary": "Verified intelligence gathered across 93 deduplicated editorial clusters."
 }
