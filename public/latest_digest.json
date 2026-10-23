@@ -1,7 +1,39 @@
 {
-  "timestamp": "2026-10-23T03:33:01.129238+00:00",
-  "headline_count": 89,
+  "timestamp": "2026-10-23T09:07:47.343487+00:00",
+  "headline_count": 95,
   "headlines": [
+    {
+      "title": "'Bridgerton' Breakout Hannah Dodd to Lead Lucas Jones' Romantic Drama 'Miss You Forever, Zara Drake' (EXCLUSIVE)",
+      "url": "https://variety.com/2026/film/global/hannah-dodd-romantic-drama-miss-you-forever-zara-drake-1236922171/",
+      "source_count": 1,
+      "sources": [
+        "Variety"
+      ]
+    },
+    {
+      "title": "Netflix, 'Elite' Star Ester Expósito and Locarno Winner Mar Coll Adapt 'La Regenta,' a 'Fresh Female Perspective' on a Big Spanish Classic (EXCLUSIVE)",
+      "url": "https://variety.com/2026/film/global/netflix-ester-exposito-mar-coll-elastica-maria-zamora-1236919972/",
+      "source_count": 1,
+      "sources": [
+        "Variety"
+      ]
+    },
+    {
+      "title": "Asif Kapadia on Bringing the 'Profound' '7 Up' Documentary Series to a Close After More Than 60 Years: 'It's a Dream Job'",
+      "url": "https://variety.com/2026/tv/global/asif-kapadia-7-up-documentary-series-dream-job-1236922122/",
+      "source_count": 1,
+      "sources": [
+        "Variety"
+      ]
+    },
+    {
+      "title": "'The Notebook' Musical Sets West End Run at Newly Renamed Judi Dench Theatre",
+      "url": "https://variety.com/2026/theater/global/the-notebook-musical-west-end-run-judi-dench-theatre-1236920361/",
+      "source_count": 1,
+      "sources": [
+        "Variety"
+      ]
+    },
     {
       "title": "Biographies of John Williams and Bernard Herrmann Among Honored Works in ASCAP's Awards for Music Writing and Broadcasts",
       "url": "https://variety.com/2026/music/news/ascap-writing-awards-biographies-john-williams-bernard-herrmann-1236922092/",
@@ -19,86 +51,91 @@
       ]
     },
     {
-      "title": "Peter Chan Rules Out AI-Generated Content, Says Feature Films Will Survive the Rise of Vertical Dramas",
-      "url": "https://variety.com/2026/film/festivals/peter-chan-rules-out-ai-generated-content-feature-films-survival-1236922012/",
+      "title": "Ryu Murakami Dies: Japanese Author & Filmmaker, Best Known For 'Almost Transparent Blue', Was 74",
+      "url": "https://deadline.com/2026/10/ryu-murakami-obit-almost-transparent-blue-74-1237171560/",
       "source_count": 1,
       "sources": [
-        "Variety"
+        "Deadline Hollywood"
       ]
     },
     {
-      "title": "'Ebenezer' Creates a Real Venmo Profile for Scrooge, Which Hands Out Money and Accepts It, Too",
-      "url": "https://variety.com/2026/film/news/ebenezer-venmo-real-johnny-depp-scrooge-movie-1236921820/",
+      "title": "Donald Trump Wanted Google Maps To Change Name Of Atlantic Ocean",
+      "url": "https://deadline.com/2026/10/donald-trump-wanted-atlantic-ocean-renamed-google-maps-1237171551/",
       "source_count": 1,
       "sources": [
-        "Variety"
+        "Deadline Hollywood"
       ]
     },
     {
-      "title": "Oscars Predictions 2027: Is 'You Can See Everything' the Film That Can Take Down 'The Odyssey'?",
-      "url": "https://variety.com/lists/2027-oscars-predictions/",
-      "source_count": 2,
+      "title": "U-KNOCK 2026 Brings Korean Content Companies To Hollywood For Investment & Global Partnerships",
+      "url": "https://deadline.com/2026/10/u-knock-2026-korean-content-hollywood-partner-content-1237170508/",
+      "source_count": 1,
       "sources": [
-        "Variety",
+        "Deadline Hollywood"
+      ]
+    },
+    {
+      "title": "'The Mosquito Bowl' Review: Peter Berg's Powerful True WWII Story Takes Four Star Players From The Glory Of The Football Field To The Hell Of The Battlefield",
+      "url": "https://deadline.com/2026/10/the-mosquito-bowl-review-peter-berg-true-wwii-story-afi-fest-1237170862/",
+      "source_count": 1,
+      "sources": [
+        "AFI Fest"
+      ]
+    },
+    {
+      "title": "'Enola Holmes' Star Louis Partridge To Headline & Produce Film 'One Last Summer'",
+      "url": "https://deadline.com/2026/10/louis-partridge-one-last-summer-enola-holmes-1237171542/",
+      "source_count": 1,
+      "sources": [
+        "Deadline Hollywood"
+      ]
+    },
+    {
+      "title": "Al Munteanu Launches BriskPace Unlimited Label With Orangutan True-Crime Comedy Series Showrun By 'Cunk On Earth' Writer",
+      "url": "https://deadline.com/2026/10/al-munteanu-briskpace-unlimited-label-with-orangutan-series-1237171540/",
+      "source_count": 1,
+      "sources": [
+        "Deadline Hollywood"
+      ]
+    },
+    {
+      "title": "Judge Orders Trump to Testify Under Oath in BBC Defamation Lawsuit",
+      "url": "https://www.hollywoodreporter.com/news/general-news/judge-orders-donald-trump-questions-bbc-lawsuit-defamation-1236738878/",
+      "source_count": 1,
+      "sources": [
         "The Hollywood Reporter"
       ]
     },
     {
-      "title": "Michael Gray, Star of 'Shazam!' TV Series, Dies at 75",
-      "url": "https://variety.com/2026/tv/people-news/michael-gray-dead-shazam-1236921937/",
-      "source_count": 2,
+      "title": "'Apart,' Set in Cyprus and Apartheid South Africa, \"Challenges the Idea of 'Us' and 'Them'\" (Exclusive Tallinn Trailer)",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/apart-film-trailer-cyprus-apartheid-south-africa-tallinn-1236738213/",
+      "source_count": 1,
       "sources": [
-        "Variety",
         "The Hollywood Reporter"
       ]
     },
     {
-      "title": "'Clayface' Cashing In $3.5M+ Thursday Previews",
-      "url": "https://deadline.com/2026/10/box-office-clayface-you-can-see-everything-1237171500/",
+      "title": "'Biermann' Director Explains Why His Doc About a German Political Singer Is a Film for the Trump Era",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/wolf-biermann-doc-film-german-singer-trump-era-viennale-qa-1236736129/",
       "source_count": 1,
       "sources": [
-        "Box Office"
-      ]
-    },
-    {
-      "title": "'The Imaginary Invalid' Broadway Review: Molière Gets Clowned By A Winning Bill Irwin",
-      "url": "https://deadline.com/2026/10/the-imaginary-invalid-broadway-review-bill-irwin-1237169589/",
-      "source_count": 1,
-      "sources": [
-        "Deadline Hollywood"
-      ]
-    },
-    {
-      "title": "'Nobody Wants This' Creator Erin Foster Responds To Adam Brody's \"Free Palestine\" Comments: \"It's Complicated\"",
-      "url": "https://deadline.com/2026/10/nobody-wants-this-creator-responds-adam-brody-free-palestine-1237171442/",
-      "source_count": 2,
-      "sources": [
-        "Deadline Hollywood",
         "The Hollywood Reporter"
       ]
     },
     {
-      "title": "Joe Perry Bows Out Of Tonight's Hollywood Vampires' Flick West Coast Debut As Aerosmith Ramps Up For Hollywood Bowl Gigs",
-      "url": "https://deadline.com/2026/10/joe-perry-hollywood-vampires-movie-aerosmith-1237171377/",
+      "title": "Ryan Gosling's Band Dead Man's Bones Announces Comeback With New Music",
+      "url": "https://www.hollywoodreporter.com/music/music-news/ryan-gosling-band-dead-mans-bones-comeback-new-music-1236738826/",
       "source_count": 1,
       "sources": [
-        "Deadline Hollywood"
+        "The Hollywood Reporter"
       ]
     },
     {
-      "title": "Sacha Baron Cohen Says Marvel's 'Ironheart' Producers Wanted To Ensure He Was \"Not Insulted\" Playing Devil As Jewish Actor",
-      "url": "https://deadline.com/2026/10/sacha-baron-cohen-marvel-ironheart-not-insulted-devil-jewish-1237171378/",
+      "title": "'Nobody Wants This' Creator Erin Foster Reacts to Adam Brody Saying He Supports \"A Free Palestine\": \"It's Complicated\"",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/nobody-wants-this-erin-foster-adam-brody-support-free-palestine-1236738796/",
       "source_count": 1,
       "sources": [
-        "Deadline Hollywood"
-      ]
-    },
-    {
-      "title": "Heather Morris & Chord Overstreet In Talks To Return For 'Glee' Reboot",
-      "url": "https://deadline.com/2026/10/glee-reboot-heather-morris-chord-overstreet-in-talks-cast-1237171340/",
-      "source_count": 1,
-      "sources": [
-        "Deadline Hollywood"
+        "The Hollywood Reporter"
       ]
     },
     {
@@ -110,19 +147,43 @@
       ]
     },
     {
-      "title": "Looksmaxxing Influencer Clavicular Pleads Not Guilty to Rape Charge",
-      "url": "https://www.hollywoodreporter.com/news/general-news/looksmaxxing-clavicular-pleads-not-guilty-rape-charge-1236738752/",
+      "title": "Zee Studios sets February 5, 2027 release for Omung Kumar's Silaa, starring Harshvardhan Rane",
+      "url": "https://www.bollywoodhungama.com/news/bollywood/zee-studios-sets-february-5-2027-release-for-omung-kumars-silaa-starring-harshvardhan-rane/",
       "source_count": 1,
       "sources": [
-        "The Hollywood Reporter"
+        "Bollywood Hungama"
       ]
     },
     {
-      "title": "Streaming Ratings: 'Carrie' Has a Bloody Good Opening Week",
-      "url": "https://www.hollywoodreporter.com/tv/tv-news/streaming-ratings-oct-5-11-2026-1236738659/",
+      "title": "Abundantia aiON, in partnership with InVideo, announces its first film Beta Builder",
+      "url": "https://www.bollywoodhungama.com/news/bollywood/abundantia-aion-in-partnership-with-invideo-announces-its-first-film-beta-builder/",
       "source_count": 1,
       "sources": [
-        "The Hollywood Reporter"
+        "Bollywood Hungama"
+      ]
+    },
+    {
+      "title": "Madhur Bhandarkar announces Syama - The Missing Chapter on Dr. Syama Prasad Mukherjee",
+      "url": "https://www.bollywoodhungama.com/news/bollywood/madhur-bhandarkar-announces-syama-the-missing-chapter-on-dr-syama-prasad-mukherjee/",
+      "source_count": 1,
+      "sources": [
+        "Bollywood Hungama"
+      ]
+    },
+    {
+      "title": "Tiger Shroff team shares video of his injuries after Juhu firing incident; actor reportedly sustained cuts and bruises",
+      "url": "https://www.bollywoodhungama.com/news/bollywood/tiger-shroff-team-shares-video-of-his-injuries-after-juhu-firing-incident-actor-reportedly-sustained-cuts-and-bruises/",
+      "source_count": 1,
+      "sources": [
+        "Bollywood Hungama"
+      ]
+    },
+    {
+      "title": "IMA seeks review of Sunny Deol starrer Suryaa: Ant Se Aarambh Tak; raises concerns over portrayal of doctors and hospital violence",
+      "url": "https://www.bollywoodhungama.com/news/bollywood/ima-seeks-review-of-sunny-deol-starrer-suryaa-ant-se-aarambh-tak-raises-concerns-over-portrayal-of-doctors-and-hospital-violence/",
+      "source_count": 1,
+      "sources": [
+        "Bollywood Hungama"
       ]
     },
     {
@@ -134,43 +195,19 @@
       ]
     },
     {
-      "title": "Saif Ali Khan sells Bandra west apartment for Rs 4.11 crores",
-      "url": "https://www.bollywoodhungama.com/news/bollywood/saif-ali-khan-sells-bandra-west-apartment-for-rs-4-11-crores/",
+      "title": "Quote Of The Day By Morgan Freeman: 'If You Can Get Out Of Bed And...'",
+      "url": "https://www.tvline.com/2294562/quote-of-the-day-morgan-freeman-keep-moving/",
       "source_count": 1,
       "sources": [
-        "Bollywood Hungama"
+        "TVLine"
       ]
     },
     {
-      "title": "Rs. 3,170 for ONE ticket! Ranbir Kapoor's Ramayana commands SHOCKING prices for IMAX recliners in Mumbai; Insignia rates touch Rs. 2,370",
-      "url": "https://www.bollywoodhungama.com/news/bollywood/rs-3170-for-one-ticket-ranbir-kapoors-ramayana-commands-shocking-prices-for-imax-recliners-in-mumbai-insignia-rates-touch-rs-2370/",
+      "title": "What To Watch Friday: MLB World Series Begins, Happy's Place Returns, Newlyweds Premiere, And More",
+      "url": "https://www.tvline.com/2294702/what-to-watch-october-23-2026-tv-shows-movies-streaming/",
       "source_count": 1,
       "sources": [
-        "Bollywood Hungama"
-      ]
-    },
-    {
-      "title": "Diljit Dosanjh's Aura India Tour hits roadblock as Delhi Police deny permission for October 30 concert",
-      "url": "https://www.bollywoodhungama.com/news/bollywood/diljit-dosanjhs-aura-india-tour-hits-roadblock-as-delhi-police-deny-permission-for-october-30-concert/",
-      "source_count": 1,
-      "sources": [
-        "Bollywood Hungama"
-      ]
-    },
-    {
-      "title": "Rs. 549 cr. in JUST 7 DAYS! Rajinikanth's Jailer 2 rewrites Tamil cinema HISTORY; sets an UNBEATEN first-week record",
-      "url": "https://www.bollywoodhungama.com/news/bollywood/rs-549-cr-in-just-7-days-rajinikanths-jailer-2-rewrites-tamil-cinema-history-sets-an-unbeaten-first-week-record/",
-      "source_count": 1,
-      "sources": [
-        "Bollywood Hungama"
-      ]
-    },
-    {
-      "title": "Sonu Sood rents out commercial unit in Mumbai's Versova for Rs 3.52 crores",
-      "url": "https://www.bollywoodhungama.com/news/bollywood/sonu-sood-rents-out-commercial-unit-in-mumbais-versova-for-rs-3-52-crores/",
-      "source_count": 1,
-      "sources": [
-        "Bollywood Hungama"
+        "TVLine"
       ]
     },
     {
@@ -200,22 +237,6 @@
     {
       "title": "The Traitors Recap: Did #Fruitgate Serve Up The Season's First Banished Traitor?",
       "url": "https://www.tvline.com/2294890/the-traitors-new-blood-recap-season-5-episode-7-mark-murdered-victor-fruitgate-pardon-twist/",
-      "source_count": 1,
-      "sources": [
-        "TVLine"
-      ]
-    },
-    {
-      "title": "9-1-1's Oliver Stark Talks Buck's Hero Moment In Premiere Part 2, Teases Lasting Tension With Buck And Eddie",
-      "url": "https://www.tvline.com/2294973/911-season-10-episode-2-recap-buck-eddie-drama-explained/",
-      "source_count": 1,
-      "sources": [
-        "TVLine"
-      ]
-    },
-    {
-      "title": "Casting News: Sam Heughan Joins Viola Davis' Paramount+ Thriller, The Watcher Adds Riverdale Vet, And More",
-      "url": "https://www.tvline.com/2294660/sam-heughan-ascent-cast-paramount-plus-the-watcher-season-2-madelaine-petsch/",
       "source_count": 1,
       "sources": [
         "TVLine"
@@ -462,11 +483,27 @@
       ]
     },
     {
+      "title": "Government websites go dark after AI-discovered flaw sparks security scramble",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNemhoUnNZdUg4Sk9JMjJQU25mTUZSX2lHc1JTNTFpNGlTcWxRRDctcFNCcVZiTUhYQ211YnNjSnRvYTYyS29VNFFKcHE4VGFMcHMxTGNwa3NmVUFNamNnektGaU9BbURibzdIY2hHUlpMbEwtNWhrOG9BenJvYkllVnNfakVVRU5yRzRjdDBjQXc2OEwtS1RwZVZhaWhoRWtlalVmU0xOQm5SbmUyeGVGeGgzUkE2XzRtbFBKdTJnUTJoRWdV",
+      "source_count": 1,
+      "sources": [
+        "Reuters"
+      ]
+    },
+    {
       "title": "SAP clients increasingly worry about AI models' origin, CFO says",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSks0d1dqWVRpTHVmNXBKTjdIbjlBczVtSXFDcllzTVlKallJZnUyX1dXOFpQWjZjdjFHQ3AwUVJEaFZoQ040TGFsVmFiMFllUHNsbGQxbldiSk5SdExrOHIza0diZWpRbDhEdmtMSzd3eWkyaUdCLVgzbDh6S0lrd1oyanNUQWZwZ2JUcmVMbFo2NXVlRzh3clQxQTk4OVoybU1vRmw5V1djNnk1OHpJ",
       "source_count": 1,
       "sources": [
         "Reuters"
+      ]
+    },
+    {
+      "title": "Trump ally Lewandowski faces criminal investigation over DHS tenure, sources say",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQVkQ1WWFTR2ZBYnczZGFlSGJORG8tS3pGME9zUnl0WC1uNDlaVThHTmNHTlNhZGZ5THdXOW0tcEN3OXI2SU42bFZRbG9VU2RqbVBua3NDVUVLaG9SYmtUM2lvLUhHYm9pWUNvZGh1ZFRqUk10eXNZNUk3cEdzU0ljd3pfZXRybjZ0",
+      "source_count": 1,
+      "sources": [
+        "AOL.com"
       ]
     },
     {
@@ -478,35 +515,19 @@
       ]
     },
     {
-      "title": "South Korea's Korai Flix to go public in US via $3.5 billion SPAC deal",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNc1pCMlU4VTlsRDdnMExmakNfNl90NTR2Q2pxM0g0ZVFxZExvSHowUkl5VFlPLWtkNTc2UjVzU3FoTmZDYlJ3c2FHaUpQekdHR3VlMWtOTmt5QjNkYThBa2dSb1RvWWJtdE51MWxoQU1qTzZOSnlZMTZxc2JNSkVyLVBRczE3MTRwLTI2Y0lURHBaY2l6N1ROZ0ZQdHlZa2lz",
+      "title": "TV reporter recalls 'terrifying' rescue of man from sinking car",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPVzVweThEalczZmJsZEtYVWpaZjMzblNVTXE3YVM0MEdCWEhUUXZlUWNLV3BVZWtja184eWtORi1qRHR2clRQTU9xbFcwWFF1aENMUzVCLTZvZmV2MjVsc0JLWVRJU0kzeHFkMmxibks4R2JEWjYtazRWVnVTWUc0VTlWN0FlZ2VqWkN0TklR",
       "source_count": 1,
       "sources": [
-        "Reuters"
+        "Bilyonaryo Business"
       ]
     },
     {
-      "title": "Magnitude 7 earthquake kills 16 and injures 32 in Tibet",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNQnhKcEh1MUJBLXAwRHg5NmEtRFBNdGhybTJPOGhYQk9kUmkzR2NGUVV6ZmpHTko5RnUyVldIVXBrczZ1WHVialFZdWszc3JIelpyWVVqV0pIZGc5UWV1U3QycHdjX051aGVEMGlqUkFLOVd6Vm8yTUdnMkViTko4aUFFWFhnekVZejFuZDc4SkgwMTUxcVE",
+      "title": "Major US banks block AI agents from accessing customer accounts",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQeEpfT2lYTWF6N0QySDNhV3A0VFFVWEs2MWpZLXk2R1lvZ0M4YnlwbTExX3VkRE5vWWhFX3YwZXNNWmJSeGRQX1QtZ3E3LVIyVFFqMnpXQ3ltRlFsS2lrZGRVU0JCWWVtQURUdXZBQnR6YU5Wb0tKdnA4czRHQ25BckpleHN1MENGSV96REtxOXNSa2dNRHNjb2FGajdxUXM5UzJ0ZVdJNmZESFVXb1NlWWdpb21sVFVzU3hLVXhvRFN6d0hyanc",
       "source_count": 1,
       "sources": [
-        "1News"
-      ]
-    },
-    {
-      "title": "Apple TV's dark comedy Where's Wanda? shows German TV can travel, cast says",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPVnRodkZXSnk0UFhTV0NZUnJFeGlKWFZGS3JsZlR2ZUdQVmY1SXYwS1ZRMXY5cGlPMmdnVzJBR3JIbDB0ZkEyalJwT0I2TllWa01CN1RXNFl2YWpXc2pMMkxsaVJkNEpPSzcxTTV2Z1ZvXzMyQVJJSDBUdlc2Y3ppc2NKRG1jcFc4aUhZTmFkaDg2Uk9TU1hjb0dtLXY2Um56Z1k0",
-      "source_count": 1,
-      "sources": [
-        "RTE.ie"
-      ]
-    },
-    {
-      "title": "Salesforce deepens AI bets with $5.66 billion Braze deal By Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPLVlGb0ZFajUtU19YaWtkbWk2MTNBb0w1X3c3aEZmRDM3TnFOcy12SmE3Zkc4NGNXa25JaGVTN1JCR09VOHlpY011SEF3N0Y5ODcxZUVrcks1NEQ4U3VrX1V1bnY3Y001WFNxQnRSdWk3RVRmR0N1T3JQeEVUVFlyQkFPLTlvTURPSlNGTkhiQ3lVQjF1TWE2WXh6RVRPWWdzRzNHQTg5c2NNUQ",
-      "source_count": 1,
-      "sources": [
-        "Investing.com"
+        "Gulf News"
       ]
     },
     {
@@ -606,20 +627,41 @@
       ]
     },
     {
-      "title": "Rosalía Teases If She Has New Music Coming & Shares the Best Moments of Her Tour | Billboard Latin Music Awards 2026",
-      "url": "https://www.billboard.com/video/rosalia-teases-if-she-has-new-music-coming/",
-      "source_count": 5,
+      "title": "Tate McRae Debuts at No. 1 In Australia With 'Housewife'",
+      "url": "https://www.billboard.com/music/chart-beat/tate-mcrae-debuts-no-1-australia-housewife-1236367034/",
+      "source_count": 1,
       "sources": [
-        "Billboard",
-        "Billboard",
-        "Billboard",
+        "Billboard"
+      ]
+    },
+    {
+      "title": "5 Things You Didn't See on TV at The 2026 Billboard Latin Music Awards",
+      "url": "https://www.billboard.com/lists/billboard-latin-music-awards-2026-things-you-didnt-see-on-tv/",
+      "source_count": 2,
+      "sources": [
         "Billboard",
         "Billboard"
       ]
     },
     {
-      "title": "The Rubens Talk Healing And Taking the Independent Route For 'Group Therapy'",
-      "url": "https://www.billboard.com/music/rock/the-rubens-group-therapy-interview-1236366843/",
+      "title": "LISA, Miley, Kacey Musgraves & John Mayer: New Music Friday Guide",
+      "url": "https://www.billboard.com/music/music-news/lisa-miley-kacey-musgraves-new-music-friday-guide-1236366499/",
+      "source_count": 1,
+      "sources": [
+        "Billboard"
+      ]
+    },
+    {
+      "title": "Cristian Castro Accepts the Billboard Lifetime Achievement Award 'In the Name of Romantic Love'",
+      "url": "https://www.billboard.com/music/latin/cristian-castro-billboard-lifetime-achievement-award-2026-2-1236365983/",
+      "source_count": 1,
+      "sources": [
+        "Billboard"
+      ]
+    },
+    {
+      "title": "LISA Is Dressed to Kill in Action-Packed 'Tarantino' Music Video: Watch",
+      "url": "https://www.billboard.com/music/pop/lisa-action-packed-tarantino-music-video-watch-1236366977/",
       "source_count": 1,
       "sources": [
         "Billboard"
@@ -674,8 +716,32 @@
       ]
     },
     {
-      "title": "How to unlock the full Weeping Creek Valley map in Phantom Blade Zero",
-      "url": "https://www.polygon.com/phantom-blade-zero-how-to-unlock-the-full-weeping-creek-valley-map/",
+      "title": "'Avatar: Seven Havens' Episode 9 Ending Explained: Everything We Learned About the Havens",
+      "url": "https://www.polygon.com/avatar-seven-havens-finally-revealed-more-info-about-the-other-havens/",
+      "source_count": 1,
+      "sources": [
+        "Polygon"
+      ]
+    },
+    {
+      "title": "5 'Solo Leveling' Characters Who Deserved So Much Better",
+      "url": "https://www.polygon.com/5-solo-leveling-characters-who-deserved-better-storylines/",
+      "source_count": 1,
+      "sources": [
+        "Polygon"
+      ]
+    },
+    {
+      "title": "27 Years Later, Linus' Final 'Peanuts' Quote Is a Brilliant Comic Strip Callback",
+      "url": "https://www.polygon.com/linus-last-appearance-peanuts/",
+      "source_count": 1,
+      "sources": [
+        "Polygon"
+      ]
+    },
+    {
+      "title": "Anya Taylor-Joy's breakout movie gave horror a different kind of female lead",
+      "url": "https://www.polygon.com/anya-taylor-joy-the-witch-free-streaming-october-2026/",
       "source_count": 1,
       "sources": [
         "Polygon"
@@ -696,31 +762,7 @@
       "sources": [
         "Polygon"
       ]
-    },
-    {
-      "title": "Half-Life 3 Rumors Reignite After Valve Employee Lets Codename Slip",
-      "url": "https://www.polygon.com/valve-half-life-3-hlx/",
-      "source_count": 1,
-      "sources": [
-        "Polygon"
-      ]
-    },
-    {
-      "title": "'Clayface' Officially Sets Up Another Iconic Batman Villain in the DC Universe",
-      "url": "https://www.polygon.com/clayface-joker-easter-eggs/",
-      "source_count": 1,
-      "sources": [
-        "Polygon"
-      ]
-    },
-    {
-      "title": "Everything We Know About the PS6, Sony's Next-Gen Console",
-      "url": "https://www.polygon.com/ps6-playstation-6-release-date-price/",
-      "source_count": 1,
-      "sources": [
-        "Polygon"
-      ]
     }
   ],
-  "summary": "Verified intelligence gathered across 89 deduplicated editorial clusters."
+  "summary": "Verified intelligence gathered across 95 deduplicated editorial clusters."
 }
