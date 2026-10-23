@@ -1,101 +1,120 @@
 {
-  "timestamp": "2026-10-22T22:59:06.819333+00:00",
-  "headline_count": 96,
+  "timestamp": "2026-10-23T03:33:01.129238+00:00",
+  "headline_count": 89,
   "headlines": [
     {
-      "title": "Raye Wins Mercury Prize for Album of the Year",
-      "url": "https://variety.com/2026/music/news/raye-wins-mercury-prize-album-of-the-year-1236921858/",
+      "title": "Biographies of John Williams and Bernard Herrmann Among Honored Works in ASCAP's Awards for Music Writing and Broadcasts",
+      "url": "https://variety.com/2026/music/news/ascap-writing-awards-biographies-john-williams-bernard-herrmann-1236922092/",
       "source_count": 1,
       "sources": [
         "Variety"
       ]
     },
     {
-      "title": "John Mayer Sets Up His Own Label, Sob Rock Records, in Partnership With Mercury to Release First New Solo Music in Five Years",
-      "url": "https://variety.com/2026/music/news/john-mayer-new-label-sob-rock-records-mercury-1236921812/",
+      "title": "Richard Gadd, Bill Camp and Ray McKinnon Join Michael Keaton-Directed Western 'Rode to Ruin' (EXCLUSIVE)",
+      "url": "https://variety.com/2026/film/news/richard-gadd-bill-camp-ray-mckinnon-rode-to-ruin-1236922088/",
       "source_count": 1,
       "sources": [
         "Variety"
       ]
     },
     {
-      "title": "'Wildwood' Director Travis Knight on AI: 'An Amazing Piece of Technology' But 'I'm Not Embracing It at All'",
-      "url": "https://variety.com/2026/film/columns/wildwood-director-travis-knight-ai-1236921716/",
+      "title": "Peter Chan Rules Out AI-Generated Content, Says Feature Films Will Survive the Rise of Vertical Dramas",
+      "url": "https://variety.com/2026/film/festivals/peter-chan-rules-out-ai-generated-content-feature-films-survival-1236922012/",
       "source_count": 1,
       "sources": [
         "Variety"
       ]
     },
     {
-      "title": "Laika's First PG-13 Film, Brad Bird's Neo-Noir and an Alzheimer's Memoir: Animation's Revolution Isn't for Kids",
-      "url": "https://variety.com/2026/film/awards/animation-adults-wildwood-ray-gunn-tangles-hoppers-scad-1236917883/",
+      "title": "'Ebenezer' Creates a Real Venmo Profile for Scrooge, Which Hands Out Money and Accepts It, Too",
+      "url": "https://variety.com/2026/film/news/ebenezer-venmo-real-johnny-depp-scrooge-movie-1236921820/",
       "source_count": 1,
       "sources": [
         "Variety"
       ]
     },
     {
-      "title": "Chaka Khan to Be Honored at Soul Train Awards (TV News Roundup)",
-      "url": "https://variety.com/2026/tv/news/tv-news-roundup-week-of-oct-19-1236916685/",
-      "source_count": 1,
+      "title": "Oscars Predictions 2027: Is 'You Can See Everything' the Film That Can Take Down 'The Odyssey'?",
+      "url": "https://variety.com/lists/2027-oscars-predictions/",
+      "source_count": 2,
       "sources": [
-        "Variety"
+        "Variety",
+        "The Hollywood Reporter"
       ]
     },
     {
-      "title": "'Line of Fire' Gets Full 18-Episode Season Order at NBC",
-      "url": "https://variety.com/2026/tv/news/line-of-fire-full-season-18-episodes-nbc-1236921796/",
-      "source_count": 1,
+      "title": "Michael Gray, Star of 'Shazam!' TV Series, Dies at 75",
+      "url": "https://variety.com/2026/tv/people-news/michael-gray-dead-shazam-1236921937/",
+      "source_count": 2,
       "sources": [
-        "Variety"
+        "Variety",
+        "The Hollywood Reporter"
       ]
     },
     {
-      "title": "Michael Gray Dies: 'Shazam!' Star Was 75",
-      "url": "https://deadline.com/2026/10/michael-gray-dead-shazam-1237171297/",
+      "title": "'Clayface' Cashing In $3.5M+ Thursday Previews",
+      "url": "https://deadline.com/2026/10/box-office-clayface-you-can-see-everything-1237171500/",
+      "source_count": 1,
+      "sources": [
+        "Box Office"
+      ]
+    },
+    {
+      "title": "'The Imaginary Invalid' Broadway Review: Molière Gets Clowned By A Winning Bill Irwin",
+      "url": "https://deadline.com/2026/10/the-imaginary-invalid-broadway-review-bill-irwin-1237169589/",
       "source_count": 1,
       "sources": [
         "Deadline Hollywood"
       ]
     },
     {
-      "title": "Marvel's 'Zodiac' Spy Series To Be Written By Amit Cohen & Ron Leshem",
-      "url": "https://deadline.com/2026/10/marvel-zodiac-spy-series-writers-amit-cohen-ron-leshem-1237171304/",
+      "title": "'Nobody Wants This' Creator Erin Foster Responds To Adam Brody's \"Free Palestine\" Comments: \"It's Complicated\"",
+      "url": "https://deadline.com/2026/10/nobody-wants-this-creator-responds-adam-brody-free-palestine-1237171442/",
+      "source_count": 2,
+      "sources": [
+        "Deadline Hollywood",
+        "The Hollywood Reporter"
+      ]
+    },
+    {
+      "title": "Joe Perry Bows Out Of Tonight's Hollywood Vampires' Flick West Coast Debut As Aerosmith Ramps Up For Hollywood Bowl Gigs",
+      "url": "https://deadline.com/2026/10/joe-perry-hollywood-vampires-movie-aerosmith-1237171377/",
       "source_count": 1,
       "sources": [
         "Deadline Hollywood"
       ]
     },
     {
-      "title": "Tony Lipp And Dara Gordon Join Entertainment 360 As Partners",
-      "url": "https://deadline.com/2026/10/tony-lipp-dara-gordon-join-entertainment-360-partners-1237171275/",
+      "title": "Sacha Baron Cohen Says Marvel's 'Ironheart' Producers Wanted To Ensure He Was \"Not Insulted\" Playing Devil As Jewish Actor",
+      "url": "https://deadline.com/2026/10/sacha-baron-cohen-marvel-ironheart-not-insulted-devil-jewish-1237171378/",
       "source_count": 1,
       "sources": [
         "Deadline Hollywood"
       ]
     },
     {
-      "title": "Laysla De Oliveira & Riccardo Scamarcio Wrap On Sci-Fi Thriller 'Telephone'; Gale Anne Hurd Among EPs",
-      "url": "https://deadline.com/2026/10/laysla-de-oliveira-riccardo-scamarcio-star-telephone-1237170861/",
+      "title": "Heather Morris & Chord Overstreet In Talks To Return For 'Glee' Reboot",
+      "url": "https://deadline.com/2026/10/glee-reboot-heather-morris-chord-overstreet-in-talks-cast-1237171340/",
       "source_count": 1,
       "sources": [
         "Deadline Hollywood"
       ]
     },
     {
-      "title": "'Wildwood' Director Hopes People \"See The Danger\" In GenAI, Calls It \"Antithetical\" To Laika's Work",
-      "url": "https://deadline.com/2026/10/wildwood-director-danger-gen-ai-antithetical-laika-1237171243/",
+      "title": "Chrishell Stause Says She Won't Be Watching 'Selling Sunset' Season 10, But Her Lawyers Will Be",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/chrishell-stause-not-watch-selling-sunset-season-10-lawyers-will-1236738743/",
       "source_count": 1,
       "sources": [
-        "Deadline Hollywood"
+        "The Hollywood Reporter"
       ]
     },
     {
-      "title": "Comcast Flags $1 Billion Q4 Charge For Layoffs, Restructuring Amid Overhaul Of Core Connectivity Business",
-      "url": "https://deadline.com/2026/10/comcast-warns-q4-charge-layoffs-connectivity-1237171103/",
+      "title": "Looksmaxxing Influencer Clavicular Pleads Not Guilty to Rape Charge",
+      "url": "https://www.hollywoodreporter.com/news/general-news/looksmaxxing-clavicular-pleads-not-guilty-rape-charge-1236738752/",
       "source_count": 1,
       "sources": [
-        "Deadline Hollywood"
+        "The Hollywood Reporter"
       ]
     },
     {
@@ -104,46 +123,6 @@
       "source_count": 1,
       "sources": [
         "The Hollywood Reporter"
-      ]
-    },
-    {
-      "title": "Nobody Knew This Game Existed, and Now It's a Hot 2027 Title",
-      "url": "https://www.hollywoodreporter.com/business/digital/1001-threads-of-mizan-game-1236730017/",
-      "source_count": 1,
-      "sources": [
-        "The Hollywood Reporter"
-      ]
-    },
-    {
-      "title": "NBC Extends 'Line of Fire' With Full-Season Pickup",
-      "url": "https://www.hollywoodreporter.com/tv/tv-news/line-of-fire-full-season-pickup-nbc-1236738517/",
-      "source_count": 1,
-      "sources": [
-        "The Hollywood Reporter"
-      ]
-    },
-    {
-      "title": "You Only Audition Twice: Watch Henry Cavill, James Brolin, Sam Neill and Others Screen-Test for James Bond",
-      "url": "https://www.hollywoodreporter.com/movies/movie-features/james-bond-auditions-watch-screen-tests-1236738531/",
-      "source_count": 1,
-      "sources": [
-        "The Hollywood Reporter"
-      ]
-    },
-    {
-      "title": "'MobLand' EP Teases What Season 3 Holds for Tom Hardy as 'Laird' Star Peter Sarsgaard Shares How He Feels About Playing a \"Malevolent U.S. Billionaire\"",
-      "url": "https://www.hollywoodreporter.com/tv/tv-news/mobland-season-3-tom-hardy-tease-laird-star-plays-billionaire-1236738416/",
-      "source_count": 1,
-      "sources": [
-        "The Hollywood Reporter"
-      ]
-    },
-    {
-      "title": "With 'Phony,' Nick Paley Poses a Horrifying Question",
-      "url": "https://www.hollywoodreporter.com/tv/tv-features/phony-two-connie-brittons-explained-nick-paley-1236736711/",
-      "source_count": 1,
-      "sources": [
-        "But Makes It Funny"
       ]
     },
     {
@@ -195,48 +174,48 @@
       ]
     },
     {
+      "title": "Grey's Anatomy: As Simone Makes A Decision About Her Pregnancy, Mer Leaves Town Again",
+      "url": "https://www.tvline.com/2294992/greys-anatomy-season-23-episode-2-recap-simone-abortion-explained/",
+      "source_count": 1,
+      "sources": [
+        "For How Long?"
+      ]
+    },
+    {
+      "title": "American Horror Story Reveals Crazy Connection Between Jessica Lange's Characters Ahead Of Season 13 Finale",
+      "url": "https://www.tvline.com/2294996/ahs-season-13-episode-12-jessica-lange-characters-connection-explained/",
+      "source_count": 1,
+      "sources": [
+        "TVLine"
+      ]
+    },
+    {
+      "title": "Molly Ringwald Guest-Starred On A Modern Reboot Of A Classic Sci-Fi TV Series",
+      "url": "https://www.tvline.com/2289043/molly-ringwald-guest-star-episode-reboot-classic-sci-fi-franchise-the-outer-limits/",
+      "source_count": 1,
+      "sources": [
+        "TVLine"
+      ]
+    },
+    {
+      "title": "The Traitors Recap: Did #Fruitgate Serve Up The Season's First Banished Traitor?",
+      "url": "https://www.tvline.com/2294890/the-traitors-new-blood-recap-season-5-episode-7-mark-murdered-victor-fruitgate-pardon-twist/",
+      "source_count": 1,
+      "sources": [
+        "TVLine"
+      ]
+    },
+    {
+      "title": "9-1-1's Oliver Stark Talks Buck's Hero Moment In Premiere Part 2, Teases Lasting Tension With Buck And Eddie",
+      "url": "https://www.tvline.com/2294973/911-season-10-episode-2-recap-buck-eddie-drama-explained/",
+      "source_count": 1,
+      "sources": [
+        "TVLine"
+      ]
+    },
+    {
       "title": "Casting News: Sam Heughan Joins Viola Davis' Paramount+ Thriller, The Watcher Adds Riverdale Vet, And More",
       "url": "https://www.tvline.com/2294660/sam-heughan-ascent-cast-paramount-plus-the-watcher-season-2-madelaine-petsch/",
-      "source_count": 1,
-      "sources": [
-        "TVLine"
-      ]
-    },
-    {
-      "title": "Michael Gray, Shazam! Star, Dead At 75",
-      "url": "https://www.tvline.com/2294897/michael-gray-dead-shazam-the-brady-bunch-obituary/",
-      "source_count": 1,
-      "sources": [
-        "TVLine"
-      ]
-    },
-    {
-      "title": "Line Of Fire Gets Full Season Order At NBC",
-      "url": "https://www.tvline.com/2294862/line-of-fire-full-season-1-order-18-episodes-nbc/",
-      "source_count": 1,
-      "sources": [
-        "TVLine"
-      ]
-    },
-    {
-      "title": "Marshals Star Ash Santos Gives Enthusiastic Reaction To Yellowstone Crossover With Dutton Ranch",
-      "url": "https://www.tvline.com/2294838/marshals-ash-santos-yellowstone-crossover-dutton-ranch-reaction/",
-      "source_count": 1,
-      "sources": [
-        "TVLine"
-      ]
-    },
-    {
-      "title": "5 Best Episodes Of Gilligan's Island, According To IMDb",
-      "url": "https://www.tvline.com/2289031/gilligans-island-best-episodes-according-imdb/",
-      "source_count": 1,
-      "sources": [
-        "TVLine"
-      ]
-    },
-    {
-      "title": "Survivor 51's [Spoiler] Reacts To The 'Brutal' Streak Of Female Eliminations, And Praises Season's 'Brilliant, Strategic, Threatening Women'",
-      "url": "https://www.tvline.com/2294672/survivor-51-episode-5-alexis-levine-exit-interview/",
       "source_count": 1,
       "sources": [
         "TVLine"
@@ -339,6 +318,38 @@
       ]
     },
     {
+      "title": "The Battlestar Galactica Board Game Is Making a Surprise Comeback Next Year",
+      "url": "https://www.ign.com/articles/the-battlestar-galactica-board-game-is-making-a-surprise-comeback-next-year",
+      "source_count": 1,
+      "sources": [
+        "IGN Games"
+      ]
+    },
+    {
+      "title": "Wo Long 2: Wings of Ember Gets Wuxia… and Let Me Fight a Horrific Spider Thing",
+      "url": "https://www.ign.com/articles/wo-long-2-wings-of-ember-gets-wuxia-and-let-me-fight-a-horrific-spider-thing-ign-preview",
+      "source_count": 1,
+      "sources": [
+        "IGN Preview"
+      ]
+    },
+    {
+      "title": "Cyberpunk 2 Associate Director Says Half of Game's Quest Team Are Former Modders",
+      "url": "https://www.ign.com/articles/cyberpunk-2-associate-director-says-half-of-games-quest-team-are-former-modders",
+      "source_count": 1,
+      "sources": [
+        "IGN Games"
+      ]
+    },
+    {
+      "title": "Amazon Has a Sale on Magic: The Gathering Booster Boxes Even Before Black Friday Kicks Off",
+      "url": "https://www.ign.com/articles/magic-the-gathering-booster-box-deals-amazon-black-friday-early-deals",
+      "source_count": 1,
+      "sources": [
+        "IGN Games"
+      ]
+    },
+    {
       "title": "Saber Interactive CEO Says Clive Barker's Hellraiser: Revival is Performing 'Extremely Well on PC and Consoles' with More to Come",
       "url": "https://www.ign.com/articles/saber-interactive-ceo-says-clive-barkers-hellraiser-revival-is-performing-extremely-well-on-pc-and-consoles-with-more-to-come",
       "source_count": 1,
@@ -349,38 +360,6 @@
     {
       "title": "'Now You're Pushing It' - Debra Wilson Drew the Line at the Wolverine Devs Scanning Her Tattoos Into the Game",
       "url": "https://www.ign.com/articles/now-youre-pushing-it-debra-wilson-drew-the-line-at-the-wolverine-devs-scanning-her-tattoos-into-the-game",
-      "source_count": 1,
-      "sources": [
-        "IGN Games"
-      ]
-    },
-    {
-      "title": "Valve Developer Mistakenly Mentions Rumored Half-Life 3 Codename",
-      "url": "https://www.ign.com/articles/valve-developer-mistakenly-mentions-rumored-half-life-3-codename",
-      "source_count": 1,
-      "sources": [
-        "IGN Games"
-      ]
-    },
-    {
-      "title": "GTA 6 Is Almost Here: Trade in Your Old Console and Save on an Upgrade at PayMore",
-      "url": "https://www.ign.com/articles/gta-6-trade-in-old-console-save-on-upgrade-paymore",
-      "source_count": 1,
-      "sources": [
-        "IGN Games"
-      ]
-    },
-    {
-      "title": "Magic's Foundations Commander Precons Are in Stock at Amazon for MSRP",
-      "url": "https://www.ign.com/articles/mtg-foundations-commander-precons-are-in-stock-at-amazon-for-msrp-but-theres-a-catch",
-      "source_count": 1,
-      "sources": [
-        "But There's a Catch"
-      ]
-    },
-    {
-      "title": "World of Warcraft: Forever Breathes New Life Into an Iconic Classic",
-      "url": "https://www.ign.com/articles/world-of-warcraft-forever-breathes-new-life-into-an-iconic-classic",
       "source_count": 1,
       "sources": [
         "IGN Games"
@@ -491,11 +470,27 @@
       ]
     },
     {
+      "title": "Judi Dench says worsening eyesight means she can no longer act",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOMzJGUWN2dHNra2VfbUlsdHdTOV9RUzJ5dlcyaTB0Wm5iX3ZKQjFTU2g1eExQWGlHR0VrZkNHeXZ5ZUFOMVNYLTA2eTRJMkRrYzhVcklQZVdkZVMxNS1ReS1BLXo3TWx1Q2szM2J0SS1xR3htUGVYd0ZPOHFmS2ZIM0dkVl83N2JDdzJLQXYta29sSnVQT3ZCdDlWVTJFcE5TSm5Nb3NyMA",
+      "source_count": 1,
+      "sources": [
+        "Yahoo"
+      ]
+    },
+    {
       "title": "South Korea's Korai Flix to go public in US via $3.5 billion SPAC deal",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNc1pCMlU4VTlsRDdnMExmakNfNl90NTR2Q2pxM0g0ZVFxZExvSHowUkl5VFlPLWtkNTc2UjVzU3FoTmZDYlJ3c2FHaUpQekdHR3VlMWtOTmt5QjNkYThBa2dSb1RvWWJtdE51MWxoQU1qTzZOSnlZMTZxc2JNSkVyLVBRczE3MTRwLTI2Y0lURHBaY2l6N1ROZ0ZQdHlZa2lz",
       "source_count": 1,
       "sources": [
         "Reuters"
+      ]
+    },
+    {
+      "title": "Magnitude 7 earthquake kills 16 and injures 32 in Tibet",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNQnhKcEh1MUJBLXAwRHg5NmEtRFBNdGhybTJPOGhYQk9kUmkzR2NGUVV6ZmpHTko5RnUyVldIVXBrczZ1WHVialFZdWszc3JIelpyWVVqV0pIZGc5UWV1U3QycHdjX051aGVEMGlqUkFLOVd6Vm8yTUdnMkViTko4aUFFWFhnekVZejFuZDc4SkgwMTUxcVE",
+      "source_count": 1,
+      "sources": [
+        "1News"
       ]
     },
     {
@@ -512,22 +507,6 @@
       "source_count": 1,
       "sources": [
         "Investing.com"
-      ]
-    },
-    {
-      "title": "Turkey to host regional and European foreign ministers for talks on regional conflicts, source says",
-      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOTlZYRTJfSWpPS1hGMGlOVXlUOWloY2pERWN3WVZCbDdYcFNkMjlFTWY1bmNlNmNCcmJBOE9KeTVkYUgxa190TVdtRlhIT2hUbzJyanhNMTJMcFpta084cEUzbnVIdTJtWlF6anRqWHp4SXJJdmFfTDN6RmJGYWJ5YUtUY0w4bmNMdVJYLWgwdXQ2TDRBVlNBbXNuR3VTcC1UZ1FDaEh3NU1rSm42cFg1N2tiLTNaci1uZ3lSRGthaWlKWjE4UUpPQmd6ckdYWWhrNWJScm1oNjRwdVhEdUlvNnRnODFPRGRMX3FlbG1veHE3OXfSAfMBQVVfeXFMTk5WWEUyX0lqT0tYRjBpTlV5VDlpaGNqREVjd1lWQmw3WHBTZDI5RU1mNW5jZTZjQnJiQThPSnk1ZGFIMWtfdE1XbUZYSE9oVG8ycmp4TTEyTHBabWtPOHBFM251SHUybVpRemp0alh6eElySXZhX0wzekZiRmFieWFLVGNMOG5jTHVSWC1oMHV0Nkw0QVZTQW1zbkd1U3AtVGdRQ2hIdzVNa0puNnBYNTdrYi0zWnItbmd5UkRrYWlpSloxOFFKT0JnenJHWFloazViUnJtaDY0cHVYRHVJbzZ0ZzgxT0RkTF9xZWxtb3hxNzl3",
-      "source_count": 1,
-      "sources": [
-        "Devdiscourse"
-      ]
-    },
-    {
-      "title": "Skycity Entertainment's Q1FY27 Group Trading Was Consistent With Q4FY26",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPWmt4X2drcElKdmpMaE1zQ2YwQnoxS0ItQVBOT3hpZHpXNEpSWjVxamRybFc2ZmQzdlZweHRhTTAyMlVBZkl4MjJyLVN3clloUzduaTVueFhnc2xWNk5YanExQk9jb0RDeVdndC1CNUVra2JNN0t6ZlNFQmlUa3BQQjRPXzc0b2V0Z0U0MlVLZENtT05Gc3RGRldtTHc5VzVpd0pVQmN2bmJOMDNaTUpVdE95VlJPbFRwNDFqbFA0aXFtbEdUS2lzd1BLTkFnOE9RU05LRXpoclk",
-      "source_count": 1,
-      "sources": [
-        "TradingView"
       ]
     },
     {
@@ -627,48 +606,20 @@
       ]
     },
     {
-      "title": "RAYE Wins 2026 Mercury Prize With 'This Music May Contain Hope'",
-      "url": "https://www.billboard.com/music/awards/2026-mercury-prize-winner-raye-music-may-contain-hope-1236365609/",
-      "source_count": 1,
+      "title": "Rosalía Teases If She Has New Music Coming & Shares the Best Moments of Her Tour | Billboard Latin Music Awards 2026",
+      "url": "https://www.billboard.com/video/rosalia-teases-if-she-has-new-music-coming/",
+      "source_count": 5,
       "sources": [
+        "Billboard",
+        "Billboard",
+        "Billboard",
+        "Billboard",
         "Billboard"
       ]
     },
     {
-      "title": "50 Cent Says He 'Had a Strong Feeling' Suspect Accused of Assaulting Rick Ross' Son Was 'Innocent' After Posting Bond",
-      "url": "https://www.billboard.com/music/rb-hip-hop/50-cent-rick-ross-son-assault-suspect-bond-1236366235/",
-      "source_count": 1,
-      "sources": [
-        "Billboard"
-      ]
-    },
-    {
-      "title": "Cyndi Lauper, Tones And I & CYRIL Team Up for 'Time After Time' Remix: Exclusive",
-      "url": "https://www.billboard.com/music/pop/cyndi-lauper-tones-and-i-cyril-time-after-time-remix-1236365555/",
-      "source_count": 1,
-      "sources": [
-        "Billboard"
-      ]
-    },
-    {
-      "title": "'Thursday Night Football' 2026: Where to Livestream New England Patriots vs. Chicago Bears Game Online",
-      "url": "https://www.billboard.com/culture/product-recommendations/thursday-night-football-2026-watch-nfl-live-online-free-1236341946/",
-      "source_count": 1,
-      "sources": [
-        "Billboard"
-      ]
-    },
-    {
-      "title": "Spotify Co-CEOs Talk AI Remixing Tool: 'We're the Right Company to Do This'",
-      "url": "https://www.billboard.com/pro/spotify-co-ceos-talk-ai-music-remixing-tool-subscribers/",
-      "source_count": 1,
-      "sources": [
-        "Billboard"
-      ]
-    },
-    {
-      "title": "There's a New Report on the Health of Global Nightlife Culture - How Did New York Rate?",
-      "url": "https://www.billboard.com/pro/global-nightlife-report-new-york-seoul-sydney-scenes-rate/",
+      "title": "The Rubens Talk Healing And Taking the Independent Route For 'Group Therapy'",
+      "url": "https://www.billboard.com/music/rock/the-rubens-group-therapy-interview-1236366843/",
       "source_count": 1,
       "sources": [
         "Billboard"
@@ -723,6 +674,22 @@
       ]
     },
     {
+      "title": "How to unlock the full Weeping Creek Valley map in Phantom Blade Zero",
+      "url": "https://www.polygon.com/phantom-blade-zero-how-to-unlock-the-full-weeping-creek-valley-map/",
+      "source_count": 1,
+      "sources": [
+        "Polygon"
+      ]
+    },
+    {
+      "title": "8 Cyberpunk 2077 Replay Ideas to Make Night City Feel Brand New",
+      "url": "https://www.polygon.com/cyberpunk-2077-replay-ideas/",
+      "source_count": 1,
+      "sources": [
+        "Polygon"
+      ]
+    },
+    {
       "title": "'Mass Effect Universe' Leak Promised What Fans Have Waited Decades For",
       "url": "https://www.polygon.com/mass-effect-universe-new-characters-male-quarian-asari-krogan-aliens/",
       "source_count": 1,
@@ -753,23 +720,7 @@
       "sources": [
         "Polygon"
       ]
-    },
-    {
-      "title": "Everything We Know About Project Helix, the Next Xbox",
-      "url": "https://www.polygon.com/next-xbox-console-release-date-price-project-helix/",
-      "source_count": 1,
-      "sources": [
-        "Polygon"
-      ]
-    },
-    {
-      "title": "'Avatar: Seven Havens' Producers Provide a Suspicious Answer About the Anomaly",
-      "url": "https://www.polygon.com/avatar-seven-havens-producers-interview-anomaly-vaatu-connection/",
-      "source_count": 1,
-      "sources": [
-        "Polygon"
-      ]
     }
   ],
-  "summary": "Verified intelligence gathered across 96 deduplicated editorial clusters."
+  "summary": "Verified intelligence gathered across 89 deduplicated editorial clusters."
 }
