@@ -1,53 +1,66 @@
 {
-  "timestamp": "2026-10-24T13:50:56.809998+00:00",
-  "headline_count": 92,
+  "timestamp": "2026-10-24T17:13:29.573451+00:00",
+  "headline_count": 88,
   "headlines": [
     {
-      "title": "'Love Language' Review: Chloë Grace Moretz Sells Words of Affirmation in an Old-School Romcom With Gen-Z Trappings",
-      "url": "https://variety.com/2026/film/reviews/love-language-review-1236930209/",
+      "title": "The Surprise Guest in 'You Can See Everything' Could Win an Oscar. Should They?",
+      "url": "https://variety.com/2026/film/columns/amanda-seyfried-you-can-see-everything-oscar-1236916757/",
+      "source_count": 4,
+      "sources": [
+        "Variety",
+        "Variety",
+        "Box Office Update",
+        "The Hollywood Reporter"
+      ]
+    },
+    {
+      "title": "New York's AMC Kips Bay Theater Closes on Jan. 3; CEO Says 'AMC Wants to Stay' but NYU Langone 'Wants Us Gone'",
+      "url": "https://variety.com/2026/film/news/amc-kips-bay-closing-date-ceo-adam-aron-1236930275/",
+      "source_count": 2,
+      "sources": [
+        "Variety",
+        "Deadline Hollywood"
+      ]
+    },
+    {
+      "title": "Andrew Garfield and Gabrielle Union Attend Ferragamo Dinner in Beverly Hills and More Red Carpet Photos: October 2026",
+      "url": "https://variety.com/gallery/red-carpet-celebrity-photos/",
       "source_count": 1,
       "sources": [
         "Variety"
       ]
     },
     {
-      "title": "Morelia Film Festival Prizes: 'Six Months in a Pink and Blue Building,' an 'Expression of Pure, Unbound Beauty,' Wins Top 'Ojo' Award",
-      "url": "https://variety.com/2026/film/global/morelia-film-festival-prizes-pink-and-blue-building-1236929888/",
+      "title": "Quentin Tarantino Surprises Fans With 17 Minutes of 'The Further Mis-Adventures of Cliff Booth' at AFI Fest",
+      "url": "https://variety.com/2026/film/news/quentin-tarantino-further-mis-adventures-of-cliff-booth-preview-1236930220/",
+      "source_count": 2,
+      "sources": [
+        "Variety",
+        "The Hollywood Reporter"
+      ]
+    },
+    {
+      "title": "Dalton Smith vs. Alberto Puello Livestream: Here's Where to Watch the WBC Junior Welterweight Title Boxing Match Online",
+      "url": "https://variety.com/2026/shopping/news/how-to-watch-smith-vs-puello-boxing-live-online-1236918582/",
       "source_count": 1,
       "sources": [
         "Variety"
       ]
     },
     {
-      "title": "El Gouna Takeaways: 'Safe Exit' Wins Top Prize, Arab TV Seeks New Talent and Egyptian Filmmakers Push Boundaries",
-      "url": "https://variety.com/2026/film/global/el-gouna-film-festival-2026-five-takeaways-cinegouna-1236930192/",
+      "title": "BravoCon 2027 Sets Dates For Return To Las Vegas",
+      "url": "https://deadline.com/2026/10/bravocon-2027-dates-las-vegas-1237172140/",
       "source_count": 1,
       "sources": [
-        "Variety"
+        "Deadline Hollywood"
       ]
     },
     {
-      "title": "UFC 333 Livestream: Here's How to Watch Volkanovski vs. Evloev Online for Free",
-      "url": "https://variety.com/2026/shopping/news/how-to-watch-ufc-333-volkanovski-vs-evloev-live-online-free-1236917590/",
+      "title": "Ric Flair Health Update: Ex-Wrestler Recovering After Fall In Florida",
+      "url": "https://deadline.com/2026/10/ric-flair-health-update-1237172323/",
       "source_count": 1,
       "sources": [
-        "Variety"
-      ]
-    },
-    {
-      "title": "Jay-Z Brings Out Blue Ivy Carter, DJ Khaled and John Legend During the First of Two Nights at Los Angeles' SoFi Stadium",
-      "url": "https://variety.com/2026/music/news/jay-z-brings-out-blue-ivy-dj-khaled-scarface-sofi-stadium-1236930075/",
-      "source_count": 1,
-      "sources": [
-        "Variety"
-      ]
-    },
-    {
-      "title": "Kore-eda Hirokazu Explains Why He Never Films Children Crying - and What Ken Loach and Hou Hsiao-hsien Taught Him",
-      "url": "https://variety.com/2026/film/festivals/kore-eda-hirokazu-why-never-films-children-crying-1236930180/",
-      "source_count": 1,
-      "sources": [
-        "Variety"
+        "Deadline Hollywood"
       ]
     },
     {
@@ -67,73 +80,32 @@
       ]
     },
     {
-      "title": "Quentin Tarantino Wraps His AFI Fest Q&A By Showing Crowd First 17 Minutes Of 'Cliff Booth'",
-      "url": "https://deadline.com/2026/10/quentin-tarantino-cliff-booth-screening-surprise-afi-fest-1237172221/",
-      "source_count": 2,
-      "sources": [
-        "Deadline Hollywood",
-        "The Hollywood Reporter"
-      ]
-    },
-    {
-      "title": "Karoline Leavitt Compares Katie Zacharia's Abrupt Exit As Trump's Press Secretary To 'The Apprentice': \"He's Known For … Moving On From People\"",
-      "url": "https://deadline.com/2026/10/karoline-leavitt-on-bill-maher-trump-press-secretary-1237172271/",
-      "source_count": 1,
-      "sources": [
-        "Deadline Hollywood"
-      ]
-    },
-    {
-      "title": "'Clayface' Director James Watkins Explains Aaron Paul's Cameo: \"A Real Brief Easter Egg\"",
-      "url": "https://deadline.com/2026/10/clayface-james-watkins-explains-aaron-paul-cameo-1237172273/",
-      "source_count": 1,
-      "sources": [
-        "Deadline Hollywood"
-      ]
-    },
-    {
-      "title": "Billy Corgan Backs Marilyn Manson Over Sex Abuse Claims, Citing Inside Knowledge Of Case: \"I Personally Didn't Feel He Was Guilty\"",
-      "url": "https://deadline.com/2026/10/marilyn-manson-sex-abuse-claims-billy-corgan-1237172174/",
-      "source_count": 1,
-      "sources": [
-        "Deadline Hollywood"
-      ]
-    },
-    {
-      "title": "Hannah Einbinder Says Speaking Out for Palestine Is \"the Bare Minimum\"",
-      "url": "https://www.hollywoodreporter.com/news/general-news/hannah-einbinder-palestine-support-bare-minimum-1236739491/",
+      "title": "Jay-Z's Victory Lap Continues as He Brings Out Blue Ivy Carter, John Legend, DJ Khaled for SoFi Stadium Opening Night",
+      "url": "https://www.hollywoodreporter.com/music/music-news/jay-z-sofi-stadium-night-one-recap-1236737877/",
       "source_count": 1,
       "sources": [
         "The Hollywood Reporter"
       ]
     },
     {
-      "title": "'Street Fighter' Breakout Callina Liang Talks Embracing Fan Skepticism and Reveals Two Key Scrapped Moments",
-      "url": "https://www.hollywoodreporter.com/movies/movie-features/street-fighter-callina-liang-chin-li-1236739271/",
+      "title": "Online Comedians Are Making a Mint Mocking Wall Street",
+      "url": "https://www.hollywoodreporter.com/business/business-news/online-comedians-mocking-wall-street-corporate-culture-1236736301/",
       "source_count": 1,
       "sources": [
         "The Hollywood Reporter"
       ]
     },
     {
-      "title": "Nick Reiner's Push for Release of Trust Money to Be Decided by Mediator",
-      "url": "https://www.hollywoodreporter.com/news/general-news/nick-reiner-trust-money-release-decided-mediator-1236739448/",
+      "title": "Lowden, Turner or a Dark Horse: One James Bond Casting Test Has Nothing to Do With Acting",
+      "url": "https://www.hollywoodreporter.com/movies/movie-features/james-bond-casting-test-lowden-turner-1236739203/",
       "source_count": 1,
       "sources": [
         "The Hollywood Reporter"
       ]
     },
     {
-      "title": "Ken Atchity, Producer on 'Joe Somebody' and 'The Meg,' Dies at 82",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/ken-atchity-dead-joe-somebody-the-meg-producer-1236739449/",
-      "source_count": 1,
-      "sources": [
-        "The Hollywood Reporter"
-      ]
-    },
-    {
-      "title": "'Crawl 2' Adds Sarah Niles, Ray Panthaki and 3 More Ahead of 2027 Paramount Release (Exclusive)",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/crawl-2-sarah-niles-ray-panthaki-flula-borg-sequel-1236739368/",
+      "title": "Bill Murray Is Generally OK Giving You a \"Bill Murray Moment\"",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/bill-murray-interview-a-course-called-ireland-tom-coyne-1236738922/",
       "source_count": 1,
       "sources": [
         "The Hollywood Reporter"
@@ -188,48 +160,48 @@
       ]
     },
     {
-      "title": "5 Once-Beloved '60s Sitcoms Nobody Talks About Anymore",
-      "url": "https://www.tvline.com/2290018/once-beloved-60s-sitcoms-nobody-talks-about-anymore/",
+      "title": "15 Best Political TV Shows Of All Time, Ranked",
+      "url": "https://www.tvline.com/2292306/best-political-tv-shows-ranked/",
       "source_count": 1,
       "sources": [
         "TVLine"
       ]
     },
     {
-      "title": "15 Funniest TV Characters Of All Time, Ranked",
-      "url": "https://www.tvline.com/2290105/funniest-tv-characters-all-time-ranked/",
+      "title": "Casting News: The Gentlemen Hosts LOTR Reunion, Jimmy Smits Visits St. Denis Medical, And More",
+      "url": "https://www.tvline.com/2296096/the-gentlemen-season-3-cast-elijah-wood-st-denis-medical-jimmy-smits/",
       "source_count": 1,
       "sources": [
         "TVLine"
       ]
     },
     {
-      "title": "5 Biggest Chicago Fire Crossovers Ever, Ranked",
-      "url": "https://www.tvline.com/2290009/biggest-chicago-fire-crossovers-ranked/",
+      "title": "What Stephen King Thinks About Mike Flanagan's Carrie Prime Video Series",
+      "url": "https://www.tvline.com/2290804/stephen-king-mike-flanagan-carrie-prime-video-series-thoughts/",
       "source_count": 1,
       "sources": [
         "TVLine"
       ]
     },
     {
-      "title": "Gilligan's Island Actor Tina Louise Helped Launch The Biggest '80s Primetime Soap Opera",
-      "url": "https://www.tvline.com/2289821/gilligans-island-actor-tina-louise-launch-80s-primetime-soap-opera-dallas/",
+      "title": "Hallmark Star Andrew Walker Made His Acting Debut In This Forgotten '90s Cop Drama",
+      "url": "https://www.tvline.com/2290793/hallmark-star-andrew-walker-acting-debut-forgotten-90s-cop-drama-sirens/",
       "source_count": 1,
       "sources": [
         "TVLine"
       ]
     },
     {
-      "title": "Quote Of The Day By Brad Pitt: 'If I Have Any Afflictions, It's Probably Being...'",
-      "url": "https://www.tvline.com/2295645/quote-of-the-day-brad-pitt-optimism/",
+      "title": "Young Sheldon Was Nearly Scrapped Before The First Episode Was Shot, Says Co-Creator Chuck Lorre",
+      "url": "https://www.tvline.com/2290550/young-sheldon-nearly-scrapped-before-first-episode-chuck-lorre/",
       "source_count": 1,
       "sources": [
         "TVLine"
       ]
     },
     {
-      "title": "What To Watch Saturday: MLB World Series And WNBA Finals Continue, The Invite On HBO, And More",
-      "url": "https://www.tvline.com/2295103/what-to-watch-october-24-2026-tv-shows-movies-streaming/",
+      "title": "Gilligan's Island Star Jim Backus Was Nearly Unrecognizable On The Brady Bunch",
+      "url": "https://www.tvline.com/2285398/gilligans-island-star-jim-backus-unrecognizable-the-brady-bunch/",
       "source_count": 1,
       "sources": [
         "TVLine"
@@ -407,48 +379,48 @@
       ]
     },
     {
-      "title": "After 14 years of development, Factorio's final major update is out now",
-      "url": "https://www.pcgamer.com/games/survival-crafting/after-14-years-of-development-factorios-final-major-update-is-out-now/",
+      "title": "Now it's over, WoW: Forever's beta has left me with just one fear",
+      "url": "https://www.pcgamer.com/games/world-of-warcraft/now-its-over-wow-forevers-beta-has-left-me-with-just-one-fear-its-endgame/",
+      "source_count": 1,
+      "sources": [
+        "its endgame"
+      ]
+    },
+    {
+      "title": "New Blood CEO confirms it: the worst way to sell immersive sims like Gloomwood and Fallen Aces is to call them immersive sims",
+      "url": "https://www.pcgamer.com/games/sim/new-blood-ceo-confirms-it-the-worst-way-to-sell-immersive-sims-like-gloomwood-and-fallen-aces-is-to-call-them-immersive-sims/",
       "source_count": 1,
       "sources": [
         "PC Gamer"
       ]
     },
     {
-      "title": "Star Wars Galaxies' Restoration project just received another massive update, including a huge visual upgrade and an overhaul to the Wookiees' home planet",
-      "url": "https://www.pcgamer.com/games/mmo/star-wars-galaxies-just-got-another-massive-update-thanks-to-its-community-restoration-project-including-a-huge-visual-upgrade-and-a-refurb-to-the-wookiees-home-planet/",
+      "title": "The mouse P.I. for hire from Mouse: P.I. For Hire joins the meat boy from Super Meat Boy 3D in gaming's latest indie crossover",
+      "url": "https://www.pcgamer.com/games/action/the-mouse-p-i-for-hire-from-mouse-p-i-for-hire-joins-the-meat-boy-from-super-meat-boy-3d-in-gamings-latest-indie-crossover/",
       "source_count": 1,
       "sources": [
         "PC Gamer"
       ]
     },
     {
-      "title": "Why private equity acquisitions like the one that just claimed BioWare are so dreaded",
-      "url": "https://www.pcgamer.com/gaming-industry/why-private-equity-acquisitions-like-the-one-that-just-claimed-bioware-are-so-dreaded/",
+      "title": "Japan Actors Union pushes for heavy restrictions on AI copying dead actors",
+      "url": "https://www.pcgamer.com/software/ai/japan-actors-union-pushes-for-heavy-restrictions-on-ai-copying-dead-actors/",
       "source_count": 1,
       "sources": [
         "PC Gamer"
       ]
     },
     {
-      "title": "Mass Effect 5 was set in a 'galactic Cold War,' new leak claims, and all 3 endings were wrapped into 1",
-      "url": "https://www.pcgamer.com/games/mass-effect/mass-effect-5-was-set-in-a-galactic-cold-war-new-leak-claims-and-all-3-endings-were-wrapped-into-1/",
+      "title": "Are we in the cozy gaming gold rush era? 'Cozy' has grown over 250% on Steam and 200% in my inbox since 2024",
+      "url": "https://www.pcgamer.com/games/life-sim/are-we-in-the-cozy-gaming-gold-rush-era-cozy-has-grown-over-250-percent-on-steam-and-200-percent-in-my-inbox-since-2024/",
       "source_count": 1,
       "sources": [
         "PC Gamer"
       ]
     },
     {
-      "title": "Based on player data, Capcom's pretty happy with the difficulty level of Onimusha: Way of the Sword: 'We think it's hit the right spot'",
-      "url": "https://www.pcgamer.com/games/action/based-on-player-data-capcoms-pretty-happy-with-the-difficulty-level-of-onimusha-way-of-the-sword-we-think-its-hit-the-right-spot/",
-      "source_count": 1,
-      "sources": [
-        "PC Gamer"
-      ]
-    },
-    {
-      "title": "Time could be running out for Arkane",
-      "url": "https://www.pcgamer.com/gaming-industry/time-could-be-running-out-for-arkane/",
+      "title": "The best feature in the original Alan Wake is an absence: the man has no reticle",
+      "url": "https://www.pcgamer.com/games/horror/the-best-feature-in-the-original-alan-wake-is-an-absence-the-man-has-no-reticle/",
       "source_count": 1,
       "sources": [
         "PC Gamer"
@@ -479,11 +451,11 @@
       ]
     },
     {
-      "title": "Health officials race to trace source of Nigeria's Ebola infection By Reuters",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOcmtvWENUMDE3YUZLS3MtVDVGYXRrSVFqTTdqZl9jdkVoeTBEYkFadGVCREdRcTVTTmN6QTVrYkw4UHpWTTdGNnNPUUduUDBEZnVxZXhzTW9RMGJGZGZMWWxDV1FWeGg2MTFjRG81QWJRakJ0UlVGU1RDMzlHWXpZZzJTVjlNOW9MOWJJbTFXOUczSzhQYl92MG5XbWJoM1ROekRMR19OX0JVZUxIb2U4bTc1VFVHQQ",
+      "title": "OpenAI resumes frontier AI training after security overhaul, discloses flaw in widely used software",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNWmNWUG02ckVXVjVFQ3RTbloxVEx0Y3gxQ1JScGMwT21hRDltajQ4cl9DV3hrdE5DYnZBdm0wRGxCSkNPdHFFTVVqY2FKUmoyWlpiSVhOQVFwcVFSbnJ1UmdzaEVlcnJWNlhNcFJGbk1Hc2l5UE1pTDRDSFN5bDQ3TjV2aE8ySUtJVkJnaGlIUHNJdURfbnVxdWZGNHRGUjhiRlMyaS00QWgxX2FHRE9ueURTUWlLSm5TSm5QMWZFSGJ1NEYwcnRKOHkwd0hqTmxUUzZrVTFR",
       "source_count": 1,
       "sources": [
-        "Investing.com"
+        "CTV News"
       ]
     },
     {
@@ -495,15 +467,23 @@
       ]
     },
     {
-      "title": "Pentagon designates Confucius Institutes in US a national security threat, World News",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObkJDcUxtNWZnZVhIRkVjZ0JSSG16OEpOaTB1MkNpLWNtSDBJU19rZXY0Z2xtSFBVb045MU9zT1pOTlhCNHo4bUxtQ1llaUt0N0xBODU2ZkttQWt4ai0ybmJiazhDOW5RVTdNTzh3QjVwWHdWcjAxWGdGTjVHTC1MRmZkUzJVTlRyTXhDYll2U0IwbGJ5LVJadDJ4NE9XZUE",
+      "title": "Health officials race to trace source of Nigeria's Ebola infection By Reuters",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOcmtvWENUMDE3YUZLS3MtVDVGYXRrSVFqTTdqZl9jdkVoeTBEYkFadGVCREdRcTVTTmN6QTVrYkw4UHpWTTdGNnNPUUduUDBEZnVxZXhzTW9RMGJGZGZMWWxDV1FWeGg2MTFjRG81QWJRakJ0UlVGU1RDMzlHWXpZZzJTVjlNOW9MOWJJbTFXOUczSzhQYl92MG5XbWJoM1ROekRMR19OX0JVZUxIb2U4bTc1VFVHQQ",
       "source_count": 1,
       "sources": [
-        "AsiaOne.com"
+        "Investing.com"
       ]
     },
     {
-      "title": "Quentin Tarantino Surprises Fans With an Early Look at 'The Further Mis-Adventures of Cliff Booth'",
+      "title": "Watch the 'Buddy' Team Explain How They Made the World Fall in Love with a Murderous Unicorn",
+      "url": "https://www.indiewire.com/news/events/how-buddy-became-breakout-hit-future-of-filmmaking-summit-1235223665/",
+      "source_count": 1,
+      "sources": [
+        "IndieWire"
+      ]
+    },
+    {
+      "title": "Quentin Tarantino Surprises Fans with an Early Look at 'The Further Mis-Adventures of Cliff Booth'",
       "url": "https://www.indiewire.com/news/festivals/quentin-tarantino-cliff-booth-surprise-afi-fest-1235223109/",
       "source_count": 1,
       "sources": [
@@ -537,14 +517,6 @@
     {
       "title": "'Marie Antoinette' at 20: Sofia Coppola on How the Film Almost Broke Her, the Critical Backlash, and Paying Tribute to Mom",
       "url": "https://www.indiewire.com/features/podcast/marie-antoinette-sofia-coppola-critical-backlash-music-mom-1235223601/",
-      "source_count": 1,
-      "sources": [
-        "IndieWire"
-      ]
-    },
-    {
-      "title": "Watch Bill Hader Explain the Many Influences That Led to His First Film, 'They Know'",
-      "url": "https://www.indiewire.com/news/events/bill-hader-first-film-they-know-snl-divorce-1235222526/",
       "source_count": 1,
       "sources": [
         "IndieWire"
@@ -599,6 +571,30 @@
       ]
     },
     {
+      "title": "Doja Cat Talks About What She Loves About Collaborating With SZA & Performing With Latto",
+      "url": "https://www.billboard.com/video/doja-cat-meta-interview/",
+      "source_count": 1,
+      "sources": [
+        "Billboard"
+      ]
+    },
+    {
+      "title": "Anthropic Sued For Stealing Elvis Presley Music to Train AI: 'Deeply Protective of These Iconic Songs'",
+      "url": "https://www.billboard.com/pro/elvis-presley-estate-sues-suno-anthropic/",
+      "source_count": 1,
+      "sources": [
+        "Billboard"
+      ]
+    },
+    {
+      "title": "Maluma Opens Up About Therapy and Finding Balance at Billboard Latin Music Week & More Uplifting Moments",
+      "url": "https://www.billboard.com/music/latin/maluma-betterhelp-latin-music-week-2026-uplifting-moments-1236367482/",
+      "source_count": 1,
+      "sources": [
+        "Billboard"
+      ]
+    },
+    {
       "title": "Here's How to Watch UFC 333 Live Online for Free",
       "url": "https://www.billboard.com/culture/product-recommendations/ufc-333-oct-2026-watch-mma-live-online-free-1236364114/",
       "source_count": 1,
@@ -623,31 +619,15 @@
       ]
     },
     {
-      "title": "Drake Becomes First Act to Surpass 350 Million RIAA-Certified Units, With 30 New Certifications",
-      "url": "https://www.billboard.com/music/rb-hip-hop/drake-new-certifications-riaa-diamond-views-marvins-room-1236367433/",
+      "title": "Zoey Deutch and Jon Hamm Comedy 'Gail Daughtry and the Celebrity Sex Pass' Sets Netflix Streaming Debut",
+      "url": "https://www.whats-on-netflix.com/news/zoey-deutch-and-jon-hamm-comedy-gail-daughtry-and-the-celebrity-sex-pass-sets-netflix-streaming-debut/",
       "source_count": 1,
       "sources": [
-        "Billboard"
+        "What's on Netflix"
       ]
     },
     {
-      "title": "Hailee Steinfeld Will Have a Hold on You in 'Magic' Cover of The Cars for 'Hexed' Movie: Listen",
-      "url": "https://www.billboard.com/music/music-news/hailee-steinfeld-magic-the-cars-cover-hexed-movie-listen-1236367434/",
-      "source_count": 1,
-      "sources": [
-        "Billboard"
-      ]
-    },
-    {
-      "title": "Billboard Latin Music Week 2026 Photo Booth: Anuel AA, Becky G, Maluma & More",
-      "url": "https://www.billboard.com/photos/billboard-latin-music-week-2026-photo-booth-anuel-aa-becky-g-maluma-more-1236365751/",
-      "source_count": 1,
-      "sources": [
-        "Billboard"
-      ]
-    },
-    {
-      "title": "Tarantino Surprised At AFI With 'The Further Mis-Adventure of Cliff Booth' Sneak Peek Ahead of Netflix Release",
+      "title": "Quentin Tarantino Surprised At AFI With 'The Further Mis-Adventure of Cliff Booth' Sneak Peek Ahead of Netflix Release",
       "url": "https://www.whats-on-netflix.com/news/quentin-tarantino-debut-cliff-booth-afi-film-festival/",
       "source_count": 1,
       "sources": [
@@ -687,61 +667,53 @@
       ]
     },
     {
-      "title": "'Heartland' Season 20 Sets US Release, But Won't Stream on Netflix For A While",
-      "url": "https://www.whats-on-netflix.com/news/heartland-season-20-netflix-release-schedule/",
-      "source_count": 1,
-      "sources": [
-        "What's on Netflix"
-      ]
-    },
-    {
-      "title": "Aaron Paul Originally Had A Much More Important Role In Clayface",
-      "url": "https://www.polygon.com/clayface-aaron-paul-cameo-explained/",
+      "title": "Stephen King's 10 Best Villains of All Time, Ranked",
+      "url": "https://www.polygon.com/stephen-kings-best-villains-of-all-time-ranked/",
       "source_count": 1,
       "sources": [
         "Polygon"
       ]
     },
     {
-      "title": "Nintendo Is Still Being Wildly Underestimated",
-      "url": "https://www.polygon.com/switchboard-nintendo-switch-sports-resort/",
+      "title": "5 Hardest Platformers Ever Made, Ranked by Difficulty",
+      "url": "https://www.polygon.com/5-hardest-platformers-ever-ranked/",
       "source_count": 1,
       "sources": [
         "Polygon"
       ]
     },
     {
-      "title": "5 Years Later, Metroid Dread's Perfect Ending Is Still One of Nintendo's Best",
-      "url": "https://www.polygon.com/metroid-dread-5-year-retrospective/",
+      "title": "Steam Officially Rolls Out A Calendar Feature To Directly Recommend New Games",
+      "url": "https://www.polygon.com/steam-personal-calendar-wide-release/",
       "source_count": 1,
       "sources": [
         "Polygon"
       ]
     },
     {
-      "title": "Fallout Day 2026: Every Big Announcement from Bethesda's Fan Event",
-      "url": "https://www.polygon.com/fallout-day-2026-announcements-roundup/",
+      "title": "Dead by Daylight Is Losing Another Horror Icon",
+      "url": "https://www.polygon.com/dead-by-daylight-chucky-removed/",
       "source_count": 1,
       "sources": [
         "Polygon"
       ]
     },
     {
-      "title": "Game of Thrones' Perfect Replacement is a 100+ Hours Fantasy Series that's Free on YouTube",
-      "url": "https://www.polygon.com/game-of-thrones-replacement-critical-role/",
+      "title": "One of 2026's Best-Rated Games Is Basically Mass Effect With Spies",
+      "url": "https://www.polygon.com/zero-parades-mass-effect-2-comparison/",
       "source_count": 1,
       "sources": [
         "Polygon"
       ]
     },
     {
-      "title": "'Super Mario' Creator Breaks Down The Problem With AI Perfectly",
-      "url": "https://www.polygon.com/super-mario-bros-shigeru-miyamoto-ai-order-culture-japan-award-nintendo/",
+      "title": "Xbox's First-Ever COO Is Already Leaving After A Few Months",
+      "url": "https://www.polygon.com/xbox-loses-coo/",
       "source_count": 1,
       "sources": [
         "Polygon"
       ]
     }
   ],
-  "summary": "Verified intelligence gathered across 92 deduplicated editorial clusters."
+  "summary": "Verified intelligence gathered across 88 deduplicated editorial clusters."
 }
