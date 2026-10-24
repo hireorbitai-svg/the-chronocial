@@ -1,63 +1,78 @@
 {
-  "timestamp": "2026-10-24T17:13:29.573451+00:00",
-  "headline_count": 88,
+  "timestamp": "2026-10-24T20:17:53.964322+00:00",
+  "headline_count": 83,
   "headlines": [
+    {
+      "title": "Here's Where to Watch Emanuel Navarrete vs. O'Shaquie Foster Junior Lightweight Titles Boxing Match Live Online",
+      "url": "https://variety.com/2026/shopping/news/how-to-watch-navarrete-vs-foster-boxing-live-online-1236918612/",
+      "source_count": 1,
+      "sources": [
+        "Variety"
+      ]
+    },
+    {
+      "title": "What Is 'Fjord' Really About? A Political Stance That May Be Too Hot to Handle",
+      "url": "https://variety.com/2026/film/columns/what-is-fjord-really-about-1236930049/",
+      "source_count": 1,
+      "sources": [
+        "Variety"
+      ]
+    },
+    {
+      "title": "Horror Fans, Rejoice: FilmQuest Breakout 'The Crawling' Is the Gutsy Alien Freakout of Your Dreams",
+      "url": "https://variety.com/2026/film/columns/the-crawling-alien-movie-1236930222/",
+      "source_count": 1,
+      "sources": [
+        "Variety"
+      ]
+    },
+    {
+      "title": "Billy Corgan Says He's Stood by Marilyn Manson Despite Sex Abuse Claims Because He 'Didn't Feel He Was Guilty': 'I Don't Want the World to Tell Me Who My Friends Are'",
+      "url": "https://variety.com/2026/music/news/smashing-pumpkins-billy-corgan-marilyn-manson-lawsuits-1236930317/",
+      "source_count": 2,
+      "sources": [
+        "Variety",
+        "The Hollywood Reporter"
+      ]
+    },
+    {
+      "title": "Sylvester Stallone Says Daughter's 'Tulsa King' Casting Is 'Of Course' Nepotism: 'Obviously We Let Them Have Every Advantage'",
+      "url": "https://variety.com/2026/tv/news/sylvester-stallone-tulsa-king-nepotism-1236930287/",
+      "source_count": 2,
+      "sources": [
+        "Variety",
+        "Deadline Hollywood"
+      ]
+    },
     {
       "title": "The Surprise Guest in 'You Can See Everything' Could Win an Oscar. Should They?",
       "url": "https://variety.com/2026/film/columns/amanda-seyfried-you-can-see-everything-oscar-1236916757/",
-      "source_count": 4,
+      "source_count": 3,
       "sources": [
-        "Variety",
         "Variety",
         "Box Office Update",
         "The Hollywood Reporter"
       ]
     },
     {
-      "title": "New York's AMC Kips Bay Theater Closes on Jan. 3; CEO Says 'AMC Wants to Stay' but NYU Langone 'Wants Us Gone'",
-      "url": "https://variety.com/2026/film/news/amc-kips-bay-closing-date-ceo-adam-aron-1236930275/",
-      "source_count": 2,
+      "title": "Ric Flair Latest Health Update: Ex-Wrestler Wears Eye Patch In Message Reassuring Fans \"I Am Focused On My Healing And Recovery\"",
+      "url": "https://deadline.com/2026/10/ric-flair-health-update-1237172323/",
+      "source_count": 1,
       "sources": [
-        "Variety",
         "Deadline Hollywood"
       ]
     },
     {
-      "title": "Andrew Garfield and Gabrielle Union Attend Ferragamo Dinner in Beverly Hills and More Red Carpet Photos: October 2026",
-      "url": "https://variety.com/gallery/red-carpet-celebrity-photos/",
+      "title": "AMC Theatres Wants NYC's Endangered Kips Bay Multiplex To Remain But Decision \"Not Ours To Make\"; Scheduled Closing Date Announced",
+      "url": "https://deadline.com/2026/10/amc-theatres-kips-bay-multiplex-1237172359/",
       "source_count": 1,
       "sources": [
-        "Variety"
-      ]
-    },
-    {
-      "title": "Quentin Tarantino Surprises Fans With 17 Minutes of 'The Further Mis-Adventures of Cliff Booth' at AFI Fest",
-      "url": "https://variety.com/2026/film/news/quentin-tarantino-further-mis-adventures-of-cliff-booth-preview-1236930220/",
-      "source_count": 2,
-      "sources": [
-        "Variety",
-        "The Hollywood Reporter"
-      ]
-    },
-    {
-      "title": "Dalton Smith vs. Alberto Puello Livestream: Here's Where to Watch the WBC Junior Welterweight Title Boxing Match Online",
-      "url": "https://variety.com/2026/shopping/news/how-to-watch-smith-vs-puello-boxing-live-online-1236918582/",
-      "source_count": 1,
-      "sources": [
-        "Variety"
+        "Deadline Hollywood"
       ]
     },
     {
       "title": "BravoCon 2027 Sets Dates For Return To Las Vegas",
       "url": "https://deadline.com/2026/10/bravocon-2027-dates-las-vegas-1237172140/",
-      "source_count": 1,
-      "sources": [
-        "Deadline Hollywood"
-      ]
-    },
-    {
-      "title": "Ric Flair Health Update: Ex-Wrestler Recovering After Fall In Florida",
-      "url": "https://deadline.com/2026/10/ric-flair-health-update-1237172323/",
       "source_count": 1,
       "sources": [
         "Deadline Hollywood"
@@ -72,11 +87,11 @@
       ]
     },
     {
-      "title": "Inside The BBC Cuts: Painful Service Closures Begin, But Worse Could Be To Come",
-      "url": "https://deadline.com/2026/10/inside-bbc-cuts-painful-closures-begin-worse-to-come-1237169573/",
+      "title": "UFC 333 Livestream: Where to Watch Volkanovski vs. Evloev Main Card",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/where-to-watch-ufc-333-volkanovski-evloev-live-stream-free-1236739560/",
       "source_count": 1,
       "sources": [
-        "Deadline Hollywood"
+        "The Hollywood Reporter"
       ]
     },
     {
@@ -98,14 +113,6 @@
     {
       "title": "Lowden, Turner or a Dark Horse: One James Bond Casting Test Has Nothing to Do With Acting",
       "url": "https://www.hollywoodreporter.com/movies/movie-features/james-bond-casting-test-lowden-turner-1236739203/",
-      "source_count": 1,
-      "sources": [
-        "The Hollywood Reporter"
-      ]
-    },
-    {
-      "title": "Bill Murray Is Generally OK Giving You a \"Bill Murray Moment\"",
-      "url": "https://www.hollywoodreporter.com/tv/tv-news/bill-murray-interview-a-course-called-ireland-tom-coyne-1236738922/",
       "source_count": 1,
       "sources": [
         "The Hollywood Reporter"
@@ -160,48 +167,48 @@
       ]
     },
     {
-      "title": "15 Best Political TV Shows Of All Time, Ranked",
-      "url": "https://www.tvline.com/2292306/best-political-tv-shows-ranked/",
+      "title": "What To Watch This Week: 40+ Premieres, Finales, And More",
+      "url": "https://www.tvline.com/2295195/what-to-watch-week-of-october-25-2026-tv-shows-movies-streaming/",
       "source_count": 1,
       "sources": [
         "TVLine"
       ]
     },
     {
-      "title": "Casting News: The Gentlemen Hosts LOTR Reunion, Jimmy Smits Visits St. Denis Medical, And More",
-      "url": "https://www.tvline.com/2296096/the-gentlemen-season-3-cast-elijah-wood-st-denis-medical-jimmy-smits/",
+      "title": "5 NBC Sitcoms That Helped Define '80s Television",
+      "url": "https://www.tvline.com/2291632/nbc-sitcoms-helped-define-80s-television/",
       "source_count": 1,
       "sources": [
         "TVLine"
       ]
     },
     {
-      "title": "What Stephen King Thinks About Mike Flanagan's Carrie Prime Video Series",
-      "url": "https://www.tvline.com/2290804/stephen-king-mike-flanagan-carrie-prime-video-series-thoughts/",
+      "title": "NCIS: New York Actor Jacqueline Byers Starred In Cameron Crowe's Only TV Series",
+      "url": "https://www.tvline.com/2292810/ncis-new-york-jacqueline-byers-star-cameron-crowe-tv-series-roadies/",
       "source_count": 1,
       "sources": [
         "TVLine"
       ]
     },
     {
-      "title": "Hallmark Star Andrew Walker Made His Acting Debut In This Forgotten '90s Cop Drama",
-      "url": "https://www.tvline.com/2290793/hallmark-star-andrew-walker-acting-debut-forgotten-90s-cop-drama-sirens/",
+      "title": "10 Best Netflix Shows Based On Comics, Ranked",
+      "url": "https://www.tvline.com/2296163/best-netflix-shows-based-comics-ranked/",
       "source_count": 1,
       "sources": [
         "TVLine"
       ]
     },
     {
-      "title": "Young Sheldon Was Nearly Scrapped Before The First Episode Was Shot, Says Co-Creator Chuck Lorre",
-      "url": "https://www.tvline.com/2290550/young-sheldon-nearly-scrapped-before-first-episode-chuck-lorre/",
+      "title": "Crystal Lake's Jason Voorhees Actor Plays A Key Character On A Hit Netflix Series",
+      "url": "https://www.tvline.com/2291961/crystal-lake-jason-voorhees-actor-key-character-netflix-action-thriller-the-night-agent/",
       "source_count": 1,
       "sources": [
         "TVLine"
       ]
     },
     {
-      "title": "Gilligan's Island Star Jim Backus Was Nearly Unrecognizable On The Brady Bunch",
-      "url": "https://www.tvline.com/2285398/gilligans-island-star-jim-backus-unrecognizable-the-brady-bunch/",
+      "title": "The One Time Jerry Seinfeld Threatened To Quit His Hit NBC Sitcom",
+      "url": "https://www.tvline.com/2291646/jerry-seinfeld-threat-quit-hit-nbc-sitcom/",
       "source_count": 1,
       "sources": [
         "TVLine"
@@ -316,9 +323,10 @@
     {
       "title": "Mass Effect Fans Call for EA Boycott as Petition to Save BioWare's Canceled Game Garners More than 75,000 Signatures",
       "url": "https://www.ign.com/articles/mass-effect-fans-call-for-ea-boycott-as-petition-to-save-biowares-canceled-game-garners-more-than-75000-signatures",
-      "source_count": 1,
+      "source_count": 2,
       "sources": [
-        "IGN Games"
+        "IGN Games",
+        "Polygon"
       ]
     },
     {
@@ -379,6 +387,30 @@
       ]
     },
     {
+      "title": "Top Xbox exec promoted in brand 'reset' leaves after 3 months in role",
+      "url": "https://www.pcgamer.com/gaming-industry/top-xbox-exec-promoted-in-brand-reset-leaves-after-3-months-in-role/",
+      "source_count": 1,
+      "sources": [
+        "PC Gamer"
+      ]
+    },
+    {
+      "title": "Penguin Colony review: A daringly weird horror game whose atmosphere and surprises overcome its rough edges",
+      "url": "https://www.pcgamer.com/games/horror/penguin-colony-review/",
+      "source_count": 1,
+      "sources": [
+        "PC Gamer"
+      ]
+    },
+    {
+      "title": "BioWare's incredible legacy will continue as long as there are RPGs",
+      "url": "https://www.pcgamer.com/games/rpg/biowares-incredible-legacy-will-continue-as-long-as-there-are-rpgs/",
+      "source_count": 1,
+      "sources": [
+        "PC Gamer"
+      ]
+    },
+    {
       "title": "Now it's over, WoW: Forever's beta has left me with just one fear",
       "url": "https://www.pcgamer.com/games/world-of-warcraft/now-its-over-wow-forevers-beta-has-left-me-with-just-one-fear-its-endgame/",
       "source_count": 1,
@@ -403,75 +435,11 @@
       ]
     },
     {
-      "title": "Japan Actors Union pushes for heavy restrictions on AI copying dead actors",
-      "url": "https://www.pcgamer.com/software/ai/japan-actors-union-pushes-for-heavy-restrictions-on-ai-copying-dead-actors/",
+      "title": "North Korea's Kim Jong Un visits China via Dandong bridge, Yonhap says",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBUcXZDWnFmaElOenR6RzdUWDlmdTBpWUJFeTJlUE5IZlBMS0J6NjR5NTc3WXhmcVQ4ZHJONi1tNGhPYWtQa091cUZTVU9sb0hLLXVJV0RsZHhVUQ",
       "source_count": 1,
       "sources": [
-        "PC Gamer"
-      ]
-    },
-    {
-      "title": "Are we in the cozy gaming gold rush era? 'Cozy' has grown over 250% on Steam and 200% in my inbox since 2024",
-      "url": "https://www.pcgamer.com/games/life-sim/are-we-in-the-cozy-gaming-gold-rush-era-cozy-has-grown-over-250-percent-on-steam-and-200-percent-in-my-inbox-since-2024/",
-      "source_count": 1,
-      "sources": [
-        "PC Gamer"
-      ]
-    },
-    {
-      "title": "The best feature in the original Alan Wake is an absence: the man has no reticle",
-      "url": "https://www.pcgamer.com/games/horror/the-best-feature-in-the-original-alan-wake-is-an-absence-the-man-has-no-reticle/",
-      "source_count": 1,
-      "sources": [
-        "PC Gamer"
-      ]
-    },
-    {
-      "title": "Exclusive-US has for years asked Musk to alter Starlink service in Ukraine, Middle East, sources say",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOWFNyVUpPN2xzaGRTOUR4UExFOFVPcHlzWDJ4LUJRWi1KZEhzd0g2ZXA0akF6YnpzNnlmQnVLcjVMamZwSl92OVBoRk1McHo1WTBWMkxfb1QtZGFINzlGSkZEQTMyZW9Ha3JpLW5lWTJBSUR6YW5CSkk0RGFaM1FHRklkbWVtMWdwRktGOUh2RElzcV9xVm9ySW9PRWhOcERLbEhBLU9xRWFqMS1VQl8xcnlDSm9LYUpGaW1zT3lVWkp3UXVvUWpDU0ZUTVU5QdIB0wFBVV95cUxNYXR2ZGlhNlVTUDdVWGdfRHpfVUlTbjRYZGhfdmhIalJ0dVcyY2g3OG1CS3BXSkstUC12UWZJSWtXOVhUWEVpRWIzYlVjSHd5Q0docTg1azBNUGg1Mjk1V2RiRW9tdXBIdXdJWmdwVGRsLXFZX2FPdnlMZF9oekxudm94T3Rlb0VvNXdvM215WElReWhNZ2ZFRm9Hb2tsMmVydjJEdXg2bkFiVnE3SU9ubjg3azRKQVV6aUNzR2xncG9zY0Nka0hyVlJWSTctN3V0VHNz",
-      "source_count": 1,
-      "sources": [
-        "ThePrint"
-      ]
-    },
-    {
-      "title": "GOAT Industries Signs Definitive Agreement To Acquire Epoxy AI Customer Contract Revenues",
-      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOdHoyNERJT0xreWk4VjlISm02eHpvbHdlVkVxODVBcGp2Y0FDN3pWZVRRVEQ5d3lCRmZ0dU9MeVNSR2RDZmJrLW50Zm16dmJuMTJWeGhzTlh2VHNOckFMdjhwQXdwWXhRNlhueWVjY24wMDY5VFBSbXphZTJicW1sX2NrM056MVZHa3NDTVVzTmV0VGRPcDI1Y1pfc1EwSmE4eWdVNW1hQTZ3ZWxCaFVhdm95SWluOTdJbnc4LUc3YUJyNmY5aDY0X1Ytdk5rVlU1ZUZ0TERWbG1HZHhSWlpKNHlvMThrQXdqaWtwS3hzSkQwNzVuUk1uMA",
-      "source_count": 1,
-      "sources": [
-        "TradingView"
-      ]
-    },
-    {
-      "title": "'Told Them You Will Not Trade With US': Trump Repeats Claim Tariff Threats Ended India-Pakistan Conflict",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOb3dCX3hmWk1qOWh2U3cxdFg4N1JHa2pfVElRSVRnUE5YVkpaTk93RjFMc1RCY2t3Vi1ieGJFZy1FbG8xSFlEeGxNZ2RnaHhKb0tVWGdLLXVuUW1QYnp2UWpocnZic0xEOWcyZDVBS29SSmxwbjdlY3hyT0Z2QmdDajQ1QnI3a0ZsZDBWN2ItUlRkVWdnNmVqdXZGTl9kc2pCUkVaWDB2aTlXLTRJdHREbzNiT09qNEVKN3NXcDZjNG5YU2pCbHpsdElEcDFBcWdMWThOYml5WEllNVXSAeMBQVVfeXFMTUd0aUx5T1lYN1Y5ekxmSE9SWFlhcjBBOHF5RHduUlhsc0RqQk05MGVUSVVMQzJYSzZfdG1fS0otaHVzS1lWRGJEbFVCMnphYzlDTGc3YnR4OWJISGFHSjR3dXFlcllIUXAxLTkzQkdYUHNGYzlLd0lsQm9qbUVXX3RVWlRKNzAxQm13cno2TmpsNWNBd1VWZHhUZlhnTW1YVzRoN2swRndaWExDVGRLQVgxVk1jaXc3X0czUm9OWUktT2FnTVE2cVZicEI1UVAwMjl6eVpSME1PcDJJZlZBSHl4NFE",
-      "source_count": 1,
-      "sources": [
-        "NDTV Profit"
-      ]
-    },
-    {
-      "title": "OpenAI resumes frontier AI training after security overhaul, discloses flaw in widely used software",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNWmNWUG02ckVXVjVFQ3RTbloxVEx0Y3gxQ1JScGMwT21hRDltajQ4cl9DV3hrdE5DYnZBdm0wRGxCSkNPdHFFTVVqY2FKUmoyWlpiSVhOQVFwcVFSbnJ1UmdzaEVlcnJWNlhNcFJGbk1Hc2l5UE1pTDRDSFN5bDQ3TjV2aE8ySUtJVkJnaGlIUHNJdURfbnVxdWZGNHRGUjhiRlMyaS00QWgxX2FHRE9ueURTUWlLSm5TSm5QMWZFSGJ1NEYwcnRKOHkwd0hqTmxUUzZrVTFR",
-      "source_count": 1,
-      "sources": [
-        "CTV News"
-      ]
-    },
-    {
-      "title": "Philippines investigates Thomas Markle, father of Meghan, after child sexual abuse images",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQaThJaWVNQnFEOW9td1U2VXNRUmFNbnp3a0FUWDJQb3ZLZ0JGMF95ZFJyeVRwOGJNNlNmdnVlRFYxYTR6RW03blAtODluc2p3bURLMjhYUHpRYnpMc1RZMEk3NUttYzIxRzNkY1Y4VVlOZVBzX2U0ODhiSmxScmZtNkNIRDQ4RVhlMGdVVU5WTEZpRlpRNjMzVVFDbDF1MmJURzY5NlY0UE1JYjhaRndFbkVNVmFGNHJNNzF3Z3IySUppMW1VbTFvajltemE0bWdwN1E",
-      "source_count": 1,
-      "sources": [
-        "The Financial Express"
-      ]
-    },
-    {
-      "title": "Health officials race to trace source of Nigeria's Ebola infection By Reuters",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOcmtvWENUMDE3YUZLS3MtVDVGYXRrSVFqTTdqZl9jdkVoeTBEYkFadGVCREdRcTVTTmN6QTVrYkw4UHpWTTdGNnNPUUduUDBEZnVxZXhzTW9RMGJGZGZMWWxDV1FWeGg2MTFjRG81QWJRakJ0UlVGU1RDMzlHWXpZZzJTVjlNOW9MOWJJbTFXOUczSzhQYl92MG5XbWJoM1ROekRMR19OX0JVZUxIb2U4bTc1VFVHQQ",
-      "source_count": 1,
-      "sources": [
-        "Investing.com"
+        "Nepali Patro"
       ]
     },
     {
@@ -571,6 +539,14 @@
       ]
     },
     {
+      "title": "Jay-Z Brings Out Blue Ivy, John Legend, DJ Khaled & Scarface in Los Angeles",
+      "url": "https://www.billboard.com/music/rb-hip-hop/jay-z-la-night-one-guests-blue-ivy-john-legend-scarface-1236367544/",
+      "source_count": 1,
+      "sources": [
+        "Billboard"
+      ]
+    },
+    {
       "title": "Doja Cat Talks About What She Loves About Collaborating With SZA & Performing With Latto",
       "url": "https://www.billboard.com/video/doja-cat-meta-interview/",
       "source_count": 1,
@@ -605,14 +581,6 @@
     {
       "title": "Drake Sings 'I Want It That Way' With Backstreet Boys at 40th Birthday Bash",
       "url": "https://www.billboard.com/music/rb-hip-hop/drake-40th-birthday-backstreet-boys-surprise-performance-1236367504/",
-      "source_count": 1,
-      "sources": [
-        "Billboard"
-      ]
-    },
-    {
-      "title": "In Canada: Summer Walker, Bebe Rexha to Accept Awards at Billboard Canada Women in Music 2026",
-      "url": "https://www.billboard.com/pro/summer-walker-bebe-rexha-billboard-canada-women-in-music/",
       "source_count": 1,
       "sources": [
         "Billboard"
@@ -667,53 +635,45 @@
       ]
     },
     {
-      "title": "Stephen King's 10 Best Villains of All Time, Ranked",
-      "url": "https://www.polygon.com/stephen-kings-best-villains-of-all-time-ranked/",
+      "title": "The 5 least-scary scary games for people who are scared of scary games",
+      "url": "https://www.polygon.com/best-not-scary-horror-games/",
       "source_count": 1,
       "sources": [
         "Polygon"
       ]
     },
     {
-      "title": "5 Hardest Platformers Ever Made, Ranked by Difficulty",
-      "url": "https://www.polygon.com/5-hardest-platformers-ever-ranked/",
+      "title": "10 Near-Perfect Netflix Sci-Fi Shows That Hook You in the First Scene",
+      "url": "https://www.polygon.com/perfect-netflix-sci-fi-shows-that-hook-you-in-the-first-scene/",
       "source_count": 1,
       "sources": [
         "Polygon"
       ]
     },
     {
-      "title": "Steam Officially Rolls Out A Calendar Feature To Directly Recommend New Games",
-      "url": "https://www.polygon.com/steam-personal-calendar-wide-release/",
+      "title": "One Piece Is Officially Coming to Fortnite",
+      "url": "https://www.polygon.com/fortnite-one-piece-confirmed-mini-season-teaser/",
       "source_count": 1,
       "sources": [
         "Polygon"
       ]
     },
     {
-      "title": "Dead by Daylight Is Losing Another Horror Icon",
-      "url": "https://www.polygon.com/dead-by-daylight-chucky-removed/",
+      "title": "Clint Eastwood's Most Intense Western Is Officially Streaming for Free on YouTube",
+      "url": "https://www.polygon.com/high-plains-drifter-clint-eastwood-free-to-stream/",
       "source_count": 1,
       "sources": [
         "Polygon"
       ]
     },
     {
-      "title": "One of 2026's Best-Rated Games Is Basically Mass Effect With Spies",
-      "url": "https://www.polygon.com/zero-parades-mass-effect-2-comparison/",
-      "source_count": 1,
-      "sources": [
-        "Polygon"
-      ]
-    },
-    {
-      "title": "Xbox's First-Ever COO Is Already Leaving After A Few Months",
-      "url": "https://www.polygon.com/xbox-loses-coo/",
+      "title": "Hulu Officially Bringing Back 2000s Fan-Favorite Crime Drama",
+      "url": "https://www.polygon.com/prison-break-reboot-black-creek-hulu/",
       "source_count": 1,
       "sources": [
         "Polygon"
       ]
     }
   ],
-  "summary": "Verified intelligence gathered across 88 deduplicated editorial clusters."
+  "summary": "Verified intelligence gathered across 83 deduplicated editorial clusters."
 }
