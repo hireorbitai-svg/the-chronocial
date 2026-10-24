@@ -1,7 +1,32 @@
 {
-  "timestamp": "2026-10-23T22:55:13.442693+00:00",
-  "headline_count": 91,
+  "timestamp": "2026-10-24T03:27:23.980211+00:00",
+  "headline_count": 92,
   "headlines": [
+    {
+      "title": "Bill Maher's Embarrassing Karoline Leavitt Interview on 'Real Time'",
+      "url": "https://variety.com/2026/tv/news/bill-maher-karoline-leavitt-interview-trump-real-time-hbo-1236930093/",
+      "source_count": 1,
+      "sources": [
+        "Variety"
+      ]
+    },
+    {
+      "title": "Kartik Aaryan's 'Captain India' Set Amid Houthi Conflict in Yemen (EXCLUSIVE)",
+      "url": "https://variety.com/2026/film/news/kartik-aaryan-captain-india-houthi-conflict-yemen-1236930090/",
+      "source_count": 1,
+      "sources": [
+        "Variety"
+      ]
+    },
+    {
+      "title": "Ken Atchity, 'The Meg' Producer and Literary Agent, Dies at 82",
+      "url": "https://variety.com/2026/film/people-news/ken-atchity-dead-the-meg-1236930069/",
+      "source_count": 2,
+      "sources": [
+        "Variety",
+        "The Hollywood Reporter"
+      ]
+    },
     {
       "title": "Sacha Baron Cohen Says Donald Trump Has 'Elements of Brilliance' and 'We Were Too Easy to Dismiss Him as a Nincompoop'",
       "url": "https://variety.com/2026/film/news/sacha-baron-cohen-donald-trump-brilliance-nincompoop-ali-g-1236930008/",
@@ -27,76 +52,75 @@
       ]
     },
     {
-      "title": "Why Olivia Colman Didn't Get Splinters From Getting Intimate With Alexander Skarsgård's 'Wicker' Costume",
-      "url": "https://variety.com/2026/artisans/news/what-alexander-skarsgard-wicker-basket-was-made-from-1236929863/",
+      "title": "Karoline Leavitt Compares Katie Zacharia's Abrupt Exit As Trump's Press Secretary To 'The Apprentice': \"He's Known For … Moving On From People\"",
+      "url": "https://deadline.com/2026/10/karoline-leavitt-on-bill-maher-trump-press-secretary-1237172271/",
       "source_count": 1,
       "sources": [
-        "Variety"
+        "Deadline Hollywood"
       ]
     },
     {
-      "title": "Ethan Klein Reacts to Hila Klein's Cheating Allegations Amid 'H3 Podcast' Fallout: 'Please Respect My Family's Privacy … They Have Nothing to Do With This'",
-      "url": "https://variety.com/2026/digital/news/ethan-klein-reacts-hila-klein-cheating-allegations-h3-1236929836/",
-      "source_count": 2,
+      "title": "'Clayface' Director James Watkins Explains Aaron Paul's Cameo: \"A Real Brief Easter Egg\"",
+      "url": "https://deadline.com/2026/10/clayface-james-watkins-explains-aaron-paul-cameo-1237172273/",
+      "source_count": 1,
       "sources": [
-        "Variety",
+        "Deadline Hollywood"
+      ]
+    },
+    {
+      "title": "Billy Corgan Backs Marilyn Manson Over Sex Abuse Claims, Citing Inside Knowledge Of Case: \"I Personally Didn't Feel He Was Guilty\"",
+      "url": "https://deadline.com/2026/10/marilyn-manson-sex-abuse-claims-billy-corgan-1237172174/",
+      "source_count": 1,
+      "sources": [
+        "Deadline Hollywood"
+      ]
+    },
+    {
+      "title": "'Avengers: Doomsday' World Series Sneak Peek Sees Mister Fantastic Throw Out First Pitch",
+      "url": "https://deadline.com/2026/10/avengers-doomsday-world-series-sneak-peek-1237172207/",
+      "source_count": 1,
+      "sources": [
+        "Deadline Hollywood"
+      ]
+    },
+    {
+      "title": "Awards Season Heats Up With 'The Only Living Pickpocket In New York,' 'Fatherland' & More",
+      "url": "https://deadline.com/2026/10/indie-films-opening-only-living-pickpocket-in-new-york-wicker-1237171300/",
+      "source_count": 1,
+      "sources": [
+        "Specialty Preview"
+      ]
+    },
+    {
+      "title": "Everything We Know About Universal's 'Miami Vice '85' Movie So Far",
+      "url": "https://deadline.com/feature/miami-vice-85-movie-news-updates-1237172205/",
+      "source_count": 1,
+      "sources": [
+        "Deadline Hollywood"
+      ]
+    },
+    {
+      "title": "Hannah Einbinder Says Speaking Out for Palestine Is \"the Bare Minimum\"",
+      "url": "https://www.hollywoodreporter.com/news/general-news/hannah-einbinder-palestine-support-bare-minimum-1236739491/",
+      "source_count": 1,
+      "sources": [
         "The Hollywood Reporter"
       ]
     },
     {
-      "title": "How to Watch MLB World Series 2026: Tampa Bay Rays vs. Milwaukee Brewers Online for Free",
-      "url": "https://variety.com/2026/shopping/news/how-to-watch-world-series-2026-mlb-livestream-online-free-1236929580/",
+      "title": "'Street Fighter' Breakout Callina Liang Talks Embracing Fan Skepticism and Reveals Two Key Scrapped Moments",
+      "url": "https://www.hollywoodreporter.com/movies/movie-features/street-fighter-callina-liang-chin-li-1236739271/",
       "source_count": 1,
       "sources": [
-        "Variety"
+        "The Hollywood Reporter"
       ]
     },
     {
-      "title": "'Crazy Rich Asians' Star Constance Wu Teases \"Really Funny\" HBO Series Filming In NYC",
-      "url": "https://deadline.com/2026/10/crazy-rich-asians-constance-wu-teases-funny-hbo-series-1237172108/",
+      "title": "Nick Reiner's Push for Release of Trust Money to Be Decided by Mediator",
+      "url": "https://www.hollywoodreporter.com/news/general-news/nick-reiner-trust-money-release-decided-mediator-1236739448/",
       "source_count": 1,
       "sources": [
-        "Deadline Hollywood"
-      ]
-    },
-    {
-      "title": "Aaron Guzikowski Tapped To Pen New 'Alien' Movie For 20th, Scott Free",
-      "url": "https://deadline.com/2026/10/new-alien-movie-aaron-guzikowski-writing-20th-1237172102/",
-      "source_count": 1,
-      "sources": [
-        "Deadline Hollywood"
-      ]
-    },
-    {
-      "title": "Renate Reinsve On Making Cristian Mungiu's Cannes Winner 'Fjord': \"I Knew I Was Going Into A Completely Different World\"",
-      "url": "https://deadline.com/2026/10/renate-reinsve-interview-fjord-cristian-mungiu-sebastian-stan-1237172003/",
-      "source_count": 1,
-      "sources": [
-        "Deadline Hollywood"
-      ]
-    },
-    {
-      "title": "'Overcompensating's Benito Skinner Reveals Season 2 Hookup That Fans \"Ask About Everyday\"",
-      "url": "https://deadline.com/2026/10/overcompensating-benito-skinner-season-2-hookup-1237172069/",
-      "source_count": 1,
-      "sources": [
-        "Deadline Hollywood"
-      ]
-    },
-    {
-      "title": "Weekly World News Comedy Series From 'Reno 911!' Co-Creator Robert Ben Garant Raises $2.5M To Film Full Season Independently In California",
-      "url": "https://deadline.com/2026/10/weekly-world-news-comedy-series-independent-private-finance-1237171751/",
-      "source_count": 1,
-      "sources": [
-        "Deadline Hollywood"
-      ]
-    },
-    {
-      "title": "All The Songs In Laika's 'Wildwood': From Portugal. The Man To The Decemberists",
-      "url": "https://deadline.com/2026/10/wildwood-songs-soundtrack-album-the-decemberists-1237172048/",
-      "source_count": 1,
-      "sources": [
-        "Deadline Hollywood"
+        "The Hollywood Reporter"
       ]
     },
     {
@@ -110,30 +134,6 @@
     {
       "title": "Marysa Maslansky, Founder of the Renowned Visages Photo Agency, Dies at 82",
       "url": "https://www.hollywoodreporter.com/lifestyle/lifestyle-news/marysa-maslansky-dead-visages-photo-agency-herb-ritts-1236739352/",
-      "source_count": 1,
-      "sources": [
-        "The Hollywood Reporter"
-      ]
-    },
-    {
-      "title": "Chappell Roan Enlists PinkPantheress to Close Out Super Graphic Spectacular Fundraising Shows",
-      "url": "https://www.hollywoodreporter.com/music/music-news/chappell-roan-super-graphic-spectacular-fundraising-show-1236738829/",
-      "source_count": 1,
-      "sources": [
-        "The Hollywood Reporter"
-      ]
-    },
-    {
-      "title": "TV Ratings: 'Cupertino' and 'Line of Fire' More than Double in Delayed Viewing",
-      "url": "https://www.hollywoodreporter.com/tv/tv-news/cupertino-line-of-fire-multi-platform-ratings-1236738447/",
-      "source_count": 1,
-      "sources": [
-        "The Hollywood Reporter"
-      ]
-    },
-    {
-      "title": "'Nobody Wants This' Season 3 Explained: Does Joanne Finally Convert to Judaism? What Happens to Morgan and Sasha?",
-      "url": "https://www.hollywoodreporter.com/tv/tv-features/nobody-wants-this-season-3-ending-explained-joanne-noah-1236737869/",
       "source_count": 1,
       "sources": [
         "The Hollywood Reporter"
@@ -188,6 +188,30 @@
       ]
     },
     {
+      "title": "Fire Country Musical Guest INK Brought Her Superfan Mom To Set: 'She Was The Star Of The Show'",
+      "url": "https://www.tvline.com/2295815/ink-fire-country-season-5-episode-3-performance-explained/",
+      "source_count": 1,
+      "sources": [
+        "TVLine"
+      ]
+    },
+    {
+      "title": "Newlyweds: Are You Ready To Commit To NBC's New Rom-Com? Grade The Premiere!",
+      "url": "https://www.tvline.com/2292474/newlyweds-premiere-recap-nbc-comedy-tea-leoni-tim-daly/",
+      "source_count": 1,
+      "sources": [
+        "TVLine"
+      ]
+    },
+    {
+      "title": "5 S.W.A.T Characters We Hope Make A Guest Appearance On Exiles",
+      "url": "https://www.tvline.com/2295996/swat-characters-hope-guest-appearance-exiles/",
+      "source_count": 1,
+      "sources": [
+        "TVLine"
+      ]
+    },
+    {
       "title": "Why Raife Hastings From The Terminal List Looks So Familiar",
       "url": "https://www.tvline.com/2295396/raife-hastings-the-terminal-list-actor-tom-hopper/",
       "source_count": 1,
@@ -206,30 +230,6 @@
     {
       "title": "5 TV Shows To Watch If You Like Clayface",
       "url": "https://www.tvline.com/2295449/tv-shows-like-clayface/",
-      "source_count": 1,
-      "sources": [
-        "TVLine"
-      ]
-    },
-    {
-      "title": "What To Watch In November: A Printable TV Calendar Highlighting Every Major Premiere And Finale",
-      "url": "https://www.tvline.com/2295907/november-2026-tv-schedule-what-to-watch-printable-calendar-premieres-finales-streaming-list/",
-      "source_count": 1,
-      "sources": [
-        "TVLine"
-      ]
-    },
-    {
-      "title": "Law & Order: SVU's Stephanie March To Return In Season 28",
-      "url": "https://www.tvline.com/2295864/law-and-order-svu-stephanie-march-return-season-28-alexandra-cabot/",
-      "source_count": 1,
-      "sources": [
-        "TVLine"
-      ]
-    },
-    {
-      "title": "5 Best Once Upon A Time Villains, Ranked",
-      "url": "https://www.tvline.com/2294162/once-upon-a-time-best-villains-ranked/",
       "source_count": 1,
       "sources": [
         "TVLine"
@@ -326,6 +326,22 @@
       ]
     },
     {
+      "title": "Dead by Daylight to Remove Chucky Content Just Months After Losing Michael Myers",
+      "url": "https://www.ign.com/articles/dead-by-daylight-to-remove-chucky-content-just-months-after-losing-michael-myers",
+      "source_count": 1,
+      "sources": [
+        "IGN Games"
+      ]
+    },
+    {
+      "title": "Barnes & Noble Has the First 500-Piece Dungeon Crawler Carl Jigsaw Puzzle for Sale",
+      "url": "https://www.ign.com/articles/barnes-noble-has-the-first-500-piece-dungeon-crawler-carl-jigsaw-puzzle-for-sale",
+      "source_count": 1,
+      "sources": [
+        "IGN Games"
+      ]
+    },
+    {
       "title": "Mass Effect Fans Call for EA Boycott as Petition to Save BioWare's Canceled Game Garners More than 75,000 Signatures",
       "url": "https://www.ign.com/articles/mass-effect-fans-call-for-ea-boycott-as-petition-to-save-biowares-canceled-game-garners-more-than-75000-signatures",
       "source_count": 1,
@@ -353,22 +369,6 @@
     {
       "title": "Magic: The Gathering The Hobbit Gift Bundle Deal Hits Amazon, but You Should Wait for Black Friday",
       "url": "https://www.ign.com/articles/magic-the-gathering-hobbit-gift-bundle-amazon-deal",
-      "source_count": 1,
-      "sources": [
-        "IGN Games"
-      ]
-    },
-    {
-      "title": "Mass Effect 5 Details Revealed Following Cancellation, Including 'Hitman-Style Freedom' in Missions",
-      "url": "https://www.ign.com/articles/mass-effect-5-details-revealed-following-cancellation-including-hitman-style-freedom-in-missions",
-      "source_count": 1,
-      "sources": [
-        "IGN Games"
-      ]
-    },
-    {
-      "title": "IGN Is Partnering with Best Buy for 3 Weeks of Giveaways Leading Up to GTA VI's Release",
-      "url": "https://www.ign.com/articles/ign-is-partnering-with-best-buy-for-3-weeks-of-giveaways-leading-up-to-gta-vis-release",
       "source_count": 1,
       "sources": [
         "IGN Games"
@@ -463,27 +463,27 @@
       ]
     },
     {
+      "title": "GOAT Industries Signs Definitive Agreement To Acquire Epoxy AI Customer Contract Revenues",
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOdHoyNERJT0xreWk4VjlISm02eHpvbHdlVkVxODVBcGp2Y0FDN3pWZVRRVEQ5d3lCRmZ0dU9MeVNSR2RDZmJrLW50Zm16dmJuMTJWeGhzTlh2VHNOckFMdjhwQXdwWXhRNlhueWVjY24wMDY5VFBSbXphZTJicW1sX2NrM056MVZHa3NDTVVzTmV0VGRPcDI1Y1pfc1EwSmE4eWdVNW1hQTZ3ZWxCaFVhdm95SWluOTdJbnc4LUc3YUJyNmY5aDY0X1Ytdk5rVlU1ZUZ0TERWbG1HZHhSWlpKNHlvMThrQXdqaWtwS3hzSkQwNzVuUk1uMA",
+      "source_count": 1,
+      "sources": [
+        "TradingView"
+      ]
+    },
+    {
+      "title": "Health officials race to trace source of Nigeria's Ebola infection By Reuters",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOcmtvWENUMDE3YUZLS3MtVDVGYXRrSVFqTTdqZl9jdkVoeTBEYkFadGVCREdRcTVTTmN6QTVrYkw4UHpWTTdGNnNPUUduUDBEZnVxZXhzTW9RMGJGZGZMWWxDV1FWeGg2MTFjRG81QWJRakJ0UlVGU1RDMzlHWXpZZzJTVjlNOW9MOWJJbTFXOUczSzhQYl92MG5XbWJoM1ROekRMR19OX0JVZUxIb2U4bTc1VFVHQQ",
+      "source_count": 1,
+      "sources": [
+        "Investing.com"
+      ]
+    },
+    {
       "title": "SAP clients increasingly worry about AI models' origin, CFO says",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSks0d1dqWVRpTHVmNXBKTjdIbjlBczVtSXFDcllzTVlKallJZnUyX1dXOFpQWjZjdjFHQ3AwUVJEaFZoQ040TGFsVmFiMFllUHNsbGQxbldiSk5SdExrOHIza0diZWpRbDhEdmtMSzd3eWkyaUdCLVgzbDh6S0lrd1oyanNUQWZwZ2JUcmVMbFo2NXVlRzh3clQxQTk4OVoybU1vRmw5V1djNnk1OHpJ",
       "source_count": 1,
       "sources": [
         "Reuters"
-      ]
-    },
-    {
-      "title": "Comcast plans significant job cuts, Bloomberg News reports",
-      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNRVZKME5oTWw1Vm5BczNKWHZyODVYUV82YTRwYmRSRUxZc1l5OVlsUFJaRWU3c290Nk5HOUlvUGt2TzVkVVFIcGFFMkVyaTY2TGszY29MdGt5VTZSSjVvNjJMbW9ubko0akdtb0EyTFRGaGRQbXdQSzNBVldrbndLdXJzMGUyTjZXTlVaeWVwdXp5d3BZMmpmdmxBRHg1UkJLejRDNVBldkF4S2NMRXJYTVNwVXBTSHM4RTB1X0R5LVNDZkNCWkxuRTY3T2laSUsyVGRjWjY1c1FTTEJrMXMtVjVQd0txX1hLSjBfTVF1SEozNHc",
-      "source_count": 1,
-      "sources": [
-        "Central Oregon Daily"
-      ]
-    },
-    {
-      "title": "TV reporter recalls 'terrifying' rescue of man from sinking car",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPVzVweThEalczZmJsZEtYVWpaZjMzblNVTXE3YVM0MEdCWEhUUXZlUWNLV3BVZWtja184eWtORi1qRHR2clRQTU9xbFcwWFF1aENMUzVCLTZvZmV2MjVsc0JLWVRJU0kzeHFkMmxibks4R2JEWjYtazRWVnVTWUc0VTlWN0FlZ2VqWkN0TklR",
-      "source_count": 1,
-      "sources": [
-        "Bilyonaryo Business"
       ]
     },
     {
@@ -495,11 +495,11 @@
       ]
     },
     {
-      "title": "Major US banks block AI agents from accessing customer accounts",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQeEpfT2lYTWF6N0QySDNhV3A0VFFVWEs2MWpZLXk2R1lvZ0M4YnlwbTExX3VkRE5vWWhFX3YwZXNNWmJSeGRQX1QtZ3E3LVIyVFFqMnpXQ3ltRlFsS2lrZGRVU0JCWWVtQURUdXZBQnR6YU5Wb0tKdnA4czRHQ25BckpleHN1MENGSV96REtxOXNSa2dNRHNjb2FGajdxUXM5UzJ0ZVdJNmZESFVXb1NlWWdpb21sVFVzU3hLVXhvRFN6d0hyanc",
+      "title": "What is PHP and why did it take government websites offline?",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZ0lJS1lzVTBUNTJULVVJZGpTR0NwcXN3SkpEQVgzQ19CaGZxNlFGWEFGU1lRTjhyYjE2RDZDTUJqMGNyQXpnaWhMbGlhLV9qZU1HSmt4WGJlMXlJLWVRNDIwY3FPdjNMSUc3UzhLWWM0N19ubjROa3pjWHJraVNJa05EeUR2WHRSbDVhN3EzWHE3UkVPUVlPN3AxMjdMSkJXdnZfRQ",
       "source_count": 1,
       "sources": [
-        "Gulf News"
+        "Reuters"
       ]
     },
     {
@@ -599,6 +599,14 @@
       ]
     },
     {
+      "title": "In Canada: Summer Walker, Bebe Rexha to Accept Awards at Billboard Canada Women in Music 2026",
+      "url": "https://www.billboard.com/pro/summer-walker-bebe-rexha-billboard-canada-women-in-music/",
+      "source_count": 1,
+      "sources": [
+        "Billboard"
+      ]
+    },
+    {
       "title": "Drake Becomes First Act to Surpass 350 Million RIAA-Certified Units, With 30 New Certifications",
       "url": "https://www.billboard.com/music/rb-hip-hop/drake-new-certifications-riaa-diamond-views-marvins-room-1236367433/",
       "source_count": 1,
@@ -633,14 +641,6 @@
     {
       "title": "Vince Gill & Charlie Handsome Lead 2026 NMPA Gold & Platinum Gala Honorees",
       "url": "https://www.billboard.com/pro/vince-gill-charlie-handsome-2026-nmpa-gold-platinum-gala/",
-      "source_count": 1,
-      "sources": [
-        "Billboard"
-      ]
-    },
-    {
-      "title": "Matchbox Twenty 2027: Here's Where to Shop Affordable Tour Tickets Online",
-      "url": "https://www.billboard.com/culture/product-recommendations/matchbox-twenty-2027-tour-tickets-buy-shop-online-1236367080/",
       "source_count": 1,
       "sources": [
         "Billboard"
@@ -695,6 +695,22 @@
       ]
     },
     {
+      "title": "The Witcher's Geralt Officially Returns for New Adventure",
+      "url": "https://www.polygon.com/the-witcher-geralt-returns-in-2026-with-new-release/",
+      "source_count": 1,
+      "sources": [
+        "Polygon"
+      ]
+    },
+    {
+      "title": "Disney's Officially Bringing Back a '90s Cartoon Icon After 35 Years",
+      "url": "https://www.polygon.com/darkwing-duck-reboot-disney-plus/",
+      "source_count": 1,
+      "sources": [
+        "Polygon"
+      ]
+    },
+    {
       "title": "7 Classic JRPGs That Are So Good They Never Need a Remake",
       "url": "https://www.polygon.com/best-classic-jrpgs-no-remake/",
       "source_count": 1,
@@ -721,20 +737,11 @@
     {
       "title": "10 New Movies To Watch This Weekend on HBO, Hulu, and Disney Plus (October 23-25)",
       "url": "https://www.polygon.com/new-movies-streaming-this-weekend-hbo-disney-plus-hulu-october-23-25/",
-      "source_count": 2,
-      "sources": [
-        "Polygon",
-        "Polygon"
-      ]
-    },
-    {
-      "title": "Esper locations in Final Fantasy Resonance",
-      "url": "https://www.polygon.com/final-fantasy-resonance-esper-locations/",
       "source_count": 1,
       "sources": [
         "Polygon"
       ]
     }
   ],
-  "summary": "Verified intelligence gathered across 91 deduplicated editorial clusters."
+  "summary": "Verified intelligence gathered across 92 deduplicated editorial clusters."
 }
