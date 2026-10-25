@@ -1,7 +1,42 @@
 {
-  "timestamp": "2026-10-25T20:25:52.331506+00:00",
-  "headline_count": 89,
+  "timestamp": "2026-10-25T23:50:27.298532+00:00",
+  "headline_count": 90,
   "headlines": [
+    {
+      "title": "James Gunn Defends the DC Universe, Says He Dislikes the Idea That 'Individual Stories Aren't Meaningful Unless They Lead to Something'",
+      "url": "https://variety.com/2026/film/news/james-gunn-defends-clayface-individual-stories-dcu-1236930872/",
+      "source_count": 1,
+      "sources": [
+        "Variety"
+      ]
+    },
+    {
+      "title": "'You Can See Everything' Director Lance Oppenheim Says Billy Evans 'Didn't Care About Being Seen Naked'; Evans Asked, 'Want to Film Me Showering?'",
+      "url": "https://variety.com/2026/film/news/you-can-see-everything-billy-evans-full-frontal-lance-oppenheim-1236930442/",
+      "source_count": 2,
+      "sources": [
+        "Variety",
+        "Update"
+      ]
+    },
+    {
+      "title": "Peggy King, 'George Gobel Show' Actress and Singer of the '50s, Dies at 96",
+      "url": "https://variety.com/2026/tv/people-news/peggy-king-dead-actress-singer-1236930847/",
+      "source_count": 2,
+      "sources": [
+        "Variety",
+        "The Hollywood Reporter"
+      ]
+    },
+    {
+      "title": "Hudson Williams Says He's Writing a Film Featuring an 'Ex-Hockey Player' and Is 'Getting Tripped Up' by 'Heated Rivalry' Parallels",
+      "url": "https://variety.com/2026/film/news/hudson-williams-new-film-heated-rivalry-parallel-1236930742/",
+      "source_count": 2,
+      "sources": [
+        "Variety",
+        "Deadline Hollywood"
+      ]
+    },
     {
       "title": "'Wicker' Stars Olivia Colman, Alexander Skarsgård and Elizabeth Debicki on Making the 'Very Silly,' 'Really Heartbreaking' Film: 'It's Not Just a Slapstick or Sex Comedy'",
       "url": "https://variety.com/2026/film/news/alexander-skarsgard-olivia-colman-elizabeth-debicki-wicker-interview-1236919062/",
@@ -19,37 +54,11 @@
       ]
     },
     {
-      "title": "'I Play Rocky' Star Stephan James on Paying Tribute to Carl Weathers with His Red Carpet Look: 'I Can Literally Walk in His Shoes Yet Again'",
-      "url": "https://variety.com/2026/film/columns/i-play-rocky-stephan-james-carl-weathers-michael-b-jordan-1236930508/",
+      "title": "Amanda Seyfried Explains Turning Down 'Guardians of the Galaxy' For Family: \"Just Not For Me\"",
+      "url": "https://deadline.com/2026/10/amanda-seyfried-turning-down-guardians-of-the-galaxy-1237172808/",
       "source_count": 1,
       "sources": [
-        "Variety"
-      ]
-    },
-    {
-      "title": "Holland Taylor Says She Was 'Never Paid Very Well' on 'Two and a Half Men': 'I Got Four Emmy Nominations, and They Never Gave Me a Raise'",
-      "url": "https://variety.com/2026/tv/news/holland-taylor-left-two-and-a-half-men-1236930648/",
-      "source_count": 1,
-      "sources": [
-        "Variety"
-      ]
-    },
-    {
-      "title": "Man Arrested on 'Miami Vice '85' Brooklyn Set After Brandishing a Knife",
-      "url": "https://variety.com/2026/film/news/miami-vice-85-man-arrested-on-set-1236930692/",
-      "source_count": 3,
-      "sources": [
-        "Variety",
-        "Deadline Hollywood",
-        "The Hollywood Reporter"
-      ]
-    },
-    {
-      "title": "Elon Musk's Grok Releases First AI-Generated 'Odyssey' Episode, Months After Promising 'Historically Accurate' Full-Length Film",
-      "url": "https://variety.com/2026/film/news/elon-musks-grok-ai-generated-odyssey-1236930662/",
-      "source_count": 1,
-      "sources": [
-        "Variety"
+        "Deadline Hollywood"
       ]
     },
     {
@@ -61,8 +70,8 @@
       ]
     },
     {
-      "title": "Hudson Williams Is Writing A Film, \"Getting Tripped Up\" Over Ex-Hockey Player Character",
-      "url": "https://deadline.com/2026/10/hudson-williams-writing-film-ex-hockey-player-character-1237172776/",
+      "title": "Man Arrested On 'Miami Vice 85' Brooklyn Set After Threatening Crew With Butcher Knife",
+      "url": "https://deadline.com/2026/10/man-arrested-miami-vice-85-brooklyn-set-butcher-knife-1237172783/",
       "source_count": 1,
       "sources": [
         "Deadline Hollywood"
@@ -71,26 +80,25 @@
     {
       "title": "'Clayface' Beams $43M WW Opening, Delivers Paramount-Warner Bros. Second No. 1 Weekend Win Since Merger",
       "url": "https://deadline.com/2026/10/box-office-global-clayface-1237172755/",
-      "source_count": 2,
+      "source_count": 1,
       "sources": [
-        "Global Box Office",
+        "Global Box Office"
+      ]
+    },
+    {
+      "title": "Fox News Hosts Sean Hannity and Ainsley Earhardt Are Married",
+      "url": "https://www.hollywoodreporter.com/lifestyle/lifestyle-news/sean-hannity-ainsley-earhardt-married-fox-news-hosts-1236739744/",
+      "source_count": 1,
+      "sources": [
         "The Hollywood Reporter"
       ]
     },
     {
-      "title": "'Clayface' Scares Off Elizabeth Holmes & Nathan Fielder From No. 1 With $24M; But 'You Can See Everything' Still Widely Seen With Near Epic $20M",
-      "url": "https://deadline.com/2026/10/box-office-clayface-you-can-see-everything-1237171500/",
+      "title": "A Peek Into 'SNL UK': Strict Security, Giddy Cynthia Erivo and Sometimes More a Party Than a TV Set",
+      "url": "https://www.hollywoodreporter.com/tv/tv-features/snl-uk-cynthia-erivo-season-2-nigerian-wicked-tv-review-1236739710/",
       "source_count": 1,
       "sources": [
-        "Update"
-      ]
-    },
-    {
-      "title": "'Nobody Wants This' Creator Erin Foster Has \"More Story To Tell\" With A Season 4, But Isn't Getting \"Too Attached\"",
-      "url": "https://deadline.com/2026/10/nobody-wants-this-erin-foster-more-story-to-tell-season-4-1237172691/",
-      "source_count": 1,
-      "sources": [
-        "Deadline Hollywood"
+        "The Hollywood Reporter"
       ]
     },
     {
@@ -112,14 +120,6 @@
     {
       "title": "Mariana di Girólamo Takes a Ride on the \"Wild\" Side",
       "url": "https://www.hollywoodreporter.com/movies/movie-features/mariana-di-girolamo-martin-mcdonagh-wild-horse-nine-1236736297/",
-      "source_count": 1,
-      "sources": [
-        "The Hollywood Reporter"
-      ]
-    },
-    {
-      "title": "Duncan Crabtree-Ireland Upped to CEO of SAG-AFTRA as Guild Extends His Contract",
-      "url": "https://www.hollywoodreporter.com/business/business-news/duncan-crabtree-ireland-promoted-ceo-sag-aftra-contract-1236739654/",
       "source_count": 1,
       "sources": [
         "The Hollywood Reporter"
@@ -174,48 +174,48 @@
       ]
     },
     {
-      "title": "The Twilight Zone United Parents With One Understandable Shared Complaint",
-      "url": "https://www.tvline.com/2293190/the-twilight-zone-united-parents-shared-complaint/",
+      "title": "The Character Exit That Hurt Supernatural The Most",
+      "url": "https://www.tvline.com/2290751/supernatural-character-exit-hurt-show-most/",
       "source_count": 1,
       "sources": [
         "TVLine"
       ]
     },
     {
-      "title": "15 Most Underrated Shows Streaming On Apple TV",
-      "url": "https://www.tvline.com/2291798/apple-tv-most-underrated-shows/",
+      "title": "5 Cop Shows From The '70s That Still Hold Up Today",
+      "url": "https://www.tvline.com/2291039/70s-cop-shows-still-hold-up-today/",
       "source_count": 1,
       "sources": [
         "TVLine"
       ]
     },
     {
-      "title": "NBC Tried To Beat Happy Days With An Ill-Fated Series Featuring A Vampire Storyline",
-      "url": "https://www.tvline.com/2294096/nbc-tried-beat-happy-days-anthology-series-vampire-cliffhangers/",
+      "title": "The Hallmark Channel's First Show Was A Forgotten Sci-Fi Series About H. G. Wells",
+      "url": "https://www.tvline.com/2291541/hallmark-channel-first-show-forgotten-sci-fi-series-hg-wells/",
       "source_count": 1,
       "sources": [
         "TVLine"
       ]
     },
     {
-      "title": "How Taylor Sheridan Got Sam Elliott To Star In 1883 After He Criticized Yellowstone",
-      "url": "https://www.tvline.com/2294797/taylor-sheridan-sam-elliott-1883-casting-yellowstone-criticism/",
+      "title": "Before NCIS, Sean Murray Appeared On The Show That Launched The Franchise",
+      "url": "https://www.tvline.com/2291733/ncis-sean-murray-recurring-role-jag/",
       "source_count": 1,
       "sources": [
         "TVLine"
       ]
     },
     {
-      "title": "Star Trek Creator's Son Has One Major Complaint About The Franchise's Modern Era",
-      "url": "https://www.tvline.com/2295690/star-trek-creator-son-complaint-franchise-modern-era/",
+      "title": "15 Best Nickelodeon Cartoons Of All Time, Ranked",
+      "url": "https://www.tvline.com/2293113/best-nickelodeon-cartoons-all-time-ranked/",
       "source_count": 1,
       "sources": [
         "TVLine"
       ]
     },
     {
-      "title": "15 TV Shows To Watch If You Like True Detective",
-      "url": "https://www.tvline.com/2296251/tv-shows-like-true-detective/",
+      "title": "Why M*A*S*H Legend Loretta Swit Had To Turn Down A Classic Cop Drama",
+      "url": "https://www.tvline.com/2291849/why-mash-loretta-swit-turn-down-star-classic-cop-drama-cagney-and-lacey/",
       "source_count": 1,
       "sources": [
         "TVLine"
@@ -312,12 +312,20 @@
       ]
     },
     {
-      "title": "Mass Effect Leaks Reveal Canceled BioWare Game's Story Would Have Accounted for 'All' Choices From Previous Games",
-      "url": "https://www.ign.com/articles/mass-effect-leaks-reveal-canceled-bioware-games-story-would-have-accounted-for-all-choices-from-previous-games",
+      "title": "The Best Deals Today: Xenoblade Chronicles 2, Persona 3 Reload, Dragon Quest III HD-2D Remake, and More",
+      "url": "https://www.ign.com/articles/best-deals-for-october-25-2026",
       "source_count": 2,
       "sources": [
         "IGN Games",
-        "Polygon"
+        "IGN Games"
+      ]
+    },
+    {
+      "title": "Mass Effect Leaks Reveal Canceled BioWare Game's Story Would Have Accounted for 'All' Choices From Previous Games",
+      "url": "https://www.ign.com/articles/mass-effect-leaks-reveal-canceled-bioware-games-story-would-have-accounted-for-all-choices-from-previous-games",
+      "source_count": 1,
+      "sources": [
+        "IGN Games"
       ]
     },
     {
@@ -329,8 +337,8 @@
       ]
     },
     {
-      "title": "The Best Deals Today: Persona 3 Reload, Pikmin 4, The Adventures of Elliot, and More",
-      "url": "https://www.ign.com/articles/best-deals-for-october-24-2026",
+      "title": "Magic: The Gathering's Top 12 Most Powerful Commander Precons Of All Time",
+      "url": "https://www.ign.com/articles/magic-the-gatherings-top-12-most-powerful-commander-precons-of-all-time",
       "source_count": 1,
       "sources": [
         "IGN Games"
@@ -342,23 +350,6 @@
       "source_count": 1,
       "sources": [
         "IGN Games"
-      ]
-    },
-    {
-      "title": "Barnes & Noble Has the First 500-Piece Dungeon Crawler Carl Jigsaw Puzzle for Sale",
-      "url": "https://www.ign.com/articles/barnes-noble-has-the-first-500-piece-dungeon-crawler-carl-jigsaw-puzzle-for-sale",
-      "source_count": 1,
-      "sources": [
-        "IGN Games"
-      ]
-    },
-    {
-      "title": "Mass Effect Fans Call for EA Boycott as Petition to Save BioWare's Canceled Game Garners More than 75,000 Signatures",
-      "url": "https://www.ign.com/articles/mass-effect-fans-call-for-ea-boycott-as-petition-to-save-biowares-canceled-game-garners-more-than-75000-signatures",
-      "source_count": 2,
-      "sources": [
-        "IGN Games",
-        "PC Gamer"
       ]
     },
     {
@@ -402,8 +393,24 @@
       ]
     },
     {
+      "title": "Commander Shepard actors Jennifer Hale & Mark Meer mourn BioWare: 'It was in the hands of ownership that may not have understood what BioWare fully is''",
+      "url": "https://www.pcgamer.com/games/mass-effect/commander-shepard-actors-jennifer-hale-and-mark-meer-mourn-bioware-together-it-was-in-the-hands-of-ownership-that-may-not-have-understood-what-bioware-fully-is/",
+      "source_count": 1,
+      "sources": [
+        "PC Gamer"
+      ]
+    },
+    {
       "title": "Indies and non-sequels have exploded in the last year, and it's not all friendslop",
       "url": "https://www.pcgamer.com/gaming-industry/indies-and-non-sequels-have-exploded-in-the-last-year-and-its-not-all-friendslop/",
+      "source_count": 1,
+      "sources": [
+        "PC Gamer"
+      ]
+    },
+    {
+      "title": "'Save Mass Effect' petition hits over 180,000 signatures within days of BioWare's closure",
+      "url": "https://www.pcgamer.com/games/mass-effect/save-mass-effect-petition-hits-over-180-000-signatures-within-days-of-biowares-closure/",
       "source_count": 1,
       "sources": [
         "PC Gamer"
@@ -434,27 +441,11 @@
       ]
     },
     {
-      "title": "Dark Souls 2 Seamless Co-op is the chillest way to play FromSoft's most frustrating game",
-      "url": "https://www.pcgamer.com/games/dark-souls/dark-souls-2-seamless-co-op-is-the-chillest-way-to-play-fromsofts-most-frustrating-game/",
-      "source_count": 1,
-      "sources": [
-        "PC Gamer"
-      ]
-    },
-    {
       "title": "Britain will not join Canada's defence bank, source says By Reuters",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxORlU0QklsRkdCVzFPdGwtQ3VzMFc2T18taDhEYXFmWV9KRk1xT3ROLUtoVXR0M1ZoWE1SVkswb00waG9Tck1UZ1I5VkZ5LW16VTJfYlVBVFJnQ0FVc3BOT2pfN1VmNUNZbUN5MWtqUDlBT1hteUZYVlZNaFJnU0tvY1ZnRmt1UDdsc3FzX2lmblhBVjIwQTNPckJIdTZzMFgwSzF2am85SFlSZw",
       "source_count": 1,
       "sources": [
         "Investing.com"
-      ]
-    },
-    {
-      "title": "GOAT Industries Signs Definitive Agreement To Acquire Epoxy AI Customer Contract Revenues",
-      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOdHoyNERJT0xreWk4VjlISm02eHpvbHdlVkVxODVBcGp2Y0FDN3pWZVRRVEQ5d3lCRmZ0dU9MeVNSR2RDZmJrLW50Zm16dmJuMTJWeGhzTlh2VHNOckFMdjhwQXdwWXhRNlhueWVjY24wMDY5VFBSbXphZTJicW1sX2NrM056MVZHa3NDTVVzTmV0VGRPcDI1Y1pfc1EwSmE4eWdVNW1hQTZ3ZWxCaFVhdm95SWluOTdJbnc4LUc3YUJyNmY5aDY0X1Ytdk5rVlU1ZUZ0TERWbG1HZHhSWlpKNHlvMThrQXdqaWtwS3hzSkQwNzVuUk1uMA",
-      "source_count": 1,
-      "sources": [
-        "TradingView"
       ]
     },
     {
@@ -466,11 +457,11 @@
       ]
     },
     {
-      "title": "OpenAI resumes frontier AI training after security overhaul, discloses flaw in widely used software",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNWmNWUG02ckVXVjVFQ3RTbloxVEx0Y3gxQ1JScGMwT21hRDltajQ4cl9DV3hrdE5DYnZBdm0wRGxCSkNPdHFFTVVqY2FKUmoyWlpiSVhOQVFwcVFSbnJ1UmdzaEVlcnJWNlhNcFJGbk1Hc2l5UE1pTDRDSFN5bDQ3TjV2aE8ySUtJVkJnaGlIUHNJdURfbnVxdWZGNHRGUjhiRlMyaS00QWgxX2FHRE9ueURTUWlLSm5TSm5QMWZFSGJ1NEYwcnRKOHkwd0hqTmxUUzZrVTFR",
+      "title": "Albanian police fire tear gas as anti-government student protests turn violent, World News",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQbFNpaUdHel9XQ3ltc1YwdGw4d3dfSDZ3QlJXa3R2WUsxOHR4bTNPeXVlSnJrb1VlQW1VTVpJZVgweXBDTDB2OGVzS1BTQkc3RnNCNGRvdU5IcU0wUkZqTXNuY0FvQVlVQmdLOHFfb0plMVNwYkRldTBXY3JvNHJKc3RfOEFGYWI0V3F0eW1XOG9KV2FQUzZMT2dXU25wd0ZLb1dtQmxKYkg",
       "source_count": 1,
       "sources": [
-        "CTV News"
+        "AsiaOne.com"
       ]
     },
     {
@@ -479,6 +470,14 @@
       "source_count": 1,
       "sources": [
         "NDTV Profit"
+      ]
+    },
+    {
+      "title": "OpenAI resumes frontier AI training after security overhaul, discloses flaw in widely used software",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNWmNWUG02ckVXVjVFQ3RTbloxVEx0Y3gxQ1JScGMwT21hRDltajQ4cl9DV3hrdE5DYnZBdm0wRGxCSkNPdHFFTVVqY2FKUmoyWlpiSVhOQVFwcVFSbnJ1UmdzaEVlcnJWNlhNcFJGbk1Hc2l5UE1pTDRDSFN5bDQ3TjV2aE8ySUtJVkJnaGlIUHNJdURfbnVxdWZGNHRGUjhiRlMyaS00QWgxX2FHRE9ueURTUWlLSm5TSm5QMWZFSGJ1NEYwcnRKOHkwd0hqTmxUUzZrVTFR",
+      "source_count": 1,
+      "sources": [
+        "CTV News"
       ]
     },
     {
@@ -586,6 +585,22 @@
       ]
     },
     {
+      "title": "Fans Choose LISA's 'Press Play' as This Week's Favorite New Music",
+      "url": "https://www.billboard.com/music/music-news/lisa-press-play-best-new-music-poll-results-1236367660/",
+      "source_count": 1,
+      "sources": [
+        "Billboard"
+      ]
+    },
+    {
+      "title": "'Sunday Night Football': How to Watch Kansas City Chiefs vs. Seattle Seahawks Game Live Online Free",
+      "url": "https://www.billboard.com/culture/product-recommendations/sunday-night-football-2026-2027-watch-nfl-live-online-free-1236343279/",
+      "source_count": 1,
+      "sources": [
+        "Billboard"
+      ]
+    },
+    {
       "title": "Dr. Dre, Snoop Dogg & Too $hort Electrify Jay-Z30 Tour's Final Stop",
       "url": "https://www.billboard.com/music/concerts/jay-z-la-night-2-dr-dre-snoop-dogg-too-short-guests-1236367642/",
       "source_count": 1,
@@ -612,22 +627,6 @@
     {
       "title": "Here's Where to Watch FC Barcelona vs. Real Madrid Match Live Online",
       "url": "https://www.billboard.com/culture/product-recommendations/barcelona-real-madrid-2026-laliga-soccer-watch-online-free-1236365640/",
-      "source_count": 1,
-      "sources": [
-        "Billboard"
-      ]
-    },
-    {
-      "title": "Harry Styles Quietly Reveals He's Releasing a New Music Video for a Fan-Favorite Song",
-      "url": "https://www.billboard.com/music/pop/harry-styles-coming-up-roses-video-release-date-1236367595/",
-      "source_count": 1,
-      "sources": [
-        "Billboard"
-      ]
-    },
-    {
-      "title": "From Tickets to Tech, Here Are 22 of the Best Christmas Gifts for Music Lovers to Shop Online",
-      "url": "https://www.billboard.com/culture/product-recommendations/best-christmas-gifts-music-lovers-shop-online-2026-1236360927/",
       "source_count": 1,
       "sources": [
         "Billboard"
@@ -682,6 +681,38 @@
       ]
     },
     {
+      "title": "Stephen King's Hit Horror TV Series Officially Returning to HBO Max",
+      "url": "https://www.polygon.com/stephen-king-it-welcome-to-derry-season-2-renewal-hbo-max/",
+      "source_count": 1,
+      "sources": [
+        "Polygon"
+      ]
+    },
+    {
+      "title": "27 Years Later, the Best Action Adventure Movie of 1999 Is Officially Free on Youtube",
+      "url": "https://www.polygon.com/the-mummy-free-on-youtube/",
+      "source_count": 1,
+      "sources": [
+        "Polygon"
+      ]
+    },
+    {
+      "title": "Sydney Sweeney's New Netflix Sci-Fi Space Epic Gets First Details",
+      "url": "https://www.polygon.com/gundam-movie-sydney-sweeney-netflix-story-details/",
+      "source_count": 1,
+      "sources": [
+        "Polygon"
+      ]
+    },
+    {
+      "title": "Tomb Raider's 2027's Return Looks Stunning in New Official Footage",
+      "url": "https://www.polygon.com/tomb-raider-remake-legacy-of-atlantis-new-trailer-30th-anniversary/",
+      "source_count": 1,
+      "sources": [
+        "Polygon"
+      ]
+    },
+    {
       "title": "15 Years Later, Batman: Arkham City Remains Batman's Last Gaming Masterpiece",
       "url": "https://www.polygon.com/batman-arkham-city-retrospective-best-superhero-video-game/",
       "source_count": 1,
@@ -696,31 +727,7 @@
       "sources": [
         "Polygon"
       ]
-    },
-    {
-      "title": "'Avatar: Seven Havens' Fans Need to Watch Disney's Overlooked Apocalyptic Fantasy Adventure",
-      "url": "https://www.polygon.com/raya-and-the-last-dragon-perfect-disney-movie-for-avatar-seven-havens-fans/",
-      "source_count": 1,
-      "sources": [
-        "Polygon"
-      ]
-    },
-    {
-      "title": "Clayface Gives Skydance Its Second Box Office Weekend Win In A Row",
-      "url": "https://www.polygon.com/clayface-opening-weekend-box-office/",
-      "source_count": 1,
-      "sources": [
-        "Polygon"
-      ]
-    },
-    {
-      "title": "Forza Might Actually Lose at The Game Awards for the First Time in a Decade",
-      "url": "https://www.polygon.com/game-awards-sports-racing-forza-star-wars-galactic-racer/",
-      "source_count": 1,
-      "sources": [
-        "Polygon"
-      ]
     }
   ],
-  "summary": "Verified intelligence gathered across 89 deduplicated editorial clusters."
+  "summary": "Verified intelligence gathered across 90 deduplicated editorial clusters."
 }
