@@ -1,7 +1,23 @@
 {
-  "timestamp": "2026-10-25T23:50:27.298532+00:00",
-  "headline_count": 90,
+  "timestamp": "2026-10-26T03:25:00.640337+00:00",
+  "headline_count": 85,
   "headlines": [
+    {
+      "title": "'Obsession' And 'Backrooms' Win Big at Fangoria Chainsaw Awards",
+      "url": "https://variety.com/2026/awards/news/obsession-backrooms-win-fangoria-chainsaw-awards-1236919175/",
+      "source_count": 1,
+      "sources": [
+        "Variety"
+      ]
+    },
+    {
+      "title": "From 'Hoop Dreams' to 'Flee': The 20 Documentaries That Deserved a Best Picture Oscar Nomination",
+      "url": "https://variety.com/lists/documentaries-best-picture-oscar-nominations-snubs/",
+      "source_count": 1,
+      "sources": [
+        "Variety"
+      ]
+    },
     {
       "title": "James Gunn Defends the DC Universe, Says He Dislikes the Idea That 'Individual Stories Aren't Meaningful Unless They Lead to Something'",
       "url": "https://variety.com/2026/film/news/james-gunn-defends-clayface-individual-stories-dcu-1236930872/",
@@ -13,10 +29,9 @@
     {
       "title": "'You Can See Everything' Director Lance Oppenheim Says Billy Evans 'Didn't Care About Being Seen Naked'; Evans Asked, 'Want to Film Me Showering?'",
       "url": "https://variety.com/2026/film/news/you-can-see-everything-billy-evans-full-frontal-lance-oppenheim-1236930442/",
-      "source_count": 2,
+      "source_count": 1,
       "sources": [
-        "Variety",
-        "Update"
+        "Variety"
       ]
     },
     {
@@ -38,19 +53,20 @@
       ]
     },
     {
-      "title": "'Wicker' Stars Olivia Colman, Alexander Skarsgård and Elizabeth Debicki on Making the 'Very Silly,' 'Really Heartbreaking' Film: 'It's Not Just a Slapstick or Sex Comedy'",
-      "url": "https://variety.com/2026/film/news/alexander-skarsgard-olivia-colman-elizabeth-debicki-wicker-interview-1236919062/",
+      "title": "Holland Taylor Reveals Why She Didn't Renew Her 'Two And A Half Men' Contract",
+      "url": "https://deadline.com/2026/10/why-holland-taylor-left-two-and-a-half-men-1237172825/",
       "source_count": 1,
       "sources": [
-        "Variety"
+        "Deadline Hollywood"
       ]
     },
     {
-      "title": "Olivia Rodrigo's 'You Seem Pretty Sad for a Girl So in Love' Returns to No. 1 on Albums Chart Following 'Expectations' Remix",
-      "url": "https://variety.com/2026/music/news/olivia-rodrigo-you-seem-pretty-sad-returns-to-no-1-chart-1236930779/",
-      "source_count": 1,
+      "title": "'Young Sheldon's Emily Osment Reveals She Requested An Intimacy Coordinator For Teen Co-Star Montana Cooper: \"He Was A Baby!\"",
+      "url": "https://deadline.com/2026/10/young-sheldon-emily-osment-intimacy-coordinator-montana-jordan-1237172813/",
+      "source_count": 2,
       "sources": [
-        "Variety"
+        "Deadline Hollywood",
+        "The Hollywood Reporter"
       ]
     },
     {
@@ -78,14 +94,6 @@
       ]
     },
     {
-      "title": "'Clayface' Beams $43M WW Opening, Delivers Paramount-Warner Bros. Second No. 1 Weekend Win Since Merger",
-      "url": "https://deadline.com/2026/10/box-office-global-clayface-1237172755/",
-      "source_count": 1,
-      "sources": [
-        "Global Box Office"
-      ]
-    },
-    {
       "title": "Fox News Hosts Sean Hannity and Ainsley Earhardt Are Married",
       "url": "https://www.hollywoodreporter.com/lifestyle/lifestyle-news/sean-hannity-ainsley-earhardt-married-fox-news-hosts-1236739744/",
       "source_count": 1,
@@ -96,14 +104,6 @@
     {
       "title": "A Peek Into 'SNL UK': Strict Security, Giddy Cynthia Erivo and Sometimes More a Party Than a TV Set",
       "url": "https://www.hollywoodreporter.com/tv/tv-features/snl-uk-cynthia-erivo-season-2-nigerian-wicked-tv-review-1236739710/",
-      "source_count": 1,
-      "sources": [
-        "The Hollywood Reporter"
-      ]
-    },
-    {
-      "title": "'Young Sheldon' Star Emily Osment Requested Intimacy Coordinator Over Age Gap With Montana Jordan: \"He Was a Baby!\"",
-      "url": "https://www.hollywoodreporter.com/tv/tv-news/young-sheldon-emily-osment-requested-intimacy-coordinator-1236739707/",
       "source_count": 1,
       "sources": [
         "The Hollywood Reporter"
@@ -174,48 +174,48 @@
       ]
     },
     {
+      "title": "5 TV Shows To Watch If You Like Period Piece Murder Mysteries",
+      "url": "https://www.tvline.com/2290193/tv-shows-watch-like-period-piece-murder-mysteries/",
+      "source_count": 1,
+      "sources": [
+        "TVLine"
+      ]
+    },
+    {
+      "title": "15 Best TV Villains Of The 2020s (So Far)",
+      "url": "https://www.tvline.com/2295423/best-tv-villains-2020s/",
+      "source_count": 1,
+      "sources": [
+        "TVLine"
+      ]
+    },
+    {
+      "title": "Marshals Brings Back A Dangerous Enemy From Season 1, Ending In An Explosive Cliffhanger",
+      "url": "https://www.tvline.com/2296401/marshals-season-2-episode-4-ending-explained-young-kayce-recast/",
+      "source_count": 1,
+      "sources": [
+        "TVLine"
+      ]
+    },
+    {
+      "title": "Why Gilligan's Island's Final Episode Didn't Feature The Rescue Of The Castaways",
+      "url": "https://www.tvline.com/2285344/why-gilligans-island-final-episode-not-rescue-castaways/",
+      "source_count": 1,
+      "sources": [
+        "TVLine"
+      ]
+    },
+    {
+      "title": "Leonard Nimoy's First Directing Job Was On A Horror Series From The Twilight Zone Creator Rod Serling",
+      "url": "https://www.tvline.com/2290327/leonard-nimoy-first-directing-job-the-twilight-zone-creator-rod-serling-horror-series-night-gallery/",
+      "source_count": 1,
+      "sources": [
+        "TVLine"
+      ]
+    },
+    {
       "title": "The Character Exit That Hurt Supernatural The Most",
       "url": "https://www.tvline.com/2290751/supernatural-character-exit-hurt-show-most/",
-      "source_count": 1,
-      "sources": [
-        "TVLine"
-      ]
-    },
-    {
-      "title": "5 Cop Shows From The '70s That Still Hold Up Today",
-      "url": "https://www.tvline.com/2291039/70s-cop-shows-still-hold-up-today/",
-      "source_count": 1,
-      "sources": [
-        "TVLine"
-      ]
-    },
-    {
-      "title": "The Hallmark Channel's First Show Was A Forgotten Sci-Fi Series About H. G. Wells",
-      "url": "https://www.tvline.com/2291541/hallmark-channel-first-show-forgotten-sci-fi-series-hg-wells/",
-      "source_count": 1,
-      "sources": [
-        "TVLine"
-      ]
-    },
-    {
-      "title": "Before NCIS, Sean Murray Appeared On The Show That Launched The Franchise",
-      "url": "https://www.tvline.com/2291733/ncis-sean-murray-recurring-role-jag/",
-      "source_count": 1,
-      "sources": [
-        "TVLine"
-      ]
-    },
-    {
-      "title": "15 Best Nickelodeon Cartoons Of All Time, Ranked",
-      "url": "https://www.tvline.com/2293113/best-nickelodeon-cartoons-all-time-ranked/",
-      "source_count": 1,
-      "sources": [
-        "TVLine"
-      ]
-    },
-    {
-      "title": "Why M*A*S*H Legend Loretta Swit Had To Turn Down A Classic Cop Drama",
-      "url": "https://www.tvline.com/2291849/why-mash-loretta-swit-turn-down-star-classic-cop-drama-cagney-and-lacey/",
       "source_count": 1,
       "sources": [
         "TVLine"
@@ -312,6 +312,14 @@
       ]
     },
     {
+      "title": "Phantom Blade Zero Review",
+      "url": "https://www.ign.com/articles/phantom-blade-zero-review",
+      "source_count": 1,
+      "sources": [
+        "IGN Games"
+      ]
+    },
+    {
       "title": "The Best Deals Today: Xenoblade Chronicles 2, Persona 3 Reload, Dragon Quest III HD-2D Remake, and More",
       "url": "https://www.ign.com/articles/best-deals-for-october-25-2026",
       "source_count": 2,
@@ -339,14 +347,6 @@
     {
       "title": "Magic: The Gathering's Top 12 Most Powerful Commander Precons Of All Time",
       "url": "https://www.ign.com/articles/magic-the-gatherings-top-12-most-powerful-commander-precons-of-all-time",
-      "source_count": 1,
-      "sources": [
-        "IGN Games"
-      ]
-    },
-    {
-      "title": "Dead by Daylight to Remove Chucky Content Just Months After Losing Michael Myers",
-      "url": "https://www.ign.com/articles/dead-by-daylight-to-remove-chucky-content-just-months-after-losing-michael-myers",
       "source_count": 1,
       "sources": [
         "IGN Games"
@@ -393,6 +393,14 @@
       ]
     },
     {
+      "title": "Steam Week in Review: AI disclosures enter the discourse again, as Epic CEO calls them 'just as partisan as mandatory political essays'",
+      "url": "https://www.pcgamer.com/gaming-industry/steam-week-in-review-ai-disclosures-enter-the-discourse-again-as-epic-ceo-calls-them-just-as-partisan-as-mandatory-political-essays/",
+      "source_count": 1,
+      "sources": [
+        "PC Gamer"
+      ]
+    },
+    {
       "title": "Commander Shepard actors Jennifer Hale & Mark Meer mourn BioWare: 'It was in the hands of ownership that may not have understood what BioWare fully is''",
       "url": "https://www.pcgamer.com/games/mass-effect/commander-shepard-actors-jennifer-hale-and-mark-meer-mourn-bioware-together-it-was-in-the-hands-of-ownership-that-may-not-have-understood-what-bioware-fully-is/",
       "source_count": 1,
@@ -433,59 +441,19 @@
       ]
     },
     {
-      "title": "Overwatch devs took one look at Jetpack Cat and Bastion's combo and went 'oh, that's a little scary'",
-      "url": "https://www.pcgamer.com/games/fps/overwatch-devs-took-one-look-at-jetpack-cat-and-bastions-combo-and-went-oh-thats-a-little-scary/",
+      "title": "Trump announces Audi will build $4 billion US factory in Georgia",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBKaGJ4TUVlTThlUU5MdVd6ZzBkdzJWUUpvQTJCenFsSzJaWjloa0VWZi10SnJGVjdJajd3WHpSOUpqT2QzN1VZeGtNTElJaE1fMkRPd0prZElWdlk3WHMxclNMRy1qRWFhSEFZaUJNZ1VNWm13enFuSHVfY2FtMzg",
       "source_count": 1,
       "sources": [
-        "PC Gamer"
+        "Yahoo Finance"
       ]
     },
     {
-      "title": "Britain will not join Canada's defence bank, source says By Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxORlU0QklsRkdCVzFPdGwtQ3VzMFc2T18taDhEYXFmWV9KRk1xT3ROLUtoVXR0M1ZoWE1SVkswb00waG9Tck1UZ1I5VkZ5LW16VTJfYlVBVFJnQ0FVc3BOT2pfN1VmNUNZbUN5MWtqUDlBT1hteUZYVlZNaFJnU0tvY1ZnRmt1UDdsc3FzX2lmblhBVjIwQTNPckJIdTZzMFgwSzF2am85SFlSZw",
+      "title": "Mona Lisa off limits as Paris shuts museums",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPWEprcHBSV1lGNmZRN29uYWtqWnhtOHY1UlQxNE5xbzRlS3p0WkNEQTdGTkNUWGNMLUQxNHp5bWZHN05zbi1iRUNJb0Vfd3hPekJWNkV4U1Z2STBTSzRHQkJOQXM2ZGpYWl9UMko4V1RIUUlsT2RHeTNVTjh3dWVTYnZvb2UyX0xib0NLRm53",
       "source_count": 1,
       "sources": [
-        "Investing.com"
-      ]
-    },
-    {
-      "title": "Exclusive-US has for years asked Musk to alter Starlink service in Ukraine, Middle East, sources say",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOWFNyVUpPN2xzaGRTOUR4UExFOFVPcHlzWDJ4LUJRWi1KZEhzd0g2ZXA0akF6YnpzNnlmQnVLcjVMamZwSl92OVBoRk1McHo1WTBWMkxfb1QtZGFINzlGSkZEQTMyZW9Ha3JpLW5lWTJBSUR6YW5CSkk0RGFaM1FHRklkbWVtMWdwRktGOUh2RElzcV9xVm9ySW9PRWhOcERLbEhBLU9xRWFqMS1VQl8xcnlDSm9LYUpGaW1zT3lVWkp3UXVvUWpDU0ZUTVU5QdIB0wFBVV95cUxNYXR2ZGlhNlVTUDdVWGdfRHpfVUlTbjRYZGhfdmhIalJ0dVcyY2g3OG1CS3BXSkstUC12UWZJSWtXOVhUWEVpRWIzYlVjSHd5Q0docTg1azBNUGg1Mjk1V2RiRW9tdXBIdXdJWmdwVGRsLXFZX2FPdnlMZF9oekxudm94T3Rlb0VvNXdvM215WElReWhNZ2ZFRm9Hb2tsMmVydjJEdXg2bkFiVnE3SU9ubjg3azRKQVV6aUNzR2xncG9zY0Nka0hyVlJWSTctN3V0VHNz",
-      "source_count": 1,
-      "sources": [
-        "ThePrint"
-      ]
-    },
-    {
-      "title": "Albanian police fire tear gas as anti-government student protests turn violent, World News",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQbFNpaUdHel9XQ3ltc1YwdGw4d3dfSDZ3QlJXa3R2WUsxOHR4bTNPeXVlSnJrb1VlQW1VTVpJZVgweXBDTDB2OGVzS1BTQkc3RnNCNGRvdU5IcU0wUkZqTXNuY0FvQVlVQmdLOHFfb0plMVNwYkRldTBXY3JvNHJKc3RfOEFGYWI0V3F0eW1XOG9KV2FQUzZMT2dXU25wd0ZLb1dtQmxKYkg",
-      "source_count": 1,
-      "sources": [
-        "AsiaOne.com"
-      ]
-    },
-    {
-      "title": "'Told Them You Will Not Trade With US': Trump Repeats Claim Tariff Threats Ended India-Pakistan Conflict",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOb3dCX3hmWk1qOWh2U3cxdFg4N1JHa2pfVElRSVRnUE5YVkpaTk93RjFMc1RCY2t3Vi1ieGJFZy1FbG8xSFlEeGxNZ2RnaHhKb0tVWGdLLXVuUW1QYnp2UWpocnZic0xEOWcyZDVBS29SSmxwbjdlY3hyT0Z2QmdDajQ1QnI3a0ZsZDBWN2ItUlRkVWdnNmVqdXZGTl9kc2pCUkVaWDB2aTlXLTRJdHREbzNiT09qNEVKN3NXcDZjNG5YU2pCbHpsdElEcDFBcWdMWThOYml5WEllNVXSAeMBQVVfeXFMTUd0aUx5T1lYN1Y5ekxmSE9SWFlhcjBBOHF5RHduUlhsc0RqQk05MGVUSVVMQzJYSzZfdG1fS0otaHVzS1lWRGJEbFVCMnphYzlDTGc3YnR4OWJISGFHSjR3dXFlcllIUXAxLTkzQkdYUHNGYzlLd0lsQm9qbUVXX3RVWlRKNzAxQm13cno2TmpsNWNBd1VWZHhUZlhnTW1YVzRoN2swRndaWExDVGRLQVgxVk1jaXc3X0czUm9OWUktT2FnTVE2cVZicEI1UVAwMjl6eVpSME1PcDJJZlZBSHl4NFE",
-      "source_count": 1,
-      "sources": [
-        "NDTV Profit"
-      ]
-    },
-    {
-      "title": "OpenAI resumes frontier AI training after security overhaul, discloses flaw in widely used software",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNWmNWUG02ckVXVjVFQ3RTbloxVEx0Y3gxQ1JScGMwT21hRDltajQ4cl9DV3hrdE5DYnZBdm0wRGxCSkNPdHFFTVVqY2FKUmoyWlpiSVhOQVFwcVFSbnJ1UmdzaEVlcnJWNlhNcFJGbk1Hc2l5UE1pTDRDSFN5bDQ3TjV2aE8ySUtJVkJnaGlIUHNJdURfbnVxdWZGNHRGUjhiRlMyaS00QWgxX2FHRE9ueURTUWlLSm5TSm5QMWZFSGJ1NEYwcnRKOHkwd0hqTmxUUzZrVTFR",
-      "source_count": 1,
-      "sources": [
-        "CTV News"
-      ]
-    },
-    {
-      "title": "Philippines investigates Thomas Markle, father of Meghan, after child sexual abuse images",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOUFFBNlYwYUZ1RzRHVjMxeU9weDlzdVNZek1LdkNxVzJBdFk2NHgyWTdTMXR0bkRKRTdmYjhvSmVUSlVIMUYxTDVPRlJ1YWh3YmZzSkxNMks3dm1TbFBRZTVtWnlHNVZYZkNOWmFTckIzYVVmMENjME1Ybll1d3g5aDFseHVWR2Z2MVVZQ1VWd0JBUFpDcHIzWTFlWEljWlc4bmZRLWVPZko4cHRZMllKcWt1MXlDdklXM0pWVmk2Mms5UG1Wel9BcFdTeTNjZTU5cGcxd3g3cUFmazd5ZHRN",
-      "source_count": 1,
-      "sources": [
-        "The Financial Express"
+        "FBC News"
       ]
     },
     {
@@ -585,6 +553,15 @@
       ]
     },
     {
+      "title": "Snubs & Surprises at 2026 Caribbean Music Awards: Is 'Dansa' Really a Dennery Segment Song?",
+      "url": "https://www.billboard.com/lists/snubs-surprises-2026-caribbean-music-awards-jab-dennery/",
+      "source_count": 2,
+      "sources": [
+        "Billboard",
+        "Billboard"
+      ]
+    },
+    {
       "title": "Fans Choose LISA's 'Press Play' as This Week's Favorite New Music",
       "url": "https://www.billboard.com/music/music-news/lisa-press-play-best-new-music-poll-results-1236367660/",
       "source_count": 1,
@@ -611,22 +588,6 @@
     {
       "title": "Olivia Rodrigo's 'You Seem Pretty Sad for a Girl So in Love' Returns to No. 1 on Billboard 200",
       "url": "https://www.billboard.com/music/chart-beat/olivia-rodrigo-you-seem-pretty-sad-back-to-no1-billboard200-1236367607/",
-      "source_count": 1,
-      "sources": [
-        "Billboard"
-      ]
-    },
-    {
-      "title": "Miranda Lambert Headlining Dallas Cowboys Thanksgiving Game Halftime Show",
-      "url": "https://www.billboard.com/music/country/miranda-lambert-halftime-cowboys-thanksgiving-1236367616/",
-      "source_count": 1,
-      "sources": [
-        "Billboard"
-      ]
-    },
-    {
-      "title": "Here's Where to Watch FC Barcelona vs. Real Madrid Match Live Online",
-      "url": "https://www.billboard.com/culture/product-recommendations/barcelona-real-madrid-2026-laliga-soccer-watch-online-free-1236365640/",
       "source_count": 1,
       "sources": [
         "Billboard"
@@ -681,6 +642,30 @@
       ]
     },
     {
+      "title": "The 10 Best SNES Games to Play on Nintendo Switch Online",
+      "url": "https://www.polygon.com/best-snes-games-nintendo-switch-online-classics/",
+      "source_count": 1,
+      "sources": [
+        "Polygon"
+      ]
+    },
+    {
+      "title": "Phantom Blade Zero Reviews Just Beat Every Soulslike In 2026",
+      "url": "https://www.polygon.com/phantom-blade-zero-review-roundup-score/",
+      "source_count": 1,
+      "sources": [
+        "Polygon"
+      ]
+    },
+    {
+      "title": "Phantom Blade Zero Is the Perfect Martial Arts Game, For Better or Worse",
+      "url": "https://www.polygon.com/phantom-blade-zero-review/",
+      "source_count": 1,
+      "sources": [
+        "Polygon"
+      ]
+    },
+    {
       "title": "Stephen King's Hit Horror TV Series Officially Returning to HBO Max",
       "url": "https://www.polygon.com/stephen-king-it-welcome-to-derry-season-2-renewal-hbo-max/",
       "source_count": 1,
@@ -703,31 +688,7 @@
       "sources": [
         "Polygon"
       ]
-    },
-    {
-      "title": "Tomb Raider's 2027's Return Looks Stunning in New Official Footage",
-      "url": "https://www.polygon.com/tomb-raider-remake-legacy-of-atlantis-new-trailer-30th-anniversary/",
-      "source_count": 1,
-      "sources": [
-        "Polygon"
-      ]
-    },
-    {
-      "title": "15 Years Later, Batman: Arkham City Remains Batman's Last Gaming Masterpiece",
-      "url": "https://www.polygon.com/batman-arkham-city-retrospective-best-superhero-video-game/",
-      "source_count": 1,
-      "sources": [
-        "Polygon"
-      ]
-    },
-    {
-      "title": "6 Hilarious 'Calvin and Hobbes' Comics Where Calvin is a Weird Little Genius",
-      "url": "https://www.polygon.com/calvin-hobbes-vocabulary/",
-      "source_count": 1,
-      "sources": [
-        "Polygon"
-      ]
     }
   ],
-  "summary": "Verified intelligence gathered across 90 deduplicated editorial clusters."
+  "summary": "Verified intelligence gathered across 85 deduplicated editorial clusters."
 }
