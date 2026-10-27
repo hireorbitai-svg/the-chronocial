@@ -1,13 +1,48 @@
 {
-  "timestamp": "2026-10-27T03:52:14.830595+00:00",
+  "timestamp": "2026-10-27T09:38:11.621336+00:00",
   "headline_count": 88,
   "headlines": [
     {
-      "title": "Tokyo Jury President Rolf de Heer on FIAPF's New A-List: 'It Matters a Great Deal to Some People, and Not at All to Others'",
-      "url": "https://variety.com/2026/film/festivals/tokyo-jury-chief-rolf-de-heer-fiapf-new-a-list-1236931842/",
+      "title": "'Tokyo Vice' Producer, Netflix Executive Urge Changes to Japan's Production Incentive at MPA Seminar as Government Readies Unified Content Body",
+      "url": "https://variety.com/2026/film/festivals/tokyo-vice-producer-netflix-exec-urge-japan-incentive-reform-mpa-1236931907/",
       "source_count": 1,
       "sources": [
         "Variety"
+      ]
+    },
+    {
+      "title": "Netflix Docuseries 'The One About Matthew Perry' Is a Tragic, Mournful Portrait of Addiction: TV Review",
+      "url": "https://variety.com/2026/tv/reviews/the-one-about-matthew-perry-review-netflix-1236931448/",
+      "source_count": 2,
+      "sources": [
+        "Variety",
+        "The Hollywood Reporter"
+      ]
+    },
+    {
+      "title": "Donnie Iris, Pittsburgh's Favorite Rocker, Who Scored Hits With the Jaggerz and as a Solo Artist, Dies at 83",
+      "url": "https://variety.com/2026/music/obituaries-people-news/donnie-iris-dead-pittsburgh-rocker-jaggerz-rapper-ah-leah-1236931843/",
+      "source_count": 1,
+      "sources": [
+        "Variety"
+      ]
+    },
+    {
+      "title": "'Mirzapur' Tops a Decade of Indian Streaming as New Commissions Fall, IMDb Report Finds (EXCLUSIVE)",
+      "url": "https://variety.com/2026/tv/news/mirzapur-indian-streaming-commissions-fall-imdb-report-1236931765/",
+      "source_count": 1,
+      "sources": [
+        "Variety"
+      ]
+    },
+    {
+      "title": "Tokyo Jury President Rolf de Heer on FIAPF's New A-List: 'It Matters a Great Deal to Some People, and Not at All to Others'",
+      "url": "https://variety.com/2026/film/festivals/tokyo-jury-chief-rolf-de-heer-fiapf-new-a-list-1236931842/",
+      "source_count": 3,
+      "sources": [
+        "Variety",
+        "Deadline Hollywood",
+        "The Hollywood Reporter"
       ]
     },
     {
@@ -19,76 +54,64 @@
       ]
     },
     {
-      "title": "'Ghosts: The Possession of Button House' Scares Up U.K., Ireland Box Office Win",
-      "url": "https://variety.com/2026/film/box-office/ghosts-the-possession-of-button-house-uk-ireland-box-office-1236931821/",
+      "title": "BAFTA Names New Chair",
+      "url": "https://deadline.com/2026/10/bafta-names-hilary-rosen-chair-uktv-sara-putt-1237206009/",
       "source_count": 1,
       "sources": [
-        "Variety"
+        "Deadline Hollywood"
       ]
     },
     {
-      "title": "Taylor Swift, Inducted Into Nashville Songwriters Hall of Fame, Says 'There Is No Music Community Like This Music Community. I Know, I Checked All the Communities'",
-      "url": "https://variety.com/2026/music/news/taylor-swift-inducted-speech-nashville-songwriters-hall-fame-1236931794/",
+      "title": "Stephen & Simon Cornwell Take On Chairmen Roles At 'Night Manager' Producer The Ink Factory As Michele Wolkoff Upped To President",
+      "url": "https://deadline.com/2026/10/the-ink-factory-cornwells-chairmen-wolkoff-upped-president-1237185488/",
       "source_count": 1,
       "sources": [
-        "Variety"
+        "Deadline Hollywood"
       ]
     },
     {
-      "title": "Jay-Z to Perform at Apple Music 2027 Super Bowl Halftime Show",
-      "url": "https://variety.com/2026/music/news/jay-z-to-perform-2027-super-bowl-halftime-show-1236876986/",
-      "source_count": 3,
+      "title": "Bill Kramer Says AMPAS Plans To Expand List Of Festivals That Can Serve As Qualifiers For The International Oscar Category",
+      "url": "https://deadline.com/2026/10/bill-kramer-international-oscar-category-tokyo-1237205952/",
+      "source_count": 1,
       "sources": [
-        "Variety",
-        "Deadline Hollywood",
+        "Deadline Hollywood"
+      ]
+    },
+    {
+      "title": "Ryan Gosling & Zach Shields Duo Dead Man's Bones Returns With New Song Plus Music Video Starring Rain Spencer And Noah Jupe",
+      "url": "https://deadline.com/2026/10/ryan-gosling-dead-mans-bones-new-song-music-video-1237194091/",
+      "source_count": 1,
+      "sources": [
+        "Deadline Hollywood"
+      ]
+    },
+    {
+      "title": "'Gilded Age' Creator Julian Fellowes Calls HBO's Casey Bloys \"Our Protector & Our Defender From Very Early Days\" During Season 4 Premiere",
+      "url": "https://deadline.com/2026/10/gilded-age-julian-fellowes-hbo-casey-bloys-premiere-1237205924/",
+      "source_count": 1,
+      "sources": [
+        "Deadline Hollywood"
+      ]
+    },
+    {
+      "title": "The \"Sukiyaki\" Phenomenon: The Song Behind the Tokyo Film Festival's Opening Movie",
+      "url": "https://www.hollywoodreporter.com/music/music-features/sukiyaki-movie-explainer-1236738909/",
+      "source_count": 1,
+      "sources": [
         "The Hollywood Reporter"
       ]
     },
     {
-      "title": "Searchlight Pictures Marketing EVP Michelle Hooper Exits Studio",
-      "url": "https://variety.com/2026/film/news/searchlight-pictures-marketing-evp-michelle-hooper-exits-1236931776/",
-      "source_count": 2,
+      "title": "Tokyo: TIFFCOM Market Chief On Riding the Japanese IP Wave as Entertainment Landscape Shifts Due to AI",
+      "url": "https://www.hollywoodreporter.com/business/business-news/tokyo-tiffcom-market-interview-kaori-ikeda-1236739634/",
+      "source_count": 1,
       "sources": [
-        "Variety",
-        "Deadline Hollywood"
-      ]
-    },
-    {
-      "title": "Neil Young Rocks Trump With $10M Suit Over Using That 'Free World' Tune Again",
-      "url": "https://deadline.com/2026/10/neil-young-sues-trump-copyright-1237205848/",
-      "source_count": 2,
-      "sources": [
-        "Deadline Hollywood",
         "The Hollywood Reporter"
       ]
     },
     {
-      "title": "Netflix Taps Former Apple Exec Steve Wilson To Lead Podcast Acquisitions",
-      "url": "https://deadline.com/2026/10/netflix-apple-exec-steve-wilson-podcast-acquisitions-1237205867/",
-      "source_count": 1,
-      "sources": [
-        "Deadline Hollywood"
-      ]
-    },
-    {
-      "title": "Milcho Manchevski Talks 'Sister Brother Manhole Cover', His Second Feature Of 2026 & Exposing Corruption At Macedonia's Film Agency",
-      "url": "https://deadline.com/2026/10/milcho-manchevski-sister-brother-manhole-cover-tokyo-1237202859/",
-      "source_count": 1,
-      "sources": [
-        "Tokyo"
-      ]
-    },
-    {
-      "title": "Disney+ & Channel 4 Strike Landmark Deal In UK",
-      "url": "https://deadline.com/2026/10/disney-plus-channel-4-strike-uk-content-deal-maya-celeb-sas-1237173234/",
-      "source_count": 1,
-      "sources": [
-        "Deadline Hollywood"
-      ]
-    },
-    {
-      "title": "Tokyo: Competition Jury Discusses Event's 'A-List' Status, Fighting Over Favorite Films",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/tokyo-film-festival-2026-jury-press-conference-1236740519/",
+      "title": "Jay-Z to Headline 2027 Super Bowl LXI Halftime Show",
+      "url": "https://www.hollywoodreporter.com/music/music-news/jay-z-headline-2027-super-bowl-lxi-halftime-show-performer-1236697354/",
       "source_count": 1,
       "sources": [
         "The Hollywood Reporter"
@@ -103,67 +126,75 @@
       ]
     },
     {
-      "title": "Proton VPN's Early Black Friday Sale Lets You Stream International TV for 75 Percent Off",
-      "url": "https://www.hollywoodreporter.com/tv/tv-news/proton-vpn-deals-black-friday-2026-pricing-plans-discount-1236740491/",
-      "source_count": 1,
-      "sources": [
-        "The Hollywood Reporter"
-      ]
-    },
-    {
-      "title": "Macklemore Launches Sold-Out Free Palestine Tour in Dublin With Hozier, Kneecap and Ed Sheeran's Backing Band",
-      "url": "https://www.hollywoodreporter.com/music/music-news/macklemore-free-palestine-tour-artists-ed-sheeran-backing-band-1236740531/",
-      "source_count": 1,
-      "sources": [
-        "The Hollywood Reporter"
-      ]
-    },
-    {
-      "title": "Vijay Deverakonda and Rashmika Mandanna's team files cyber crime complaint in Hyderabad over alleged fake claims and online harassment",
-      "url": "https://www.bollywoodhungama.com/news/bollywood/vijay-deverakonda-and-rashmika-mandanna-team-files-cyber-crime-complaint-in-hyderabad-over-alleged-fake-claims-and-online-harassment/",
+      "title": "Ali Abbas Zafar wraps up shooting for Ahaan Panday-Sharvari starrer Beparwah; says returning to YRF feels like \"coming back home\"",
+      "url": "https://www.bollywoodhungama.com/news/bollywood/ali-abbas-zafar-wraps-up-shooting-for-ahaan-panday-sharvari-starrer-beparwah-says-returning-to-yrf-feels-like-coming-back-home/",
       "source_count": 1,
       "sources": [
         "Bollywood Hungama"
       ]
     },
     {
-      "title": "Kriti Sanon, Varun Dhawan reunite with Bhediya director Amar Kaushik, tease fans with 'Obsessed' post",
-      "url": "https://www.bollywoodhungama.com/news/bollywood/kriti-sanon-varun-dhawan-reunite-with-bhediya-director-amar-kaushik-tease-fans-with-obsessed-post/",
+      "title": "Student of the Year: After Dark trailer out: Shanaya Kapoor plays twins in OTT debut",
+      "url": "https://www.bollywoodhungama.com/news/bollywood/student-of-the-year-after-dark-trailer-out-shanaya-kapoor-plays-twins-in-ott-debut/",
       "source_count": 1,
       "sources": [
         "Bollywood Hungama"
       ]
     },
     {
-      "title": "John Abraham joins Indian Superbike League as Strategic Advisor: \"It's time to get India racing\"",
-      "url": "https://www.bollywoodhungama.com/news/bollywood/john-abraham-joins-indian-superbike-league-as-strategic-advisor-its-time-to-get-india-racing/",
+      "title": "Ranveer Singh joins CP PLUS as brand ambassador to promote Made-in-India security technology",
+      "url": "https://www.bollywoodhungama.com/news/bollywood/ranveer-singh-joins-cp-plus-as-brand-ambassador-to-promote-made-in-india-security-technology/",
       "source_count": 1,
       "sources": [
         "Bollywood Hungama"
       ]
     },
     {
-      "title": "HYBE INDIA AUDITION: Final call enters final 5 days as applications close on October 31",
-      "url": "https://www.bollywoodhungama.com/news/bollywood/hybe-india-audition-final-call-enters-final-5-days-as-applications-close-on-october-31/",
+      "title": "Suryaa: Ant Se Aarambh Tak song 'Suniyo Zara' out: Sunny Deol-Ravi Kishan starrer marks Udit Narayan, Kumar Sanu's reunion after 21 years",
+      "url": "https://www.bollywoodhungama.com/news/bollywood/suryaa-ant-se-aarambh-tak-song-suniyo-zara-out-sunny-deol-ravi-kishan-starrer-marks-udit-narayan-kumar-sanus-reunion-after-21-years/",
       "source_count": 1,
       "sources": [
         "Bollywood Hungama"
       ]
     },
     {
-      "title": "Anupam Kher to play Sunil Munshi's father in Swedish-Belgian film Out of Fashion, directed by Jens Jonsson",
-      "url": "https://www.bollywoodhungama.com/news/bollywood/anupam-kher-to-play-sunil-munshis-father-in-swedish-belgian-film-out-of-fashion-directed-by-jens-jonsson/",
+      "title": "Lakadbaggha 2 shifts worldwide release from November 6 to early 2027, avoids clash with Ramayana",
+      "url": "https://www.bollywoodhungama.com/news/bollywood/lakadbaggha-2-shifts-worldwide-release-from-november-6-to-early-2027-avoids-clash-with-ramayana/",
       "source_count": 1,
       "sources": [
         "Bollywood Hungama"
       ]
     },
     {
-      "title": "CBFC faces reported data security scare as confidential documents linked to over 500 films are allegedly exposed",
-      "url": "https://www.bollywoodhungama.com/news/bollywood/cbfc-faces-reported-data-security-scare-as-confidential-documents-linked-to-over-500-films-are-allegedly-exposed/",
+      "title": "EXCLUSIVE: Mahaveer Jain Films announces title of Ravi Kishan starrer Mera Yaar Bajrangi - Dosti Ho Toh Aisi; to have a GRAND Diwali 2027 release in cinemas",
+      "url": "https://www.bollywoodhungama.com/news/bollywood/exclusive-mahaveer-jain-films-announces-title-of-ravi-kishan-starrer-mera-yaar-bajrangi-dosti-ho-toh-aisi-to-have-a-grand-diwali-2027-release-in-cinemas/",
       "source_count": 1,
       "sources": [
         "Bollywood Hungama"
+      ]
+    },
+    {
+      "title": "Quote Of The Day By William Shatner: 'But What Does Live On Are Good Deeds. If You...'",
+      "url": "https://www.tvline.com/2297424/quote-of-the-day-william-shatner-good-deeds/",
+      "source_count": 1,
+      "sources": [
+        "TVLine"
+      ]
+    },
+    {
+      "title": "Friends Star Matthew Perry's Heartbreaking Story Is Explored In A Must-Watch Netflix Docuseries",
+      "url": "https://www.tvline.com/2297778/friends-star-matthew-perry-documentary-series-streaming-netflix/",
+      "source_count": 1,
+      "sources": [
+        "TVLine"
+      ]
+    },
+    {
+      "title": "What To Watch Tuesday: NCIS: Origins Adds Bishop, Netflix's Matthew Perry Doc, And More",
+      "url": "https://www.tvline.com/2293754/what-to-watch-october-27-2026-tv-shows-movies/",
+      "source_count": 1,
+      "sources": [
+        "TVLine"
       ]
     },
     {
@@ -185,30 +216,6 @@
     {
       "title": "NCIS: New York Star Jennifer Beals' Hit Showtime Series Is Streaming For Free",
       "url": "https://www.tvline.com/2296757/ncis-new-york-jennifer-beals-hit-showtime-series-streaming-free-the-l-word/",
-      "source_count": 1,
-      "sources": [
-        "TVLine"
-      ]
-    },
-    {
-      "title": "Sylvester Stallone Defends Casting His Daughter Scarlet In Tulsa King Amid Nepotism Criticism",
-      "url": "https://www.tvline.com/2297825/sylvester-stallone-tulsa-king-daughter-casting-nepotism/",
-      "source_count": 1,
-      "sources": [
-        "TVLine"
-      ]
-    },
-    {
-      "title": "Taylor Sheridan Wasn't Flattered By Hollywood Trying To Replicate Yellowstone's Success",
-      "url": "https://www.tvline.com/2296985/why-taylor-sheridan-not-flattered-hollywood-replicate-yellowstone-success/",
-      "source_count": 1,
-      "sources": [
-        "TVLine"
-      ]
-    },
-    {
-      "title": "Crystal Lake Boss Brad Caleb Kane Talks Pamela's New Backstory, Baghead Jason's Return, And Plans For Season 2: 'The Handcuffs Are Off'",
-      "url": "https://www.tvline.com/2297749/crystal-lake-brad-caleb-kane-interview-season-2-jason-voorhees-backstory/",
       "source_count": 1,
       "sources": [
         "TVLine"
@@ -441,7 +448,7 @@
       ]
     },
     {
-      "title": "Australia's Star Entertainment swings to profit on cost cuts, stronger casino revenue",
+      "title": "Australia's Star Entertainment surges 13% as cost cuts, casino strength drive profit",
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOY1hiUmpaa05TYWY4SWVDb2MycUdZMFJFSHR4YmFOWF9Mc2tFNFJQcHU2V255ZVBKdlViNm90ZXp2NEVkV3lmbzVZZ1VpdlpoQmVCTWVCNUk4STdxR1pSSHlOenloRV9FS3pqMzJkdXIxRzNxZlo4am0zbXFsVHBiS3Ywd0RKT25vZThQS0lDZWsyWGUzN0tvUnRXUHpLM0Njd2l5cFB5QnQwMGkwZlFpWmxOTzMwWUJSX3BMMDlvVGQweHlBTDRnU1BNdDk",
       "source_count": 1,
       "sources": [
@@ -449,36 +456,36 @@
       ]
     },
     {
-      "title": "EXCLUSIVE: US, Canada working on deal to ease steel, auto tariffs, sources say",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQU1JXYWUtZ2l1TGNtSDlwbkN6SkxUR1RxaWZjQnFpNk8yTzBuLTR5OEUxQ296SmZEd3dDS25tMjh1eW5hRGg4X1gtVUpVQi1UbWIyYXpJQmh6NGxpX011WWlEYWh0Z3FKRm55UUl6UnpKUTZmM3lhUElLNUVIb0tkWDBYVkI1LXI2aWxwT1Q2aUpSZjhOcUVxaTByX21WVlExQVE",
+      "title": "UK's Channel 4 shows to launch on Disney+ next year",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOa3ZneXZMQmhCbW9HT3FMaU5XRmprQnBfZWZPd3dvRjQ4QjFGendaRDdoNkxGTnA1a1ZtMXpFQ3B2Ujg3cjc3R3RqN3hsc2dGbmNXcnJULUxnZTA4emRBZU5wMTB2RlZmWFYydHdMSnBwNGVaRjVaQTBrT2NnSXpPZEFuMHpIUmpzOGtpMUNsaWNacHF2MUFSbUpnWTdNWUs3YWpMc0JSSHV6X29HRFpjWGVnenhld3BYWXpXaGdMUEpvWFB5ZzZWQ0V5bnBTVUFOcXhCR0p3R3RYSlZiVVduU3Npa0VibDVq",
+      "source_count": 1,
+      "sources": [
+        "Central Oregon Daily"
+      ]
+    },
+    {
+      "title": "'Star Trek' actor Walter Koenig passes away at 90",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNZUlCV1RDcndKWWdaSlNvOHYxSlh6dldBWlNiN1BMRy13dEU0elNScTl3T2UyX0ppTWpLOFRJVTFLMERxWTZnT2lHOHlRUG95Y21aV3FSSWRiMlVXd2pkSlFseW9YTGJ4djFUMHVTZkFSZ0JNaXZRVzFUeXUwamt6RkF2dDRqN1ZVdW1uQVB1c2RzcktqOXNTLU13UTkzaDBTMFBISlFlbEt3MjA4VEtjemFXV0VLVUlSNEVVTVpR",
       "source_count": 2,
       "sources": [
-        "Reuters",
-        "Reuters"
+        "ANI News",
+        "The Financial Express"
       ]
     },
     {
       "title": "DoorDash in talks to buy Instacart in roughly $17 billion deal, source says",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxONkI1dVc1WGVsRGwyMkZtNFFfR3NpaFR2M2JTQ05POTBkZ29lSVpuelFJVWFCTC1tNEJ3Y0F6YUxHWUJkWjJqcm1KWnhNajVxNk5iUFZuck9ZV0tOVEdxYjlxcG0ycUk5UUlyU3l6bnpJY0NFMDJqcXJ4cWJGeUJRbTV5YTVtQy1CSXlTUmZn",
+      "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxPcVFSMWlOaWtwNGQ4cU1pbXlyVElVVTQ2VHdyeURkRzF4aGJLQ0Q3b3FWSzBJWE9zaUZrbjltRzY0Y1pOa0VTd1g3VUdfdWRVV1FBLWZZNkV1Ylp2M1dWQmY0bjUxa2pHMUpmeU13dTllVFRiOEpFaUl1T0R0Z0V6Mm5WenBkYU9pVlBDSklXY0dlQUhhaGZ3TU81YmY1ZUZoemx0UnpEWHdaaExhRWtRbG5Za0tqV1l3c2phcVdWeFZrUmlKeENBR25YRTZPRWgyWjVaVExQNV9SLU9scWd3NlRORVBEcjBKZVB0bll4dVQtanh1SVg1ZnNuQjdwcXNQTFBzZXFqWEhNSEVpWGtmOFZhX2YzVnNDZjVLSXJmeUFrellMcVE00gH2AUFVX3lxTE1PRmZZMWRDVjY1RWl4UGMweTdxeFZ1cloxREdZYjBSZGRIbEdWaUVHWEE0S09JN25pUHdHOFZHaTBRNC1GVFpfd05ZdU02emJDV3JNT1gyYXhtUi1WN2lQMjJsNTdiaHB3SzZCUE9RUjREWTNoNHBxUHNVNzR1RTBXUkl2RlFYLTRfUVNtd3Q1dkFJWVhXWDQ4SVRjZlR0WG9TVGctRFRtNkk2eTBpRGI3N2VQeWljMl9oeFBrcE05U09ITlRYQjR3U0NNMmRoZW11Y0dsZ0tRYzFKZzNlYmNFVVM3aVBYYnBhUWxzYjJxajJKWEFxUQ",
       "source_count": 1,
       "sources": [
-        "Reuters"
+        "ET Retail"
       ]
     },
     {
-      "title": "Hezbollah readies for new regional war with funds from Iran, sources say",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQajh2NzdqZUljUEFSTWFPOV9odmZYWE5sRkVLbUhzRndmN0dxSGRwM09CbVpZRjBXZTJrckJHRFV6RzBUTThlQ3pHQ0hWNWZuaFhCc2wwWGRwSDVmb2d1ME9UMmt0ZUVkTlA0WnpjY1o0R2Z2RzhvQXl3MHNHdEQ3YXdsMi0zTHFFTlBJekI1bnY4M3VRUFhzUnMzcGdVeHBPTm90MDFabFpnalo0RThZdENtMEVHSFU",
+      "title": "DNPA challenges data protection law, flags risks to investigative journalism, source confidentiality",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQcmZxQXV3cTBtQTNLNkxVMC00YnVqZmU1bjVIVUhKMEJEZ0RCN3VTcW1TdzdpQ3NEazl4MjRsQ3FMM3R4QXpwQjlZd0doOFZ5U0ZfWGVKSGtfQWdsNU5mR2FsY0tnbEhDODVsakp0Z1l2N1g1NlhlZ21fR2ZuTDk3bUZkMXhWNk03Ym5MNzQ1M3RIZXg2ajlocGFJWkJsOFg0T1dld3piQU9Jbk8tbXZkQUszb3VpZW5uMDR4VVRQaDF0aGdwcTF5UUswNGdZTklhNHNjbmRsaFZFZmEyVXNGVVUyVlRZZFQ1VklLOHRIQ2JzdjNh0gH6AUFVX3lxTE16NXZ3YlFtbDZJR2hPR0JKaUlMeHNuLWN6TUtTTUNQS3hORThwS2NxYkJXOEdaOU0ycUJxSkV4VlZGZVJpVTlXemNBVWoxOTFvTjNqb3p6eVVYMVludDJ5Q2NtQVZTMVpBZ19xZEhTeWNCNkMzdlF1QkQ4YndhR25icUdIRmpNcGJVRWw3cU1ldnBjQmRpZzRfeUF4NUdBYi1rR3V4U1NNekx2X1lmRnJIb1czSkJCcjdiZUdYbDdyVUU2LVMxVFFKaTZIY1RIV2NvX3NYSkx5aHJqeWZmT1BNVzlWWmRaMk5wUmVYTU53UVRnOHA5NWstcVE",
       "source_count": 1,
       "sources": [
-        "Reuters"
-      ]
-    },
-    {
-      "title": "Russian refiners ramp up diesel output after US deal, sources say",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPVVVBTm1mNFVtczU5MFozUTB5UldjTVloRzRmX0szRkN6Q3BlWTRCd3J3SkZNZTVRWU16R1pka3dkdVp3LXNtUGV2TURYZTZoS2RJS3dmWWEzeF9fMzd0a1ZjY0xPeFJ0TkZrWllKamhMM2JlbTZjZHZvQmIxXzBodXJIaXhwMzdMUGMyUWlNbkpmR0x0eVpaZnltbHN6bHJlVDZCUk8yZ0sxUkR6RU9Db3AweTdTU2s",
-      "source_count": 1,
-      "sources": [
-        "Reuters"
+        "Storyboard18"
       ]
     },
     {
@@ -578,8 +585,25 @@
       ]
     },
     {
-      "title": "Taylor Swift Says Nashville Songwriters 'Raised Me' During Hall of Fame Induction",
-      "url": "https://www.billboard.com/music/music-news/taylor-swift-nashville-songwriters-hall-of-fame-speech-1236368575/",
+      "title": "'The Voice': Four-Chair Turn Cade Mower Moves on After Battle Round",
+      "url": "https://www.billboard.com/culture/tv-film/the-voice-cade-mower-moves-on-after-battle-round-1236368596/",
+      "source_count": 1,
+      "sources": [
+        "Billboard"
+      ]
+    },
+    {
+      "title": "Taylor Swift, George Strait, Lee Thomas Miller & More Celebrated During Nashville Songwriters Hall of Fame Gala",
+      "url": "https://www.billboard.com/music/awards/taylor-swift-george-strait-nashville-songwriters-hall-fame-1236368579/",
+      "source_count": 2,
+      "sources": [
+        "Billboard",
+        "Billboard"
+      ]
+    },
+    {
+      "title": "Disturbed to Play 'The Sickness' in Full on Australia and New Zealand Tour",
+      "url": "https://www.billboard.com/music/rock/disturbed-the-sickness-australia-new-zealand-tour-1236368583/",
       "source_count": 1,
       "sources": [
         "Billboard"
@@ -596,30 +620,6 @@
     {
       "title": "Jay-Z to Headline 2027 Super Bowl Halftime Show: 'GOAT's Out of the Bag'",
       "url": "https://www.billboard.com/music/rb-hip-hop/jay-z-super-bowl-halftime-2027-headliner-1236368561/",
-      "source_count": 1,
-      "sources": [
-        "Billboard"
-      ]
-    },
-    {
-      "title": "LISA Drops New Limited-Edition Merch for Her PlayStation Collab: Shop the BLACKPINK Star's Designs Online",
-      "url": "https://www.billboard.com/culture/product-recommendations/blackpink-lisa-playstation-merch-buy-online-limited-edition-1236366129/",
-      "source_count": 1,
-      "sources": [
-        "Billboard"
-      ]
-    },
-    {
-      "title": "At ADE 2026, a Top Music Lawyer Talks AI, Independence & What the Biz Can Learn From Radiohead",
-      "url": "https://www.billboard.com/lists/ade-2026-cliff-fluet-talk-ai-streaming-fan-engagement/",
-      "source_count": 1,
-      "sources": [
-        "Billboard"
-      ]
-    },
-    {
-      "title": "New Anthony Edwards Ad Takes Shots at Drake: 'A Certain Bandwagon Fan Is Facing FOMO & Buried in Lawsuits'",
-      "url": "https://www.billboard.com/music/rb-hip-hop/anthony-edwards-adidas-ad-drake-shots-hasan-minhaj-1236368315/",
       "source_count": 1,
       "sources": [
         "Billboard"
@@ -674,6 +674,30 @@
       ]
     },
     {
+      "title": "9 Spooky 'Far Side' Comics That Are Perfect to Read Before Halloween",
+      "url": "https://www.polygon.com/best-far-side-halloween-classic-monsters/",
+      "source_count": 1,
+      "sources": [
+        "Polygon"
+      ]
+    },
+    {
+      "title": "8 Most Entertaining Sci-Fi Books of the 21st Century That Are Impossible to Put Down",
+      "url": "https://www.polygon.com/most-fun-sci-fi-books-21st-century-so-far/",
+      "source_count": 1,
+      "sources": [
+        "Polygon"
+      ]
+    },
+    {
+      "title": "Major 'Avatar: Seven Havens' Korra Reveal May Be Hiding the Truth About the Cataclysm",
+      "url": "https://www.polygon.com/avatar-seven-havens-big-korra-reveal-feels-like-a-total-fakeout/",
+      "source_count": 1,
+      "sources": [
+        "Polygon"
+      ]
+    },
+    {
       "title": "Phantom Blade Zero release time in your time zone",
       "url": "https://www.polygon.com/phantom-blade-zero-release-time-when-edt-pdt/",
       "source_count": 1,
@@ -687,30 +711,6 @@
       "source_count": 2,
       "sources": [
         "Polygon",
-        "Polygon"
-      ]
-    },
-    {
-      "title": "Marvel's Forgotten Mass Effect Clone Couldn't Escape the Avengers' Failure",
-      "url": "https://www.polygon.com/marvel-guardians-galaxy-underrated-superhero-game/",
-      "source_count": 1,
-      "sources": [
-        "Polygon"
-      ]
-    },
-    {
-      "title": "Mass Effect's Longshot #SaveMassEffect Campaign Actually Has a Chance",
-      "url": "https://www.polygon.com/save-mass-effect-campaign-the-expanse-amazon/",
-      "source_count": 1,
-      "sources": [
-        "Polygon"
-      ]
-    },
-    {
-      "title": "Stardew Valley-inspired RPG Gets Shock Last-Minute Delay",
-      "url": "https://www.polygon.com/emberville-early-access-launch-delay/",
-      "source_count": 1,
-      "sources": [
         "Polygon"
       ]
     }
