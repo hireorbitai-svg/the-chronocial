@@ -1,146 +1,111 @@
 {
-  "timestamp": "2026-10-30T23:28:32.480481+00:00",
-  "headline_count": 94,
+  "timestamp": "2026-10-31T04:16:36.523483+00:00",
+  "headline_count": 90,
   "headlines": [
     {
-      "title": "Selma Blair Apologizes for Plane Incident: 'I Am So Sorry'",
-      "url": "https://variety.com/2026/film/news/selma-blair-apologizes-plane-incident-1236935645/",
+      "title": "Ranbir Kapoor, Yash Light Up Gold House's Diwali Event as Group Launches South Asian Shorts Fund",
+      "url": "https://variety.com/2026/film/news/ranbir-kapoor-yash-gold-house-diwali-event-1236935927/",
       "source_count": 1,
       "sources": [
         "Variety"
       ]
     },
     {
-      "title": "Magical Realist Tale '6TM' and 'Searching for SmarterChild,' About One of the Earliest Chatbots, Win Top Industry Awards at Ji.hlava Festival",
-      "url": "https://variety.com/2026/film/global/6tm-searching-for-smarterchild-industry-award-jihlava-1236935633/",
+      "title": "Bill Maher Fact-Checks Kid Rock After He Compares Abdul El-Sayed to 9/11 Hijackers on 'Real Time'",
+      "url": "https://variety.com/2026/tv/news/kid-rock-abdul-el-sayed-9-11-hijackers-real-time-bill-maher-1236935914/",
+      "source_count": 2,
+      "sources": [
+        "Variety",
+        "Deadline Hollywood"
+      ]
+    },
+    {
+      "title": "Bill Maher Fires Back at Trump by Comparing Him to Taylor Swift",
+      "url": "https://variety.com/2026/tv/news/bill-maher-fires-back-trump-taylor-swift-real-time-hbo-1236935799/",
       "source_count": 1,
       "sources": [
         "Variety"
       ]
     },
     {
-      "title": "Marvin R. Shanken, Longtime Publisher and Editor of Wine Spectator, Dies at 83",
-      "url": "https://variety.com/2026/biz/lifestyle/marvin-r-shanken-dead-wine-spectator-1236935611/",
+      "title": "Martin Scorsese Says His 'Cleopatra' Movie With Angelina Jolie Was 'Ruined' by Seth Rogen and the Sony Hack: 'It Was Gonna Be Really Wild'",
+      "url": "https://variety.com/2026/film/news/martin-scorsese-cleopatra-angelina-jolie-ruined-sony-hack-1236935596/",
       "source_count": 1,
       "sources": [
         "Variety"
       ]
     },
     {
-      "title": "Cate Blanchett-Backed Group and Collection of Hollywood Stars File Brief in New York Times-OpenAI Lawsuit: Hollywood Has 'Proven Infrastructure' to License Content",
-      "url": "https://variety.com/2026/biz/news/cate-blanchett-hollywood-stars-brief-nyt-openai-lawsuit-1236935578/",
-      "source_count": 1,
+      "title": "'Kelly Clarkson Show,' 'General Hospital,' 'Beyond the Gates' Lead Daytime Emmys 2026 Winners",
+      "url": "https://variety.com/2026/tv/news/daytime-emmys-2026-winners-list-1236935712/",
+      "source_count": 4,
       "sources": [
-        "Variety"
+        "Variety",
+        "Deadline Hollywood",
+        "The Hollywood Reporter",
+        "The Hollywood Reporter"
       ]
     },
     {
-      "title": "'Obsession' Director Curry Barker Pitched Nathan Fielder a Collaboration After Watching 'You Can See Everything': 'I Put It Out in the Water'",
-      "url": "https://variety.com/2026/film/news/curry-barker-nathan-fielder-pitch-you-can-see-everything-1236935473/",
-      "source_count": 1,
+      "title": "Two Arrested in Murder of 'SNL' Writer's Sister",
+      "url": "https://variety.com/2026/tv/news/arrests-murder-christina-downer-jimmy-fowlie-1236935631/",
+      "source_count": 2,
       "sources": [
-        "Variety"
+        "Variety",
+        "The Hollywood Reporter"
       ]
     },
     {
-      "title": "Music Industry Moves: Chris Young Signs With UTA; Kurt Vile Re-Ups With Third Side Publishing",
-      "url": "https://variety.com/2026/music/news/mary-j-blige-sells-music-catalogs-primary-wave-1236931287/",
-      "source_count": 1,
-      "sources": [
-        "Variety"
-      ]
-    },
-    {
-      "title": "Martin Scorsese Explains How Seth Rogen \"Ruined\" His 'Cleopatra' Film: \"Kim Jong Un Doesn't Have A Sense Of Humor\"",
-      "url": "https://deadline.com/2026/10/martin-scorsese-seth-rogen-ruined-cleopatra-film-1237210059/",
+      "title": "Angel Studios CCO Lays Out \"Values-Based\" Initiative Banning Sex, Nudity, F-Words & \"Misuse Of God's Name\": \"Hollywood Lives In A Bubble\"",
+      "url": "https://deadline.com/2026/10/angel-studios-values-based-initiative-banning-sex-nudity-f-words-1237210523/",
       "source_count": 1,
       "sources": [
         "Deadline Hollywood"
       ]
     },
     {
-      "title": "'Clayface' In Brawl With Elizabeth Holmes & Nathan Fielder At Halloween Box Office: Both Pics Eyeing $10M+ Each",
-      "url": "https://deadline.com/2026/10/box-office-you-can-see-everything-clayface-halloween-1237209579/",
+      "title": "Selma Blair Breaks Silence On JFK Airport Arrest: \"I Take This Very Seriously\"",
+      "url": "https://deadline.com/2026/10/selma-blair-breaks-silence-jfk-airport-arrest-1237210351/",
       "source_count": 1,
       "sources": [
         "Deadline Hollywood"
       ]
     },
     {
-      "title": "2026 Worldwide Box Office Headed To Near $36B, Best Since 2019",
-      "url": "https://deadline.com/2026/10/box-office-2026-global-projection-1237210039/",
+      "title": "LAPD Arrests 2 In Connection With Killing Of 'SNL' Writer Jimmy Fowlie's Sister",
+      "url": "https://deadline.com/2026/10/lapd-arrests-2-men-killing-snl-writer-jimmy-fowlie-sister-1237210269/",
       "source_count": 1,
       "sources": [
         "Deadline Hollywood"
       ]
     },
     {
-      "title": "How To Watch The 2026 Daytime Emmy Awards",
-      "url": "https://deadline.com/2026/10/daytime-emmy-awards-livestream-how-to-watch-2-1237209998/",
+      "title": "Eric Bauza To Make Posthumous Debut In 'The Simpsons' Playing Two Characters",
+      "url": "https://deadline.com/2026/10/eric-bauza-the-simpsons-posthumous-debut-two-characters-1237210229/",
       "source_count": 1,
       "sources": [
         "Deadline Hollywood"
       ]
     },
     {
-      "title": "Everest Doc And 'Breeder' Anchor Indie Frame With Few New Releases",
-      "url": "https://deadline.com/2026/10/indie-films-opening-everest-the-other-side-breeder-1237209406/",
-      "source_count": 1,
-      "sources": [
-        "Specialty Preview"
-      ]
-    },
-    {
-      "title": "'The Further Mis-Adventures Of Cliff Booth': Netflix Brad Pitt Pic Won't Be Playing Top Chains Regal & Cinemark",
-      "url": "https://deadline.com/2026/10/further-mis-adventures-of-cliff-booth-regal-cinemark-1237209962/",
-      "source_count": 1,
-      "sources": [
-        "Deadline Hollywood"
-      ]
-    },
-    {
-      "title": "Tokyo: Milcho Manchevski on his Competition Film, Blacklisting and the Ills of Neo-Social Realism",
-      "url": "https://www.hollywoodreporter.com/movies/movie-features/milcho-manchevski-sister-brother-manhole-cover-interview-1236742443/",
+      "title": "Bill Maher Responds to Trump's 1,318-Word Social Rant: \"He Went Off on Me Like Kelly Clarkson in a Toy Store\"",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/bill-maher-responds-trump-social-rant-kelly-clarkson-toy-store-1236743958/",
       "source_count": 1,
       "sources": [
         "The Hollywood Reporter"
       ]
     },
     {
-      "title": "Tom Morello, Annie Lennox, 'KPop Demon Hunters' Songwriters Honored at 2026 SONA Awards",
-      "url": "https://www.hollywoodreporter.com/music/music-industry-news/sona-awards-2026-tom-morello-annie-lennox-1236743639/",
+      "title": "Margaret Qualley and Jack Antonoff File for Divorce After Three Years of Marriage",
+      "url": "https://www.hollywoodreporter.com/lifestyle/lifestyle-news/margaret-qualley-jack-antonoff-file-divorce-1236744038/",
       "source_count": 1,
       "sources": [
         "The Hollywood Reporter"
       ]
     },
     {
-      "title": "Santa Barbara Film Fest: Inde Navarrette, Jaafar Jackson Among Eight Tapped for Virtuoso Awards",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/santa-barbara-film-fest-inde-navarrette-virtuoso-awards-1236743864/",
-      "source_count": 1,
-      "sources": [
-        "The Hollywood Reporter"
-      ]
-    },
-    {
-      "title": "'Criminal Minds' Ending with 20th Season on Paramount+",
-      "url": "https://www.hollywoodreporter.com/tv/tv-news/criminal-minds-ending-paramount-plus-season-20-1236743697/",
-      "source_count": 1,
-      "sources": [
-        "The Hollywood Reporter"
-      ]
-    },
-    {
-      "title": "Noah Segan Explains How 'Knives Out' Helped Make 'The Only Living Pickpocket in New York' Possible",
-      "url": "https://www.hollywoodreporter.com/movies/movie-features/the-only-living-pickpocket-in-new-york-knives-out-1236743781/",
-      "source_count": 1,
-      "sources": [
-        "The Hollywood Reporter"
-      ]
-    },
-    {
-      "title": "Eric Bauza Remembered as a \"Once-in-a-Generation\" Talent Who Gave Looney Tunes a New Voice",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/looney-tunes-eric-bauza-remembered-1236743625/",
+      "title": "Timbaland Files $15 Million Fraud Lawsuit Against Former Managers",
+      "url": "https://www.hollywoodreporter.com/music/music-industry-news/timbaland-files-15-million-lawsuit-against-former-managers-1236743974/",
       "source_count": 1,
       "sources": [
         "The Hollywood Reporter"
@@ -195,6 +160,22 @@
       ]
     },
     {
+      "title": "Daytime Emmys 2026: General Hospital Wins Best Drama Series For Sixth Straight Year",
+      "url": "https://www.tvline.com/2303203/daytime-emmys-2026-winners-list-general-hospital/",
+      "source_count": 1,
+      "sources": [
+        "See Winners List"
+      ]
+    },
+    {
+      "title": "Happy's Place Showrunner Explains Why Bobbie And Isabella May Never Get Closure When It Comes To Their Father",
+      "url": "https://www.tvline.com/2300487/happy-place-season-3-episode-2-bobbie-father-isabella-mother-explained/",
+      "source_count": 1,
+      "sources": [
+        "TVLine"
+      ]
+    },
+    {
       "title": "5 Batman: The Animated Series Episodes To Watch On Halloween",
       "url": "https://www.tvline.com/2303036/batman-the-animated-series-episodes-watch-halloween/",
       "source_count": 1,
@@ -221,22 +202,6 @@
     {
       "title": "Criminal Minds: Evolution Canceled At Paramount+, Ending After 20 Seasons",
       "url": "https://www.tvline.com/2302964/criminal-minds-evolution-canceled-paramount-plus/",
-      "source_count": 1,
-      "sources": [
-        "TVLine"
-      ]
-    },
-    {
-      "title": "Gilligan's Island Actor Dawn Wells' TV Debut Was In A Classic Newspaper Drama",
-      "url": "https://www.tvline.com/2297277/gilligans-island-actor-dawn-wells-tv-debut-classic-newspaper-drama-the-roaring-20s/",
-      "source_count": 1,
-      "sources": [
-        "TVLine"
-      ]
-    },
-    {
-      "title": "The Diplomat Has Achieved Something Most Netflix Original Shows Never Do",
-      "url": "https://www.tvline.com/2302938/the-diplomat-achievement-most-netflix-original-shows-never-hit/",
       "source_count": 1,
       "sources": [
         "TVLine"
@@ -340,48 +305,48 @@
       ]
     },
     {
-      "title": "Bungie Says 'Don't Buy Marathon as a Donation' as Destiny Players Look to Support Studio's Future",
-      "url": "https://www.ign.com/articles/bungie-says-dont-buy-marathon-as-a-donation-as-destiny-players-look-to-support-studios-future",
+      "title": "By Skipping Last-Gen Systems, Stranger Than Heaven is Allowing RGG Studio to Fully Leverage the Power of Current-Gen Consoles at Long Last",
+      "url": "https://www.ign.com/articles/by-skipping-last-gen-systems-stranger-than-heaven-is-allowing-rgg-studio-to-fully-leverage-the-power-of-current-gen-consoles-at-long-last",
       "source_count": 1,
       "sources": [
         "IGN Games"
       ]
     },
     {
-      "title": "Save 20% (or More) Off Minecraft Dungeons 2 for Nintendo Switch 2 Ahead of Black Friday",
-      "url": "https://www.ign.com/articles/minecraft-dungeons-2-deal-october-2026",
+      "title": "Final Fantasy XIV Evercold Delayed, New Release Date Announced at FFXIV Fan Fest",
+      "url": "https://www.ign.com/articles/final-fantasy-xiv-evercold-delayed-new-release-date-announced-at-ffxiv-fan-fest",
       "source_count": 1,
       "sources": [
         "IGN Games"
       ]
     },
     {
-      "title": "VRChat Devs Spark Outrage After Refusing to Include AI Label Despite 95% of Fans Asking for It",
-      "url": "https://www.ign.com/articles/vrchat-devs-spark-outrage-after-refusing-to-include-ai-label-despite-95-of-fans-asking-for-it",
+      "title": "Stranger Than Heaven Features Optional \"Cheats\" to Make its Combat Easier",
+      "url": "https://www.ign.com/articles/stranger-than-heaven-features-optional-cheats-to-make-its-combat-easier",
       "source_count": 1,
       "sources": [
         "IGN Games"
       ]
     },
     {
-      "title": "Crimson Desert: Charting the Unknown Review So Far",
-      "url": "https://www.ign.com/articles/crimson-desert-charting-the-unknown-review",
+      "title": "Monster Hunter Outlanders Review So Far",
+      "url": "https://www.ign.com/articles/monster-hunter-outlanders-review",
       "source_count": 1,
       "sources": [
         "IGN Games"
       ]
     },
     {
-      "title": "Lock In a Darkhold Destiny Collector Booster Early With The Arcanum Bundle at Amazon",
-      "url": "https://www.ign.com/articles/lock-in-a-darkhold-destiny-collector-booster-early-with-the-arcanum-bundle-at-amazon",
+      "title": "Chronicles: Medieval Developer 'At Real Risk of Closing' Before Release as Funding 'No Longer in Place'",
+      "url": "https://www.ign.com/articles/chronicles-medieval-developer-at-real-risk-of-closing-before-release-as-funding-no-longer-in-place",
       "source_count": 1,
       "sources": [
         "IGN Games"
       ]
     },
     {
-      "title": "MTG Darkhold Destiny 4 Commander Deck Bundles: Do They Look Good or Not?",
-      "url": "https://www.ign.com/articles/mtg-darkhold-destiny-4-commander-deck-bundles",
+      "title": "Xbox's Doom, Wolfenstein Developers Working 'More Closely Than Ever' Following Xbox 'Reset' Layoffs",
+      "url": "https://www.ign.com/articles/xboxs-doom-wolfenstein-developers-working-more-closely-than-ever-following-xbox-reset-layoffs",
       "source_count": 1,
       "sources": [
         "IGN Games"
@@ -486,15 +451,22 @@
     {
       "title": "Reuters Entertainment News Summary",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQMlBPbkhGdm1MMUdNeDdDclNscmE2X1NTZXd1NGlBUmlYTDZ5SkZILTB1TEFvOExfY3Z3X3hfM2xLS1llSmhWX0xQYWluTGx2UW5UMVo1SklYYlpBbjVYbnFEaTlfTHpYM3dNQzdUaWNxTU1rNlZ0azR2REZZUV9UNHZDdTlyX2g1UkYxeTkyd3lWVVFrcEhGaTNpWEVpZ9IBngFBVV95cUxQMlBPbkhGdm1MMUdNeDdDclNscmE2X1NTZXd1NGlBUmlYTDZ5SkZILTB1TEFvOExfY3Z3X3hfM2xLS1llSmhWX0xQYWluTGx2UW5UMVo1SklYYlpBbjVYbnFEaTlfTHpYM3dNQzdUaWNxTU1rNlZ0azR2REZZUV9UNHZDdTlyX2g1UkYxeTkyd3lWVVFrcEhGaTNpWEVpZw",
-      "source_count": 2,
+      "source_count": 1,
       "sources": [
-        "Devdiscourse",
         "Devdiscourse"
       ]
     },
     {
-      "title": "US court reinstates 'Sunday Ticket' class action verdict against NFL",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQMDNuY1hZRkpHUUZUTWstRDc2UlJZRXJRWW4zN1BKY3RRWTlEQy1TNW5aZGlXWlltQU1rSkM1SjVQSy1odlJmd0J3Rk5YZkhXR3RDVktjcXVuUkNRcWFhTmM1cjluYVBJbEx6VnJSSXV0cXFSLXVFdktxdkhOZ21VdUZWS0dtRDZFdHlwYW16TUh5UzlGZ3pFWUx5b09rQ2dJZlM1ZFRDR2xJblZk",
+      "title": "What I learned about 'Avengers: Doomsday' by seeing 'Wicker'",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9RYWZJRFROOEEyOURET2d0NnRJQ1JkWDYwS2tSTlIySFJqeTZRV1ZUbGZ6TC1xSkZWZjBlWnJHMHhuYVNhVFVTUnJJZk4wNWFaQzlyR1BESjZDalZITS1pYkpyR1VPU28",
+      "source_count": 1,
+      "sources": [
+        "Mashable"
+      ]
+    },
+    {
+      "title": "Kuaishou's Kling AI unit completes a near $3 billion funding round",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOVzVjLU5wMTJPamU3eWY1Ymo3TEtQMFB1d2JFb3hYT1ZjOVNSQkhNUGczWmYxTVZhQXBaWHBhMDBNVGNRdC1sdHBNX0paNHRqbER3aVo3cFFQZ1Z6ZHl4czZXbGh4WFpxOUtFSWw0SF9oc1B2N0tlU21tZDYyTG9XSXVadDJlMVBJclJYZ2JoVlVyNW5XclhQY2txVnk0Yy03V1R6U2J4SkFLSFlGUTRrcl9ENnNRSVFjemJJWnAwSW0",
       "source_count": 1,
       "sources": [
         "Reuters"
@@ -509,11 +481,11 @@
       ]
     },
     {
-      "title": "Kuaishou's Kling AI unit completes a near $3 billion funding round",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOVzVjLU5wMTJPamU3eWY1Ymo3TEtQMFB1d2JFb3hYT1ZjOVNSQkhNUGczWmYxTVZhQXBaWHBhMDBNVGNRdC1sdHBNX0paNHRqbER3aVo3cFFQZ1Z6ZHl4czZXbGh4WFpxOUtFSWw0SF9oc1B2N0tlU21tZDYyTG9XSXVadDJlMVBJclJYZ2JoVlVyNW5XclhQY2txVnk0Yy03V1R6U2J4SkFLSFlGUTRrcl9ENnNRSVFjemJJWnAwSW0",
+      "title": "Costa Rica's Grynspan extends lead in informal UN chief poll, sources say",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNWm9YeFVKYng0aG93ZTN2VnFNRFJFSGNVeDVsQnNpM1dlXzRhWHV1N041b2FmWVFmd0U4TEJHT0VZZm82cnV3SjIxSUs5Q2dRdDZkYm81elhhT19ua1UzUVAxN0poakV6cXc5NTZvQThMaXZlUlJlNmZRbHV4cy00aldPcHVkcGdQbmlYbk50V3EtT1I2YWdtT202ZmwzQmFKSS1MbHVfTUNjUdIBrwFBVV95cUxPRngzellOSzFtcC1KZHZJYTNTcUdHVTBuakN5anc0bTBOQmtvY05wWkJjLXZVckZkUld5MUtpUHk3ZlpsUkhMRlpQMENPRVdrcmhDZ3FuRWJIT2NZY0Z1WV9nV3VBTXE4Z2h6clBaVTBTUk5ldmNpNTc2cmFCSm9lbk1GYkdsY2MzemtMX3hZc05yb1ItaXVvN0YzYzd1MkR3YUQtUGNvb3ZfTXhYcExB",
       "source_count": 1,
       "sources": [
-        "Reuters"
+        "ThePrint"
       ]
     },
     {
@@ -613,48 +585,48 @@
       ]
     },
     {
+      "title": "Kelly Clarkson Wins One & Loses One at 2026 Daytime Emmys",
+      "url": "https://www.billboard.com/music/awards/kelly-clarkson-2026-daytime-emmys-wins-loses-1236370511/",
+      "source_count": 1,
+      "sources": [
+        "Billboard"
+      ]
+    },
+    {
+      "title": "Billboard's Music Industry Events Calendar",
+      "url": "https://www.billboard.com/pro/music-industry-events-calendar-festivals-awards-conferences/",
+      "source_count": 1,
+      "sources": [
+        "Billboard"
+      ]
+    },
+    {
+      "title": "Joe Budden Makes 'Law & Order' Cameo as a Rapper Named Big Switty",
+      "url": "https://www.billboard.com/culture/tv-film/joe-budden-law-and-order-cameo-rapper-big-switty-1236371484/",
+      "source_count": 1,
+      "sources": [
+        "Billboard"
+      ]
+    },
+    {
+      "title": "The 36 Best Christmas Gifts to Shop Online in 2026",
+      "url": "https://www.billboard.com/culture/product-recommendations/best-christmas-gifts-2026-buy-shop-online-1236368800/",
+      "source_count": 1,
+      "sources": [
+        "Billboard"
+      ]
+    },
+    {
+      "title": "Inside Jacksonville's Historic - And Haunted? - Florida Theatre, Which Turns 100 Next Year",
+      "url": "https://www.billboard.com/pro/indie-venue-of-month-jacksonville-haunted-florida-theatre/",
+      "source_count": 1,
+      "sources": [
+        "Billboard"
+      ]
+    },
+    {
       "title": "Lil Baby Is Open to 'Stepping Out of the Box' to Collab With Sabrina Carpenter: 'I Could Make It Work'",
       "url": "https://www.billboard.com/music/rb-hip-hop/lil-baby-sabrina-carpenter-collaboration-1236371517/",
-      "source_count": 1,
-      "sources": [
-        "Billboard"
-      ]
-    },
-    {
-      "title": "North West Reveals How She Makes Beats & Her Favorite Song on Her Dad's 'Graduation' Album",
-      "url": "https://www.billboard.com/music/rb-hip-hop/north-west-favorite-song-kanye-west-graduation-1236371483/",
-      "source_count": 1,
-      "sources": [
-        "Billboard"
-      ]
-    },
-    {
-      "title": "Billboard Japan & Luminate's 'NOW PLAYING JAPAN Vol. 6' Focuses on Overseas Perspectives on the Japanese Market, How to Leverage Metadata",
-      "url": "https://www.billboard.com/pro/billboard-japan-luminate-tokyo-conference-j-pop-metadata/",
-      "source_count": 1,
-      "sources": [
-        "Billboard"
-      ]
-    },
-    {
-      "title": "25 Halloween-Themed Hip-Hop Songs to Soundtrack Your Weekend",
-      "url": "https://www.billboard.com/lists/halloween-hip-hop-songs-playlist/",
-      "source_count": 1,
-      "sources": [
-        "Billboard"
-      ]
-    },
-    {
-      "title": "Jack Antonoff & Margaret Qualley File for Divorce After 3 Years of Marriage",
-      "url": "https://www.billboard.com/music/music-news/jack-antonoff-margaret-qualley-divorce-filing-1236289767/",
-      "source_count": 1,
-      "sources": [
-        "Billboard"
-      ]
-    },
-    {
-      "title": "Taylor Swift's 'I Knew It, I Knew You' Spends Fourth Month at No. 1 on Top Movie Songs Chart",
-      "url": "https://www.billboard.com/music/chart-beat/taylor-swift-i-knew-it-i-knew-you-top-movie-songs-september-1236371350/",
       "source_count": 1,
       "sources": [
         "Billboard"
@@ -709,53 +681,53 @@
       ]
     },
     {
-      "title": "The 10 Best Star Trek: The Next Generation Episodes, Ranked",
-      "url": "https://www.polygon.com/best-star-trek-next-generation-episodes-ranked/",
+      "title": "5 Must-Play New Xbox Games Coming in November, Including GTA 6",
+      "url": "https://www.polygon.com/new-xbox-games-november-2026/",
       "source_count": 1,
       "sources": [
         "Polygon"
       ]
     },
     {
-      "title": "New Pokémon Release Brings Hundreds of New Eeveelutions",
-      "url": "https://www.polygon.com/pokemon-new-eeveelutions-gba-game-download/",
+      "title": "Sony's Bringing Back Spider-Man $2.5 Billion Hit With New Footage",
+      "url": "https://www.polygon.com/spider-man-brand-new-day-rerelease-extended-new-footage-cameos/",
       "source_count": 1,
       "sources": [
         "Polygon"
       ]
     },
     {
-      "title": "The Witcher 3's Fairy Tale-Inspired Quests Are Must-Plays for Any RPG Fan",
-      "url": "https://www.polygon.com/the-witcher-3-fairy-tale-quests/",
+      "title": "15 Classic Games That Prove Gameplay Is More Important Than Graphics",
+      "url": "https://www.polygon.com/classic-games-bad-graphics-good-gameplay/",
       "source_count": 1,
       "sources": [
         "Polygon"
       ]
     },
     {
-      "title": "The Worst GTA Game Is One Rockstar Could Never Make Today",
-      "url": "https://www.polygon.com/gta-advance-worst-grand-theft-auto-game/",
+      "title": "Top 10 Pokémon Cards Most Likely to Be Fake",
+      "url": "https://www.polygon.com/top-10-pokemon-cards-most-likely-to-be-fake-how-to-tell/",
       "source_count": 1,
       "sources": [
         "Polygon"
       ]
     },
     {
-      "title": "10 New Movies to Watch This Weekend on Prime Video, Prime Video, Paramount, and Peacock (October 30",
-      "url": "https://www.polygon.com/new-movies-streaming-this-weekend-prime-video-october-30-november-1/",
+      "title": "Every Mike Flanagan TV Series, Ranked",
+      "url": "https://www.polygon.com/mike-flanagan-series-ranked/",
       "source_count": 1,
       "sources": [
-        "November 1)"
+        "Polygon"
       ]
     },
     {
-      "title": "Activision Apologizes for 'Modern Warfare 4' Footage After Backlash",
-      "url": "https://www.polygon.com/modern-warfare-4-activision-apologizes-itaewon-tragedy/",
+      "title": "10 Free Browser Games That are Actually Fun to Play",
+      "url": "https://www.polygon.com/best-free-browser-games-to-play/",
       "source_count": 1,
       "sources": [
         "Polygon"
       ]
     }
   ],
-  "summary": "Verified intelligence gathered across 94 deduplicated editorial clusters."
+  "summary": "Verified intelligence gathered across 90 deduplicated editorial clusters."
 }
