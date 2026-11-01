@@ -1,7 +1,40 @@
 {
-  "timestamp": "2026-11-01T08:45:31.821620+00:00",
-  "headline_count": 89,
+  "timestamp": "2026-11-01T16:36:09.641948+00:00",
+  "headline_count": 93,
   "headlines": [
+    {
+      "title": "Box Office: 'You Can See Everything' and 'Clayface' Battle for No. 1 With $10.5 Million in Sleepy Halloween Weekend",
+      "url": "https://variety.com/2026/film/box-office/you-can-see-everything-clayface-battle-for-no-1-box-office-1236936664/",
+      "source_count": 1,
+      "sources": [
+        "Variety"
+      ]
+    },
+    {
+      "title": "Michael Mann Hospitalized After Accidentally Shooting Himself in the Leg at Los Angeles Gun Range",
+      "url": "https://variety.com/2026/film/news/michael-mann-shot-himself-gun-range-accident-1236936667/",
+      "source_count": 2,
+      "sources": [
+        "Variety",
+        "The Hollywood Reporter"
+      ]
+    },
+    {
+      "title": "The Best Pop-Culture Advent Calendars for 2026: 'Bluey,' 'The Nightmare Before Christmas,' Marvel and More",
+      "url": "https://variety.com/2026/shopping/news/best-pop-culture-advent-calendars-2026-shop-online-1236912504/",
+      "source_count": 1,
+      "sources": [
+        "Variety"
+      ]
+    },
+    {
+      "title": "Valladolid Festival Prizes: Alain Gomis' 'Dao' Wins Golden Spike, 'La Gradiva' Takes Silver",
+      "url": "https://variety.com/2026/film/global/valladolid-prizes-dao-la-gradiva-lisandro-alonso-1236936281/",
+      "source_count": 1,
+      "sources": [
+        "Variety"
+      ]
+    },
     {
       "title": "Inde Navarrette Wins Halloween With Penis-Destroying Robot 'SNL' Sketch 'The Inventor's Wife'",
       "url": "https://variety.com/2026/tv/news/inde-navarrette-snl-halloween-the-inventors-wife-penis-robot-1236936629/",
@@ -13,44 +46,33 @@
     {
       "title": "'Godzilla Minus Zero' Stars Relive Hollywood Ovation and Fan Chants for Yamazaki Takashi at Tokyo Festival",
       "url": "https://variety.com/2026/film/festivals/godzilla-minus-zero-stars-relive-hollywood-ovation-tokyo-festival-1236936612/",
-      "source_count": 1,
-      "sources": [
-        "Variety"
-      ]
-    },
-    {
-      "title": "'SNL' Weekend Update Finally Weighs in on Israel",
-      "url": "https://variety.com/2026/tv/news/snl-weekend-update-israel-stance-michael-che-colin-jost-1236936599/",
-      "source_count": 1,
-      "sources": [
-        "Variety"
-      ]
-    },
-    {
-      "title": "'SNL' Celebrates Milwaukee Brewers' World Series Win With Bobby Moynihan's Drunk Uncle on Weekend Update",
-      "url": "https://variety.com/2026/tv/news/drunk-uncle-bobby-moynihan-snl-milwaukee-brewers-world-win-1236936586/",
       "source_count": 2,
       "sources": [
         "Variety",
-        "Deadline Hollywood"
-      ]
-    },
-    {
-      "title": "'SNL' Cold Open Crashed by Tom Hanks as David S. Pumpkins, Nicki Minaj and Donald Trump, Who Admits He 'Might Be Gay'",
-      "url": "https://variety.com/2026/tv/news/tom-hanks-trump-david-pumpkins-snl-nicki-minaj-1236936453/",
-      "source_count": 3,
-      "sources": [
-        "Variety",
-        "Deadline Hollywood",
         "The Hollywood Reporter"
       ]
     },
     {
-      "title": "Inde Navarrette Takes Swipe at Shane Gillis During 'SNL' Monologue",
-      "url": "https://variety.com/2026/tv/news/inde-navarrette-snl-shane-gillis-gym-monologue-1236936565/",
-      "source_count": 2,
+      "title": "'Planted!' Game Dev Ben Cawthorne On Digging Up Chaos In A Competitive Gardening Game",
+      "url": "https://deadline.com/2026/11/planted-video-game-interview-ben-cawthorne-1237210860/",
+      "source_count": 1,
       "sources": [
-        "Variety",
+        "Deadline Hollywood"
+      ]
+    },
+    {
+      "title": "'Clayface' In Staring Contest With Elizabeth Holmes & Nathan Fielder For No. 1 Over Sluggish Halloween Weekend",
+      "url": "https://deadline.com/2026/11/box-office-you-can-see-everything-clayface-halloween-1237209579/",
+      "source_count": 1,
+      "sources": [
+        "Sunday AM Update"
+      ]
+    },
+    {
+      "title": "Michael Mann Injured When Weapon Accidentally Discharges; Filmmaker OK",
+      "url": "https://deadline.com/2026/11/michael-mann-injured-weapon-discharges-filmmaker-ok-1237210846/",
+      "source_count": 1,
+      "sources": [
         "Deadline Hollywood"
       ]
     },
@@ -79,40 +101,32 @@
       ]
     },
     {
+      "title": "Lola Blankets' Early Black Friday Sale Delivers Half Off Hollywood's Most Coveted Throws",
+      "url": "https://www.hollywoodreporter.com/lifestyle/shopping/lola-blankets-black-friday-sale-2026-discount-code-50-off-1236744043/",
+      "source_count": 1,
+      "sources": [
+        "The Hollywood Reporter"
+      ]
+    },
+    {
+      "title": "Netflix's New Releases Coming in November 2026",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/netflix-november-2026-new-releases-movies-tv-1236744265/",
+      "source_count": 1,
+      "sources": [
+        "The Hollywood Reporter"
+      ]
+    },
+    {
+      "title": "'SNL': Inde Navarrette Digs at Shane Gillis' Joke About Women Dressing Like \"Whores\" at the Gym as Tom Hanks Crashes Cold Open",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/inde-navarrette-snl-shane-gillis-whore-gym-tom-hanks-1236744238/",
+      "source_count": 1,
+      "sources": [
+        "The Hollywood Reporter"
+      ]
+    },
+    {
       "title": "Heidi Klum Reveals This Year's (Very Bloody) Halloween Costume",
       "url": "https://www.hollywoodreporter.com/lifestyle/lifestyle-news/heidi-klum-2026-halloween-costume-reveal-1236741385/",
-      "source_count": 1,
-      "sources": [
-        "The Hollywood Reporter"
-      ]
-    },
-    {
-      "title": "Tovah Feldshuh Shuts Down 'Nobody Wants This' Cast Tension Rumors Amid Adam Brody \"Free Palestine\" Support",
-      "url": "https://www.hollywoodreporter.com/tv/tv-news/tovah-feldshuh-nobody-wants-this-tension-adam-brody-palestine-1236744254/",
-      "source_count": 1,
-      "sources": [
-        "The Hollywood Reporter"
-      ]
-    },
-    {
-      "title": "'Green Room' Director Recalls How Patrick Stewart \"Saved\" Movie From Being Scrapped",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/how-patrick-stewart-saved-green-room-scrapped-jeremy-saulnier-1236744241/",
-      "source_count": 1,
-      "sources": [
-        "The Hollywood Reporter"
-      ]
-    },
-    {
-      "title": "Trump Lawsuit Against Wall Street Journal Over Epstein Story Dismissed by Judge",
-      "url": "https://www.hollywoodreporter.com/news/politics-news/trump-lawsuit-wall-street-journal-epstein-dismissed-1236744244/",
-      "source_count": 1,
-      "sources": [
-        "The Hollywood Reporter"
-      ]
-    },
-    {
-      "title": "Michael Douglas Shares Update on Jack Nicholson: \"He's Well. He Has Disappeared\"",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/jack-nicholson-update-michael-douglas-disappeared-1236744230/",
       "source_count": 1,
       "sources": [
         "The Hollywood Reporter"
@@ -167,48 +181,48 @@
       ]
     },
     {
-      "title": "What To Watch Sunday: Jensen Ackles Returns To Tracker, The Gilded Age Season 4 Premiere, And More",
-      "url": "https://www.tvline.com/2301874/what-to-watch-november-1-2026-tv-shows-movies-streaming/",
+      "title": "5 Best British Crime Series You Can Stream For Free",
+      "url": "https://www.tvline.com/2300783/best-british-crime-series-stream-free/",
       "source_count": 1,
       "sources": [
         "TVLine"
       ]
     },
     {
-      "title": "Young Sheldon's Iain Armitage Made His Acting Debut As A Guest Star On Law & Order: SVU",
-      "url": "https://www.tvline.com/2299869/young-sheldon-iain-armitage-acting-debut-guest-star-law-and-order-svu/",
+      "title": "10 Great TV Shows That Had Bad Pilots",
+      "url": "https://www.tvline.com/2301668/great-tv-shows-bad-pilots/",
       "source_count": 1,
       "sources": [
         "TVLine"
       ]
     },
     {
-      "title": "10 Best Animated TV Shows Streaming On Prime Video, Ranked",
-      "url": "https://www.tvline.com/2298941/best-animated-tv-shows-streaming-prime-video-ranked/",
+      "title": "William Shatner Says Shooting Star Trek's Worst-Ever Fight Scene Was Also Incredibly Painful",
+      "url": "https://www.tvline.com/2300313/william-shatner-star-trek-worst-fight-scene-incredibly-painful/",
       "source_count": 1,
       "sources": [
         "TVLine"
       ]
     },
     {
-      "title": "NCIS: New York's Sean Sullivan Actor Starred On A Controversial Netflix Series",
-      "url": "https://www.tvline.com/2303152/ncis-new-york-sean-sullivan-actor-devin-druid-netflix-series-13-reasons-why/",
+      "title": "Zoe Saldaña Played A Murder Suspect's Daughter On An Early Law & Order: SVU Episode",
+      "url": "https://www.tvline.com/2300302/zoe-saldana-murder-suspect-daughter-early-law-and-order-svu/",
       "source_count": 1,
       "sources": [
         "TVLine"
       ]
     },
     {
-      "title": "Why Johnny Warren From War Looks So Familiar",
-      "url": "https://www.tvline.com/2303348/johnny-warren-war-actor-archie-renaux/",
+      "title": "Why NBC Nearly Ended Up Sending ER To A Rival Network",
+      "url": "https://www.tvline.com/2300564/why-nbc-nearly-sent-er-rival-network-cbs/",
       "source_count": 1,
       "sources": [
         "TVLine"
       ]
     },
     {
-      "title": "Gilligan's Island Actor Bob Denver's Acting Debut Was On A Military Submarine Drama",
-      "url": "https://www.tvline.com/2299669/gilligans-island-actor-bob-denver-acting-debut-submarine-military-drama/",
+      "title": "Before Lucifer, Tom Ellis Was In A Horror Series With Game Of Thrones Star Maisie Williams",
+      "url": "https://www.tvline.com/2300126/lucifer-tom-ellis-game-of-thrones-maisie-williams-horror-series-the-secret-of-crickley-hall/",
       "source_count": 1,
       "sources": [
         "TVLine"
@@ -407,6 +421,22 @@
       ]
     },
     {
+      "title": "It's not just Steam: New game pages created per day on Itch.io has doubled in the last two months, with AI slop the likely culprit",
+      "url": "https://www.pcgamer.com/gaming-industry/game-development/its-not-just-steam-new-game-pages-created-per-day-on-itch-io-has-doubled-in-the-last-two-months-with-ai-slop-the-likely-culprit/",
+      "source_count": 1,
+      "sources": [
+        "PC Gamer"
+      ]
+    },
+    {
+      "title": "I'm glad that WoW: Forever'll have a slower, lo-fi update schedule, because I'm not playing this thing to be in a rush",
+      "url": "https://www.pcgamer.com/games/world-of-warcraft/im-glad-that-wow-foreverll-have-a-slower-lo-fi-update-schedule-because-im-not-playing-this-thing-to-be-in-a-rush/",
+      "source_count": 1,
+      "sources": [
+        "PC Gamer"
+      ]
+    },
+    {
       "title": "Forza co-creator Dan Greenawalt is reportedly leaving Microsoft",
       "url": "https://www.pcgamer.com/games/racing/forza-co-creator-dan-greenawalt-is-reportedly-leaving-microsoft/",
       "source_count": 1,
@@ -439,31 +469,6 @@
       ]
     },
     {
-      "title": "Elder Scrolls Skyblivion mod faces lawsuit from former volunteer, project lead urges 'Please don't turn this into any kind of witch hunt'",
-      "url": "https://www.pcgamer.com/games/the-elder-scrolls/elder-scrolls-skyblivion-mod-faces-lawsuit-from-former-volunteer-project-lead-urges-please-dont-turn-this-into-any-kind-of-witch-hunt/",
-      "source_count": 1,
-      "sources": [
-        "PC Gamer"
-      ]
-    },
-    {
-      "title": "Celeste and TowerFall have delisted from Xbox's digital storefronts to support BDS boycott",
-      "url": "https://www.pcgamer.com/games/action/celeste-and-towerfall-have-delisted-from-xboxs-digital-storefronts-to-support-bds-boycott/",
-      "source_count": 1,
-      "sources": [
-        "PC Gamer"
-      ]
-    },
-    {
-      "title": "Reuters Entertainment News Summary",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNUUxfRFhzdmxjMmtQd0E5Yk41eHZwOUJycmI1RHdDdkNlcUIwZVhnbWtGT0hVSE5DR2VvQ25lYTVPczBvdlMzczVTSmNfSm81UEVPZnRNUW5UOGYxbG1MWmhmcDA2dU5zT3hyUzhKbkNRZmFkNThFU053Tk5CTThSM2lHNE1QVHpKWi1JVWd2X0VLLWdTM09NelEySnpoQdIBngFBVV95cUxNUUxfRFhzdmxjMmtQd0E5Yk41eHZwOUJycmI1RHdDdkNlcUIwZVhnbWtGT0hVSE5DR2VvQ25lYTVPczBvdlMzczVTSmNfSm81UEVPZnRNUW5UOGYxbG1MWmhmcDA2dU5zT3hyUzhKbkNRZmFkNThFU053Tk5CTThSM2lHNE1QVHpKWi1JVWd2X0VLLWdTM09NelEySnpoQQ",
-      "source_count": 2,
-      "sources": [
-        "Devdiscourse",
-        "Devdiscourse"
-      ]
-    },
-    {
       "title": "Indian broadcaster Zee's profit falls as FIFA-related costs weigh",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTjVjbWJiaDAwQ0JmSGtZaHZnaWVYTWUzNE4weGo2dlVvTEp5dlFKM3VReUh2Y3lWSjNHaTJOUEdCeVZub3F4QlJ2QlBrMTZ2WXI2Z1V6U1ZhT2RvSFNsRWI1NjExN2NjXzR4U3Mxd3gtMGY4Q0wtZVIxejcxZTdSNzAwal9nelBhc0Y2TXZBRGtHb2NxOVRMUkpIMFNWazd2MDJzRXhYX2Z4QQ",
       "source_count": 1,
@@ -472,27 +477,67 @@
       ]
     },
     {
-      "title": "Trump says Flavio Bolsonaro can stay in US 'as long as he wants', World News",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxObHpWcXRrVnpmYUprWlg2M0pPU0stelZfcS1VQ1BHT0J6dVNXVDJhY0hDTEVUaHdYUGtSNEV6ZUdYREZ4U1k5bmd3Q2w5NGhXazZRZ1ZZOVctQm9OTjIyOGkwemJGMWh2QnMxN0w1M0pwbWVZb0xqdUlmel9iMmFwbUpsUXlWbXdBa0dv",
+      "title": "Reuters Science News Summary",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQendVbHlxN3FBbzFTR0xBdUNWREs3MmpOSWh2bkhtT3dETHM2WHVmNm03SFhwVENZelJsU3hRSFlGWDFveXd6WDRqcHJ3a2FidmVObjNBNUJ4SHZSZWZCZ0VDNDhBUFVCSEs4UWVQRmh3cTBJZEpqajBhN3pmRGhRMHhYS0NKYnh2eEtUUk1waEJtejlXQ1HSAZYBQVVfeXFMUHp3VWx5cTdxQW8xU0dMQXVDVkRLNzJqTklodm5IbU93RExzNlh1ZjZtN0hYcFRDWXpSbFN4UUhZRlgxb3l3elg0anByd2thYnZlTm4zQTVCeEh2UmVmQmdFQzQ4QVBVQkhLOFFlUEZod3EwSWRKamowYTd6ZkRoUTB4WEtDSmJ4dnhLVFJNcGhCbXo5V0NR",
+      "source_count": 1,
+      "sources": [
+        "Devdiscourse"
+      ]
+    },
+    {
+      "title": "Bringing the Middle Ages to modern China, medieval combat finds a foothold, Sports News",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQenprenN2OUE1Q2pCYURlLTNFVUVBU2JURzZZbWU2bWFpdHhra3NrSmpNNnQyMmoxd2lBOF9pYjduNUtJMHVkams4U1ExWEFvV2RqRUFVdDVRX0ZxR0c2MXBSc0hvMWxnMFphUFVwTzVxQ0ZPLWc4WkRGczRFSlE1Rmp6SnB1bEtjVDVxLWRleVJoSGxZaFdJSlFMMA",
       "source_count": 1,
       "sources": [
         "AsiaOne.com"
       ]
     },
     {
-      "title": "Maximum Entertainment Sellers Seek Halt To Restrictions",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQOF9Jd2xPdjQwcXZDWGN2SG5DNVpISWZ2NWNjbExzdllYT1NjX244TmVrTVB1a3dpeFdZQWNscC12UlRzWjV3ZzRUMzlNc2FMMzRFYlU5QlEwSmVpYVpSYlFtM2pNcW5hdldveHpMaG5YQVlkZWJNOHpMbFJ3am9FbnpNQTdHbXFoaldMSWpKMVRIVG1pQmpteldXZXo2TFh2Njc4MlI4d0JWSjMteTI3aFZIaVNpdk9iUFlYUHlHQnlLRkU",
+      "title": "Iranian envoys meet Qatari mediators as threat looms of US strikes after midterms",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNSlVFVkxLLV8zS3lJZDhjYzF6RmZMQXRSRGZBeGpyVDFiYkNzWnRfQ09BRWlzLXV0cXRSQzE0UkUzTDczS1dVNFVMOGExWkw0bVhtYU5aY25wR0lwLTkybjBDcHVjcnRrdWpNdGU1YkNqVWxjVGJNRDhXbnRrYUwxOUxNV0ZqNXhHNTZwWWxOU2hFLWdBMHRGSHlnaHVUeGhwRXhQWVBXUVhjZWhhY1ZhOFpxUGQzcFZWMHfSAb8BQVVfeXFMTXphWjZSU1BDcWNTS1A3M3E2aXM2dVhMM3hYT1FiRWJGX0RJQjI5cHJsZDFxZDhIMlR2TW9nVEljVTJQRnpGNGVTVHZCdFI0UnFGaDNWYTVndjctNFAzczYtR3FzUXlKNnVKeGt3a2MzVjBnMlpNN3A3Z2pQXzE3OGpXekw3Qm9BakhfRlVxS1ZGaG14WVZ6ZFNTOHNrQjFnWXRtSDlFTGVTcGIzQ0ZCbHNwVzQ0MVJ6WUk1WnJ0QmM",
       "source_count": 1,
       "sources": [
-        "TradingView"
+        "ThePrint"
       ]
     },
     {
-      "title": "Kuaishou's Kling AI unit completes a near $3 billion funding round",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOVzVjLU5wMTJPamU3eWY1Ymo3TEtQMFB1d2JFb3hYT1ZjOVNSQkhNUGczWmYxTVZhQXBaWHBhMDBNVGNRdC1sdHBNX0paNHRqbER3aVo3cFFQZ1Z6ZHl4czZXbGh4WFpxOUtFSWw0SF9oc1B2N0tlU21tZDYyTG9XSXVadDJlMVBJclJYZ2JoVlVyNW5XclhQY2txVnk0Yy03V1R6U2J4SkFLSFlGUTRrcl9ENnNRSVFjemJJWnAwSW0",
+      "title": "US court reinstates 'Sunday Ticket' class action verdict against NFL",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQMDNuY1hZRkpHUUZUTWstRDc2UlJZRXJRWW4zN1BKY3RRWTlEQy1TNW5aZGlXWlltQU1rSkM1SjVQSy1odlJmd0J3Rk5YZkhXR3RDVktjcXVuUkNRcWFhTmM1cjluYVBJbEx6VnJSSXV0cXFSLXVFdktxdkhOZ21VdUZWS0dtRDZFdHlwYW16TUh5UzlGZ3pFWUx5b09rQ2dJZlM1ZFRDR2xJblZk",
       "source_count": 1,
       "sources": [
         "Reuters"
+      ]
+    },
+    {
+      "title": "Kajol sends heartfelt birthday greetings to Aishwarya Rai Bachchan",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQMTBoSXlNTG5WaThDYUZfZUY2Sjg2M0I5Umw1UXk3cFhaZ0MtcnM1RzZZVkFvY0c1dDVpemRfVjdNRUpHdFJjNDhOdk8xWXRJMERlT01QMlpEX2lxWG0tNkZ5RFRVWWREeUhkRU9jc25pY2hyenYtOWVORXJSUWdnU0JLa3dvTS01M0MwZUtNWHVELXdadzloaWhHWERSaFhWWjdSUE1qb2xkd2ZBWF9TcTNPd05wRDRrTC1Ia3dGWl9kRVEwZEhWemhFZ3AxaFF0",
+      "source_count": 1,
+      "sources": [
+        "ANI News"
+      ]
+    },
+    {
+      "title": "Box Office: 'You Can See Everything' Beats 'Clayface' to Capture First Place",
+      "url": "https://www.indiewire.com/news/box-office/box-office-you-can-see-everything-beats-clayface-first-place-1235224954/",
+      "source_count": 1,
+      "sources": [
+        "IndieWire"
+      ]
+    },
+    {
+      "title": "Producer Titles Can Be Bought, but Real Creative Producers Take Them for Themselves",
+      "url": "https://www.indiewire.com/features/craft/scad-savannah-film-fest-producers-lauren-miller-rogen-1235224899/",
+      "source_count": 1,
+      "sources": [
+        "IndieWire"
+      ]
+    },
+    {
+      "title": "Michael Mann Accidentally Shoots Himself in Leg at Los Angeles Gun Range",
+      "url": "https://www.indiewire.com/news/breaking-news/michael-mann-accidentally-shoots-himself-in-leg-hospitalized-1235224943/",
+      "source_count": 1,
+      "sources": [
+        "IndieWire"
       ]
     },
     {
@@ -517,30 +562,6 @@
       "source_count": 1,
       "sources": [
         "IndieWire"
-      ]
-    },
-    {
-      "title": "Watch the 'Rehearsals for a Revolution' Director and Editor Explain How Memories Can Help Fight Authoritarianism",
-      "url": "https://www.indiewire.com/news/events/watch-rehearsals-for-a-revolution-director-art-of-the-doc-1235224797/",
-      "source_count": 1,
-      "sources": [
-        "IndieWire"
-      ]
-    },
-    {
-      "title": "'Who Killed Alex Odeh?' Review: A Scattered but Searing Documentary Examines America's Tacit Acceptance of Anti-Arab Discrimination",
-      "url": "https://www.indiewire.com/criticism/movies/who-killed-alex-odeh-documentary-movie-review-1235224728/",
-      "source_count": 1,
-      "sources": [
-        "IndieWire"
-      ]
-    },
-    {
-      "title": "Carrie Coon on 'The Liberation,' Life After 'White Lotus,' and Why Hollywood 'Places Limitations' on Actors",
-      "url": "https://www.indiewire.com/features/podcast/carrie-coon-podcast-interview-the-liberation-1235224738/",
-      "source_count": 1,
-      "sources": [
-        "'Screen Talk' Podcast Interview"
       ]
     },
     {
@@ -592,12 +613,27 @@
       ]
     },
     {
-      "title": "Gracie Abrams Goes From Juliet to Romeo During 'SNL' Halloween Performances",
-      "url": "https://www.billboard.com/music/pop/gracie-abrams-snl-halloween-romeo-juliet-costumes-1236371683/",
-      "source_count": 3,
+      "title": "AliExpress' Singles' Day Sale Is a Tech Lover's Dream, From Gaming Consoles to Karaoke Machines",
+      "url": "https://www.billboard.com/culture/product-recommendations/aliexpress-singles-day-sale-2026-best-tech-deals-online-1236371407/",
+      "source_count": 1,
+      "sources": [
+        "Billboard"
+      ]
+    },
+    {
+      "title": "Here's Where to Watch the 2026 New York Marathon Live Online",
+      "url": "https://www.billboard.com/culture/product-recommendations/new-york-marathon-2026-watch-live-online-free-1236369518/",
+      "source_count": 2,
       "sources": [
         "Billboard",
-        "Billboard",
+        "Billboard"
+      ]
+    },
+    {
+      "title": "Gracie Abrams Goes From Juliet to Romeo During 'SNL' Halloween Performances",
+      "url": "https://www.billboard.com/music/pop/gracie-abrams-snl-halloween-romeo-juliet-costumes-1236371683/",
+      "source_count": 1,
+      "sources": [
         "Billboard"
       ]
     },
@@ -618,11 +654,35 @@
       ]
     },
     {
-      "title": "Lizzo Recreates Dolly Parton's Iconic 'Jolene' Look for Halloween",
-      "url": "https://www.billboard.com/music/music-news/lizzo-dolly-parton-jolene-halloween-costume-1236371650/",
+      "title": "Is 'The Gray Man 2' Filming in New York? The Truth Behind the Viral Movie Set Footage",
+      "url": "https://www.whats-on-netflix.com/news/the-gray-man-2-netflix-ishowspeed-rumors-debunked/",
       "source_count": 1,
       "sources": [
-        "Billboard"
+        "What's on Netflix"
+      ]
+    },
+    {
+      "title": "New Releases on Netflix This Week and Top 10 Movies & Series: November 1, 2026",
+      "url": "https://www.whats-on-netflix.com/whats-new/new-releases-on-netflix-this-week-and-top-10-movies-series-november-1-2026/",
+      "source_count": 1,
+      "sources": [
+        "What's on Netflix"
+      ]
+    },
+    {
+      "title": "Every Indian Movie and Show New to Netflix in October 2026",
+      "url": "https://www.whats-on-netflix.com/whats-new/every-indian-movie-and-show-new-to-netflix-in-october-2026/",
+      "source_count": 1,
+      "sources": [
+        "What's on Netflix"
+      ]
+    },
+    {
+      "title": "'Beat Luke Littler' Debrief: Live Event Stunt Hits Netflix Top 10s, Sherrock Backlash, and a 2027 Sequel Tease",
+      "url": "https://www.whats-on-netflix.com/news/beat-luke-littler-netflix-top-10-data/",
+      "source_count": 1,
+      "sources": [
+        "What's on Netflix"
       ]
     },
     {
@@ -642,85 +702,53 @@
       ]
     },
     {
-      "title": "'The Hunchback, Soul of Paris': Netflix's New Quasimodo Movie Gets New Trailer",
-      "url": "https://www.whats-on-netflix.com/news/the-hunchback-soul-of-paris-everything-we-know-about-netflixs-new-quasimodo-movie/",
-      "source_count": 1,
-      "sources": [
-        "What's on Netflix"
-      ]
-    },
-    {
-      "title": "New K-Dramas on Netflix in November 2026",
-      "url": "https://www.whats-on-netflix.com/news/k-dramas/k-dramas-coming-to-netflix-november-2026/",
-      "source_count": 1,
-      "sources": [
-        "What's on Netflix"
-      ]
-    },
-    {
-      "title": "Everyone Thinks They Know How to Fix Netflix. The Data Proves They're All Wrong.",
-      "url": "https://www.whats-on-netflix.com/news/netflix-movie-strategy-engagement-report/",
-      "source_count": 1,
-      "sources": [
-        "What's on Netflix"
-      ]
-    },
-    {
-      "title": "Should You Watch 'Collision Course'? Review of the New Netflix Thriller",
-      "url": "https://www.whats-on-netflix.com/what-to-watch/collision-course-netflix-movie-review-spanish-heist/",
-      "source_count": 1,
-      "sources": [
-        "What's on Netflix"
-      ]
-    },
-    {
-      "title": "9 Years Later, Jon Bernthal's Action Series Is a Masterpiece From Start to Finish",
-      "url": "https://www.polygon.com/jon-bernthal-punisher-action-masterpiece-marvel-disney-plus/",
+      "title": "A Persona 1 Remake Is In Development, New Leak Suggests",
+      "url": "https://www.polygon.com/persona-1-remake-leak/",
       "source_count": 1,
       "sources": [
         "Polygon"
       ]
     },
     {
-      "title": "Ridley Scott's Near-Perfect Sci-Fi Masterpiece is Waiting to Be Rediscovered on Streaming",
-      "url": "https://www.polygon.com/ridley-scott-blade-runner-final-cut-streaming-november-2026/",
+      "title": "Itch.io Reveals Just How Much AI Slop Is Flooding Gaming Storefronts",
+      "url": "https://www.polygon.com/itch-io-doubled-game-pages-ai-slop/",
       "source_count": 1,
       "sources": [
         "Polygon"
       ]
     },
     {
-      "title": "All 8 Dungeon Crawler Carl Books Ranked (by Their Goodreads Score)",
-      "url": "https://www.polygon.com/every-dungeon-crawler-carl-book-ranked-by-their-goodreads-score/",
+      "title": "New Fortnite Item Makes Everything on the Item Shop Completely Free",
+      "url": "https://www.polygon.com/fortnite-pirate-item-shop-access-token-free-how-to-get/",
       "source_count": 1,
       "sources": [
         "Polygon"
       ]
     },
     {
-      "title": "Patrick Stewart's Perfect 'Simpsons' Episode Reveals the Beloved Actor's Secret Weapon",
-      "url": "https://www.polygon.com/patrick-stewart-the-simpsons-guest-star/",
+      "title": "Animal Crossing Is Finally Getting Some Real Competition With Petit Planet for Switch 2 In 2027",
+      "url": "https://www.polygon.com/petit-planet-switch-2-release-date-animal-crossing-competitor/",
       "source_count": 1,
       "sources": [
         "Polygon"
       ]
     },
     {
-      "title": "10 Video Games With the Best Twist Endings Nobody Saw Coming",
-      "url": "https://www.polygon.com/best-video-game-twist-endings/",
+      "title": "The 10 Most Anticipated Sci-Fi and Fantasy Books of November 2026",
+      "url": "https://www.polygon.com/most-anticipated-sci-fi-fantasy-books-november-2026/",
       "source_count": 1,
       "sources": [
         "Polygon"
       ]
     },
     {
-      "title": "Andy Weir's New Time-Travel Sci-fi Thriller Officially Arrives Nov. 5",
-      "url": "https://www.polygon.com/andy-weir-benjamin-percy-exoplanet-sci-fi-audiobook/",
+      "title": "15 Years Ago, Zelda Told its Most Memorable Story with its Worst Gameplay",
+      "url": "https://www.polygon.com/legend-zelda-skyward-sword-retrospective/",
       "source_count": 1,
       "sources": [
         "Polygon"
       ]
     }
   ],
-  "summary": "Verified intelligence gathered across 89 deduplicated editorial clusters."
+  "summary": "Verified intelligence gathered across 93 deduplicated editorial clusters."
 }
