@@ -1,55 +1,71 @@
 {
-  "timestamp": "2026-11-01T21:44:13.959371+00:00",
-  "headline_count": 90,
+  "timestamp": "2026-11-02T01:17:51.748284+00:00",
+  "headline_count": 92,
   "headlines": [
     {
-      "title": "'Gintama: Yoshiwara in Flames' Director and Producer Discuss Bringing the Cult Anime to the Big Screen",
-      "url": "https://variety.com/2026/film/asia/gintama-yoshiwara-in-flames-lucca-comics-and-games-1236936938/",
+      "title": "Dave Bautista Reveals He's Gained 20 Pounds of Muscle Ahead of Playing Kratos in 'God of War' Series",
+      "url": "https://variety.com/2026/tv/news/dave-bautista-muscle-gain-kratos-god-of-war-1236937038/",
       "source_count": 1,
       "sources": [
         "Variety"
       ]
     },
     {
-      "title": "Hilary Duff Says She Was 'F - ing Done' With 'Lizzie McGuire' When It Ended and Never Wanted to Sing 'What Dreams Are Made Of' Again: I Was 'Exhausted By It'",
-      "url": "https://variety.com/2026/music/news/hilary-duff-fing-done-when-lizzie-mcguire-ended-1236936919/",
+      "title": "Jakarta World Cinema Plans to Revive First Feature Competition With International Jury",
+      "url": "https://variety.com/2026/film/festivals/jakarta-world-cinema-revive-first-feature-competition-1236937042/",
       "source_count": 1,
       "sources": [
         "Variety"
       ]
     },
     {
-      "title": "My Chemical Romance Scores First-Ever No. 1 on Albums Chart With 'The Black Parade,' 20 Years After Its Release",
-      "url": "https://variety.com/2026/music/news/my-chemical-romance-scores-first-no-1-with-the-black-parade-1236936933/",
+      "title": "Dustin Hoffman Says Filming 'The Graduate' Was a 'Terrible Experience' and Director Mike Nichols Made Katharine Ross Slap Him 27 Times for a Scene He 'Didn't Even Use'",
+      "url": "https://variety.com/2026/film/news/dustin-hoffman-the-graduate-mike-nichols-1236937024/",
       "source_count": 1,
       "sources": [
         "Variety"
       ]
     },
     {
-      "title": "'Criminal Minds: Evolution' Stars A.J. Cook, Paget Brewster and More React to Series Cancellation: 'Rest in Peace'",
-      "url": "https://variety.com/2026/tv/news/criminal-minds-evolution-cancellation-reactions-1236936927/",
-      "source_count": 3,
+      "title": "Marty Erlichman, Longtime Manager for Barbra Streisand, Dies at 97",
+      "url": "https://variety.com/2026/music/people-news/marty-erlichman-dead-barbra-streisand-manager-1236937009/",
+      "source_count": 2,
       "sources": [
         "Variety",
-        "Deadline Hollywood",
         "The Hollywood Reporter"
       ]
     },
     {
-      "title": "Oscar-Nominated Director James Longley Talks His Afghanistan Documentary 'Mohabat' and Why His Next Film Will Center on the Rohingya Genocide (EXCLUSIVE)",
-      "url": "https://variety.com/2026/film/global/james-longley-mohabat-rohingya-genocide-1236936781/",
+      "title": "From 'The Devil Wears Prada' to 'The Invite,' Costume Designers Shatter the Myth Behind Dressing Contemporary Characters: 'It's Very Difficult'",
+      "url": "https://variety.com/2026/artisans/news/costume-designers-contemporary-costume-1236936227/",
       "source_count": 1,
       "sources": [
         "Variety"
       ]
     },
     {
-      "title": "'Forever With You' Director Explores Grief Through a Child's Eyes: 'Cinema Must Be Emotionally Rooted'",
-      "url": "https://variety.com/2026/film/global/fabrizio-cattani-forever-with-you-sharjah-film-festival-1236936653/",
+      "title": "Palme d'Or Winner 'Fjord' Opens Jakarta World Cinema as Cinematographer Tudor Vladimir Panduru Leads Masterclass",
+      "url": "https://variety.com/2026/film/festivals/fjord-jakarta-world-cinema-1236937002/",
       "source_count": 1,
       "sources": [
         "Variety"
+      ]
+    },
+    {
+      "title": "Rian Johnson Commissions 'Knives Out' Cinematographer For Curated RAW Camera App: \"The Same Image Processing We Use\"",
+      "url": "https://deadline.com/2026/11/rian-johnson-knives-out-cinematographer-curated-raw-camera-app-1237210958/",
+      "source_count": 1,
+      "sources": [
+        "Deadline Hollywood"
+      ]
+    },
+    {
+      "title": "'Criminal Minds: Evolution's Paget Brewster, AJ Cook, Kirsten Vangsness & More React To Cancellation: \"The Finest Group Of People\"",
+      "url": "https://deadline.com/2026/11/criminal-minds-evolution-stars-react-cancellation-1237210934/",
+      "source_count": 2,
+      "sources": [
+        "Deadline Hollywood",
+        "The Hollywood Reporter"
       ]
     },
     {
@@ -85,11 +101,19 @@
       ]
     },
     {
-      "title": "'Nobody Wants This' Actress Tovah Feldshuh Insists \"Tensions Are Not Rising\" With Adam Brody, Hopes \"We Are Chosen\" For Season 4",
-      "url": "https://deadline.com/2026/11/nobody-wants-this-actress-tensions-not-rising-adam-brody-1237210876/",
+      "title": "Book to Scream: How Universal Orlando's Halloween Event Embraced Horror's Literary Roots for 35 Years",
+      "url": "https://www.hollywoodreporter.com/lifestyle/arts/halloween-horror-nights-35-orlando-hellraiser-house-booktok-1236743712/",
       "source_count": 1,
       "sources": [
-        "Deadline Hollywood"
+        "The Hollywood Reporter"
+      ]
+    },
+    {
+      "title": "Martha Stewart Responds to Backlash Over Halloween Costume Depicting Homeless Person: \"Never My Intention\"",
+      "url": "https://www.hollywoodreporter.com/news/general-news/martha-stewart-responds-backlash-halloween-costume-homeless-1236745531/",
+      "source_count": 1,
+      "sources": [
+        "The Hollywood Reporter"
       ]
     },
     {
@@ -103,30 +127,6 @@
     {
       "title": "'O.J.'s Accomplice' Has Its Own 'The Jinx' Hot Mic Moment",
       "url": "https://www.hollywoodreporter.com/tv/tv-news/ojs-accomplice-hot-mic-moment-like-the-jinx-robert-durst-1236742348/",
-      "source_count": 1,
-      "sources": [
-        "The Hollywood Reporter"
-      ]
-    },
-    {
-      "title": "'You Can See Everything,' 'Clayface' Fighting for No. 1 in Quiet Halloween Weekend",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/you-can-see-everything-clayface-box-office-halloween-1236744345/",
-      "source_count": 1,
-      "sources": [
-        "The Hollywood Reporter"
-      ]
-    },
-    {
-      "title": "Michael Mann Accidentally Shoots Himself at L.A. Gun Range",
-      "url": "https://www.hollywoodreporter.com/news/general-news/michael-mann-accidentally-shoots-himself-l-a-gun-range-1236744347/",
-      "source_count": 1,
-      "sources": [
-        "The Hollywood Reporter"
-      ]
-    },
-    {
-      "title": "Lola Blankets' Early Black Friday Sale Delivers Half Off Hollywood's Most Coveted Throws",
-      "url": "https://www.hollywoodreporter.com/lifestyle/shopping/lola-blankets-black-friday-sale-2026-discount-code-50-off-1236744043/",
       "source_count": 1,
       "sources": [
         "The Hollywood Reporter"
@@ -181,48 +181,48 @@
       ]
     },
     {
-      "title": "10 Best Romance Shows Streaming On Netflix Right Now",
-      "url": "https://www.tvline.com/2302934/best-romance-shows-streaming-netflix/",
+      "title": "10 Best Syfy Shows Of All Time, Ranked",
+      "url": "https://www.tvline.com/2303442/best-syfy-shows-ranked/",
       "source_count": 1,
       "sources": [
         "TVLine"
       ]
     },
     {
-      "title": "The Twilight Zone Lost An Early Sponsor Who Was Never Able To Understand The Show",
-      "url": "https://www.tvline.com/2300762/the-twilight-zone-lost-early-sponsor-never-able-understand-show/",
+      "title": "A Lioness Star Pitched The Series To Creator Taylor Sheridan",
+      "url": "https://www.tvline.com/2298440/lioness-star-jill-wagner-pitched-series-creator-taylor-sheridan/",
       "source_count": 1,
       "sources": [
         "TVLine"
       ]
     },
     {
-      "title": "Picard Showrunner Regrets One Scene That Happened In Season 2",
-      "url": "https://www.tvline.com/2300871/star-trek-picard-showrunner-regret-season-2-scene/",
+      "title": "When Morgan Fairchild Left This '90s Show, Her Character Was Murdered By A Serial Killer",
+      "url": "https://www.tvline.com/2298589/morgan-fairchild-left-90s-show-character-murdered-serial-killer/",
       "source_count": 1,
       "sources": [
         "TVLine"
       ]
     },
     {
-      "title": "Why Matthew Perry Wished Friends Wasn't Quite As Popular As It Was During Its Peak",
-      "url": "https://www.tvline.com/2300863/matthew-perry-wished-friends-less-popular-peak/",
+      "title": "Before Young Sheldon, Emily Osment Was A Regular On Another Chuck Lorre Series",
+      "url": "https://www.tvline.com/2298669/young-sheldon-emily-osment-regular-chuck-lorre-series-the-kominsky-method/",
       "source_count": 1,
       "sources": [
         "TVLine"
       ]
     },
     {
-      "title": "15 Best Sci-Fi Shows Of The '90s, Ranked",
-      "url": "https://www.tvline.com/2302413/best-sci-fi-shows-90s-ranked/",
+      "title": "10 Best Comedy Shows Streaming On Apple TV, Ranked",
+      "url": "https://www.tvline.com/2303278/best-comedy-shows-streaming-apple-tv-ranked/",
       "source_count": 1,
       "sources": [
         "TVLine"
       ]
     },
     {
-      "title": "Game Of Thrones Actor John Bradley Starred In A Kid-Friendly, Dragon-Themed TV Movie",
-      "url": "https://www.tvline.com/2300821/game-of-thrones-john-bradley-star-kid-friendly-dragon-tv-movie-the-last-dragonslayer/",
+      "title": "Tom Selleck Starred In A Forgotten '90s Sitcom That Shares A Name With A Popular Drama",
+      "url": "https://www.tvline.com/2299406/tom-selleck-forgotten-90s-sitcom-shares-name-popular-drama-the-closer/",
       "source_count": 1,
       "sources": [
         "TVLine"
@@ -469,28 +469,11 @@
       ]
     },
     {
-      "title": "Indian broadcaster Zee's profit falls as FIFA-related costs weigh",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTjVjbWJiaDAwQ0JmSGtZaHZnaWVYTWUzNE4weGo2dlVvTEp5dlFKM3VReUh2Y3lWSjNHaTJOUEdCeVZub3F4QlJ2QlBrMTZ2WXI2Z1V6U1ZhT2RvSFNsRWI1NjExN2NjXzR4U3Mxd3gtMGY4Q0wtZVIxejcxZTdSNzAwal9nelBhc0Y2TXZBRGtHb2NxOVRMUkpIMFNWazd2MDJzRXhYX2Z4QQ",
-      "source_count": 1,
-      "sources": [
-        "Reuters"
-      ]
-    },
-    {
       "title": "Reuters Science News Summary",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQendVbHlxN3FBbzFTR0xBdUNWREs3MmpOSWh2bkhtT3dETHM2WHVmNm03SFhwVENZelJsU3hRSFlGWDFveXd6WDRqcHJ3a2FidmVObjNBNUJ4SHZSZWZCZ0VDNDhBUFVCSEs4UWVQRmh3cTBJZEpqajBhN3pmRGhRMHhYS0NKYnh2eEtUUk1waEJtejlXQ1HSAZYBQVVfeXFMUHp3VWx5cTdxQW8xU0dMQXVDVkRLNzJqTklodm5IbU93RExzNlh1ZjZtN0hYcFRDWXpSbFN4UUhZRlgxb3l3elg0anByd2thYnZlTm4zQTVCeEh2UmVmQmdFQzQ4QVBVQkhLOFFlUEZod3EwSWRKamowYTd6ZkRoUTB4WEtDSmJ4dnhLVFJNcGhCbXo5V0NR",
-      "source_count": 2,
-      "sources": [
-        "Devdiscourse",
-        "Devdiscourse"
-      ]
-    },
-    {
-      "title": "Chucky dogs, catrinas, even Trump parade at Bolivian zombie walk, Lifestyle News",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNd2xNYzRFWlk4RmtqNEFuRm5rOVl3MmtEUzlGT1VUdXU0YUd2N2NjOWNVcDFHRFlLMEszM2lyTV8yVC1SV19LN21wc1c2R2hPcE9ZbGxWOC11aUxRTVl2RkxKVDh5Q1VONE9DR01FMU0wajdKcXQ0X0pGZUtqR2tONzNwa1FpcG14dThMRG5lLUpQT2pMUWF6Wg",
       "source_count": 1,
       "sources": [
-        "AsiaOne.com"
+        "Devdiscourse"
       ]
     },
     {
@@ -502,11 +485,27 @@
       ]
     },
     {
+      "title": "China's coast guard conducts patrols east of Taiwan, CCTV reports, Asia News",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPQUN3YVlSRHNtaHJHdkxUbW9vSU9GMnEzSnpZRV85OWhvRk5RUjF0NUppaml2aGJXMV9OQnpLdEtGNHFvRDFnMzd4dnJXY0l3Ti1peFRmcF9BRFdxT3lhblBPUGhQRDRKckdBMkxCY1dJU1JseXJoQ2YwQWh2dUpLcnVqYmk0R2xUNnFiZ2pxbGM1ZzA",
+      "source_count": 1,
+      "sources": [
+        "AsiaOne.com"
+      ]
+    },
+    {
       "title": "More pics from Priyanka Chopra, Nick Jonas' Diwali bash in LA go viral",
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPbEZZNjQ0cTVRTVZxcEJNbXg4YWNXRVpTNWFWZlRPcXIyaVNJN0pFUUhubEQxQ3lfYVl2QkNpYnp4UGJnbjVQb3JjbVVtN3hCMDFNckt4c1RaLTVsLV9FR1ZtZHByWDNXZGp3bUhyejlrSHlzb2N6NjN3QmVEV3FxVVQ3ZkZPZ0dKc2ZzdzJ3YVhvMHF1VWFpSmVBLVZLVWxwSzBmOUs3b1hvdnR2VlZQUFl6a3VJeGFxc240TEttY2JwZ0RoRnNrbnhDRGpYWVdS",
       "source_count": 1,
       "sources": [
         "ANI News"
+      ]
+    },
+    {
+      "title": "UN says Yemeni staff member dies in Houthi custody, demands investigation",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNQ1pHeWNyTW4wdDRsZTdUWm13bExMSW9ZUEJ2aV9reE1PUFhrbVU0dy1XNWZNRmZqOXZJN0hvTVVXZ1ZBUkw1dXlPZkRMQmt2OExGSmRwQ3cxQVhJNHFFMWVLQXVWaU5vRklDY3ctbUFnU0NCTDhSSkJaUk8zMl9pY0IwZ2tDWW00a1ZiSXd5ZnVReXhJWEY0U21tOHo3eWM3eWlRYXRrVkFCNmFVZll4clJOTG9QZ20xTWhDejZLaE9aZ3lVaGFnSDdJWW1ydFow0gHQAUFVX3lxTE1DWkd5Y3JNbjB0NGxlN1RabXdsTExJb1lQQnZpX2t4TU9QWGttVTR3LVc1Zk1GZmo5dkk3SG9NVVdnVkFSTDV1eU9mRExCa3Y4TEZKZHBDdzFBWEk0cUUxZUtBdVZpTm9GSUNjdy1tQWdTQ0JMOFJKQlpSTzMyX2ljQjBna0NZbTRrVmJJd3lmdVF5eElYRjRTbW04ejd5Yzd5aVFhdGtWQUI2YVVmWXhyUk5Mb1BnbTFNaEN6NktoT1pneVVoYWdIN0lZbXJ0WjA",
+      "source_count": 1,
+      "sources": [
+        "Devdiscourse"
       ]
     },
     {
@@ -606,6 +605,30 @@
       ]
     },
     {
+      "title": "Marty Erlichman, Barbra Streisand's Longtime Manager, Dies at 97",
+      "url": "https://www.billboard.com/pro/marty-erlichman-death-barbra-streisand-manager/",
+      "source_count": 1,
+      "sources": [
+        "Billboard"
+      ]
+    },
+    {
+      "title": "Wu-Tang Clan to Headline Detroit Lions Thanksgiving Game Halftime Show",
+      "url": "https://www.billboard.com/music/rb-hip-hop/wu-tang-clan-halftime-show-detroit-lions-thanksgiving-game-1236371793/",
+      "source_count": 1,
+      "sources": [
+        "Billboard"
+      ]
+    },
+    {
+      "title": "'Sunday Night Football': How to Watch Philadelphia Eagles vs. Washington Commanders Game Live Online Free",
+      "url": "https://www.billboard.com/culture/product-recommendations/sunday-night-football-2026-2027-watch-nfl-live-online-free-1236343279/",
+      "source_count": 1,
+      "sources": [
+        "Billboard"
+      ]
+    },
+    {
       "title": "Harry Styles Dresses as NYC 'Pizza Rat,' Gets Jalen Brunson Tribute at Final MSG Residency Show",
       "url": "https://www.billboard.com/music/pop/harry-styles-pizza-rat-harryween-msg-residency-final-show-1236371781/",
       "source_count": 1,
@@ -624,30 +647,6 @@
     {
       "title": "Rawayana Throws Venezuelan-Style Halloween Party in NYC, Feat. Guests Cheo Pardo & Yorghaki",
       "url": "https://www.billboard.com/music/latin/rawayana-venezuelan-halloween-party-new-york-concert-review-1236371750/",
-      "source_count": 1,
-      "sources": [
-        "Billboard"
-      ]
-    },
-    {
-      "title": "My Chemical Romance Earns First No. 1 Album on Billboard 200 After 'The Black Parade' Reissue",
-      "url": "https://www.billboard.com/music/chart-beat/my-chemical-romance-number-one-billboard-200-black-parade-1236371717/",
-      "source_count": 1,
-      "sources": [
-        "Billboard"
-      ]
-    },
-    {
-      "title": "Juan Atkins, Techno Pioneer and Cybotron Co-Founder, Dies at 64",
-      "url": "https://www.billboard.com/music/music-news/juan-atkins-death-techno-music-pioneer-cybotron-dies-1236371734/",
-      "source_count": 1,
-      "sources": [
-        "Billboard"
-      ]
-    },
-    {
-      "title": "The First Billboard: All That Was 'New, Bright & Interesting on the Boards'",
-      "url": "https://www.billboard.com/pro/first-billboard-issue-november-1-1894/",
       "source_count": 1,
       "sources": [
         "Billboard"
@@ -702,6 +701,22 @@
       ]
     },
     {
+      "title": "Penguin Colony was made to 'put the games industry on notice'",
+      "url": "https://www.polygon.com/penguin-colony-interview-development/",
+      "source_count": 1,
+      "sources": [
+        "Polygon"
+      ]
+    },
+    {
+      "title": "8 Years Later, a Buffy Star's Obscure Thriller Is Waiting to Be Discovered on Free Streaming",
+      "url": "https://www.polygon.com/you-might-be-the-killer-free/",
+      "source_count": 1,
+      "sources": [
+        "Polygon"
+      ]
+    },
+    {
       "title": "5 Classic Nintendo Games That Are So Good They Never Need a Remake",
       "url": "https://www.polygon.com/classic-nintendo-games-no-remake-needed/",
       "source_count": 1,
@@ -712,10 +727,8 @@
     {
       "title": "How to get the Pirate Shop Access Token in Fortnite Chapter 7 mini season",
       "url": "https://www.polygon.com/fortnite-chapter-7-mini-season-pirate-shop-access-token-free-how-to-get/",
-      "source_count": 4,
+      "source_count": 2,
       "sources": [
-        "Polygon",
-        "Polygon",
         "Polygon",
         "Polygon"
       ]
@@ -729,5 +742,5 @@
       ]
     }
   ],
-  "summary": "Verified intelligence gathered across 90 deduplicated editorial clusters."
+  "summary": "Verified intelligence gathered across 92 deduplicated editorial clusters."
 }
