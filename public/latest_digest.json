@@ -1,101 +1,113 @@
 {
-  "timestamp": "2026-11-03T02:11:39.624227+00:00",
-  "headline_count": 89,
+  "timestamp": "2026-11-03T11:38:52.866425+00:00",
+  "headline_count": 90,
   "headlines": [
     {
-      "title": "Trent Reznor and Atticus Ross to Score David Fincher's 'The Further Mis-Adventures of Cliff Booth'",
-      "url": "https://variety.com/2026/music/news/trent-reznor-atticus-ross-score-david-fincher-cliff-booth-1236938107/",
+      "title": "'The Celebrity Traitors' Star James Acaster Rejects Report He Complained About Competitors: 'Completely Fabricated'",
+      "url": "https://variety.com/2026/tv/global/celebrity-traitors-james-acaster-slams-report-complained-on-set-1236938273/",
+      "source_count": 2,
+      "sources": [
+        "Variety",
+        "Deadline Hollywood"
+      ]
+    },
+    {
+      "title": "Shin Min-a, Ju Ji-hoon, Lee Jong-suk and Lee Se-young Take Webtoon Juggernaut 'The Remarried Empress' to Disney+ and Hulu",
+      "url": "https://variety.com/2026/tv/festivals/shin-min-lee-jong-suk-remarried-empress-disney-hulu-1236908746/",
+      "source_count": 2,
+      "sources": [
+        "Variety",
+        "The Hollywood Reporter"
+      ]
+    },
+    {
+      "title": "'Alice in Borderland' Star Isomura Hayato on the Role He Was Warned Off, Judging Tokyo's Ethical Film Award and Why Japanese Cinema Needs Government Backing",
+      "url": "https://variety.com/2026/film/festivals/alice-in-borderland-star-isomura-hayato-role-warned-off-1236938269/",
       "source_count": 1,
       "sources": [
         "Variety"
       ]
     },
     {
-      "title": "New Indian Horror Lab Aims to Push Genre Past Ghosts and Comedy Hybrids (EXCLUSIVE)",
-      "url": "https://variety.com/2026/film/news/indian-horror-lab-push-genre-past-ghosts-horror-comedies-1236938082/",
+      "title": "'Elsinore,' 'I See Buildings Fall Like Lightning' and 'Animol' Lead British Independent Film Awards Nominations",
+      "url": "https://variety.com/2026/awards/global/bifa-nominations-2026-elsinore-i-see-buildings-animol-1236937954/",
+      "source_count": 3,
+      "sources": [
+        "Variety",
+        "Deadline Hollywood",
+        "The Hollywood Reporter"
+      ]
+    },
+    {
+      "title": "Independent Talent to Rep Outernet London for Creative Commercial Strategy (EXCLUSIVE)",
+      "url": "https://variety.com/2026/music/global/independent-talent-outernet-london-1236938228/",
       "source_count": 1,
       "sources": [
         "Variety"
       ]
     },
     {
-      "title": "Neve Campbell Confirms Return for 'Scream 8'",
-      "url": "https://variety.com/2026/film/news/neve-campbell-scream-8-sidney-prescott-1236938043/",
+      "title": "Tallinn Black Nights Festival: New Artistic Director Triin Tramberg on Making Sure That at 30 It Stays 'Bold, Unpredictable Yet Accessible'",
+      "url": "https://variety.com/2026/film/global/tallinn-black-nights-triin-tramberg-new-artistic-director-1236938233/",
       "source_count": 1,
       "sources": [
         "Variety"
       ]
     },
     {
-      "title": "New Japanese Animation Prize Named Nippon Anime Awards, Sets First Ceremony for November 2027",
-      "url": "https://variety.com/2026/film/news/new-japanese-animation-prize-nippon-anime-awards-2027-1236938040/",
-      "source_count": 1,
-      "sources": [
-        "Variety"
-      ]
-    },
-    {
-      "title": "Veteran Publicist Bill Harrison and Creative Director Johnny Wujek Join Nonprofit Art of Elysium (EXCLUSIVE)",
-      "url": "https://variety.com/2026/film/columns/publicist-bill-harrison-creative-director-stylist-johnny-wujek-art-of-elysium-1236938034/",
-      "source_count": 1,
-      "sources": [
-        "Variety"
-      ]
-    },
-    {
-      "title": "'Vote for America 2026:' Here's How to Watch Newsmax's Midterm Election Special Online for Free",
-      "url": "https://variety.com/2026/shopping/news/newsmax-midterm-elections-show-watch-live-online-free-stream-1236938036/",
-      "source_count": 1,
-      "sources": [
-        "Variety"
-      ]
-    },
-    {
-      "title": "Jeremy Renner & Josh Brolin Set For Orlando von Einsiedel's 'A Speck In The Sea'; 193 Launching Sales At AFM",
-      "url": "https://deadline.com/2026/11/jeremy-renner-josh-brolin-a-speck-in-the-sea-1237211896/",
+      "title": "Bosses At 'Clangold' Producer Beetz Brothers Hail Skydance For Backing Casey Bloys: \"A Strong Sign The HBO Line Will Continue\"",
+      "url": "https://deadline.com/2026/11/beetz-brothers-clangold-launch-hbo-max-casey-bloys-1237211145/",
       "source_count": 1,
       "sources": [
         "Deadline Hollywood"
       ]
     },
     {
-      "title": "FilmLA Extends Application Deadline For Low Impact Permit Pilot Program",
-      "url": "https://deadline.com/2026/11/filmla-extends-deadline-low-impact-permits-1237211821/",
+      "title": "'Queen Silvia' Team Hopes For Multiple Seasons After Royal Drama's Cannes Premiere",
+      "url": "https://deadline.com/2026/11/queen-silvia-series-world-premiere-cannes-prime-video-1237209352/",
       "source_count": 1,
       "sources": [
         "Deadline Hollywood"
       ]
     },
     {
-      "title": "Trump Loses At SCOTUS As High Court Rejects California Noncitizens Voting Request On Midterms Eve",
-      "url": "https://deadline.com/2026/11/supreme-court-trump-california-voting-1237211767/",
+      "title": "New Anti-Harassment Laws Lead To Questions From UK Film & TV Industry",
+      "url": "https://deadline.com/2026/11/anti-harassment-laws-questions-uk-film-tv-industry-1237211132/",
       "source_count": 1,
       "sources": [
         "Deadline Hollywood"
       ]
     },
     {
-      "title": "Neve Campbell Says As Far As 'Scream 8' Goes, \"I'll Be In It\"; Latest Installment Still In Development",
-      "url": "https://deadline.com/2026/11/scream-8-neve-campbell-return-1237211716/",
+      "title": "Johnny Depp Open To Reprising 'Pirates Of The Caribbean' Role To \"Send Them Off On A Better Note\"",
+      "url": "https://deadline.com/2026/11/johnny-depp-reprising-pirates-of-the-caribbean-role-1237211975/",
       "source_count": 1,
       "sources": [
         "Deadline Hollywood"
       ]
     },
     {
-      "title": "Hollywood Unions Wonder Whether Next California Governor Will Share Newsom's Commitment To Expanding Film Tax Credits",
-      "url": "https://deadline.com/2026/11/hollywood-unions-react-newsom-1-billion-film-tax-credit-1237211519/",
+      "title": "ABC News Drops New Episode of 'The Dropout' That Tackles 'You Can See Everything'",
+      "url": "https://www.hollywoodreporter.com/business/digital/new-episode-the-dropout-podcast-released-holmes-film-1236746484/",
       "source_count": 1,
       "sources": [
-        "Deadline Hollywood"
+        "The Hollywood Reporter"
       ]
     },
     {
-      "title": "Josh Hartnett, Emma Thompson, Sally Hawkins, Danny Huston, Robert Aramayo & Chloe Pirrie Join Elle Fanning & Julianne Moore In Rebecca Miller's 'Moonsong: A Life In Seven Verses'",
-      "url": "https://deadline.com/2026/11/hartnett-thompson-hawkins-huston-aramayo-miller-moonsong-1237211647/",
+      "title": "Jon Stewart, Jimmy Kimmel, Seth Meyers Take Aim at Trump, Michigan's Haley Stevens on Eve of Election Day",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/stewart-kimmel-meyers-mock-trump-haley-stevens-eve-election-1236746597/",
       "source_count": 1,
       "sources": [
-        "AFM"
+        "The Hollywood Reporter"
+      ]
+    },
+    {
+      "title": "Marilyn Monroe, Audrey Hepburn, PÖFF Garments Bring the Glitz to New Fashion Museum Near Tallinn",
+      "url": "https://www.hollywoodreporter.com/lifestyle/style/marilyn-monroe-audrey-hepburn-poff-tallinn-fashion-museum-1236741709/",
+      "source_count": 1,
+      "sources": [
+        "The Hollywood Reporter"
       ]
     },
     {
@@ -107,139 +119,147 @@
       ]
     },
     {
-      "title": "'Red Before Dawn' Review: A Road Movie Revisits the Indonesian Revolution in Ways More Didactic Than Climactic",
-      "url": "https://www.hollywoodreporter.com/movies/movie-reviews/red-before-dawn-review-indonesian-film-1236746350/",
-      "source_count": 1,
-      "sources": [
-        "The Hollywood Reporter"
-      ]
-    },
-    {
-      "title": "Disney Night Returns on 'Dancing With the Stars' With a Broadway Twist: See the Scores, Who Went Home (Updating Live)",
-      "url": "https://www.hollywoodreporter.com/tv/tv-news/dwts-season-35-disney-week-8-recap-scores-elimination-1236746352/",
-      "source_count": 1,
-      "sources": [
-        "The Hollywood Reporter"
-      ]
-    },
-    {
-      "title": "With 'The Girl of Your Dreams,' Ashe Finds Her Sweet Spot: \"I'm A Really Solid Version of Myself\"",
-      "url": "https://www.hollywoodreporter.com/music/music-features/ashe-the-girl-of-your-dreams-stop-the-wedding-interview-1236746184/",
-      "source_count": 1,
-      "sources": [
-        "The Hollywood Reporter"
-      ]
-    },
-    {
-      "title": "'Robopocalypse' TV Show in the Works With Ron Howard, Akiva Goldsman",
-      "url": "https://www.hollywoodreporter.com/tv/tv-news/robopocalypse-tv-show-ron-howard-akiva-goldsman-1236707894/",
-      "source_count": 1,
-      "sources": [
-        "The Hollywood Reporter"
-      ]
-    },
-    {
-      "title": "Mckenna Grace Says She's Terrified to Do Nudity for Roles",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/mckenna-grace-terrified-nudity-film-roles-1236746356/",
-      "source_count": 1,
-      "sources": [
-        "The Hollywood Reporter"
-      ]
-    },
-    {
-      "title": "Harleen Sethi joins Divyenndu Sharma, Abhishek Banerjee and Pratik Gandhi in Amazon Prime Video's next series",
-      "url": "https://www.bollywoodhungama.com/news/bollywood/harleen-sethi-joins-divyenndu-sharma-abhishek-banerjee-and-pratik-gandhi-in-amazon-prime-videos-next-series/",
+      "title": "Singer Vishal Mishra buys four Mumbai apartments for Rs 22.25 crore in Lokhandwala",
+      "url": "https://www.bollywoodhungama.com/news/bollywood/singer-vishal-mishra-buys-four-mumbai-apartments-for-rs-22-25-crore-in-lokhandwala/",
       "source_count": 1,
       "sources": [
         "Bollywood Hungama"
       ]
     },
     {
-      "title": "EXCLUSIVE: Samarth Jurel to make special appearance in Emraan Hashmi-starrer Gunmaaster G9",
-      "url": "https://www.bollywoodhungama.com/news/bollywood/exclusive-samarth-jurel-to-make-special-appearance-in-emraan-hashmi-starrer-gunmaaster-g9/",
+      "title": "Priyadarshan CONFIRMS he won't direct Malamaal Weekly 2; Amit Joshi takes charge",
+      "url": "https://www.bollywoodhungama.com/news/bollywood/priyadarshan-confirms-he-wont-direct-malamaal-weekly-2-amit-joshi-takes-charge/",
       "source_count": 1,
       "sources": [
         "Bollywood Hungama"
       ]
     },
     {
-      "title": "BMC removes Dia Mirza's anti-cracker Diwali video after BJP's objection",
-      "url": "https://www.bollywoodhungama.com/news/bollywood/bmc-removes-dia-mirzas-anti-cracker-diwali-video-after-bjps-objection/",
+      "title": "BREAKING: Ramayana BREAKS pre-Diwali jinx! Rs. 25 cr+ in advance ticket sales; Kamal Gianchandani predicts HISTORIC record in PVR INOX's 30+ year history",
+      "url": "https://www.bollywoodhungama.com/news/bollywood/breaking-ramayana-breaks-pre-diwali-jinx-rs-25-cr-in-advance-ticket-sales-kamal-gianchandani-predicts-historic-record-in-pvr-inoxs-30-year-history/",
       "source_count": 1,
       "sources": [
         "Bollywood Hungama"
       ]
     },
     {
-      "title": "Ajay Devgn faces new legal challenge over Vimal Elaichi notice as Maharashtra FDA asserts proceedings will continue",
-      "url": "https://www.bollywoodhungama.com/news/bollywood/ajay-devgn-faces-new-legal-challenge-over-vimal-elaichi-notice-as-maharashtra-fda-asserts-proceedings-will-continue/",
+      "title": "Karan Tacker to begin shooting for Bhay: The Gaurav Tiwari Mystery Season 2 in March",
+      "url": "https://www.bollywoodhungama.com/news/bollywood/karan-tacker-to-begin-shooting-for-bhay-the-gaurav-tiwari-mystery-season-2-in-march/",
       "source_count": 1,
       "sources": [
         "Bollywood Hungama"
       ]
     },
     {
-      "title": "Sanjay Gupta's wife BREAKS silence on daughter's middle finger gesture at funeral, requests privacy for children: \"Kindly excuse them, and…\"",
-      "url": "https://www.bollywoodhungama.com/news/bollywood/sanjay-guptas-wife-breaks-silence-on-daughters-middle-finger-gesture-at-funeral-requests-privacy-for-children-kindly-excuse-them-and/",
+      "title": "EXCLUSIVE: Rahul Bose REACTS to Kay Kay Menon's hate-spewing character in Shaurya being hailed as a HERO: \"The world will change, but I won't\"",
+      "url": "https://www.bollywoodhungama.com/news/bollywood/exclusive-rahul-bose-reacts-to-kay-kay-menons-hate-spewing-character-in-shaurya-being-hailed-as-a-hero-the-world-will-change-but-i-wont/",
       "source_count": 1,
       "sources": [
         "Bollywood Hungama"
       ]
     },
     {
-      "title": "Scam 2010 first look out: Hansal Mehta-helmed series to premiere in January 2027 on Sony LIV",
-      "url": "https://www.bollywoodhungama.com/news/bollywood/scam-2010-first-look-out-hansal-mehta-helmed-series-to-premiere-in-january-2027-on-sony-liv/",
+      "title": "Ramayana 3 on the cards? Namit Malhotra says makers may revisit plans after audience feedback",
+      "url": "https://www.bollywoodhungama.com/news/bollywood/ramayana-3-on-the-cards-namit-malhotra-says-makers-may-revisit-plans-after-audience-feedback/",
       "source_count": 1,
       "sources": [
         "Bollywood Hungama"
       ]
     },
     {
-      "title": "James Spader Had One Request For His Ultron Look In Marvel's VisionQuest",
-      "url": "https://www.tvline.com/2301074/james-spader-request-ultron-marvel-visionquest/",
+      "title": "Quote Of The Day By Michael Douglas: 'He Said To Me, You Know, I Would Have Been Nicer To You If...'",
+      "url": "https://www.tvline.com/2304070/quote-of-the-day-michael-douglas-healing-relationship-father-kirk-douglas/",
       "source_count": 1,
       "sources": [
         "TVLine"
       ]
     },
     {
-      "title": "Why Susan Saint James Left Hollywood At The Height Of Her Kate & Allie Fame",
-      "url": "https://www.tvline.com/2304855/why-susan-saint-james-left-hollywood-height-kate-and-allie-fame/",
+      "title": "What To Watch Tuesday: VisionQuest Looks Back, Mike Tyson Netflix Special, And More",
+      "url": "https://www.tvline.com/2301340/what-to-watch-november-3-2026-tv-shows-movies-streaming/",
       "source_count": 1,
       "sources": [
         "TVLine"
       ]
     },
     {
-      "title": "Why Maddie From Marshals Looks So Familiar",
-      "url": "https://www.tvline.com/2303806/maddie-marshals-actress-morgan-lindholm/",
+      "title": "Walter Koenig Was Part Of One Of Gene Roddenberry's First Post-Star Trek Sci-Fi TV Projects",
+      "url": "https://www.tvline.com/2304950/walter-koenig-gene-roddenberry-first-sci-fi-tv-project-after-star-trek-the-questor-tapes/",
       "source_count": 1,
       "sources": [
         "TVLine"
       ]
     },
     {
-      "title": "Youth Renewed For Season 2 At HBO",
-      "url": "https://www.tvline.com/2304786/youth-renewed-season-2-hbo-sharon-horgan/",
+      "title": "The Voice's First-Ever Cut Week Reveals 12 Artists Going Live In Season 30 - Who Should Join Them? Vote!",
+      "url": "https://www.tvline.com/2304944/the-voice-cut-week-results-season-30-live-show-artists-voting/",
       "source_count": 1,
       "sources": [
         "TVLine"
       ]
     },
     {
-      "title": "Robert Redford Guest-Starred On A Failed '60s Drama War Set During The Civil War",
-      "url": "https://www.tvline.com/2300931/robert-redford-guest-star-failed-60s-drama-civil-war-the-americans/",
+      "title": "Dancing With The Stars Recap: Which Couple's Happily-Ever-After Was Cut Short On Disney Night?",
+      "url": "https://www.tvline.com/2304934/dancing-with-the-stars-recap-season-35-week-8-elimination-results/",
       "source_count": 1,
       "sources": [
         "TVLine"
       ]
     },
     {
-      "title": "Casting News: Tracker Recruits Josh Holloway, The Last Of Us Star To Play Lorena Bobbitt, And More",
-      "url": "https://www.tvline.com/2304708/tracker-josh-holloway-season-4-cast-isabela-merced-lorena-bobbitt-good-american-family/",
+      "title": "Stephen Graham's Serial Killer Series Is Essential Viewing On Apple TV",
+      "url": "https://www.tvline.com/2304929/stephen-graham-serial-killer-series-nocturne-streaming-apple-tv/",
       "source_count": 1,
       "sources": [
         "TVLine"
+      ]
+    },
+    {
+      "title": "PlayStation Store's Black Friday Deals 2026",
+      "url": "https://blog.playstation.com/2026/11/03/playstations-black-friday-deals-2026/",
+      "source_count": 1,
+      "sources": [
+        "PlayStation Blog"
+      ]
+    },
+    {
+      "title": "Players' Choice: Vote for October's best new game",
+      "url": "https://blog.playstation.com/2026/11/02/players-choice-vote-for-octobers-best-new-game-4/",
+      "source_count": 1,
+      "sources": [
+        "PlayStation Blog"
+      ]
+    },
+    {
+      "title": "'90s style sci-fi horror Derelikt launches Nov 13 on PS5",
+      "url": "https://blog.playstation.com/2026/11/02/90s-style-sci-fi-horror-derelikt-launches-nov-13-on-ps5/",
+      "source_count": 1,
+      "sources": [
+        "PlayStation Blog"
+      ]
+    },
+    {
+      "title": "Godzilla: Destroy All Monsters Melee Remastered fighter guide",
+      "url": "https://blog.playstation.com/2026/11/02/godzilla-destroy-all-monsters-melee-remastered-fighter-guide/",
+      "source_count": 1,
+      "sources": [
+        "PlayStation Blog"
+      ]
+    },
+    {
+      "title": "20 years of PlayStation Store - devs share the great games that surprised them most",
+      "url": "https://blog.playstation.com/2026/11/02/20-years-of-playstation-store-devs-share-the-great-games-that-surprised-them-most/",
+      "source_count": 1,
+      "sources": [
+        "PlayStation Blog"
+      ]
+    },
+    {
+      "title": "Official PlayStation Podcast Episode 552: Pumpkins and Pines",
+      "url": "https://blog.playstation.com/2026/10/30/official-playstation-podcast-episode-552-shivering-silver/",
+      "source_count": 1,
+      "sources": [
+        "PlayStation Blog"
       ]
     },
     {
@@ -291,6 +311,24 @@
       ]
     },
     {
+      "title": "The Legend of Zelda: Ocarina of Time Remake Global Release Times",
+      "url": "https://www.ign.com/articles/the-legend-of-zelda-ocarina-of-time-remake-global-release-times",
+      "source_count": 3,
+      "sources": [
+        "IGN Games",
+        "IGN Games",
+        "Polygon"
+      ]
+    },
+    {
+      "title": "A Concerning Amount of GTA Fans Would Give Up Their Pets to Play GTA 6 Early",
+      "url": "https://www.ign.com/articles/a-concerning-amount-of-gta-fans-would-give-up-their-pets-to-play-gta-6-early",
+      "source_count": 1,
+      "sources": [
+        "IGN Games"
+      ]
+    },
+    {
       "title": "How to Enter the AGON x COUNTER-STRIKE 2 Limited Edition Monitor Giveaway",
       "url": "https://www.ign.com/articles/agon-x-counter-strike-2-limited-edition-monitor-giveaway",
       "source_count": 1,
@@ -309,30 +347,6 @@
     {
       "title": "Blackpink's Jisoo Confirms She Referenced Resident Evil's Ada Wong in New Music Video",
       "url": "https://www.ign.com/articles/blackpinks-jisoo-confirms-she-referenced-resident-evils-ada-wong-in-new-music-video",
-      "source_count": 1,
-      "sources": [
-        "IGN Games"
-      ]
-    },
-    {
-      "title": "The Legend of Zelda: Ocarina of Time Remake Added Fast Travel Before Devs Decided It Never Needed It in the First Place",
-      "url": "https://www.ign.com/articles/the-legend-of-zelda-ocarina-of-time-remake-added-fast-travel-before-devs-decided-it-never-needed-it-in-the-first-place",
-      "source_count": 1,
-      "sources": [
-        "IGN Games"
-      ]
-    },
-    {
-      "title": "A Buggy World of Warcraft Mount Has Renewed Player Frustrations at the State of Retail",
-      "url": "https://www.ign.com/articles/a-buggy-world-of-warcraft-mount-has-renewed-player-frustrations-at-the-state-of-retail",
-      "source_count": 1,
-      "sources": [
-        "IGN Games"
-      ]
-    },
-    {
-      "title": "Alien: Isolation 2 Sticking With Pure Survival Horror Roots, Says Creative Director",
-      "url": "https://www.ign.com/articles/alien-isolation-2-sticking-with-pure-survival-horror-roots-says-creative-director",
       "source_count": 1,
       "sources": [
         "IGN Games"
@@ -387,6 +401,14 @@
       ]
     },
     {
+      "title": "Users pull $3.6 bn from Binance as it reopens following $6.3 billion mega-hack - FBI says North Korean hacking group 'TraderTraitor' to blame, North Korea says nuh-uh",
+      "url": "https://www.pcgamer.com/software/security/users-pull-usd3-6-bn-from-binance-as-it-reopens-following-usd6-3-billion-mega-hack-fbi-says-north-korean-hacking-group-tradertraitor-to-blame-north-korea-says-nuh-uh/",
+      "source_count": 1,
+      "sources": [
+        "PC Gamer"
+      ]
+    },
+    {
       "title": "Queen's Domain might be the best game like Metroid Prime since Metroid Prime",
       "url": "https://www.pcgamer.com/games/rpg/queens-domain-might-be-the-best-game-like-metroid-prime-since-metroid-prime/",
       "source_count": 1,
@@ -427,25 +449,24 @@
       ]
     },
     {
-      "title": "The 28 cozy game launches in November technically include 3 horse games, which is actually a lot for the eternally underserved horse gamers",
-      "url": "https://www.pcgamer.com/games/new-cozy-games-november-2026/",
+      "title": "Disney eyes thousands of layoffs, asks managers to target 20% savings, Bloomberg News reports",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPMFRGRW5WZUJyZDIxY3dFM1FneTBpOVhvWlVKcWdqa0l1T0VMblRzT3h5YVhhb1JwdlB5dzhERG91T2dVc1o1Zlh3bEU2QnU0MnpwdGFFM0RqalBoZUZHaExEa0gyNWkwc2xkT01DWUdNQTZaVXRlYS1GZFhHcnJwQ3VuMy0weU0tRktyelJqNzI4NUJXNUpGVGlzNjBib1loTk9IVE9TUDN0YnRvbDJWaHhLTS1RMUliMmI0WHJJMmNIY2s",
       "source_count": 1,
       "sources": [
-        "PC Gamer"
+        "Reuters"
       ]
     },
     {
       "title": "Reuters Entertainment News Summary",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNUkhzdnZBSmJLVWJ6eF9FMUNzaXgxVW5oOUtwNU9wSXcycFgwd3ZocmF0dlRXekNTRld5cXZTUTZxQ3NCM3c2eXVSZjRvSWtTaWpEcnFNcjdLWU1HSC1nX3JKdUJxX0xWSUNMWGo4b3lTNGMwMm8yNTV0aS1mSmI2SVlkdXJZaDdWcnRITFZQRGozYURXdXZJMVJuRTNYd9IBngFBVV95cUxNUkhzdnZBSmJLVWJ6eF9FMUNzaXgxVW5oOUtwNU9wSXcycFgwd3ZocmF0dlRXekNTRld5cXZTUTZxQ3NCM3c2eXVSZjRvSWtTaWpEcnFNcjdLWU1HSC1nX3JKdUJxX0xWSUNMWGo4b3lTNGMwMm8yNTV0aS1mSmI2SVlkdXJZaDdWcnRITFZQRGozYURXdXZJMVJuRTNYdw",
-      "source_count": 2,
+      "source_count": 1,
       "sources": [
-        "Devdiscourse",
         "Devdiscourse"
       ]
     },
     {
-      "title": "Coast Entertainment Holdings Posts Sept 2026 YTD Total Revenue Up 12.5%",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOb0U0Z1VURlhXM25yRl9aSGNmam1mendCMVFNQlB1UlZ0YVlTVW5zSzBxM0dPdzNRdjZ2R0F6d1MxanVuOWtOVGpLbElBNXM1bWF6MzVmTDlzR3BxY3plSzNwLVRUVUJkNllHdW9Ocm9qZTM4Ty1mZUp6bi0ybURzTzd0V1pQcTJrZEg5TW9sRjBBQWZxeVYzWDVSVGFUMjh4R3NzMS0wbFpXOVk3SHY1dzEwTW9mSjRSSnRQaTYycnZxdnpnZjlwUFo2SlJvYm5MdENwTElNNA",
+      "title": "Remedy Entertainment Outlook 2026 Unchanged",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOTk4xcC1CZ2hXVTZQSFZnRERaekpZMmFYLUVCUVVDZHBqWjFaV3VsWlhpRzZpU00tcmx1cDB6ZGl5T3pOM0tNOUdWWlRvU3BEWjljSjRTRE90bjNaVnRVSTdtMVo2ZFNMVHpMazF2bEVxZXRZUG4xWXVlTmtJLV9DZXNvZUpTSHdZOHFKMmVBX1RRcmVSZkQ1Rm85Z1ZuVmllaWxGdkJVOWpyRUd1VXVTV2xmWQ",
       "source_count": 1,
       "sources": [
         "TradingView"
@@ -460,6 +481,14 @@
       ]
     },
     {
+      "title": "Coast Entertainment Holdings Posts Sept 2026 YTD Total Revenue Up 12.5%",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOb0U0Z1VURlhXM25yRl9aSGNmam1mendCMVFNQlB1UlZ0YVlTVW5zSzBxM0dPdzNRdjZ2R0F6d1MxanVuOWtOVGpLbElBNXM1bWF6MzVmTDlzR3BxY3plSzNwLVRUVUJkNllHdW9Ocm9qZTM4Ty1mZUp6bi0ybURzTzd0V1pQcTJrZEg5TW9sRjBBQWZxeVYzWDVSVGFUMjh4R3NzMS0wbFpXOVk3SHY1dzEwTW9mSjRSSnRQaTYycnZxdnpnZjlwUFo2SlJvYm5MdENwTElNNA",
+      "source_count": 1,
+      "sources": [
+        "TradingView"
+      ]
+    },
+    {
       "title": "Trump approval near record low ahead of elections, Reuters/Ipsos poll finds",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPLTBTbFk2VXp5RHZDQjdRXzZ1SzFUNUFWVUhTZHNjeUNVVFZPTUNmR25sckREREZmb0dkclVwa3ZiemxBcjdHOWFMVVgyWVpnMy1zXzNvOXB1MV90TGU3TUxoVzQtTGVxUTYwVnIyNjRlblBDendvamZoRlVuQmwxSnFFcGZId0pjblZwY2tyc0h0TF9Bc0t3bW1PSjNOeG53cHQ3TUJOS0E2cmg0WEHSAbMBQVVfeXFMUFJqQ3BaWnZ2NWhYank2OVVDa1lOeDUyZDRpZERfM3BYa25OUXprNTlwQUJPaHpiWXdnOHVyc2gyUWlWTi1tS0liVk8xdk1wQVkwU1NCNDVTXzdBWDUzU3VraEhyemktUTNqUTRSczN2bEVVWHc5Y2U3R1pvMm1BMFVVQTR3S2xjR0dIV3Z5MkFpd0dhOXROaGpkcnpYeE1fRU1XRzRkVFo5RWdYSTM5bzg3UFk",
       "source_count": 1,
@@ -468,11 +497,11 @@
       ]
     },
     {
-      "title": "The agent stack is missing a trust layer",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPeExDazVCN0tockl1dTF6SWpUclZpcjVxc0FFN1NfUUVnaFBBVnROakE3MzcxcERnd2xLd3diM3ZPM2pZWDJhUnU4TTUwazZ3RVpnbkdzQVNsWUJtSC1FTzF0YndrMlRrbG1lR3phUWhka1E5cnRhWHNHNGY0UUt0Z0pMUElEUDBOeUwzYnJlMy1wUQ",
+      "title": "'Okinawa Saudade' Review: A Moving Documentary About the Okinawan-Brazilian Community Explores the History of Displacement",
+      "url": "https://www.indiewire.com/criticism/movies/okinawa-saudade-documentary-review-1235225173/",
       "source_count": 1,
       "sources": [
-        "TechCrunch"
+        "IndieWire"
       ]
     },
     {
@@ -510,14 +539,6 @@
     {
       "title": "'The Hunger Games: Sunrise on the Reaping' Will Be in 3D in Theaters - and on Meta's New VR Glasses",
       "url": "https://www.indiewire.com/news/breaking-news/hunger-games-sunrise-reaping-3d-version-meta-vr-glasses-1235225062/",
-      "source_count": 1,
-      "sources": [
-        "IndieWire"
-      ]
-    },
-    {
-      "title": "'Mouse' Review: 'Saint Frances' and 'Ghostlight' Filmmakers Bring Their Singular Humanity to a Coming-of-Age Tale",
-      "url": "https://www.indiewire.com/criticism/movies/mouse-review-kelly-osullivan-alex-thompson-1235178567/",
       "source_count": 1,
       "sources": [
         "IndieWire"
@@ -572,6 +593,38 @@
       ]
     },
     {
+      "title": "The Chicks Postpone Los Angeles Concert Hours Before Showtime Due to Illness",
+      "url": "https://www.billboard.com/music/country/the-chicks-postpone-los-angeles-concert-1236372722/",
+      "source_count": 1,
+      "sources": [
+        "Billboard"
+      ]
+    },
+    {
+      "title": "5 Seconds of Summer Bring Out The Wiggles in Melbourne",
+      "url": "https://www.billboard.com/music/pop/5-seconds-of-summer-the-wiggles-melbourne-1236372717/",
+      "source_count": 1,
+      "sources": [
+        "Billboard"
+      ]
+    },
+    {
+      "title": "Emilia Explores New Era with 'Bodypainting': 'It Speaks More of Freedom and Sensuality'",
+      "url": "https://www.billboard.com/music/latin/cafecito-con-emilia-bodypainting-interview-1236372139/",
+      "source_count": 1,
+      "sources": [
+        "Billboard"
+      ]
+    },
+    {
+      "title": "Kelly Clarkson Compares 13-Year-Old 'The Voice' Singer to Whitney Houston",
+      "url": "https://www.billboard.com/culture/tv-film/kelly-clarkson-the-voice-singer-whitney-houston-1236372715/",
+      "source_count": 1,
+      "sources": [
+        "Billboard"
+      ]
+    },
+    {
       "title": "Here's Why the My Chemical Romance Lawsuit Really Ended, According to the Band's Manager",
       "url": "https://www.billboard.com/pro/my-chemical-romance-cowboys-cheerleaders-lawsuit-why-ended/",
       "source_count": 1,
@@ -588,35 +641,11 @@
       ]
     },
     {
-      "title": "TWS: The Beauty of Growing Up Unscripted",
-      "url": "https://www.billboard.com/lists/tws-interview-to-us-growing-up-unscripted/",
+      "title": "Filming Begins on Netflix's Spanish Disaster Movie 'Chapapote'",
+      "url": "https://www.whats-on-netflix.com/news/filming-begins-netflix-spanish-disaster-movie-chapapote/",
       "source_count": 1,
       "sources": [
-        "Billboard"
-      ]
-    },
-    {
-      "title": "Justin Timberlake to Release 4-Part Docuseries That Includes Janet Jackson as a Guest",
-      "url": "https://www.billboard.com/music/music-news/justin-timberlake-docuseries-janet-jackson-apple-tv-1236372543/",
-      "source_count": 1,
-      "sources": [
-        "Billboard"
-      ]
-    },
-    {
-      "title": "'Monday Night Football' 2026: How to Watch Chicago Bears vs. Seattle Seahawks Live Online Free",
-      "url": "https://www.billboard.com/culture/product-recommendations/monday-night-football-2026-2027-watch-nfl-live-online-free-1236339452/",
-      "source_count": 1,
-      "sources": [
-        "Billboard"
-      ]
-    },
-    {
-      "title": "Bruce Springsteen Backs Michigan's Dr. Abdul El-Sayed for U.S. Senate Amid Haley Stevens Reversal: 'He's a Fighter'",
-      "url": "https://www.billboard.com/music/music-news/bruce-springsteen-michigan-abdul-el-sayed-us-senate-1236372511/",
-      "source_count": 1,
-      "sources": [
-        "Billboard"
+        "What's on Netflix"
       ]
     },
     {
@@ -660,61 +689,45 @@
       ]
     },
     {
-      "title": "What's Coming to Netflix This Week: November 2 to 8, 2026",
-      "url": "https://www.whats-on-netflix.com/coming-soon/whats-coming-to-netflix-this-week-november-2-to-8-2026/",
-      "source_count": 1,
-      "sources": [
-        "What's on Netflix"
-      ]
-    },
-    {
-      "title": "New Star Wars Book Reveals the Surprising '90s Inspiration for an Iconic New Character",
-      "url": "https://www.polygon.com/exclusive-look-the-art-of-the-mandalorian-and-grogu/",
+      "title": "Behaviour Interactive Addresses Dead by Daylight Controversy",
+      "url": "https://www.polygon.com/dead-by-daylight-theburntpeanut-controversy-response/",
       "source_count": 1,
       "sources": [
         "Polygon"
       ]
     },
     {
-      "title": "World of Warcraft Forever release time in your time zone",
-      "url": "https://www.polygon.com/world-of-warcraft-forever-wow-release-time-est-pst/",
+      "title": "Dragon Ball Manga Return Hopes Officially Dashed by Shueisha",
+      "url": "https://www.polygon.com/dragon-ball-super-jump-festa-manga-return/",
       "source_count": 1,
       "sources": [
         "Polygon"
       ]
     },
     {
-      "title": "Nintendo Officially Comments on Zelda Remake's Divisive Graphics",
-      "url": "https://www.polygon.com/zelda-ocarina-of-time-art-style-link-zelda-puppets/",
+      "title": "'Avatar: Seven Havens' Season 2 Could Return to 'The Last Airbender's Most Iconic Location",
+      "url": "https://www.polygon.com/avatar-seven-havens-season-2-new-ba-sing-se-theory/",
       "source_count": 1,
       "sources": [
         "Polygon"
       ]
     },
     {
-      "title": "Dead by Daylight Fans Are Uninstalling the Game in Protest",
-      "url": "https://www.polygon.com/dead-by-daylight-theburntpeanut-controversy-explained/",
+      "title": "'The Mandalorian' Meets 'Avatar' in Netflix's New Sci-Fi Western Masterpiece",
+      "url": "https://www.polygon.com/bass-x-machina-review-netflix/",
       "source_count": 1,
       "sources": [
         "Polygon"
       ]
     },
     {
-      "title": "2024's Best Action Game Is (Mostly) Just as Good in Stunning Switch 2 Port",
-      "url": "https://www.polygon.com/stellar-blade-nintendo-switch-2-impressions/",
-      "source_count": 1,
-      "sources": [
-        "Polygon"
-      ]
-    },
-    {
-      "title": "Daniel Craig's Taut 92-minute Thriller Is Blowing Up on Streaming",
-      "url": "https://www.polygon.com/daniel-craig-dream-house-streaming-success-hbo-max-november-2026/",
+      "title": "20 Years Later, Uncle Iroh's Wisest 'Avatar: The Last Airbender Quote' Is Still Undefeated",
+      "url": "https://www.polygon.com/avatar-the-last-airbenders-best-quote/",
       "source_count": 1,
       "sources": [
         "Polygon"
       ]
     }
   ],
-  "summary": "Verified intelligence gathered across 89 deduplicated editorial clusters."
+  "summary": "Verified intelligence gathered across 90 deduplicated editorial clusters."
 }
