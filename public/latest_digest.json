@@ -1,7 +1,39 @@
 {
-  "timestamp": "2026-11-07T04:49:20.961829+00:00",
-  "headline_count": 88,
+  "timestamp": "2026-11-07T12:31:50.835895+00:00",
+  "headline_count": 92,
   "headlines": [
+    {
+      "title": "'3 Body Problem' Director Derek Tsang Boards DEA True-Crime Series 'Group 41' From Zhang Yimou's 'Shadow' Producer Jonah Greenberg (EXCLUSIVE)",
+      "url": "https://variety.com/2026/tv/asia/3-body-problem-director-derek-tsang-dea-true-crime-series-group-41-1236941978/",
+      "source_count": 1,
+      "sources": [
+        "Variety"
+      ]
+    },
+    {
+      "title": "Davika Hoorne Returning for 'Inherit' Sequel, Director Banjong Pisanthanakun Confirms (EXCLUSIVE)",
+      "url": "https://variety.com/2026/film/news/davika-hoorne-inherit-sequel-1236941967/",
+      "source_count": 1,
+      "sources": [
+        "Variety"
+      ]
+    },
+    {
+      "title": "AI Filmmaking Platform Core Studio Launches at Taiwan Creative Content Fest With 24 Specialized Agents",
+      "url": "https://variety.com/2026/film/markets-festivals/ai-filmmaking-platform-core-studio-launches-24-agents-tccf-1236941957/",
+      "source_count": 1,
+      "sources": [
+        "Variety"
+      ]
+    },
+    {
+      "title": "'Triplets of Belleville' Director Sylvain Chomet Fires Back at AI Accusations Over Dior Film Featuring Robert Pattinson's Voice: 'Everything Was Drawn by Hand' (EXCLUSIVE)",
+      "url": "https://variety.com/2026/film/global/sylvain-chomet-denies-ai-accusations-dior-robert-pattinson-1236941945/",
+      "source_count": 1,
+      "sources": [
+        "Variety"
+      ]
+    },
     {
       "title": "Stephen Chow Told Japan to Stop Aping Kung Fu, Says Boss of Film Fund Behind Kore-eda Hirokazu's 'Look Back'",
       "url": "https://variety.com/2026/film/markets-festivals/stephen-chow-japan-stop-aping-kung-fu-k2-pictures-1236941939/",
@@ -20,38 +52,19 @@
       ]
     },
     {
-      "title": "Taiwan's Chunghwa Telecom Unveils 10 Content Investments, From 'Gunshot' to 'Call of Lobster'",
-      "url": "https://variety.com/2026/film/markets-festivals/taiwan-chunghwa-telecom-backs-gunshot-call-of-lobster-1236941920/",
+      "title": "How A Mistake In Warner Bros. Contracts Helped Eleven Film & Jack Thorne Land 'Lord Of The Flies' TV Rights",
+      "url": "https://deadline.com/2026/11/joel-wilson-eleven-films-jack-thorne-lord-of-the-flies-1237216218/",
       "source_count": 1,
       "sources": [
-        "Variety"
+        "Thessaloniki"
       ]
     },
     {
-      "title": "Bill Maher Rubs Salt in Trump's Midterms Wound: 'Donnie, Are You OK?'",
-      "url": "https://variety.com/2026/tv/news/bill-maher-trump-midterms-loss-real-time-hbo-lindsey-graham-1236941912/",
-      "source_count": 2,
-      "sources": [
-        "Variety",
-        "The Hollywood Reporter"
-      ]
-    },
-    {
-      "title": "James Bond Shocker: Robert Pattinson and Nicholas Hoult Late Contenders for 007 After Auditioning for Denis Villeneuve",
-      "url": "https://variety.com/2026/film/news/james-bond-casting-robert-pattinson-nicholas-hoult-1236941881/",
-      "source_count": 3,
-      "sources": [
-        "Variety",
-        "Deadline Hollywood",
-        "The Hollywood Reporter"
-      ]
-    },
-    {
-      "title": "Chang Chen Urges Emerging Taiwanese Actors to 'Be Like Water' at Taiwan Creative Content Fest Golden Horse Showcase",
-      "url": "https://variety.com/2026/film/markets-festivals/chang-chen-emerging-taiwanese-actors-taiwan-creative-content-fest-1236941891/",
+      "title": "Toei CEO Fumio Yoshimura Talks Global Expansion, GenAI Adoption & Entry Into Games",
+      "url": "https://deadline.com/2026/11/kamen-rider-toei-gen-ai-gaming-dear-stranger-iris-1237215381/",
       "source_count": 1,
       "sources": [
-        "Variety"
+        "Deadline Hollywood"
       ]
     },
     {
@@ -60,6 +73,15 @@
       "source_count": 1,
       "sources": [
         "Deadline Hollywood"
+      ]
+    },
+    {
+      "title": "Robert Pattinson & Nicholas Hoult Round Out James Bond Screen Tests",
+      "url": "https://deadline.com/2026/11/robert-pattinson-nicholas-hoult-james-bond-1237216183/",
+      "source_count": 2,
+      "sources": [
+        "Deadline Hollywood",
+        "The Hollywood Reporter"
       ]
     },
     {
@@ -79,29 +101,75 @@
       ]
     },
     {
-      "title": "'The Remarried Empress' Sets Disney+ Record As Most Viewed Local Original Launch Ever",
-      "url": "https://deadline.com/2026/11/the-remarried-empress-disney-record-1237216159/",
-      "source_count": 2,
-      "sources": [
-        "Deadline Hollywood",
-        "The Hollywood Reporter"
-      ]
-    },
-    {
-      "title": "'Ellen DeGeneres Show' EP Matthew Wright's Cause Of Death Revealed",
-      "url": "https://deadline.com/2026/11/ellen-degeneres-show-ep-matthew-wright-cause-death-1237216153/",
-      "source_count": 2,
-      "sources": [
-        "Deadline Hollywood",
-        "The Hollywood Reporter"
-      ]
-    },
-    {
-      "title": "AFM Hot Project: Rosamund Pike to Star in Body Horror 'Feed'",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/rosamund-pike-to-star-in-body-horror-feed-afm-project-1236749179/",
+      "title": "PÖFF Stands With Ukraine: A Look at Films Featured at Tallinn Made Despite, and Because of, the War",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/poff-standing-with-ukraine-tallinn-2026-films-events-war-1236741671/",
       "source_count": 1,
       "sources": [
         "The Hollywood Reporter"
+      ]
+    },
+    {
+      "title": "'Hold Onto Me,' Cyprus' First Oscar Hopeful, Stars a Newcomer and a 'Dogtooth' Actor in a Very Personal Father-Daughter Drama",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/hold-onto-me-cyprus-first-oscar-entry-father-daughter-film-1236747471/",
+      "source_count": 1,
+      "sources": [
+        "The Hollywood Reporter"
+      ]
+    },
+    {
+      "title": "After 2026 Midterms, Bill Maher Asks Trump, \"Donnie, Are You OK?\"",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/bill-maher-trump-2026-midterms-1236749942/",
+      "source_count": 1,
+      "sources": [
+        "The Hollywood Reporter"
+      ]
+    },
+    {
+      "title": "'Ellen DeGeneres Show' Producer Matthew Wright's Cause of Death Revealed",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/ellen-degeneres-show-producer-matthew-wright-cause-of-death-1236749895/",
+      "source_count": 1,
+      "sources": [
+        "The Hollywood Reporter"
+      ]
+    },
+    {
+      "title": "Ahaan Panday joins Jaeger-LeCoultre as Friend of the House for The Hour Before interview series",
+      "url": "https://www.bollywoodhungama.com/news/bollywood/ahaan-panday-joins-jaeger-lecoultre-as-friend-of-the-house-for-the-hour-before-interview-series/",
+      "source_count": 1,
+      "sources": [
+        "Bollywood Hungama"
+      ]
+    },
+    {
+      "title": "Bombay High Court grants interim relief to Naagzilla consultant Kuldeep Singh Champawat in Rs. 3.92 cr financial irregularity case; no role attributed to him in payment hierarchy",
+      "url": "https://www.bollywoodhungama.com/news/bollywood/bombay-high-court-grants-protection-to-naagzilla-consultant-kuldeep-singh-champawat-in-rs-3-92-crore-financial-irregularity-case/",
+      "source_count": 1,
+      "sources": [
+        "Bollywood Hungama"
+      ]
+    },
+    {
+      "title": "Priyanka Chopra Jonas announces Ventilator 2, reunites with director Rajesh Mapuskar; film set for 2027 release",
+      "url": "https://www.bollywoodhungama.com/news/bollywood/priyanka-chopra-jonas-announces-ventilator-2-reunites-with-director-rajesh-mapuskar-film-set-for-2027-release/",
+      "source_count": 1,
+      "sources": [
+        "Bollywood Hungama"
+      ]
+    },
+    {
+      "title": "Amul India celebrates Ramayana's theatrical run with new topical, calls it \"Motion Epicture\"",
+      "url": "https://www.bollywoodhungama.com/news/bollywood/amul-india-celebrates-ramayanas-theatrical-run-with-new-topical-calls-it-motion-epicture/",
+      "source_count": 1,
+      "sources": [
+        "Bollywood Hungama"
+      ]
+    },
+    {
+      "title": "SCOOP: PVR Inox Pictures bets BIG on Shraddha Kapoor's Eetha with Rs. 80 cr deal; eyes long term association with Maddock Films for Stree 3, Mahavatar, Shakti Shalini",
+      "url": "https://www.bollywoodhungama.com/news/bollywood/scoop-pvr-inox-pictures-bets-big-on-shraddha-kapoors-eetha-with-rs-80-cr-deal-eyes-long-term-association-with-maddock-films-for-stree-3-mahavatar-shakti-shalini/",
+      "source_count": 1,
+      "sources": [
+        "Bollywood Hungama"
       ]
     },
     {
@@ -113,43 +181,27 @@
       ]
     },
     {
-      "title": "Amitabh Bachchan's Juhu bungalow Jalsa among locations named in bomb threat email: Report",
-      "url": "https://www.bollywoodhungama.com/news/bollywood/amitabh-bachchans-juhu-bungalow-jalsa-among-locations-named-in-bomb-threat-email-report/",
+      "title": "James Earl Jones' First TV Leading Role Was On A Failed Steven Bochco Crime Procedural",
+      "url": "https://www.tvline.com/2303639/james-earl-jones-first-lead-tv-role-failed-steven-bochco-crime-procedural-paris/",
       "source_count": 1,
       "sources": [
-        "Bollywood Hungama"
+        "TVLine"
       ]
     },
     {
-      "title": "SCOOP: Salman Khan and Jio Studios strategise December 4 release for Maatrubhumi against Eetha; distribution battle intensifies",
-      "url": "https://www.bollywoodhungama.com/news/bollywood/scoop-salman-khan-and-jio-studios-strategise-december-4-release-for-maatrubhumi-against-eetha-distribution-battle-intensifies/",
+      "title": "Quote Of The Day By Denzel Washington: 'They Were Going To Pay Me A Lot Of Money And...'",
+      "url": "https://www.tvline.com/2308213/quote-of-the-day-denzel-washington-a-lot-of-money/",
       "source_count": 1,
       "sources": [
-        "Bollywood Hungama"
+        "TVLine"
       ]
     },
     {
-      "title": "Ajay Devgn purchases 2-acre agricultural land in Karjat for Rs 1.6 crores",
-      "url": "https://www.bollywoodhungama.com/news/bollywood/ajay-devgn-purchases-2-acre-agricultural-land-in-karjat-for-rs-1-6-crores/",
+      "title": "What To Watch Saturday: Druski Hosts SNL, Nikki DeLoach/Juan Pablo Di Pace Hallmark Movie, And More",
+      "url": "https://www.tvline.com/2307641/what-to-watch-november-7-2026-tv-shows-movies-streaming/",
       "source_count": 1,
       "sources": [
-        "Bollywood Hungama"
-      ]
-    },
-    {
-      "title": "Shehzad Poonawalla wins Rise & Fall Season 2, takes home Rs. 35 lakhs prize money; pledges to donate it to flood relief",
-      "url": "https://www.bollywoodhungama.com/news/bollywood/shehzad-poonawalla-wins-rise-pledges-to-donate-it-to-flood-relief/",
-      "source_count": 1,
-      "sources": [
-        "Bollywood Hungama"
-      ]
-    },
-    {
-      "title": "Mahabharat: Ek Dharmayudh Season 2 to premiere on JioHotstar on November 24; new season to have 25 episodes",
-      "url": "https://www.bollywoodhungama.com/news/bollywood/mahabharat-ek-dharmayudh-season-2-to-premiere-on-jiohotstar-on-november-24-new-season-to-have-25-episodes/",
-      "source_count": 1,
-      "sources": [
-        "Bollywood Hungama"
+        "TVLine"
       ]
     },
     {
@@ -171,30 +223,6 @@
     {
       "title": "Before Spider-Man, Sam Raimi Made A '90s Spy Thriller Series That Failed To Take Off",
       "url": "https://www.tvline.com/2309762/spider-man-director-sam-raimi-90s-action-thriller-series-spy-game/",
-      "source_count": 1,
-      "sources": [
-        "TVLine"
-      ]
-    },
-    {
-      "title": "5 Beloved '70s Sitcoms That Don't Hold Up Today",
-      "url": "https://www.tvline.com/2309756/beloved-70s-sitcoms-dont-hold-up-today/",
-      "source_count": 1,
-      "sources": [
-        "TVLine"
-      ]
-    },
-    {
-      "title": "Jennifer Aniston Guest-Starred In A Vietnam War-Era Quantum Leap Episode",
-      "url": "https://www.tvline.com/2309752/jennifer-aniston-guest-star-vietnam-war-episode-quantum-leap/",
-      "source_count": 1,
-      "sources": [
-        "TVLine"
-      ]
-    },
-    {
-      "title": "Grey's Anatomy Actor Harry Shum Jr. Starred In A Fantasy Drama Based On A Popular Book Series",
-      "url": "https://www.tvline.com/2309746/greys-anatomy-harry-shum-jr-fantasy-drama-based-book-series-shadowhunters/",
       "source_count": 1,
       "sources": [
         "TVLine"
@@ -297,6 +325,14 @@
       ]
     },
     {
+      "title": "World of Warcraft Forever World First Level 60 Character Hits Cap Three Days After Launch",
+      "url": "https://www.ign.com/articles/world-of-warcraft-forever-world-first-level-60-character-hits-cap-three-days-after-launch",
+      "source_count": 1,
+      "sources": [
+        "IGN Games"
+      ]
+    },
+    {
       "title": "EA HQ Graced With 'Save Mass Effect' Truck as N7 Day Looms",
       "url": "https://www.ign.com/articles/ea-hq-graced-with-save-mass-effect-truck-as-n7-day-looms",
       "source_count": 1,
@@ -331,14 +367,6 @@
     {
       "title": "Ed Boon Wants to Know What Fans Want the Next Mortal Kombat Game to Be Called",
       "url": "https://www.ign.com/articles/ed-boon-wants-to-know-what-fans-want-the-next-mortal-kombat-game-to-be-called",
-      "source_count": 1,
-      "sources": [
-        "IGN Games"
-      ]
-    },
-    {
-      "title": "GTA 6 Players in Germany Can Legally Take Time Off Work to Play the Game on Launch, But There's a Catch",
-      "url": "https://www.ign.com/articles/gta-6-players-in-germany-can-legally-take-time-off-work-to-play-the-game-on-launch-but-theres-a-catch",
       "source_count": 1,
       "sources": [
         "IGN Games"
@@ -393,6 +421,22 @@
       ]
     },
     {
+      "title": "After furloughing its developers and then hiring some of them back, Star Wars Zero Company developer has laid off an unspecified number of staff",
+      "url": "https://www.pcgamer.com/games/strategy/after-furloughing-its-developers-and-then-hiring-some-of-them-back-star-wars-zero-company-developer-has-laid-off-an-unspecified-number-of-staff/",
+      "source_count": 1,
+      "sources": [
+        "PC Gamer"
+      ]
+    },
+    {
+      "title": "Nier: Automata developer is 'currently investigating' a bizarre update bug that drastically inflated the game's file size from 50GB to 366GB",
+      "url": "https://www.pcgamer.com/games/rpg/nier-automata-developer-is-currently-investigating-a-bizarre-update-bug-that-drastically-inflated-the-games-file-size-from-50gb-to-366gb/",
+      "source_count": 1,
+      "sources": [
+        "PC Gamer"
+      ]
+    },
+    {
       "title": "Here's what's in Path of Exile 2's huge 1.0 release, coming in December",
       "url": "https://www.pcgamer.com/games/rpg/heres-whats-in-path-of-exile-2s-huge-1-0-release-coming-in-december/",
       "source_count": 2,
@@ -418,36 +462,12 @@
       ]
     },
     {
-      "title": "Underkeep is my favorite old-school dungeon crawler since Legend of Grimrock, and yes that includes Queen's Domain",
-      "url": "https://www.pcgamer.com/games/rpg/underkeep-is-my-favorite-old-school-dungeon-crawler-since-legend-of-grimrock-and-yes-that-includes-queens-domain/",
-      "source_count": 1,
-      "sources": [
-        "PC Gamer"
-      ]
-    },
-    {
-      "title": "'It came out of nowhere. I was shocked and sad': He was the face of Hunt: Showdown for years, then Crytek laid him off",
-      "url": "https://www.pcgamer.com/games/fps/it-came-out-of-nowhere-i-was-shocked-and-sad-he-was-the-face-of-hunt-showdown-for-years-then-crytek-laid-him-off/",
-      "source_count": 1,
-      "sources": [
-        "PC Gamer"
-      ]
-    },
-    {
       "title": "Russell Brand's conviction shines light on dark side of entertainment",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1aQWplOXNyQU16aEMybUNwV2xHUHNRNnR0bElQNVZLZndhYlhpTkNKV21ZRk13OUctendKOFR0eWdBVkRCWFJRcXZDQ1NEVUtES2xzVlA4ZTYza2o4TWxhWWM3RTZQV0U",
       "source_count": 2,
       "sources": [
         "Reuters",
         "Reuters"
-      ]
-    },
-    {
-      "title": "Zee Entertainment Board To Discuss Investor Concerns Over Recent Decline In Share Price",
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQeXZxUUtxN0xaSkFXTWhSdExvUkdWT1JidGlfUnU1TzZodXpRTkVNQmNob1MtWU9RcDFoUlJoSC16VzFldGpxcE1kc3lNZU9wVlRHU2hfcW1OQ000Ym4xRTBCNmFKWTBUc25HVDVfTElRSjhkak94RlI2ZGs0ek1JN09rQ3pFWjdxc2h2NWtfdTlzV2pXazNYZkstb0FsZFItTC1aS2xqWXpUVjVEZ2tzYnBFY1J1dmF5LTB3WVRHX0VRamoyREdPTUZpbVdaTVhhdjcwbVhtQTlzRzFUUzZqQ3N2LU9DVG9UV0ZfSHZR",
-      "source_count": 1,
-      "sources": [
-        "TradingView"
       ]
     },
     {
@@ -459,6 +479,14 @@
       ]
     },
     {
+      "title": "Dolphin Entertainment Inc expected to post a loss of 4 cents a share - Earnings Preview",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxORU02bnp1RkdFbzlGdG9LZDJpTjlWeTZhT2c1ODkwTWFIdGlVeXVBVmVDanp2U1hWRVQxOVowY05aRDBPalEwQjJ4YXFoQldfX0haRndDMFZta1ZpVWk1UjVVTDZzOTBLclpYdWNQWHVfY3NtV3hCcDNseVR3bjB6OWROenVQcHc1VFRQenpRNFI5YnFseFhiMlVFUjduQnljNGF1Y1c1MHFMRng3WWhJUjBaTUhJeFdzZjc1ZFJsTWFiTERUMVN5T0dDSVJCX1dsVWVjNGZHZnlZdU01RHRPTGJUS1lhTUFXZVA4",
+      "source_count": 1,
+      "sources": [
+        "TradingView"
+      ]
+    },
+    {
       "title": "Trump Says Iran War Was Part of Republicans' Midterm Losses as Tehran Welcomes the Result and Oil Falls Below $100",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPRURxOXd0NXYyOEsxN2ZEUnhMd09tb09hWldBTnpoSnlVUG5JWmw5a0E5MGJVbWVDMXZwaVJOR0NfcEgwdlllbUdjc1Zmd2o1NWh0WW1EMF9fbHZ5V2dIQm1xSHJTa2ZNUVpSUzBrWEVUdW00T1RTYkxxNkc3OTcydjdpRURXdEdEN3ZhbHNCQVJsakdDQVdLNzNWSQ",
       "source_count": 1,
@@ -467,11 +495,11 @@
       ]
     },
     {
-      "title": "SocGen to cut about 40 branches in France by 2027, source says",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE52SlhDbU5yNGhfczVoYk51UFJsM2xnN0ZSbHp6NV9RM0szS2VJcExaUUFTYUlTZWZsSEotNFhMWEhsc2NETEZmRUxtcThtbURycEdmWC1SRHlmUl9MU2w4Uk8xdXRHSWo3VVV4RW9wc2d4YkhicF9ZYnZvdkVJUQ",
+      "title": "Zee Entertainment Board To Discuss Investor Concerns Over Recent Decline In Share Price",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQeXZxUUtxN0xaSkFXTWhSdExvUkdWT1JidGlfUnU1TzZodXpRTkVNQmNob1MtWU9RcDFoUlJoSC16VzFldGpxcE1kc3lNZU9wVlRHU2hfcW1OQ000Ym4xRTBCNmFKWTBUc25HVDVfTElRSjhkak94RlI2ZGs0ek1JN09rQ3pFWjdxc2h2NWtfdTlzV2pXazNYZkstb0FsZFItTC1aS2xqWXpUVjVEZ2tzYnBFY1J1dmF5LTB3WVRHX0VRamoyREdPTUZpbVdaTVhhdjcwbVhtQTlzRzFUUzZqQ3N2LU9DVG9UV0ZfSHZR",
       "source_count": 1,
       "sources": [
-        "AOL.com"
+        "TradingView"
       ]
     },
     {
@@ -571,6 +599,22 @@
       ]
     },
     {
+      "title": "Benson Boone Brings Young Fan Battling Cancer Onstage at Brisbane Concert",
+      "url": "https://www.billboard.com/music/music-news/benson-boone-kenzie-riddle-beautiful-things-brisbane-1236376893/",
+      "source_count": 1,
+      "sources": [
+        "Billboard"
+      ]
+    },
+    {
+      "title": "Céline Dion Plays Air Bass at Metallica's Sphere Show",
+      "url": "https://www.billboard.com/music/music-news/celine-dion-metallica-sphere-air-bass-video-1236376892/",
+      "source_count": 1,
+      "sources": [
+        "Billboard"
+      ]
+    },
+    {
       "title": "Flo Milli Wins Dismissal of Copyright Lawsuit Over 'Never Lose Me' Beat Sample",
       "url": "https://www.billboard.com/pro/flo-milli-wins-never-lose-me-copyright-lawsuit-dismissal/",
       "source_count": 1,
@@ -597,22 +641,6 @@
     {
       "title": "Lasso Breaks Down 5 Essential Tracks From His New Album 'Objetos Frágiles en Ambientes Hostiles'",
       "url": "https://www.billboard.com/lists/lasso-album-objetos-fragiles-ambientes-hostiles-essential-tracks/",
-      "source_count": 1,
-      "sources": [
-        "Billboard"
-      ]
-    },
-    {
-      "title": "Lincoln Celebrated the Art of Rejuvenation at Billboard Latin Music Week",
-      "url": "https://www.billboard.com/music/features/lincoln-at-latin-music-week-2026-1236376803/",
-      "source_count": 1,
-      "sources": [
-        "Billboard"
-      ]
-    },
-    {
-      "title": "In Canada: Faouzia to Accept the Breakthrough Award at Billboard Canada Women in Music 2026",
-      "url": "https://www.billboard.com/pro/faouzia-award-billboard-canada-women-in-music-news/",
       "source_count": 1,
       "sources": [
         "Billboard"
@@ -667,53 +695,53 @@
       ]
     },
     {
-      "title": "The 8 Best Castlevania Games Of All Time, Ranked",
-      "url": "https://www.polygon.com/best-castlevania-games/",
+      "title": "10 Funniest 'Far Side' Comics About Cows",
+      "url": "https://www.polygon.com/funniest-far-side-comics-cows/",
       "source_count": 1,
       "sources": [
         "Polygon"
       ]
     },
     {
-      "title": "10 Essential GBA Games Still Disappointingly Missing From Nintendo Switch Online",
-      "url": "https://www.polygon.com/game-boy-advance-games-missing-nintendo-switch-online/",
+      "title": "Mass Effect's Cruelest Moral Choice Remains Gaming's Most Haunting Mission 19 Years Later",
+      "url": "https://www.polygon.com/mass-effect-homecoming-samesh-bhatia-choice/",
       "source_count": 1,
       "sources": [
         "Polygon"
       ]
     },
     {
-      "title": "10 Devastating Game Cancellations That Are Still Disappointing Years Later",
-      "url": "https://www.polygon.com/game-cancellations/",
+      "title": "Sydney Sweeney's New Netflix Sci-Fi Epic Is Mandatory Viewing For Transformers Fans",
+      "url": "https://www.polygon.com/sydney-sweeney-gundam-netflix-transformers-sci-fi-epic/",
       "source_count": 1,
       "sources": [
         "Polygon"
       ]
     },
     {
-      "title": "GTA 6's Biggest Competition Officially Arrives on PC in 2027",
-      "url": "https://www.polygon.com/ananta-anime-gta-pc-ps5-release-date-2027-netease-games/",
+      "title": "Magic: The Gathering Star Trek Perfectly Captures the Sci-Fi Show's Most Brutal Running Joke",
+      "url": "https://www.polygon.com/star-trek-redshirts-tokens-explainer/",
       "source_count": 1,
       "sources": [
         "Polygon"
       ]
     },
     {
-      "title": "Ryan Gosling is Officially Reviving The Flintstones for New Project",
-      "url": "https://www.polygon.com/ryan-gosling-flintstones-bamm-bamm-movie/",
+      "title": "5 Sci-Fi Series To Watch If You Love HBO's 'Lanterns'",
+      "url": "https://www.polygon.com/best-sci-fi-tv-shows-to-watch-if-you-love-hbos-lanterns/",
       "source_count": 1,
       "sources": [
         "Polygon"
       ]
     },
     {
-      "title": "Every GTA Game, Ranked by Metacritic Score",
-      "url": "https://www.polygon.com/gta-games-ranked-metacritic-scores/",
+      "title": "38 Years Later, Calvin and Hobbes' Lost Character Remains Bill Watterson's Biggest Failure",
+      "url": "https://www.polygon.com/uncle-max-calvin-hobbes/",
       "source_count": 1,
       "sources": [
         "Polygon"
       ]
     }
   ],
-  "summary": "Verified intelligence gathered across 88 deduplicated editorial clusters."
+  "summary": "Verified intelligence gathered across 92 deduplicated editorial clusters."
 }
