@@ -1,46 +1,74 @@
 {
-  "timestamp": "2026-11-08T04:39:56.403718+00:00",
-  "headline_count": 94,
+  "timestamp": "2026-11-08T12:49:33.930066+00:00",
+  "headline_count": 87,
   "headlines": [
     {
-      "title": "'The Undertaker' Director Thiti Srinuan Reveals He Defecated on Camera for Real as an Actor in Thailand's Taibaan Universe",
-      "url": "https://variety.com/2026/film/markets-festivals/undertaker-director-reveals-defecated-on-camera-for-real-1236942252/",
+      "title": "Taiwan's Content Agency and Partners Put $180 Million Into 27 Projects, From an 'Our Blues' Remake to an Off-Broadway Musical",
+      "url": "https://variety.com/2026/film/asia/taiwan-content-agency-partners-180-million-27-projects-1236942318/",
       "source_count": 1,
       "sources": [
         "Variety"
       ]
     },
     {
-      "title": "Cristian Mungiu's Palme d'Or Winner 'Fjord' Takes Jakarta World Cinema Audience Award as Short Film Winners Land Debut Feature Funding",
-      "url": "https://variety.com/2026/film/festivals/palme-dor-winner-fjord-jakarta-world-cinema-audience-award-1236942247/",
+      "title": "Indonesian Horror Hit 'Pabrik Gula' Gets 2028 Sequel",
+      "url": "https://variety.com/2026/film/markets-festivals/indonesian-horror-pabrik-gula-2028-sequel-1236942313/",
       "source_count": 1,
       "sources": [
         "Variety"
       ]
     },
     {
-      "title": "'The Invisible Guest' Remake Director Danial Rifki on Suharto-Era Fear and Why His New Thriller Is About 'How to Fight Back'",
-      "url": "https://variety.com/2026/film/festivals/invisible-guest-remake-director-suharto-era-fear-fighting-back-1236942189/",
+      "title": "'SNL' Weekend Update Brutally Roasts Elon Musk Over 'Epic' Midterms Defeat",
+      "url": "https://variety.com/2026/tv/news/snl-weekend-update-elon-musk-midterms-election-1236942283/",
       "source_count": 1,
       "sources": [
         "Variety"
       ]
     },
     {
-      "title": "Murder-House Impostor Thriller 'The Stand-In Family' Wins Mirror Fiction Award at Taiwan Creative Content Fest",
-      "url": "https://variety.com/2026/film/markets-festivals/impostor-thriller-the-stand-in-family-mirror-fiction-award-tccf-1236942238/",
+      "title": "'SNL': Druski Dons Whiteface as Elizabeth Holmes in 'You Can See Everything' Parody",
+      "url": "https://variety.com/2026/tv/news/snl-druski-whiteface-elizabeth-holmes-nathan-fielder-you-can-see-everything-parody-1236942289/",
+      "source_count": 4,
+      "sources": [
+        "Variety",
+        "Deadline Hollywood",
+        "The Hollywood Reporter",
+        "The Hollywood Reporter"
+      ]
+    },
+    {
+      "title": "Emma Stone Ambushes Druski's 'SNL' Monologue in Adorable Fashion",
+      "url": "https://variety.com/2026/tv/news/emma-stone-druski-snl-monologue-the-catch-1236942272/",
       "source_count": 2,
       "sources": [
         "Variety",
-        "Variety"
+        "Deadline Hollywood"
       ]
     },
     {
-      "title": "Sylvester Stallone Says His 20-Year Rivalry With Arnold Schwarzenegger Only Ended When He Ran for Governor and Wasn't 'Doing Movies Anymore'",
-      "url": "https://variety.com/2026/film/news/sylvester-stallone-rivalry-arnold-schwarzenegger-1236942209/",
+      "title": "James Talarico Crashes 'SNL' Cold Open: 'I'm the Guy Who's Been Texting You Every Day Asking for $5'",
+      "url": "https://variety.com/2026/tv/news/james-talarico-saturday-night-live-snl-cold-open-election-1236942257/",
+      "source_count": 2,
+      "sources": [
+        "Variety",
+        "The Hollywood Reporter"
+      ]
+    },
+    {
+      "title": "'Our Blues', 'Midnight Diner' & 'C'Est La Vie' Among Projects Backed By TAICCA Joint Venture Funds",
+      "url": "https://deadline.com/2026/11/our-blues-midnight-diner-taicca-joint-venture-funds-1237216640/",
       "source_count": 1,
       "sources": [
-        "Variety"
+        "Deadline Hollywood"
+      ]
+    },
+    {
+      "title": "James Talarico Stuns 'SNL' With Post-Midterms Cameo & \"Trump Freezers\" Swipe",
+      "url": "https://deadline.com/2026/11/saturday-night-live-james-talarico-cold-open-1237216532/",
+      "source_count": 1,
+      "sources": [
+        "Deadline Hollywood"
       ]
     },
     {
@@ -54,89 +82,34 @@
     {
       "title": "Camerimage Opens With Minute Of Silence For Kraków Mass Shooting; Darren Aronofsky Honored & Luca Guadagnino Introduces 'Artificial'",
       "url": "https://deadline.com/2026/11/camerimage-darren-aronofsky-luca-guadagnino-artificial-1237216360/",
-      "source_count": 1,
+      "source_count": 2,
       "sources": [
-        "Deadline Hollywood"
+        "Deadline Hollywood",
+        "The Hollywood Reporter"
       ]
     },
     {
-      "title": "Emmy Rossum On RAINN Ambassadorship, \"Continuing The Conversation\" About Sexual Violence After 'Furious' Role",
-      "url": "https://deadline.com/2026/11/emmy-rossum-rainn-ambassadorship-sexual-violence-furious-role-1237216377/",
-      "source_count": 1,
-      "sources": [
-        "Deadline Hollywood"
-      ]
-    },
-    {
-      "title": "Taiwan's Chunghwa Telecom Unveils Investment Slate Headed By 'Gunshot' & 'Call Of Lobster'",
-      "url": "https://deadline.com/2026/11/chang-chen-choi-siwon-kent-tsai-chunghwa-telecom-1237216224/",
-      "source_count": 1,
-      "sources": [
-        "Deadline Hollywood"
-      ]
-    },
-    {
-      "title": "Christopher Nolan On DGA \"Holding The Studios To Account\" In Protecting Copyright From AI, Including Anti-AI Boilerplate In 'The Odyssey'",
-      "url": "https://deadline.com/2026/11/christopher-nolan-dga-holding-studios-account-protecting-ai-1237216368/",
-      "source_count": 1,
-      "sources": [
-        "Deadline Hollywood"
-      ]
-    },
-    {
-      "title": "MSG Says Macklemore Is \"Not An Arena Level Act\" After Turning Down Free Palestine Tour",
-      "url": "https://deadline.com/2026/11/msg-macklemore-not-arena-level-act-free-palestine-tour-1237216363/",
-      "source_count": 1,
-      "sources": [
-        "Deadline Hollywood"
-      ]
-    },
-    {
-      "title": "2026 LACMA Art+Film Gala Photos: Nicole Kidman, Sarah Paulson, Andrew Garfield, Quinta Brunson and More Stars",
-      "url": "https://www.hollywoodreporter.com/gallery/2025-lacma-art-film-gala-photos-andrew-garfield-sofia-vergara-1236750141/",
+      "title": "To Make a Doc About a Nomadic Cyclist, the 'Perfect Road' Filmmakers Spent 3 Months in a Campervan",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/perfect-road-doc-film-directors-spent-months-in-campervan-poff-1236744367/",
       "source_count": 1,
       "sources": [
         "The Hollywood Reporter"
       ]
     },
     {
-      "title": "Jennifer Welch and Angie Sullivan Apologize for Laughing at \"Insensitive Joke\" About Charlie Kirk on 'I've Had It' Podcast",
-      "url": "https://www.hollywoodreporter.com/news/general-news/jennifer-welch-angie-sullivan-apologize-charlie-kirk-1236750136/",
+      "title": "Elon Musk Is Portrayed on 'SNL': \"The Worst Thing South Africa Has Ever Done\"",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/elon-musk-snl-appearance-jeremy-culhane-watch-jost-1236750304/",
       "source_count": 1,
       "sources": [
         "The Hollywood Reporter"
       ]
     },
     {
-      "title": "Camerimage Founder Marek Zydowicz on AI, Aronofsky and Why \"Cinematographers Are Artists, Not Technicians\"",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/camerimage-founder-marek-zydowicz-ai-aronofsky-cinematographers-1236749343/",
+      "title": "Hrithik Roshan attends LACMA Art + Film Gala 2026, becomes first mainstream Indian actor to grace event",
+      "url": "https://www.bollywoodhungama.com/news/bollywood/hrithik-roshan-attends-lacma-art-film-gala-2026-becomes-first-mainstream-indian-actor-to-grace-event/",
       "source_count": 1,
       "sources": [
-        "The Hollywood Reporter"
-      ]
-    },
-    {
-      "title": "Bill Skarsgard Says He's \"Spent\" Playing Bad Guys but Would Still Play a James Bond Villain",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/bill-skarsgard-james-bond-villain-bad-guy-roles-1236750077/",
-      "source_count": 1,
-      "sources": [
-        "The Hollywood Reporter"
-      ]
-    },
-    {
-      "title": "The 42 Best Gifts for All Types of Travelers, From Luxe Flight Essentials to Road Trip Gadgets",
-      "url": "https://www.hollywoodreporter.com/lifestyle/shopping/best-travel-gifts-1234953510/",
-      "source_count": 1,
-      "sources": [
-        "The Hollywood Reporter"
-      ]
-    },
-    {
-      "title": "Connor Wood Reveals What Happened on 8th Avenue With Jennifer Lawrence in New Smoothie King Collab: \"Missed My Moment\" (Exclusive)",
-      "url": "https://www.hollywoodreporter.com/news/general-news/connor-wood-jennifer-lawrence-8th-avenue-smoothie-king-1236749871/",
-      "source_count": 1,
-      "sources": [
-        "The Hollywood Reporter"
+        "Bollywood Hungama"
       ]
     },
     {
@@ -180,11 +153,35 @@
       ]
     },
     {
-      "title": "SCOOP: PVR Inox Pictures bets BIG on Shraddha Kapoor's Eetha with Rs. 80 cr deal; eyes long term association with Maddock Films for Stree 3, Mahavatar, Shakti Shalini",
-      "url": "https://www.bollywoodhungama.com/news/bollywood/scoop-pvr-inox-pictures-bets-big-on-shraddha-kapoors-eetha-with-rs-80-cr-deal-eyes-long-term-association-with-maddock-films-for-stree-3-mahavatar-shakti-shalini/",
+      "title": "Westworld Spawned A Forgotten TV Sequel Series Decades Before HBO's Reboot",
+      "url": "https://www.tvline.com/2305150/beyond-westworld-tv-sequel-series-before-hbo/",
       "source_count": 1,
       "sources": [
-        "Bollywood Hungama"
+        "TVLine"
+      ]
+    },
+    {
+      "title": "Quote Of The Day By Kurt Russell: 'Age Is A Reality, But It's Not..'",
+      "url": "https://www.tvline.com/2309146/quote-of-the-day-kurt-russell-reality-of-aging/",
+      "source_count": 1,
+      "sources": [
+        "TVLine"
+      ]
+    },
+    {
+      "title": "What To Watch Sunday: New Cupertino, Love Is Blind Reunion, And More",
+      "url": "https://www.tvline.com/2306909/what-to-watch-november-8-2026-tv-shows-movies-streaming/",
+      "source_count": 1,
+      "sources": [
+        "TVLine"
+      ]
+    },
+    {
+      "title": "5 Best Sitcom Grandmas Of All Time, Ranked",
+      "url": "https://www.tvline.com/2304888/best-sitcom-grandmas-ranked/",
+      "source_count": 1,
+      "sources": [
+        "TVLine"
       ]
     },
     {
@@ -198,38 +195,6 @@
     {
       "title": "Patrick Stewart Wrote And Performed His Own Humor-Fueled Eulogy 11 Years Ago",
       "url": "https://www.tvline.com/2305375/patrick-stewart-wrote-performed-humorous-eulogy-2015/",
-      "source_count": 1,
-      "sources": [
-        "TVLine"
-      ]
-    },
-    {
-      "title": "Blue Bloods' Stars Were Allowed To Eat Their Family Dinner If They Followed One Rule",
-      "url": "https://www.tvline.com/2305145/blue-bloods-star-allowed-eat-family-dinner-follow-one-rule/",
-      "source_count": 1,
-      "sources": [
-        "TVLine"
-      ]
-    },
-    {
-      "title": "Mariska Hargitay Starred In A Forgotten HBO Series From Twin Peaks Creator David Lynch",
-      "url": "https://www.tvline.com/2304914/mariska-hargitay-star-hbo-series-twin-peaks-creator-hotel-room/",
-      "source_count": 1,
-      "sources": [
-        "TVLine"
-      ]
-    },
-    {
-      "title": "5 Most Brutal Yellowstone Deaths, Ranked",
-      "url": "https://www.tvline.com/2304654/yellowstone-most-brutal-deaths-ranked/",
-      "source_count": 1,
-      "sources": [
-        "TVLine"
-      ]
-    },
-    {
-      "title": "Michael C. Hall Reveals The Subtle Way Dexter Makes Audiences Cheer For His Serial Killer",
-      "url": "https://www.tvline.com/2304531/michael-c-hall-reveal-reason-audiences-cheer-serial-killer-dexter/",
       "source_count": 1,
       "sources": [
         "TVLine"
@@ -332,6 +297,14 @@
       ]
     },
     {
+      "title": "Epic Reveals Drop Rate for Fortnite's Pirate Token Following Pressure From Fans",
+      "url": "https://www.ign.com/articles/epic-reveals-drop-rate-for-fortnites-pirate-token-following-pressure-from-fans",
+      "source_count": 1,
+      "sources": [
+        "IGN Games"
+      ]
+    },
+    {
       "title": "Missing Teen Saved From Alleged Kidnapper After Seeking Help in Among Us",
       "url": "https://www.ign.com/articles/missing-teen-saved-from-alleged-kidnapper-after-seeking-help-in-among-us",
       "source_count": 1,
@@ -359,14 +332,6 @@
     {
       "title": "Gundam Assemble: Hands-On With Mobile Suit Gundam's Miniatures Tabletop Game",
       "url": "https://www.ign.com/articles/gundam-assemble-hands-on-with-mobile-suit-gundams-miniatures-tabletop-game",
-      "source_count": 1,
-      "sources": [
-        "IGN Games"
-      ]
-    },
-    {
-      "title": "World of Warcraft Forever World First Level 60 Character Hits Cap Three Days After Launch",
-      "url": "https://www.ign.com/articles/world-of-warcraft-forever-world-first-level-60-character-hits-cap-three-days-after-launch",
       "source_count": 1,
       "sources": [
         "IGN Games"
@@ -421,6 +386,14 @@
       ]
     },
     {
+      "title": "As Wardogs Season 3 looms, Bulkhead claims to have built 'one of the world's most sophisticated anti-cheat systems', assisted by 'machine learning and AI'",
+      "url": "https://www.pcgamer.com/games/fps/as-wardogs-season-3-looms-bulkhead-claims-to-have-built-one-of-the-worlds-most-sophisticated-anti-cheat-systems-assisted-by-machine-learning-and-ai/",
+      "source_count": 1,
+      "sources": [
+        "PC Gamer"
+      ]
+    },
+    {
       "title": "Path of Exile 2's game director thinks a death recap will finally allow us players to complain about the right things",
       "url": "https://www.pcgamer.com/games/rpg/path-of-exile-2s-game-director-thinks-a-death-recap-will-finally-allow-us-players-to-complain-about-the-right-things/",
       "source_count": 1,
@@ -461,14 +434,6 @@
       ]
     },
     {
-      "title": "After seeing them myself, I'm convinced WoW: Forever's RP servers don't need to be this separate, and I say that as a decorated veteran of MMO roleplay",
-      "url": "https://www.pcgamer.com/games/world-of-warcraft/after-seeing-them-myself-im-convinced-wow-forevers-rp-servers-dont-need-to-be-this-separate-and-i-say-that-as-a-decorated-veteran-of-mmo-roleplay/",
-      "source_count": 1,
-      "sources": [
-        "PC Gamer"
-      ]
-    },
-    {
       "title": "Russell Brand's conviction shines light on dark side of entertainment",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1aQWplOXNyQU16aEMybUNwV2xHUHNRNnR0bElQNVZLZndhYlhpTkNKV21ZRk13OUctendKOFR0eWdBVkRCWFJRcXZDQ1NEVUtES2xzVlA4ZTYza2o4TWxhWWM3RTZQV0U",
       "source_count": 1,
@@ -485,27 +450,19 @@
       ]
     },
     {
+      "title": "Media industry still has a problem with sexual abuse, UK minister says, Entertainment News",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRHFIUlJpbEFCTzdLYjF0RWE4YnFtb3Uzd1phYnk4TDJ2TWwzcXdVdnd1OWVQZjIyUElPOEZOQVhQNjdxVEEzbzVfUlIxTEFSdjg2NUlhUjBrdUxReTV3d2k2RGZoS1NmR3NGVUdObkx1aDV0cWJUU0pIcFR0M1JIbHl1Y0tUZzZHaWVtTlBPRC1yOURUTjNJUTd1ODFYM1lhaEE",
+      "source_count": 1,
+      "sources": [
+        "AsiaOne.com"
+      ]
+    },
+    {
       "title": "OpenAI gets $11 billion funding at $1.25 trillion valuation, source says",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOSTY0UVhxMkl6bllESjhXX2VuYVUycXhRRkhWazlmT3VBV0xSWG55U3JhcVRZS2gzb2duQ0YwSi1JWVVtXzNpRkg4NmkyeG04V2JSY2dWd2djdkd5c1Q3RFh0ZmFOUW5MamhGN0gtclRIMmVpRkVuOGI3alNRaHE5bm1tdw",
       "source_count": 1,
       "sources": [
         "AOL.com"
-      ]
-    },
-    {
-      "title": "'Rivals' cast tease a tense end of season two after earlier success",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE83dWstaldJeWJXNFo3UUpYOE1RWDA3M3dlMU1KN3YwMGxKOTdmaWtZbUxpZjU1LTZ5X3NnRnNXX3dSSTNSVzgxT29fbG1jV3hWVnJ2aURxaWNQRm1SanlSVFhHOFNxV0E",
-      "source_count": 1,
-      "sources": [
-        "Reuters"
-      ]
-    },
-    {
-      "title": "Newsroom bomb threats follow escalating European flight hoaxes",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQeUxzMWNRU0lTMUJ5RjliUHVnRkwwUXpjOVZBVWtic2poTnlnOG1TSXdrdUFPMGtRZ2laVUFGSmE1VjVITGxCeHkwNmNVVTd3dU1hNVg3NGRNTWxsY0RNV0JYRWpKbE5rQXpvcGdiRUV1SVVZYXdUUEhUZ1g1NkhFQkstLWQ4VUxRalI5X0pHbWVtUVZiZWpSeGlFbFpfQdIBowFBVV95cUxOTlNyeWtEbkpmM084RGlPUUdYQ3pwMldaUHU2V1pOR1RwcTZxT3Z3S0FJWm04amxRRXJWdm8zSGlhNkM2NUZvSWJvMU9oeDdHTFJ5dHVld0dZZ0xNV3QwV3dTYU5lVUpmQTJJVGtQQ09naVJFVlFfNC11T1hvQ1BiYmZFVmVUS1c4WWlhMFdhVGJTQWVfSUVDcV9obl91ZmhQakZv",
-      "source_count": 1,
-      "sources": [
-        "ThePrint"
       ]
     },
     {
@@ -613,6 +570,15 @@
       ]
     },
     {
+      "title": "NFL Madrid Game Halftime Show 2026: Here's Where to Watch Manuel Turizo Perform Live Online Free",
+      "url": "https://www.billboard.com/culture/product-recommendations/nfl-madrid-game-2026-manuel-turizo-halftime-watch-live-free-1236373868/",
+      "source_count": 2,
+      "sources": [
+        "Billboard",
+        "Billboard"
+      ]
+    },
+    {
       "title": "U2 Weigh In on Ed Sheeran and Macklemore Tour Controversy",
       "url": "https://www.billboard.com/music/music-news/u2-macklemore-ed-sheeran-tour-censorship-comments-1236377026/",
       "source_count": 1,
@@ -623,14 +589,6 @@
     {
       "title": "Simple Plan Are Meeting a Whole New Generation of Fans, 25 Years In",
       "url": "https://www.billboard.com/music/music-news/simple-plan-new-generation-fans-chuck-comeau-interview-1236368697/",
-      "source_count": 1,
-      "sources": [
-        "Billboard"
-      ]
-    },
-    {
-      "title": "Druski & The Strokes on 'SNL': Here's Where to Watch 'Saturday Night Live' Online for Free",
-      "url": "https://www.billboard.com/culture/product-recommendations/snl-2026-druski-the-strokes-watch-live-online-free-1236375885/",
       "source_count": 1,
       "sources": [
         "Billboard"
@@ -653,11 +611,11 @@
       ]
     },
     {
-      "title": "Richard Lloyd, Television Guitarist, Dies at 75",
-      "url": "https://www.billboard.com/music/music-news/richard-lloyd-death-television-guitarist-dies-obituary-1236376953/",
+      "title": "'Insidious: Out of the Further' Lands Netflix Streaming Debut Much Earlier Than Expected",
+      "url": "https://www.whats-on-netflix.com/news/insidious-out-of-the-further-netflix-us-release-date-confirmed/",
       "source_count": 1,
       "sources": [
-        "Billboard"
+        "What's on Netflix"
       ]
     },
     {
@@ -701,61 +659,53 @@
       ]
     },
     {
-      "title": "Netflix's Animated 'Twilight' Series Gets Major Update: Two Seasons Confirmed",
-      "url": "https://www.whats-on-netflix.com/news/midnight-sun-netflix-two-season-order/",
-      "source_count": 1,
-      "sources": [
-        "What's on Netflix"
-      ]
-    },
-    {
-      "title": "Paramount's 4-Part Action Fantasy Epic Has One of the Best Seasons in TV History",
-      "url": "https://www.polygon.com/the-legend-of-korra-season-3-best-season/",
+      "title": "Zelda: Ocarina of Time Beats The Elder Scrolls 5: Skyrim in One Major Way",
+      "url": "https://www.polygon.com/zelda-ocarina-of-time-better-than-elder-scrolls-skyrim/",
       "source_count": 1,
       "sources": [
         "Polygon"
       ]
     },
     {
-      "title": "9 Near-Perfect Dragon Age Replacements For Fans of Fantasy RPGs",
-      "url": "https://www.polygon.com/best-dragon-age-replacements/",
+      "title": "Matt Mercer's Best Critical Role Quote Is Still the Most Inspiring Line in D&D History",
+      "url": "https://www.polygon.com/matthew-mercer-dungeon-master-advice-dungeons-and-dragons/",
       "source_count": 1,
       "sources": [
         "Polygon"
       ]
     },
     {
-      "title": "How to Play Every GTA Game in 2026",
-      "url": "https://www.polygon.com/gta-games-all-2026-where-to-play/",
+      "title": "68 Years Later, Peanuts' Most Mysterious Character Is Finally Making Her Official Debut",
+      "url": "https://www.polygon.com/charlie-brown-pencil-pal-history-peanuts/",
+      "source_count": 1,
+      "sources": [
+        "But There's a Catch"
+      ]
+    },
+    {
+      "title": "Bethesda's Most Reviled Game Becomes a 10/10 If You Ignore the Story",
+      "url": "https://www.polygon.com/starfield-retrospective-bethesda-story/",
       "source_count": 1,
       "sources": [
         "Polygon"
       ]
     },
     {
-      "title": "8 Near-Perfect BioWare Games That Aged Like Fine Wine",
-      "url": "https://www.polygon.com/top-bioware-games/",
+      "title": "Anya Taylor-Joy's Billion-Dollar Sci-Fi Epic Officially Sets New Streaming Home on Netflix",
+      "url": "https://www.polygon.com/anya-taylor-joy-sci-fi-netflix-super-mario-galaxy-movie/",
       "source_count": 1,
       "sources": [
         "Polygon"
       ]
     },
     {
-      "title": "4 Years Later, Captain Pike's Most Inspiring Star Trek Quote Is Still the Best Sci-Fi Line of the Decade",
-      "url": "https://www.polygon.com/star-trek-captain-pike-most-inspiring-quote/",
-      "source_count": 1,
-      "sources": [
-        "Polygon"
-      ]
-    },
-    {
-      "title": "Cyberpunk 2077 Meets Papers, Please in Steam's Latest Surprise Viral Hit",
-      "url": "https://www.polygon.com/probably-stolen-cyberpunk-shopkeeping-simulator-steam-hit/",
+      "title": "Sydney Sweeney's Extremely R-Rated 131-Minute Thriller Is Officially Streaming on HBO",
+      "url": "https://www.polygon.com/sydney-sweeney-erotic-thriller-the-housemaid-hbo-max/",
       "source_count": 1,
       "sources": [
         "Polygon"
       ]
     }
   ],
-  "summary": "Verified intelligence gathered across 94 deduplicated editorial clusters."
+  "summary": "Verified intelligence gathered across 87 deduplicated editorial clusters."
 }
