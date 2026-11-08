@@ -1,58 +1,79 @@
 {
-  "timestamp": "2026-11-08T12:49:33.930066+00:00",
-  "headline_count": 87,
+  "timestamp": "2026-11-08T18:40:32.924304+00:00",
+  "headline_count": 83,
   "headlines": [
     {
-      "title": "Taiwan's Content Agency and Partners Put $180 Million Into 27 Projects, From an 'Our Blues' Remake to an Off-Broadway Musical",
-      "url": "https://variety.com/2026/film/asia/taiwan-content-agency-partners-180-million-27-projects-1236942318/",
+      "title": "Sanfic Prizes: 'Monguen' and 'Narciso\" Win at Pared-Back Ceremony Due to Sudden Demise of 'A Fantastic Woman' Director Sebastian Lelio",
+      "url": "https://variety.com/2026/film/global/sanfic-prizes-monguen-narciso-sebastian-lelio-remembered-1236942162/",
       "source_count": 1,
       "sources": [
         "Variety"
       ]
     },
     {
-      "title": "Indonesian Horror Hit 'Pabrik Gula' Gets 2028 Sequel",
-      "url": "https://variety.com/2026/film/markets-festivals/indonesian-horror-pabrik-gula-2028-sequel-1236942313/",
+      "title": "Judi Dench Says Vin Diesel Sent Her Flowers 'the Length of a Kayak' to Persuade Her to Join 'The Chronicles of Riddick': I'm 'Far Too Easily Wooed'",
+      "url": "https://variety.com/2026/film/news/judi-dench-reveals-she-was-wooed-1236942417/",
       "source_count": 1,
       "sources": [
         "Variety"
       ]
     },
     {
-      "title": "'SNL' Weekend Update Brutally Roasts Elon Musk Over 'Epic' Midterms Defeat",
-      "url": "https://variety.com/2026/tv/news/snl-weekend-update-elon-musk-midterms-election-1236942283/",
+      "title": "Box Office: 'You Can See Everything' Becomes Second-Biggest Doc Ever in North America With $80 Million",
+      "url": "https://variety.com/2026/film/box-office/you-can-see-everything-second-highest-grossing-documentary-north-america-box-office-1236942385/",
       "source_count": 1,
       "sources": [
         "Variety"
       ]
     },
     {
-      "title": "'SNL': Druski Dons Whiteface as Elizabeth Holmes in 'You Can See Everything' Parody",
-      "url": "https://variety.com/2026/tv/news/snl-druski-whiteface-elizabeth-holmes-nathan-fielder-you-can-see-everything-parody-1236942289/",
-      "source_count": 4,
+      "title": "Cineplex Boards Sanfic Title 'La Residencia' From 'Algo Azul' Director Mariel García Spooner",
+      "url": "https://variety.com/2026/film/global/cineplex-la-residencia-mariel-garcia-spooner-algo-azul-1236941270/",
+      "source_count": 1,
+      "sources": [
+        "Variety"
+      ]
+    },
+    {
+      "title": "Box Office: 'Godzilla Minus Zero' Roars With $31 Million Debut, 'Cat in the Hat' Fizzles With $20 Million",
+      "url": "https://variety.com/2026/film/box-office/godzilla-minus-zero-box-office-opening-weekend-cat-in-the-hat-fizzles-1236942363/",
+      "source_count": 3,
       "sources": [
         "Variety",
         "Deadline Hollywood",
-        "The Hollywood Reporter",
         "The Hollywood Reporter"
       ]
     },
     {
-      "title": "Emma Stone Ambushes Druski's 'SNL' Monologue in Adorable Fashion",
-      "url": "https://variety.com/2026/tv/news/emma-stone-druski-snl-monologue-the-catch-1236942272/",
-      "source_count": 2,
+      "title": "How to Watch Trump's '60 Minutes' Interview Online",
+      "url": "https://variety.com/2026/shopping/news/how-to-watch-trump-60-minutes-interview-live-online-1236941457/",
+      "source_count": 1,
       "sources": [
-        "Variety",
+        "Variety"
+      ]
+    },
+    {
+      "title": "Benito Skinner Teases \"2016 Millennial Hopecore\" For 'Overcompensating' Season 2: \"Sorry For The Wait\"",
+      "url": "https://deadline.com/2026/11/benito-skinner-2016-millennial-hopecore-overcompensating-season-2-1237216771/",
+      "source_count": 1,
+      "sources": [
         "Deadline Hollywood"
       ]
     },
     {
-      "title": "James Talarico Crashes 'SNL' Cold Open: 'I'm the Guy Who's Been Texting You Every Day Asking for $5'",
-      "url": "https://variety.com/2026/tv/news/james-talarico-saturday-night-live-snl-cold-open-election-1236942257/",
-      "source_count": 2,
+      "title": "'SNL' Makes Grok Do \"Epic Vulgar Roast\" Of Elon Musk On 'Weekend Update': \"The Worst Thing South Africa Has Ever Done\"",
+      "url": "https://deadline.com/2026/11/snl-grok-epic-vulgar-roast-elon-musk-weekend-update-1237216693/",
+      "source_count": 1,
       "sources": [
-        "Variety",
-        "The Hollywood Reporter"
+        "Deadline Hollywood"
+      ]
+    },
+    {
+      "title": "Tom Rob Smith Writing Fiction Book Based On West Memphis Three Murder Case",
+      "url": "https://deadline.com/2026/11/tom-rob-smith-west-memphis-three-murder-case-book-1237216655/",
+      "source_count": 1,
+      "sources": [
+        "Thessaloniki"
       ]
     },
     {
@@ -64,27 +85,34 @@
       ]
     },
     {
-      "title": "James Talarico Stuns 'SNL' With Post-Midterms Cameo & \"Trump Freezers\" Swipe",
-      "url": "https://deadline.com/2026/11/saturday-night-live-james-talarico-cold-open-1237216532/",
+      "title": "Druski Does Elizabeth Holmes Whiteface In 'Dru Can See Everything' Sketch During 'SNL' Debut",
+      "url": "https://deadline.com/2026/11/druski-elizabeth-holmes-whiteface-dru-can-see-everything-snl-1237216571/",
       "source_count": 1,
       "sources": [
         "Deadline Hollywood"
       ]
     },
     {
-      "title": "Taiwan's Mirror Fiction Hands Out $50,000 In Awards For Book To Screen Adaptations",
-      "url": "https://deadline.com/2026/11/mirror-fiction-stand-in-family-endless-rain-tccf-taicca-1237216206/",
+      "title": "THR Visionary: 5 Janusz Kaminski Shots",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/thr-visionary-janusz-kaminski-five-visual-styles-1236750395/",
       "source_count": 1,
       "sources": [
-        "Deadline Hollywood"
+        "The Hollywood Reporter"
       ]
     },
     {
-      "title": "Camerimage Opens With Minute Of Silence For Kraków Mass Shooting; Darren Aronofsky Honored & Luca Guadagnino Introduces 'Artificial'",
-      "url": "https://deadline.com/2026/11/camerimage-darren-aronofsky-luca-guadagnino-artificial-1237216360/",
-      "source_count": 2,
+      "title": "Where to Watch the 2026 NASCAR Cup Series Championship Race Live Online",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/watch-nascar-cup-series-championship-race-2026-free-stream-1236750096/",
+      "source_count": 1,
       "sources": [
-        "Deadline Hollywood",
+        "The Hollywood Reporter"
+      ]
+    },
+    {
+      "title": "Janusz Kaminski, the Polish Cameraman Who Taught Hollywood How to See",
+      "url": "https://www.hollywoodreporter.com/movies/movie-features/janusz-kaminski-thr-visionary-cinematographer-award-1236750373/",
+      "source_count": 1,
+      "sources": [
         "The Hollywood Reporter"
       ]
     },
@@ -97,8 +125,8 @@
       ]
     },
     {
-      "title": "Elon Musk Is Portrayed on 'SNL': \"The Worst Thing South Africa Has Ever Done\"",
-      "url": "https://www.hollywoodreporter.com/tv/tv-news/elon-musk-snl-appearance-jeremy-culhane-watch-jost-1236750304/",
+      "title": "Camerimage Opens With a Robot, an AI Reckoning and a Minute of Silence for Kraków",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/camerimage-2026-artificial-darren-aronofsky-janusz-kaminski-1236750348/",
       "source_count": 1,
       "sources": [
         "The Hollywood Reporter"
@@ -153,48 +181,48 @@
       ]
     },
     {
-      "title": "Westworld Spawned A Forgotten TV Sequel Series Decades Before HBO's Reboot",
-      "url": "https://www.tvline.com/2305150/beyond-westworld-tv-sequel-series-before-hbo/",
+      "title": "15 Best Main Character Deaths In TV History, Ranked",
+      "url": "https://www.tvline.com/2308047/best-main-character-deaths-tv-history-ranked/",
       "source_count": 1,
       "sources": [
         "TVLine"
       ]
     },
     {
-      "title": "Quote Of The Day By Kurt Russell: 'Age Is A Reality, But It's Not..'",
-      "url": "https://www.tvline.com/2309146/quote-of-the-day-kurt-russell-reality-of-aging/",
+      "title": "Fred Astaire's Final On-Screen Dance Number Was On Battlestar Galactica",
+      "url": "https://www.tvline.com/2303959/fred-astaire-final-dance-number-battlestar-galactica/",
       "source_count": 1,
       "sources": [
         "TVLine"
       ]
     },
     {
-      "title": "What To Watch Sunday: New Cupertino, Love Is Blind Reunion, And More",
-      "url": "https://www.tvline.com/2306909/what-to-watch-november-8-2026-tv-shows-movies-streaming/",
+      "title": "Why The Smallville Finale Didn't Show Tom Welling In The Full Superman Suit",
+      "url": "https://www.tvline.com/2308305/tom-welling-smallville-finale-full-superman-suit-explained/",
       "source_count": 1,
       "sources": [
         "TVLine"
       ]
     },
     {
-      "title": "5 Best Sitcom Grandmas Of All Time, Ranked",
-      "url": "https://www.tvline.com/2304888/best-sitcom-grandmas-ranked/",
+      "title": "Murder, She Wrote's 5 Best Celebrity Guest Stars",
+      "url": "https://www.tvline.com/2303823/murder-she-wrote-best-guest-stars/",
       "source_count": 1,
       "sources": [
         "TVLine"
       ]
     },
     {
-      "title": "10 Best Animated TV Shows Streaming On HBO Max, Ranked",
-      "url": "https://www.tvline.com/2309377/best-animated-tv-shows-streaming-hbo-max-ranked/",
+      "title": "After Gilligan's Island, Tina Louise Starred In One Of TV's Most Iconic Westerns",
+      "url": "https://www.tvline.com/2301049/gilligans-island-tina-louise-western-series-bonanza-role-explained/",
       "source_count": 1,
       "sources": [
         "TVLine"
       ]
     },
     {
-      "title": "Patrick Stewart Wrote And Performed His Own Humor-Fueled Eulogy 11 Years Ago",
-      "url": "https://www.tvline.com/2305375/patrick-stewart-wrote-performed-humorous-eulogy-2015/",
+      "title": "15 Funniest Friends Episodes, Ranked",
+      "url": "https://www.tvline.com/2310109/friends-funniest-episodes-ranked/",
       "source_count": 1,
       "sources": [
         "TVLine"
@@ -297,6 +325,16 @@
       ]
     },
     {
+      "title": "The Legend of Zelda: Ocarina of Time Speedrunners Have Already Found New Ways to Break the Remake",
+      "url": "https://www.ign.com/articles/the-legend-of-zelda-ocarina-of-time-speedrunners-have-already-found-new-ways-to-break-the-remake",
+      "source_count": 3,
+      "sources": [
+        "IGN Games",
+        "Polygon",
+        "Polygon"
+      ]
+    },
+    {
       "title": "Epic Reveals Drop Rate for Fortnite's Pirate Token Following Pressure From Fans",
       "url": "https://www.ign.com/articles/epic-reveals-drop-rate-for-fortnites-pirate-token-following-pressure-from-fans",
       "source_count": 1,
@@ -326,14 +364,6 @@
       "source_count": 2,
       "sources": [
         "IGN Games",
-        "IGN Games"
-      ]
-    },
-    {
-      "title": "Gundam Assemble: Hands-On With Mobile Suit Gundam's Miniatures Tabletop Game",
-      "url": "https://www.ign.com/articles/gundam-assemble-hands-on-with-mobile-suit-gundams-miniatures-tabletop-game",
-      "source_count": 1,
-      "sources": [
         "IGN Games"
       ]
     },
@@ -386,59 +416,51 @@
       ]
     },
     {
-      "title": "As Wardogs Season 3 looms, Bulkhead claims to have built 'one of the world's most sophisticated anti-cheat systems', assisted by 'machine learning and AI'",
-      "url": "https://www.pcgamer.com/games/fps/as-wardogs-season-3-looms-bulkhead-claims-to-have-built-one-of-the-worlds-most-sophisticated-anti-cheat-systems-assisted-by-machine-learning-and-ai/",
+      "title": "Skyrim lead designer Bruce Nesmith loved that Baldur's Gate 3 closed off story paths based on your decisions, but defends Bethesda's approach: 'They were both fun, they're just fun in different ways'",
+      "url": "https://www.pcgamer.com/games/the-elder-scrolls/skyrim-lead-designer-bruce-nesmith-loved-that-baldurs-gate-3-closed-off-story-paths-based-on-your-decisions-but-defends-bethesdas-approach-they-were-both-fun-theyre-just-fun-in-different-ways/",
       "source_count": 1,
       "sources": [
         "PC Gamer"
       ]
     },
     {
-      "title": "Path of Exile 2's game director thinks a death recap will finally allow us players to complain about the right things",
-      "url": "https://www.pcgamer.com/games/rpg/path-of-exile-2s-game-director-thinks-a-death-recap-will-finally-allow-us-players-to-complain-about-the-right-things/",
+      "title": "Ichorous is the bloody platformer I've been waiting for ever since I finished Blasphemous 2",
+      "url": "https://www.pcgamer.com/games/roguelike/ichorous-is-the-bloody-platformer-ive-been-waiting-for-ever-since-i-finished-blasphemous-2/",
       "source_count": 1,
       "sources": [
         "PC Gamer"
       ]
     },
     {
-      "title": "A BioWare documentary was already in the works when the shutdown was announced: 'With the studio's recent closure, the film is now a profound valediction'",
-      "url": "https://www.pcgamer.com/gaming-industry/a-bioware-documentary-was-already-in-the-works-when-the-shutdown-was-announced-with-the-studios-recent-closure-the-film-is-now-a-profound-valediction/",
+      "title": "My apologies Deadlock, I wasn't familiar with your (musical) game",
+      "url": "https://www.pcgamer.com/games/moba/my-apologies-deadlock-i-wasnt-familiar-with-your-musical-game/",
       "source_count": 1,
       "sources": [
         "PC Gamer"
       ]
     },
     {
-      "title": "Chess is immediately more fun if you jettison most of the rules and replace them with weapons-grade Game Boy Advance",
-      "url": "https://www.pcgamer.com/games/puzzle/chess-is-immediately-more-fun-if-you-jettison-most-of-the-rules-and-replace-them-with-weapons-grade-game-boy-advance/",
+      "title": "Dominic Armato, voice of Guybrush Threepwood, has always loved LucasArts' adventure games, but there's one he still can't get into: 'I get 10 minutes in and I'm like, oh, this is tedious, man'",
+      "url": "https://www.pcgamer.com/gaming-industry/dominic-armato-voice-of-guybrush-threepwood-has-always-loved-lucasarts-adventure-games-but-theres-one-he-still-cant-get-into-i-get-10-minutes-in-and-im-like-oh-this-is-tedious-man/",
       "source_count": 1,
       "sources": [
         "PC Gamer"
       ]
     },
     {
-      "title": "One of the buggiest D&D games ever released, Pool of Radiance: Ruins of Myth Drannor, is back and actually playable again",
-      "url": "https://www.pcgamer.com/games/rpg/one-of-the-buggiest-d-and-d-games-ever-released-pool-of-radiance-ruins-of-myth-drannor-is-back-and-actually-playable-again/",
+      "title": "Inspired by Dark Messiah and Thief, this stealth game sees you sneak through a medieval megastructure prowled by undead guards",
+      "url": "https://www.pcgamer.com/games/sim/inspired-by-dark-messiah-and-thief-this-stealth-game-sees-you-sneak-through-a-medieval-megastructure-prowled-by-undead-guards/",
       "source_count": 1,
       "sources": [
         "PC Gamer"
       ]
     },
     {
-      "title": "AMD CEO Lisa Su: 'We are a data center-first company'",
-      "url": "https://www.pcgamer.com/gaming-industry/amd-ceo-lisa-su-we-are-a-data-center-first-company/",
+      "title": "WoW: Forever is more than just a millennial retirement home",
+      "url": "https://www.pcgamer.com/games/world-of-warcraft/wow-forever-is-more-than-just-a-millennial-retirement-home/",
       "source_count": 1,
       "sources": [
         "PC Gamer"
-      ]
-    },
-    {
-      "title": "Russell Brand's conviction shines light on dark side of entertainment",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1aQWplOXNyQU16aEMybUNwV2xHUHNRNnR0bElQNVZLZndhYlhpTkNKV21ZRk13OUctendKOFR0eWdBVkRCWFJRcXZDQ1NEVUtES2xzVlA4ZTYza2o4TWxhWWM3RTZQV0U",
-      "source_count": 1,
-      "sources": [
-        "Reuters"
       ]
     },
     {
@@ -458,19 +480,27 @@
       ]
     },
     {
-      "title": "OpenAI gets $11 billion funding at $1.25 trillion valuation, source says",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOSTY0UVhxMkl6bllESjhXX2VuYVUycXhRRkhWazlmT3VBV0xSWG55U3JhcVRZS2gzb2duQ0YwSi1JWVVtXzNpRkg4NmkyeG04V2JSY2dWd2djdkd5c1Q3RFh0ZmFOUW5MamhGN0gtclRIMmVpRkVuOGI3alNRaHE5bm1tdw",
+      "title": "Box Office: 'You Can See Everything' Hits $80 Million, Becoming A24's Third-Biggest Domestic Release",
+      "url": "https://www.indiewire.com/news/box-office/you-can-see-everything-a24-third-biggest-domestic-release-1235226144/",
       "source_count": 1,
       "sources": [
-        "AOL.com"
+        "IndieWire"
       ]
     },
     {
-      "title": "Zee Entertainment Board To Discuss Investor Concerns Over Recent Decline In Share Price",
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQeXZxUUtxN0xaSkFXTWhSdExvUkdWT1JidGlfUnU1TzZodXpRTkVNQmNob1MtWU9RcDFoUlJoSC16VzFldGpxcE1kc3lNZU9wVlRHU2hfcW1OQ000Ym4xRTBCNmFKWTBUc25HVDVfTElRSjhkak94RlI2ZGs0ek1JN09rQ3pFWjdxc2h2NWtfdTlzV2pXazNYZkstb0FsZFItTC1aS2xqWXpUVjVEZ2tzYnBFY1J1dmF5LTB3WVRHX0VRamoyREdPTUZpbVdaTVhhdjcwbVhtQTlzRzFUUzZqQ3N2LU9DVG9UV0ZfSHZR",
+      "title": "Box Office: 'Godzilla Minus Zero' Thunders with $31.6 Million, Scoring the Biggest Debut Ever for a Live-Action, Foreign Language Film",
+      "url": "https://www.indiewire.com/news/box-office/box-office-godzilla-minus-zero-debut-record-foreign-film-1235226132/",
       "source_count": 1,
       "sources": [
-        "TradingView"
+        "IndieWire"
+      ]
+    },
+    {
+      "title": "Dylan Skolnick Returning as Co-Director of the Cinema Arts Centre Following Protests and Boycotts",
+      "url": "https://www.indiewire.com/news/general-news/dylan-skolnick-returning-director-cinema-arts-centre-protests-1235226136/",
+      "source_count": 1,
+      "sources": [
+        "IndieWire"
       ]
     },
     {
@@ -492,30 +522,6 @@
     {
       "title": "How 'Godzilla Minus Zero' Used Real-World Sound to Make Its Monsters More Terrifying",
       "url": "https://www.indiewire.com/features/craft/godzilla-minus-zero-real-world-sound-design-1235225839/",
-      "source_count": 1,
-      "sources": [
-        "IndieWire"
-      ]
-    },
-    {
-      "title": "'Zi' Review: Kogonada Rediscovers His Voice with a Microbudget Hong Kong Experiment Starring Michelle Mao and Haley Lu Richardson",
-      "url": "https://www.indiewire.com/criticism/movies/zi-movie-review-kogonada-1235174799/",
-      "source_count": 1,
-      "sources": [
-        "IndieWire"
-      ]
-    },
-    {
-      "title": "'To Hold a Mountain' Took on the Government - Now It's Montenegro's Oscar Submission",
-      "url": "https://www.indiewire.com/news/events/to-hold-a-mountain-documentary-montenegro-ending-1235225960/",
-      "source_count": 1,
-      "sources": [
-        "IndieWire"
-      ]
-    },
-    {
-      "title": "'Soul Patrol' Review: The Vietnam War's First Black Special Ops Team Shares Their Stories in An Enlightening Documentary",
-      "url": "https://www.indiewire.com/criticism/movies/soul-patrol-documentary-review-sundance-1235176226/",
       "source_count": 1,
       "sources": [
         "IndieWire"
@@ -570,6 +576,14 @@
       ]
     },
     {
+      "title": "The Strokes Get a Surprise Visit From Walton Goggins During 'SNL' Performance: Watch",
+      "url": "https://www.billboard.com/music/rock/the-strokes-snl-walton-goggins-cameo-performance-video-1236377034/",
+      "source_count": 1,
+      "sources": [
+        "Billboard"
+      ]
+    },
+    {
       "title": "NFL Madrid Game Halftime Show 2026: Here's Where to Watch Manuel Turizo Perform Live Online Free",
       "url": "https://www.billboard.com/culture/product-recommendations/nfl-madrid-game-2026-manuel-turizo-halftime-watch-live-free-1236373868/",
       "source_count": 2,
@@ -603,11 +617,12 @@
       ]
     },
     {
-      "title": "Deep Purple's Ian Gillan Shares Encouraging News After Undergoing Surgery",
-      "url": "https://www.billboard.com/music/rock/deep-purple-ian-gillan-health-update-after-surgery-1236376961/",
-      "source_count": 1,
+      "title": "New Releases on Netflix This Week and Top 10 Movies & Series: November 8, 2026",
+      "url": "https://www.whats-on-netflix.com/whats-new/new-releases-on-netflix-this-week-and-top-10-movies-series-november-8-2026/",
+      "source_count": 2,
       "sources": [
-        "Billboard"
+        "What's on Netflix",
+        "What's on Netflix"
       ]
     },
     {
@@ -621,14 +636,6 @@
     {
       "title": "'Welcome to El Bulli': Ferran Adrià Chef Drama Sets Netflix Release Date",
       "url": "https://www.whats-on-netflix.com/news/welcome-to-el-bulli-ferran-adria-chef-drama-sets-netflix-release-date/",
-      "source_count": 1,
-      "sources": [
-        "What's on Netflix"
-      ]
-    },
-    {
-      "title": "12 Best New Movies on Netflix in November 2026",
-      "url": "https://www.whats-on-netflix.com/what-to-watch/best-new-movies-on-netflix-november-2026/",
       "source_count": 1,
       "sources": [
         "What's on Netflix"
@@ -651,61 +658,23 @@
       ]
     },
     {
-      "title": "Netflix Adds Yang Chaoyue and Winwin C-Drama 'Sunshine Through the Rain', With New Episodes Weekly",
-      "url": "https://www.whats-on-netflix.com/news/sunshine-through-the-rain-netflix-release-schedule-winwin/",
-      "source_count": 1,
+      "title": "All vault locations in the Fortnite Chapter 7 mini season",
+      "url": "https://www.polygon.com/fortnite-chapter-7-vault-locations-c7ms/",
+      "source_count": 3,
       "sources": [
-        "What's on Netflix"
-      ]
-    },
-    {
-      "title": "Zelda: Ocarina of Time Beats The Elder Scrolls 5: Skyrim in One Major Way",
-      "url": "https://www.polygon.com/zelda-ocarina-of-time-better-than-elder-scrolls-skyrim/",
-      "source_count": 1,
-      "sources": [
+        "Polygon",
+        "Polygon",
         "Polygon"
       ]
     },
     {
-      "title": "Matt Mercer's Best Critical Role Quote Is Still the Most Inspiring Line in D&D History",
-      "url": "https://www.polygon.com/matthew-mercer-dungeon-master-advice-dungeons-and-dragons/",
-      "source_count": 1,
-      "sources": [
-        "Polygon"
-      ]
-    },
-    {
-      "title": "68 Years Later, Peanuts' Most Mysterious Character Is Finally Making Her Official Debut",
-      "url": "https://www.polygon.com/charlie-brown-pencil-pal-history-peanuts/",
-      "source_count": 1,
-      "sources": [
-        "But There's a Catch"
-      ]
-    },
-    {
-      "title": "Bethesda's Most Reviled Game Becomes a 10/10 If You Ignore the Story",
-      "url": "https://www.polygon.com/starfield-retrospective-bethesda-story/",
-      "source_count": 1,
-      "sources": [
-        "Polygon"
-      ]
-    },
-    {
-      "title": "Anya Taylor-Joy's Billion-Dollar Sci-Fi Epic Officially Sets New Streaming Home on Netflix",
-      "url": "https://www.polygon.com/anya-taylor-joy-sci-fi-netflix-super-mario-galaxy-movie/",
-      "source_count": 1,
-      "sources": [
-        "Polygon"
-      ]
-    },
-    {
-      "title": "Sydney Sweeney's Extremely R-Rated 131-Minute Thriller Is Officially Streaming on HBO",
-      "url": "https://www.polygon.com/sydney-sweeney-erotic-thriller-the-housemaid-hbo-max/",
+      "title": "Godzilla Minus Zero Opening Weekend Box Office Breaks A Foreign-Language Film Records",
+      "url": "https://www.polygon.com/godzilla-minus-zero-opening-weekend-box-office/",
       "source_count": 1,
       "sources": [
         "Polygon"
       ]
     }
   ],
-  "summary": "Verified intelligence gathered across 87 deduplicated editorial clusters."
+  "summary": "Verified intelligence gathered across 83 deduplicated editorial clusters."
 }
