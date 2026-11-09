@@ -1,96 +1,119 @@
 {
-  "timestamp": "2026-11-08T23:26:35.337516+00:00",
-  "headline_count": 85,
+  "timestamp": "2026-11-09T04:50:20.739064+00:00",
+  "headline_count": 89,
   "headlines": [
     {
-      "title": "'Godzilla Minus Zero' and 'Ramayana: Rise of a Legend' Roar at International Box Office",
-      "url": "https://variety.com/2026/film/box-office/godzilla-minus-zero-ramayana-nternational-box-office-1236942760/",
+      "title": "John Oliver Dunks on Midterms Losers Elon Musk and Haley Stevens",
+      "url": "https://variety.com/2026/tv/news/john-oliver-midterms-losers-elon-musk-haley-stevens-last-week-tonight-1236942879/",
+      "source_count": 1,
+      "sources": [
+        "Variety"
+      ]
+    },
+    {
+      "title": "Goldwyn Bets on French WW2 Epic 'De Gaulle' Crossing Over to U.S. Audiences: 'It's the Story of an Ally'",
+      "url": "https://variety.com/2026/film/global/goldwyn-french-ww2-epic-de-gaulle-crossing-over-u-s-audiences-1236942834/",
+      "source_count": 1,
+      "sources": [
+        "Variety"
+      ]
+    },
+    {
+      "title": "China Box Office: 'Traces of Justice' Reclaims Top Spot as Local Debuts 'Embers' and 'The Coffin Swap' Arrive",
+      "url": "https://variety.com/2026/film/box-office/china-box-office-traces-of-justice-reclaims-top-spot-1236942862/",
+      "source_count": 1,
+      "sources": [
+        "Variety"
+      ]
+    },
+    {
+      "title": "'Love Is Blind' Creator on Protecting the Cast and Why He Chose to Keep Rob's Attack on Production in the Final Cut",
+      "url": "https://variety.com/2026/tv/news/love-is-blind-creator-rob-attack-michaella-1236942023/",
+      "source_count": 1,
+      "sources": [
+        "Variety"
+      ]
+    },
+    {
+      "title": "'Wanted' Broadway Review: Dazzling Cast Can't Elevate the Musical's Muted Narrative",
+      "url": "https://variety.com/2026/legit/reviews/wanted-broadway-review-1236941816/",
+      "source_count": 1,
+      "sources": [
+        "Variety"
+      ]
+    },
+    {
+      "title": "Taiwan and South Korea Join Forces on Musical Theater Co-Productions",
+      "url": "https://variety.com/2026/theater/markets-festivals/taiwan-south-korea-musical-theater-co-productions-1236942853/",
+      "source_count": 1,
+      "sources": [
+        "Variety"
+      ]
+    },
+    {
+      "title": "Trump Admits He Was \"Only Kidding\" About UFC's Dana White Becoming White House Press Secretary",
+      "url": "https://deadline.com/2026/11/dana-white-donald-trump-joke-1237217001/",
       "source_count": 2,
       "sources": [
-        "Variety",
+        "Deadline Hollywood",
+        "AsiaOne.com"
+      ]
+    },
+    {
+      "title": "Joe Biden Is Curtailing Promotion Of His Presidential Memoir Due To Cancer Battle",
+      "url": "https://deadline.com/2026/11/joe-biden-cancer-curtailing-book-promotion-1237216995/",
+      "source_count": 1,
+      "sources": [
+        "Deadline Hollywood"
+      ]
+    },
+    {
+      "title": "'You Can See Everything' Sweeps Top Categories At Critics Choice Documentary Awards",
+      "url": "https://deadline.com/2026/11/you-can-see-everything-critics-choice-documentary-awards-winners-1237217011/",
+      "source_count": 2,
+      "sources": [
+        "Deadline Hollywood",
         "The Hollywood Reporter"
       ]
     },
     {
-      "title": "Oscar Predictions: Best Casting - 'Being Heumann' and 'La Bola Negra' Found the Year's Boldest Discoveries. Will the Academy Reward Them?",
-      "url": "https://variety.com/feature/2027-oscars-best-casting-predictions-1236878513/",
-      "source_count": 1,
-      "sources": [
-        "Variety"
-      ]
-    },
-    {
-      "title": "Dave Chappelle's Charlie Kirk Joke Prompts Response from Erika Kirk: Using the 'Destruction of a Human Life' as a 'Punchline Is Beyond Disgusting'",
-      "url": "https://variety.com/2026/digital/news/dave-chappelles-charlie-kirk-joke-erika-kirk-responds-1236942735/",
-      "source_count": 3,
-      "sources": [
-        "Variety",
-        "Deadline Hollywood",
-        "The Sun"
-      ]
-    },
-    {
-      "title": "'Avedon' Review: Ron Howard's Thrilling Documentary About Richard Avedon, the Great Photographer Who Turned Head-On Portraits Into an Art Form",
-      "url": "https://variety.com/2026/film/reviews/avedon-review-ron-howard-richard-avedon-1236942472/",
-      "source_count": 1,
-      "sources": [
-        "Variety"
-      ]
-    },
-    {
-      "title": "'Passing Strange' Comes to Pasadena Playhouse: Creators Stew and Heidi Rodewald on the Rock Musical Reaching L.A. Almost Two Decades After Tony-Winning Broadway Run",
-      "url": "https://variety.com/2026/legit/news/passing-strange-pasadena-playhouse-stew-heidi-interview-1236942647/",
-      "source_count": 1,
-      "sources": [
-        "Variety"
-      ]
-    },
-    {
-      "title": "Taylor Swift and Karlie Kloss Reunite at Travis Kelce's Chiefs Game Against Jets",
-      "url": "https://variety.com/2026/digital/news/taylor-swift-karlie-kloss-reunite-travis-kelce-chiefs-game-1236942684/",
-      "source_count": 1,
-      "sources": [
-        "Variety"
-      ]
-    },
-    {
-      "title": "Druski Leads One Of 'SNL's Most Star-Studded Curtain Calls Ever With Emma Stone, Michael B. Jordan, Austin Butler, Plus Chappelle, Rock, Goggins",
-      "url": "https://deadline.com/2026/11/druski-snl-emma-stone-michael-b-jordan-austin-butler-1237216899/",
+      "title": "'Wanted' Broadway Review: Historical Musical Plays With Gospel Truth",
+      "url": "https://deadline.com/2026/11/wanted-musical-broadway-review-1237214464/",
       "source_count": 1,
       "sources": [
         "Deadline Hollywood"
       ]
     },
     {
-      "title": "'SNL' Pays Tribute To Susan Saint James With Title Card",
-      "url": "https://deadline.com/2026/11/snl-pays-tribute-susan-saint-james-title-card-1237216895/",
+      "title": "Andy Serkis Says Gollum Is Keeping Him Up At Night: \"It Has Been Insane\"",
+      "url": "https://deadline.com/2026/11/andy-serkis-playing-gollum-insane-1237216962/",
       "source_count": 1,
       "sources": [
         "Deadline Hollywood"
       ]
     },
     {
-      "title": "NBC's Mike Tirico Skipping 'Sunday Night Football' In Chicago Due To \"Health Issue\"",
-      "url": "https://deadline.com/2026/11/nbc-mike-tirico-skipping-sunday-night-football-health-issue-1237216897/",
+      "title": "Donald Trump's '60 Minutes' Interview Was A Mixture Of Denial, Reflection And Contradiction Following Midterm Drubbing",
+      "url": "https://deadline.com/2026/11/trump-60-minutes-interview-1237216945/",
       "source_count": 1,
       "sources": [
         "Deadline Hollywood"
       ]
     },
     {
-      "title": "Indie & Alternative Cinema Surges From 'Stray Kids' To 'Heated Rivalry'",
-      "url": "https://deadline.com/2026/11/indie-film-box-office-independent-alternative-cinema-surges-1237216831/",
+      "title": "Trump Reflects on Republicans' Midterm Losses, Reacts to J.D. Vance's Own Analysis in '60 Minutes' Interview",
+      "url": "https://www.hollywoodreporter.com/news/general-news/trump-republicans-midterm-losses-60-minutes-interview-1236750685/",
       "source_count": 1,
       "sources": [
-        "Specialty Box Office"
+        "The Hollywood Reporter"
       ]
     },
     {
-      "title": "Maya Jama Exits As 'Love Island UK' Host After 9 Seasons",
-      "url": "https://deadline.com/2026/11/maya-jama-exits-love-island-uk-host-itv-1237216848/",
+      "title": "'Steps' Review: A Stellar Voice Cast Including Amanda Seyfried, Ali Wong and Bette Midler Gets Stuck in a Tortured Revisionist Fairy Tale",
+      "url": "https://www.hollywoodreporter.com/movies/movie-reviews/steps-review-amanda-seyfried-ali-wong-bette-midler-netflix-1236750081/",
       "source_count": 1,
       "sources": [
-        "Deadline Hollywood"
+        "The Hollywood Reporter"
       ]
     },
     {
@@ -112,22 +135,6 @@
     {
       "title": "Bill Skarsgard Jokes About Using Pennywise Voice When His Kids Misbehave: \"Schizophrenic Daddy\"",
       "url": "https://www.hollywoodreporter.com/movies/movie-news/bill-skarsgard-pennywise-voice-kids-misbehave-1236750434/",
-      "source_count": 1,
-      "sources": [
-        "The Hollywood Reporter"
-      ]
-    },
-    {
-      "title": "THR Visionary: 5 Janusz Kaminski Shots",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/thr-visionary-janusz-kaminski-five-visual-styles-1236750395/",
-      "source_count": 1,
-      "sources": [
-        "The Hollywood Reporter"
-      ]
-    },
-    {
-      "title": "Where to Watch the 2026 NASCAR Cup Series Championship Race Live Online",
-      "url": "https://www.hollywoodreporter.com/tv/tv-news/watch-nascar-cup-series-championship-race-2026-free-stream-1236750096/",
       "source_count": 1,
       "sources": [
         "The Hollywood Reporter"
@@ -182,48 +189,41 @@
       ]
     },
     {
-      "title": "Why Frankie Cooper From MobLand Looks So Familiar",
-      "url": "https://www.tvline.com/2305600/frankie-cooper-mobland-actor-johnny-flynn/",
+      "title": "The Gilded Age Reveals George's Shooter In Season 4: 'A Lot Of People Were Not Happy With Him,' EP Says",
+      "url": "https://www.tvline.com/2310368/the-gilded-age-season-4-episode-2-george-shooter-explained/",
       "source_count": 1,
       "sources": [
         "TVLine"
       ]
     },
     {
-      "title": "Pierce Brosnan And Kate Mulgrew Starred In A Forgotten '80s Civil War Series",
-      "url": "https://www.tvline.com/2305441/pierce-brosnan-kate-mulgrew-star-forgotten-80s-civil-war-series/",
+      "title": "5 Sci-Fi TV Shows That Were Canceled Before Their Biggest Mysteries Were Solved",
+      "url": "https://www.tvline.com/2304233/sci-fi-tv-shows-canceled-before-biggest-mysteries-solved/",
       "source_count": 1,
       "sources": [
         "TVLine"
       ]
     },
     {
-      "title": "Mary Tyler Moore Starred In Two Hit Sitcoms With An All Star Cast",
-      "url": "https://www.tvline.com/2305004/mary-tyler-moore-star-two-hit-sitcoms-with-an-all-star-cast/",
+      "title": "10 TV Shows To Watch If You Like SpongeBob SquarePants",
+      "url": "https://www.tvline.com/2305840/tv-shows-like-spongebob-squarepants/",
+      "source_count": 2,
+      "sources": [
+        "TVLine",
+        "TVLine"
+      ]
+    },
+    {
+      "title": "Why Blythe Hart From 9-1-1: Nashville Looks So Familiar",
+      "url": "https://www.tvline.com/2307387/blythe-hart-911-nashville-actress-jessica-capshaw/",
       "source_count": 1,
       "sources": [
         "TVLine"
       ]
     },
     {
-      "title": "15 Best Family Sitcoms Of All Time, Ranked",
-      "url": "https://www.tvline.com/2308158/best-family-sitcoms-ranked/",
-      "source_count": 1,
-      "sources": [
-        "TVLine"
-      ]
-    },
-    {
-      "title": "Gilligan's Island Star Russell Johnson's Two Twilight Zone Episodes Used The Same Sci-Fi Gimmick",
-      "url": "https://www.tvline.com/2299472/gilligans-island-russell-johnson-twilight-zone-episodes-same-sci-fi-gimmick-time-travel/",
-      "source_count": 1,
-      "sources": [
-        "TVLine"
-      ]
-    },
-    {
-      "title": "5 Criminal Minds Episodes That Can Turn Anyone Into A Fan",
-      "url": "https://www.tvline.com/2304623/criminal-minds-episodes-can-turn-anyone-fan/",
+      "title": "Timothy Olyphant's First Role Was In An Unaired Pilot Clint Eastwood Was Supposed To Produce",
+      "url": "https://www.tvline.com/2305604/timothy-olyphant-first-role-unaired-pilot-clint-eastwood-supposed-to-produce/",
       "source_count": 1,
       "sources": [
         "TVLine"
@@ -326,12 +326,19 @@
       ]
     },
     {
+      "title": "Petit Planet, aka HoYoverse's Take on Animal Crossing, Is Packed With Charm and Attention to Detail",
+      "url": "https://www.ign.com/articles/petit-planet-aka-hoyoverses-take-on-animal-crossing-is-packed-with-charm-and-attention-to-detail-ign-preview",
+      "source_count": 1,
+      "sources": [
+        "IGN Preview"
+      ]
+    },
+    {
       "title": "The Legend of Zelda: Ocarina of Time Speedrunners Have Already Found New Ways to Break the Remake",
       "url": "https://www.ign.com/articles/the-legend-of-zelda-ocarina-of-time-speedrunners-have-already-found-new-ways-to-break-the-remake",
-      "source_count": 2,
+      "source_count": 1,
       "sources": [
-        "IGN Games",
-        "Polygon"
+        "IGN Games"
       ]
     },
     {
@@ -361,9 +368,8 @@
     {
       "title": "BioWare May Be Dead, But a Modder Has Rebuilt Mass Effect 3's Multiplayer Into the Legendary Edition",
       "url": "https://www.ign.com/articles/bioware-may-be-dead-but-a-modder-has-rebuilt-mass-effect-3s-multiplayer-into-the-legendary-edition",
-      "source_count": 2,
+      "source_count": 1,
       "sources": [
-        "IGN Games",
         "IGN Games"
       ]
     },
@@ -416,6 +422,23 @@
       ]
     },
     {
+      "title": "Lead designer Bruce Nesmith says Skyrim was a hit because it was built on institutional knowledge from Oblivion",
+      "url": "https://www.pcgamer.com/games/the-elder-scrolls/lead-designer-bruce-nesmith-says-skyrim-was-a-hit-because-it-was-built-on-institutional-knowledge-from-oblivion/",
+      "source_count": 2,
+      "sources": [
+        "PC Gamer",
+        "PC Gamer"
+      ]
+    },
+    {
+      "title": "Warhammer Blood Bowl has been delayed into early 2027",
+      "url": "https://www.pcgamer.com/games/sports/warhammer-blood-bowl-has-been-delayed-into-2027/",
+      "source_count": 1,
+      "sources": [
+        "PC Gamer"
+      ]
+    },
+    {
       "title": "Jackbox Games isn't interested in AI development: 'All that is done by people, and we have no intention of changing that'",
       "url": "https://www.pcgamer.com/gaming-industry/game-development/jackbox-games-isnt-interested-in-ai-development-all-that-is-done-by-people-and-we-have-no-intention-of-changing-that/",
       "source_count": 1,
@@ -432,14 +455,6 @@
       ]
     },
     {
-      "title": "Skyrim lead designer Bruce Nesmith loved that Baldur's Gate 3 closed off story paths based on your decisions, but defends Bethesda's approach: 'They were both fun, they're just fun in different ways'",
-      "url": "https://www.pcgamer.com/games/the-elder-scrolls/skyrim-lead-designer-bruce-nesmith-loved-that-baldurs-gate-3-closed-off-story-paths-based-on-your-decisions-but-defends-bethesdas-approach-they-were-both-fun-theyre-just-fun-in-different-ways/",
-      "source_count": 1,
-      "sources": [
-        "PC Gamer"
-      ]
-    },
-    {
       "title": "My apologies Deadlock, I wasn't familiar with your (musical) game",
       "url": "https://www.pcgamer.com/games/moba/my-apologies-deadlock-i-wasnt-familiar-with-your-musical-game/",
       "source_count": 1,
@@ -448,19 +463,20 @@
       ]
     },
     {
-      "title": "Ichorous is the bloody platformer I've been waiting for ever since I finished Blasphemous 2",
-      "url": "https://www.pcgamer.com/games/roguelike/ichorous-is-the-bloody-platformer-ive-been-waiting-for-ever-since-i-finished-blasphemous-2/",
-      "source_count": 1,
+      "title": "\"Not funny\": Elon Musk reacts after Dave Chappelle jokes Charlie Kirk's murder made him 'feel better'",
+      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOM2o4bGNBcW1tMUo0ajRiVkxIaXNoQThDLWRvOUlhdjlZS0VxajdMMGVTRDJ6al9mcWNTTzB2YXpUV3JzTjhTUjRIZTNtc1MzZkhJOXdtWS1zbVI3ZHZ1MlRXdG5TVmVSejdVaXk3eXhMVE1kX1habUNTYUh0SkNuLW1WbjdBWEpsZDRyWmFZN1I0Zkhvc3cwUlM2dEtXQ29kUUVaWnNMaTdSMWphSWdSN2dFUnczOVlOWG5hUVhrM1Z0VFU1N3JkY3B2eFRxS3F4U0xkN1M4dEhDdkI5ckZ1SUN6RUwtbVdMdzN3RFA1dkNUMzdBNkg4Q0ppM3gzZUE",
+      "source_count": 2,
       "sources": [
-        "PC Gamer"
+        "ANI News",
+        "The Sun"
       ]
     },
     {
-      "title": "Dominic Armato, voice of Guybrush Threepwood, has always loved LucasArts' adventure games, but there's one he still can't get into: 'I get 10 minutes in and I'm like, oh, this is tedious, man'",
-      "url": "https://www.pcgamer.com/gaming-industry/dominic-armato-voice-of-guybrush-threepwood-has-always-loved-lucasarts-adventure-games-but-theres-one-he-still-cant-get-into-i-get-10-minutes-in-and-im-like-oh-this-is-tedious-man/",
+      "title": "TIME Entertainment Announces Preliminary Judgment In Its Favor In Lawsuit Filed Against Jockey Club Of Saudi Arabia",
+      "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNYlQzczJHeTNuZUxpdk05b1d4WGRXRXR4MUNPY1dCRDVTV3l4MnpqTVZNQkhOUVZWX0RCel83SHBJMHo5aTA1MnhfemRodE5Xc0FOS2l4ckR5eXNUV3dYZWVuQ3pPMERscnhwRzVlNmF0Rmg4YXEtdU5NaDFla2tPczYxeXZxY0tTR0VqdDJtQ3Bhejd3bTQ5VkswQWJ2cE9VdjdUaEVVZi1YY25xa1o4Z2ZjQnI0OFRab2h1RXVZS1MzOFNXVVF5Y2dEcjl3eVFMT1dsaVdtbUdXY0dPWUUyNGJUSnVYUW5DaVREbjFZRk9fRTlBVDZrSGZ6UVNNNjVyd1o3MTM0Tnd5WnQzMGg1WFZxTQ",
       "source_count": 1,
       "sources": [
-        "PC Gamer"
+        "TradingView"
       ]
     },
     {
@@ -480,10 +496,11 @@
       ]
     },
     {
-      "title": "Box Office: 'You Can See Everything' Hits $80 Million, Becoming A24's Third-Biggest Domestic Release",
-      "url": "https://www.indiewire.com/news/box-office/you-can-see-everything-a24-third-biggest-domestic-release-1235226144/",
-      "source_count": 1,
+      "title": "'You Can See Everything' Sweeps Critics Choice Documentary Awards",
+      "url": "https://www.indiewire.com/awards/results/critics-choice-documentary-award-winners-full-list-1235226156/",
+      "source_count": 2,
       "sources": [
+        "IndieWire",
         "IndieWire"
       ]
     },
@@ -514,14 +531,6 @@
     {
       "title": "Letterboxd's Sale to the New York Times: 9 Pros, Cons, and Big Questions from the $330 Million Deal",
       "url": "https://www.indiewire.com/features/general/letterboxd-bought-new-york-times-pros-cons-questions-1235225977/",
-      "source_count": 1,
-      "sources": [
-        "IndieWire"
-      ]
-    },
-    {
-      "title": "How 'Godzilla Minus Zero' Used Real-World Sound to Make Its Monsters More Terrifying",
-      "url": "https://www.indiewire.com/features/craft/godzilla-minus-zero-real-world-sound-design-1235225839/",
       "source_count": 1,
       "sources": [
         "IndieWire"
@@ -576,6 +585,22 @@
       ]
     },
     {
+      "title": "Ariana Grande Sings 'O Christmas Tree' With Robert De Niro & Ben Stiller on 'Tonight Show': Exclusive Preview",
+      "url": "https://www.billboard.com/culture/tv-film/ariana-grande-o-christmas-tree-robert-de-niro-ben-stiller-1236377155/",
+      "source_count": 1,
+      "sources": [
+        "Billboard"
+      ]
+    },
+    {
+      "title": "Morgan Wallen, Garth Brooks, Taylor Swift & More Artists With Most Weeks at No. 1 on Top Country Albums Chart: Full List",
+      "url": "https://www.billboard.com/lists/top-country-albums-number-ones-biggest/",
+      "source_count": 1,
+      "sources": [
+        "Billboard"
+      ]
+    },
+    {
       "title": "Druski's Best 'SNL' Sketches Had Him Singing Through a Proposal Gone Wrong & In a Hip-Hop Parody",
       "url": "https://www.billboard.com/culture/tv-film/druski-singing-snl-sketches-1236377110/",
       "source_count": 1,
@@ -608,19 +633,19 @@
       ]
     },
     {
-      "title": "Celine Dion Goes Backstage With Metallica After Rocking Out at Sphere: 'Loved the Show'",
-      "url": "https://www.billboard.com/music/music-news/celine-dion-metallica-backstage-photos-sphere-1236377038/",
+      "title": "'KPop Demon Hunters' Criterion Release Q&A: All The Behind-the-Scenes Secrets From the Directors",
+      "url": "https://www.whats-on-netflix.com/interviews/kpop-demon-hunters-criterion-release-qa-all-the-behind-the-scenes-secrets-from-the-directors/",
       "source_count": 1,
       "sources": [
-        "Billboard"
+        "What's on Netflix"
       ]
     },
     {
-      "title": "The Strokes Get a Surprise Visit From Walton Goggins During 'SNL' Performance: Watch",
-      "url": "https://www.billboard.com/music/rock/the-strokes-snl-walton-goggins-cameo-performance-video-1236377034/",
+      "title": "'Steps' Review: Netflix Cinderella Retelling Is the Sister Story 'Frozen' Wanted to Be",
+      "url": "https://www.whats-on-netflix.com/what-to-watch/steps-netflix-movie-review/",
       "source_count": 1,
       "sources": [
-        "Billboard"
+        "What's on Netflix"
       ]
     },
     {
@@ -649,19 +674,35 @@
       ]
     },
     {
-      "title": "'Nobody Wants This' Officially Renewed for Season 4 at Netflix",
-      "url": "https://www.whats-on-netflix.com/news/nobody-wants-this-season-4-renewal-status-viewership-stats-what-to-expect/",
+      "title": "27 Years Later, Science-Fiction's Groundbreaking 4-Part Saga Is Free to Watch on Streaming",
+      "url": "https://www.polygon.com/the-matrix-movies-streaming-free-pluto-tv-november-2026/",
       "source_count": 1,
       "sources": [
-        "What's on Netflix"
+        "Polygon"
       ]
     },
     {
-      "title": "'Shifting Gears' Heading to Netflix Globally Ahead of Season 3 Premiere",
-      "url": "https://www.whats-on-netflix.com/news/shifting-gears-sitcom-netflix-release-date/",
+      "title": "Mike Flanagan's 10-Episode Netflix Thriller Masterpiece Is Everything 'Carrie' Should Have Been",
+      "url": "https://www.polygon.com/mike-flanagan-netflix-the-haunting-of-hill-house-carrie/",
       "source_count": 1,
       "sources": [
-        "What's on Netflix"
+        "Polygon"
+      ]
+    },
+    {
+      "title": "Zelda: Ocarina of Time and WoW: Forever Are the Good Kind of Remakes",
+      "url": "https://www.polygon.com/patch-notes-remakes-zelda-ocarina-of-time-wow-forever/",
+      "source_count": 1,
+      "sources": [
+        "Polygon"
+      ]
+    },
+    {
+      "title": "Sega's Most Influential Platformer Deserves Its Big Remake Moment Next",
+      "url": "https://www.polygon.com/super-monkey-ball-retrospective-25-years-sega/",
+      "source_count": 1,
+      "sources": [
+        "Polygon"
       ]
     },
     {
@@ -675,21 +716,11 @@
     {
       "title": "All vault locations in the Fortnite Chapter 7 mini season",
       "url": "https://www.polygon.com/fortnite-chapter-7-vault-locations-c7ms/",
-      "source_count": 3,
-      "sources": [
-        "Polygon",
-        "Polygon",
-        "Polygon"
-      ]
-    },
-    {
-      "title": "Godzilla Minus Zero Opening Weekend Box Office Breaks A Foreign-Language Film Records",
-      "url": "https://www.polygon.com/godzilla-minus-zero-opening-weekend-box-office/",
       "source_count": 1,
       "sources": [
         "Polygon"
       ]
     }
   ],
-  "summary": "Verified intelligence gathered across 85 deduplicated editorial clusters."
+  "summary": "Verified intelligence gathered across 89 deduplicated editorial clusters."
 }
