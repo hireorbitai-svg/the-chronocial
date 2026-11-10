@@ -1,121 +1,158 @@
 {
-  "timestamp": "2026-11-10T07:01:56.478267+00:00",
-  "headline_count": 92,
+  "timestamp": "2026-11-10T16:07:56.800042+00:00",
+  "headline_count": 94,
   "headlines": [
     {
-      "title": "Keira Knightley Says 'It Means Nothing' When Fans Quote 'Love Actually' to Her Because She Hasn't Watched It Since the Premiere: 'I Don't Remember It'",
-      "url": "https://variety.com/2026/film/news/keira-knightley-love-actually-fans-1236943826/",
-      "source_count": 2,
-      "sources": [
-        "Variety",
-        "Deadline Hollywood"
-      ]
-    },
-    {
-      "title": "'Ebenezer' First Reactions: Johnny Depp's Hollywood Comeback Is a 'Wickedly Fun Holiday Treat' That Adds 'Refreshing New Layers' to the Christmas Classic",
-      "url": "https://variety.com/2026/film/news/ebenezer-first-reactions-johnny-depp-hollywood-comeback-1236941249/",
-      "source_count": 2,
-      "sources": [
-        "Variety",
-        "The Hollywood Reporter"
-      ]
-    },
-    {
-      "title": "Jon Stewart Breaks Down Trump's '60 Minutes' Interview: 'Young Man, Was That Sass?'",
-      "url": "https://variety.com/2026/tv/news/jon-stewart-trumps-60-minutes-interview-1236943796/",
-      "source_count": 2,
-      "sources": [
-        "Variety",
-        "Deadline Hollywood"
-      ]
-    },
-    {
-      "title": "'Ramayana' Makes History as First Indian Film to Top U.K., Ireland Box Office as 'Godzilla Minus Zero' Debuts in Third",
-      "url": "https://variety.com/2026/film/box-office/ramayana-godzilla-minus-zero-uk-ireland-box-office-1236943753/",
+      "title": "David Walliams Shows, Including 'Little Britain,' Removed From BBC Streaming Platform",
+      "url": "https://variety.com/2026/tv/global/david-walliams-little-britain-bbc-1236944047/",
       "source_count": 1,
       "sources": [
         "Variety"
       ]
     },
     {
-      "title": "Julia Garner Says Madonna Biopic Status Changes 'Every Hour,' But She'd 'Love for the Movie to Get Made'",
-      "url": "https://variety.com/2026/film/news/julia-garner-madonna-biopic-status-1236943732/",
-      "source_count": 2,
-      "sources": [
-        "Variety",
-        "Deadline Hollywood"
-      ]
-    },
-    {
-      "title": "LISTEN: 'Roland Martin Unfiltered' Rides Midterm Elections Momentum After Historic Vote",
-      "url": "https://variety.com/2026/tv/news/roland-martin-unfiltered-midterm-election-strictly-business-1236943709/",
+      "title": "'Musk' Director Alex Gibney Reveals What He Really Thinks of Elon Musk, Elizabeth Holmes and 'You Can See Everything' at Variety's Doc Dreams NYC",
+      "url": "https://variety.com/2026/film/news/alex-gibney-elon-musk-elizabeth-holmes-1236943837/",
       "source_count": 1,
       "sources": [
         "Variety"
       ]
     },
     {
-      "title": "'Here There Are Blueberries' Broadway Review: Evil As Banal As A Bowl Of Fruit",
-      "url": "https://deadline.com/2026/11/here-there-are-blueberries-broadway-review-1237216680/",
+      "title": "Raye Named Variety's 2026 Hitmaker of the Year",
+      "url": "https://variety.com/2026/music/news/raye-variety-2026-hitmaker-of-the-year-1236943621/",
+      "source_count": 1,
+      "sources": [
+        "Variety"
+      ]
+    },
+    {
+      "title": "Rock & Roll Hall of Fame Designates the Troubadour as a Landmark Venue, With Ceremony to Precede Gram Parsons Tribute Concert (EXCLUSIVE)",
+      "url": "https://variety.com/2026/music/news/rock-roll-hall-fame-designates-troubadour-landmark-venue-1236944023/",
+      "source_count": 1,
+      "sources": [
+        "Variety"
+      ]
+    },
+    {
+      "title": "Kiah Roache-Turner Reunites With 'Furiosa' Star Alyla Browne on 'Horrifically Creepy' Road Movie Horror 'Don't Look': 'There Are Scenes That Are Going to Traumatize People' (EXCLUSIVE)",
+      "url": "https://variety.com/2026/film/news/kiah-roache-turner-alyla-browne-horror-movie-dont-look-1236943979/",
+      "source_count": 1,
+      "sources": [
+        "Variety"
+      ]
+    },
+    {
+      "title": "'Overcompensating' Season 2 Release Date: Benito Skinner Returns for a Steamy Spring Semester (TV News Roundup)",
+      "url": "https://variety.com/2026/tv/news/tv-news-roundup-week-of-nov-9-2-1236943422/",
+      "source_count": 1,
+      "sources": [
+        "Variety"
+      ]
+    },
+    {
+      "title": "Saban Films Takes North America On Michael Madsen Action Thriller 'Blood Behind Us'",
+      "url": "https://deadline.com/2026/11/michael-madsen-blood-behind-us-1237218531/",
+      "source_count": 1,
+      "sources": [
+        "AFM"
+      ]
+    },
+    {
+      "title": "Paramount Expands Partnership With Marty Bowen & Wyck Godfrey's Temple Hill Across Film & TV",
+      "url": "https://deadline.com/2026/11/paramount-temple-hill-film-and-tv-deal-renewal-1237218494/",
       "source_count": 1,
       "sources": [
         "Deadline Hollywood"
       ]
     },
     {
-      "title": "Johnny Depp & Ti West Land In A Chilly London For 'Ebenezer' Global Premiere",
-      "url": "https://deadline.com/2026/11/johnny-depp-ti-west-london-ebenezer-global-premiere-1237218130/",
+      "title": "Vietnamese Musical Hit 'A Little Dream Of Me' Set For North American Release Through Reel Citrus",
+      "url": "https://deadline.com/2026/11/a-little-dream-of-me-kaycee-tran-doan-hoang-huu-chau-1237217085/",
       "source_count": 1,
       "sources": [
         "Deadline Hollywood"
       ]
     },
     {
-      "title": "'Paddington: The Musical' Sets Broadway Cast With Tony Hale, J. Quinton Johnson, Jessie Mueller & More",
-      "url": "https://deadline.com/2026/11/paddington-the-musical-broadway-cast-2026-1237218092/",
+      "title": "It's Christopher Briney Vs. Michelle Randolph In Prime Video's 'Clashing Through The Snow' Trailer Featuring Olivia Rodrigo's Christmas Single",
+      "url": "https://deadline.com/2026/11/clashing-through-the-snow-trailer-christopher-briney-1237218035/",
+      "source_count": 2,
+      "sources": [
+        "Deadline Hollywood",
+        "The Hollywood Reporter"
+      ]
+    },
+    {
+      "title": "'Britain's Got Talent' Producer Urges \"Anyone Who Feels They Have Been Subject Of Wrongdoing\" To Come Forward Following David Walliams Allegations",
+      "url": "https://deadline.com/2026/11/david-walliams-bgt-producer-urges-victims-come-forward-1237218453/",
       "source_count": 1,
       "sources": [
         "Deadline Hollywood"
       ]
     },
     {
-      "title": "Olivia Cooke Says 'House of the Dragon' Fandom Led to Her Social Media Break: \"A Lot of Ugliness\"",
-      "url": "https://www.hollywoodreporter.com/tv/tv-news/olivia-cooke-house-of-the-dragon-fandom-social-media-break-1236751448/",
+      "title": "Luke Bryan, Megan Moroney & Vince Gill Among Performers Added To CMA Awards",
+      "url": "https://deadline.com/2026/11/cma-awards-performers-ella-langley-1237213808/",
+      "source_count": 1,
+      "sources": [
+        "Deadline Hollywood"
+      ]
+    },
+    {
+      "title": "Brandon Sklenar on 'Iron Jane,' Body Dysmorphia and His Rapid Hollywood Rise",
+      "url": "https://www.hollywoodreporter.com/movies/movie-features/brandon-sklenar-iron-jane-1923-body-dysmorphia-1236751115/",
       "source_count": 1,
       "sources": [
         "The Hollywood Reporter"
       ]
     },
     {
-      "title": "The Top 23 Holiday Gifts for Movie Lovers, From Retro Collectibles to Modern Tech",
-      "url": "https://www.hollywoodreporter.com/lifestyle/shopping/best-christmas-gifts-for-movie-lovers-2026-holiday-presents-1236743921/",
+      "title": "Katelin Arizmendi on Bringing a New Perspective to Action With 'Your Mother Your Mother Your Mother'",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/dp-katelin-arizmendi-on-your-mother-your-mother-your-mother-1236751569/",
       "source_count": 1,
       "sources": [
         "The Hollywood Reporter"
       ]
     },
     {
-      "title": "Inside James Gunn, Peter Safran's DC Ouster: Exec Tensions and a Fateful David Ellison Visit",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/james-gunn-peter-safran-ouster-dc-1236751437/",
+      "title": "Tilly Norwood Creator's New Project? An AI Talking-Dog Movie With the Co-Director of 'The Lion King'",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/tilly-norwood-ai-dog-movie-minkoff-watch-trailer-1236751596/",
       "source_count": 1,
       "sources": [
         "The Hollywood Reporter"
       ]
     },
     {
-      "title": "Nordstrom's 2026 Holiday Gift Guide Is Live: Our 26 Favorite Finds Under $100",
-      "url": "https://www.hollywoodreporter.com/lifestyle/shopping/nordstrom-gift-guide-2026-holiday-gift-sets-ideas-under-100-1236751125/",
+      "title": "Lisa's 'Always Lalisa' Heads to YouTube Premium, Singer to Release New Single \"Leave With Me\" (Exclusive)",
+      "url": "https://www.hollywoodreporter.com/music/film-tv-music-news/lisa-always-lalisa-youtube-premium-new-single-leave-with-me-1236751658/",
       "source_count": 1,
       "sources": [
         "The Hollywood Reporter"
       ]
     },
     {
-      "title": "Steve Buscemi Reveals Which Show He Refuses to Appear on: \"I Don't Care How Much You Paid Me\"",
-      "url": "https://www.hollywoodreporter.com/business/digital/steve-buscemi-refuses-appear-hot-ones-1236751410/",
+      "title": "How 'Sesame Street' Bounced Back",
+      "url": "https://www.hollywoodreporter.com/business/business-news/sesame-street-day-sesame-workshop-show-saved-1236748715/",
       "source_count": 1,
       "sources": [
-        "The Hollywood Reporter"
+        "and Reinvented Its Business"
+      ]
+    },
+    {
+      "title": "EXCLUSIVE: Shaad Randhawa's DOUBLE DHAMAAL on November 27! Actor to feature in BOTH Ayushmann Khurrana's Yeh Prem Mol Liya and Emraan Hashmi's Gunmaaster G9",
+      "url": "https://www.bollywoodhungama.com/news/bollywood/exclusive-shaad-randhawas-double-dhamaal-on-november-27-actor-to-feature-in-both-ayushmann-khurranas-yeh-prem-mol-liya-and-emraan-hashmis-gunmaaster-g9/",
+      "source_count": 1,
+      "sources": [
+        "Bollywood Hungama"
+      ]
+    },
+    {
+      "title": "EXCLUSIVE: Gunmaaster G9's trailer to be launched in a grand fashion at a Pune multiplex",
+      "url": "https://www.bollywoodhungama.com/news/bollywood/exclusive-gunmaaster-g9s-trailer-to-be-launched-in-a-grand-fashion-at-a-pune-multiplex/",
+      "source_count": 1,
+      "sources": [
+        "Bollywood Hungama"
       ]
     },
     {
@@ -151,19 +188,43 @@
       ]
     },
     {
-      "title": "Ahaan Panday joins Jaeger-LeCoultre as Friend of the House for The Hour Before interview series",
-      "url": "https://www.bollywoodhungama.com/news/bollywood/ahaan-panday-joins-jaeger-lecoultre-as-friend-of-the-house-for-the-hour-before-interview-series/",
+      "title": "Why Thráin From The Lord Of The Rings: The Rings Of Power Looks So Familiar",
+      "url": "https://www.tvline.com/2312014/thrain-the-lord-of-the-rings-the-rings-of-power-actor-eddie-marsan/",
       "source_count": 1,
       "sources": [
-        "Bollywood Hungama"
+        "TVLine"
       ]
     },
     {
-      "title": "Bombay High Court grants interim relief to Naagzilla consultant Kuldeep Singh Champawat in Rs. 3.92 cr financial irregularity case; no role attributed to him in payment hierarchy",
-      "url": "https://www.bollywoodhungama.com/news/bollywood/bombay-high-court-grants-protection-to-naagzilla-consultant-kuldeep-singh-champawat-in-rs-3-92-crore-financial-irregularity-case/",
+      "title": "Blue Lights Season 4: Who's 'More Lost' Than Ever? Who's Found A 'Calling'? Who'll 'Give His Life' To Blackthorn? Watch A Sneak Peek (Exclusive)",
+      "url": "https://www.tvline.com/2311940/blue-lights-season-4-sian-brooke-grace-martin-mccann-stevie/",
       "source_count": 1,
       "sources": [
-        "Bollywood Hungama"
+        "TVLine"
+      ]
+    },
+    {
+      "title": "5 Stranger Things Characters Who Could Return In The Spin-Off Series Other Worlds",
+      "url": "https://www.tvline.com/2311869/stranger-things-characters-return-spin-off-series-other-worlds/",
+      "source_count": 1,
+      "sources": [
+        "TVLine"
+      ]
+    },
+    {
+      "title": "Quote Of The Day By Only Murders In The Building Star Martin Short: 'She Died In 2010, But I Still Communicate With Her...'",
+      "url": "https://www.tvline.com/2309657/quote-of-the-day-martin-short-talking-to-dead-wife/",
+      "source_count": 1,
+      "sources": [
+        "TVLine"
+      ]
+    },
+    {
+      "title": "What To Watch Tuesday: VisionQuest Finale, Grammy Night On DWTS, And More",
+      "url": "https://www.tvline.com/2308334/what-to-watch-november-10-2026-tv-shows-movies-streaming/",
+      "source_count": 1,
+      "sources": [
+        "TVLine"
       ]
     },
     {
@@ -175,43 +236,19 @@
       ]
     },
     {
-      "title": "CIA's Nick Gehlfuss On Bill's Identity Crisis And How Far He'll Go For The Truth: 'Bill Is Questioning If He's A Psychopath'",
-      "url": "https://www.tvline.com/2311565/cia-season-2-episode-6-nick-gehlfuss-interview/",
+      "title": "Pre-load Grand Theft Auto VI on PS5 starting today",
+      "url": "https://blog.playstation.com/2026/11/10/pre-load-grand-theft-auto-vi-on-ps5-starting-today/",
       "source_count": 1,
       "sources": [
-        "TVLine"
+        "PlayStation Blog"
       ]
     },
     {
-      "title": "Samuel L. Jackson's Favorite Anime Series Is A Classic With More Than 1000 Episodes",
-      "url": "https://www.tvline.com/2310556/samuel-l-jackson-favorite-anime-series-one-piece/",
+      "title": "Marathon Symbiosis update launches December 8, adding new PvE and PvP modes, weapons, and more",
+      "url": "https://blog.playstation.com/2026/11/10/marathon-symbiosis-update-launches-december-8-adding-new-pve-and-pvp-modes-weapons-and-more/",
       "source_count": 1,
       "sources": [
-        "TVLine"
-      ]
-    },
-    {
-      "title": "How Nicolas Cage Really Feels About Spider-Noir's Cancellation",
-      "url": "https://www.tvline.com/2311724/nicolas-cage-spider-noir-cancellation-feelings/",
-      "source_count": 1,
-      "sources": [
-        "TVLine"
-      ]
-    },
-    {
-      "title": "Several Gilligan's Island Actors Played The Conners On An Episode Of Roseanne",
-      "url": "https://www.tvline.com/2310554/gilligans-island-actors-played-conners-episode-roseanne/",
-      "source_count": 1,
-      "sources": [
-        "TVLine"
-      ]
-    },
-    {
-      "title": "Why Justin Hartley Replaced Alan Ritchson As Aquaman In Failed DC Comics TV Series",
-      "url": "https://www.tvline.com/2311697/why-justin-hartley-replaced-alan-ritchson-aquaman-dc-comics-tv-series/",
-      "source_count": 1,
-      "sources": [
-        "TVLine"
+        "PlayStation Blog"
       ]
     },
     {
@@ -247,19 +284,19 @@
       ]
     },
     {
-      "title": "Bringing Jin Sakai back to life for Ghost of Yōtei: Most Wanted",
-      "url": "https://blog.playstation.com/2026/11/04/bringing-jin-sakai-back-to-life-for-ghost-of-yotei-most-wanted/",
+      "title": "Grand Theft Auto VI Comes to XBOX One and XBOX Series X|S Through XBOX Cloud Gaming on November 19",
+      "url": "https://news.xbox.com/en-us/2026/11/10/grand-theft-auto-6-comes-to-xbox-cloud-gaming-november-19/",
       "source_count": 1,
       "sources": [
-        "PlayStation Blog"
+        "Xbox Wire"
       ]
     },
     {
-      "title": "Grand Theft Auto VI pre-download begins November 10",
-      "url": "https://blog.playstation.com/2026/11/03/grand-theft-auto-vi-pre-download-begins-november-10/",
+      "title": "Warhammer Survivors Out Now on XBOX Game Pass! Defeat the Gloomspite Gitz With These Tips",
+      "url": "https://news.xbox.com/en-us/2026/11/10/warhammer-survivors-gloomspite-gitz/",
       "source_count": 1,
       "sources": [
-        "PlayStation Blog"
+        "Xbox Wire"
       ]
     },
     {
@@ -295,19 +332,36 @@
       ]
     },
     {
-      "title": "Next Week on XBOX: New Games for November 9 to 13",
-      "url": "https://news.xbox.com/en-us/2026/11/06/next-week-on-xbox-new-games-for-november-9-to-13/",
+      "title": "GTA 6 Preloads Are Now Available",
+      "url": "https://www.ign.com/articles/gta-6-preloads-are-now-available-ps5-xbox",
       "source_count": 1,
       "sources": [
-        "Xbox Wire"
+        "IGN Games"
       ]
     },
     {
-      "title": "Bundle Up With Two Beloved Classics, Now on EA Play",
-      "url": "https://news.xbox.com/en-us/2026/11/05/ea-play-november/",
+      "title": "The Witcher 3's New Expansion Has Me Wondering if BioWare Should Have Focused on Dragon Age and Mass Effect DLC Rather Than Big New Games",
+      "url": "https://www.ign.com/articles/the-witcher-3s-new-expansion-has-me-wondering-if-bioware-should-have-focused-on-dragon-age-and-mass-effect-dlc-rather-than-big-new-games",
       "source_count": 1,
       "sources": [
-        "Xbox Wire"
+        "IGN Games"
+      ]
+    },
+    {
+      "title": "GTA 6 Will Run at 30fps On All Consoles, Features Ray Tracing Improvements on PS5 Pro",
+      "url": "https://www.ign.com/articles/gta-6-will-run-at-30fps-on-all-consoles-features-ray-tracing-improvements-on-ps5-pro",
+      "source_count": 2,
+      "sources": [
+        "IGN Games",
+        "GameSpot"
+      ]
+    },
+    {
+      "title": "007 First Light's PS5 Collector's Edition With a Gold Mask Has Hit a New Low Price at Amazon",
+      "url": "https://www.ign.com/articles/007-first-lights-ps5-collectors-edition-with-a-gold-mask-has-hit-a-new-low-price-at-amazon",
+      "source_count": 1,
+      "sources": [
+        "IGN Games"
       ]
     },
     {
@@ -327,139 +381,107 @@
       ]
     },
     {
-      "title": "Get Final Fantasy VII Remake and Rebirth Switch 2 Editions for Less Than $7 Each With This One Easy Step",
-      "url": "https://www.ign.com/articles/final-fantasy-switch-2-video-game-deals-november-2026",
-      "source_count": 1,
-      "sources": [
-        "IGN Games"
-      ]
-    },
-    {
-      "title": "Call of Duty FaceTime Chat Causes Plane to Be Evacuated",
-      "url": "https://www.ign.com/articles/call-of-duty-facetime-chat-causes-plane-to-be-evacuated",
-      "source_count": 1,
-      "sources": [
-        "IGN Games"
-      ]
-    },
-    {
-      "title": "Nike and Tekken Team Up For a King-Inspired Air Max Shoe",
-      "url": "https://www.ign.com/articles/nike-and-tekken-team-up-for-a-king-inspired-air-max-shoe",
-      "source_count": 1,
-      "sources": [
-        "IGN Games"
-      ]
-    },
-    {
-      "title": "The Legend of Zelda: Ocarina of Time Took Away Auto Jump, and Poor Link Is Paying the Price",
-      "url": "https://www.ign.com/articles/the-legend-of-zelda-ocarina-of-time-took-away-auto-jump-and-poor-link-is-paying-the-price",
-      "source_count": 1,
-      "sources": [
-        "IGN Games"
-      ]
-    },
-    {
-      "title": "Switch 2 Just Had Its Best Sales Week Of 2026, And It's All Because Of Zelda",
-      "url": "https://www.gamespot.com/articles/switch-2-just-had-its-best-sales-week-of-2026-and-its-all-because-of-zelda/",
+      "title": "GTA Releases Could Speed Up, Take-Two Boss Says",
+      "url": "https://www.gamespot.com/articles/gta-releases-could-speed-up-take-two-boss-says/",
       "source_count": 1,
       "sources": [
         "GameSpot"
       ]
     },
     {
-      "title": "GTA 5's Trevor Should Be In GTA 6 Sitting On The Toilet To \"Pass The Torch,\" Actor Says",
-      "url": "https://www.gamespot.com/articles/gta-5s-trevor-should-be-in-gta-6-sitting-on-the-toilet-to-pass-the-torch-actor-says/",
+      "title": "Sony Is Bringing The Best Trend Of '90s Console Design To PS5",
+      "url": "https://www.gamespot.com/articles/sony-is-bringing-the-best-trend-of-90s-console-design-to-ps5/",
       "source_count": 1,
       "sources": [
         "GameSpot"
       ]
     },
     {
-      "title": "DC Studios Is Getting A Marvel Veteran To Replace James Gunn And Peter Safran",
-      "url": "https://www.gamespot.com/articles/dc-studios-is-getting-a-marvel-veteran-to-replace-james-gunn-and-peter-safran/",
+      "title": "GTA 6 Has Sold Almost 10 Million Copies So Far, And PS5 Is Dominating The Split (Of Course)",
+      "url": "https://www.gamespot.com/articles/gta-6-has-sold-almost-8-million-copies-so-far-and-ps5-is-dominating-the-split-of-course/",
       "source_count": 1,
       "sources": [
         "GameSpot"
       ]
     },
     {
-      "title": "Zelda: Ocarina Of Time Players Are Creating Incredible Cover Songs In The Game",
-      "url": "https://www.gamespot.com/articles/zelda-ocarina-of-time-players-are-creating-incredible-cover-songs-in-the-game/",
+      "title": "Here's How Your Xbox One Can Play GTA 6",
+      "url": "https://www.gamespot.com/articles/heres-how-your-xbox-one-can-play-gta-6/",
       "source_count": 1,
       "sources": [
         "GameSpot"
       ]
     },
     {
-      "title": "Lego Is Teasing A Yoshi Set, But You'll Have To Wait Until 2027",
-      "url": "https://www.gamespot.com/articles/lego-is-teasing-a-yoshi-set-but-youll-have-to-wait-until-2027/",
+      "title": "Big Walk's AI Usage Was Tiny, But Its Disclosure Has Sparked A Bigger Debate",
+      "url": "https://www.gamespot.com/articles/big-walks-ai-usage-was-tiny-but-its-disclosure-has-sparked-a-bigger-debate/",
       "source_count": 1,
       "sources": [
         "GameSpot"
       ]
     },
     {
-      "title": "Cops Arrest Dad For Leaving 6-Year-Old In Line Overnight To Save Spot For Pokemon Cards",
-      "url": "https://www.gamespot.com/articles/cops-arrest-dad-for-leaving-6-year-old-in-line-overnight-to-save-spot-for-pokemon-cards/",
-      "source_count": 1,
-      "sources": [
-        "GameSpot"
-      ]
-    },
-    {
-      "title": "'The experiences on console and PC tend to be roughly the same,' says Take-Two CEO in response to question about GTA roleplaying",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/the-experiences-on-console-and-pc-tend-to-be-roughly-the-same-says-take-two-ceo-in-response-to-question-about-gta-roleplaying/",
+      "title": "I feel better than ever waiting for GTA 6 on PC now Rockstar confirms it's targeting 30 fps on PlayStation and Xbox",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/i-feel-better-than-ever-waiting-for-gta-6-on-pc-now-rockstar-confirms-its-targeting-30-fps-on-playstation-and-xbox/",
       "source_count": 1,
       "sources": [
         "PC Gamer"
       ]
     },
     {
-      "title": "A month after Paramount acquired Warner Bros. Discovery, its merged game division is laying people off",
-      "url": "https://www.pcgamer.com/gaming-industry/a-month-after-paramount-acquired-warner-bros-discovery-its-merged-game-division-is-laying-people-off/",
+      "title": "How Silent Hill: Townfall's developer created a fictional town that's still real",
+      "url": "https://www.pcgamer.com/games/horror/how-silent-hill-townfalls-developer-created-a-fictional-town-thats-still-real-it-exists-its-there/",
+      "source_count": 1,
+      "sources": [
+        "'It exists. It's there'"
+      ]
+    },
+    {
+      "title": "Big Walk developer reveals it used generative AI 'sparingly', estimates 'well under 0.1%' was actually coded using LLMs",
+      "url": "https://www.pcgamer.com/games/puzzle/big-walk-developer-reveals-it-used-generative-ai-sparingly-estimates-well-under-0-1-percent-was-actually-coded-using-llms/",
       "source_count": 1,
       "sources": [
         "PC Gamer"
       ]
     },
     {
-      "title": "Take-Two expects to make as much as $3.5 billion during the GTA 6 launch period",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/take-two-expects-to-make-as-much-as-usd3-5-billion-during-the-gta-6-launch-period/",
+      "title": "Trump calls his pal Jensen Huang an 'honourable guy' and says he 'probably has an excuse' for Nvidia CEO's affair with alleged spy",
+      "url": "https://www.pcgamer.com/hardware/graphics-cards/trump-calls-his-pal-jensen-huang-an-honourable-guy-and-says-he-probably-has-an-excuse-for-nvidia-ceos-affair-with-alleged-spy/",
       "source_count": 1,
       "sources": [
         "PC Gamer"
       ]
     },
     {
-      "title": "A week after expanding its publishing division, Killing Floor studio Tripwire Interactive lays off 36 people",
-      "url": "https://www.pcgamer.com/gaming-industry/a-week-after-expanding-its-publishing-division-killing-floor-studio-tripwire-interactive-lays-off-36-people/",
+      "title": "Fallout and Elder Scrolls actor Stephen Russell returns as Garrett in Thief: The Tarnished Mirror: 'Great to be back with the old guy'",
+      "url": "https://www.pcgamer.com/games/fps/fallout-and-elder-scrolls-actor-stephen-russell-returns-as-garrett-in-thief-the-tarnished-mirror-great-to-be-back-with-the-old-guy/",
       "source_count": 1,
       "sources": [
         "PC Gamer"
       ]
     },
     {
-      "title": "AMD users are reporting a misfiring utility is eating SSD health by 1% a month. AMD says a fix is on the way for its GPU drivers",
-      "url": "https://www.pcgamer.com/hardware/graphics-cards/amd-users-are-reporting-a-misfiring-utility-is-eating-ssd-health-by-1-percent-a-month-amd-says-a-fix-is-on-the-way-for-its-gpu-drivers/",
+      "title": "Steam now lets you see exactly what frame rate you should get in games using a Steam Deck",
+      "url": "https://www.pcgamer.com/hardware/handheld-gaming-pcs/steam-now-lets-you-see-exactly-what-frame-rate-you-should-get-in-games-using-a-steam-deck/",
       "source_count": 1,
       "sources": [
         "PC Gamer"
       ]
     },
     {
-      "title": "Warhammer 40K: Rogue Trader follow-up Dark Heresy will launch at the end of January",
-      "url": "https://www.pcgamer.com/games/rpg/warhammer-40k-rogue-trader-follow-up-dark-heresy-will-launch-at-the-end-of-january/",
-      "source_count": 1,
-      "sources": [
-        "PC Gamer"
-      ]
-    },
-    {
-      "title": "'Steps' stars attend world premiere of Netflix's Cinderella retelling",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE82OVlVdzhsQnNQR1Y3MnJmMTRyLUVSeV9BN1BSMzBVNXVpSWZ2MW5mRW9GZkxmUHhybXZiZFNUbEtWMUdwYmZraVVkUmQ2bHVHTF9KcDNuN3B5bUxGMlNCaUJkeWg4b3M",
+      "title": "Prince Harry and Meghan push child online safety at EU Parliament",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1vb092MXkzUXVCRG5QTUFFaU0ydmxVdW56dG5iRXd2dmRIdXVGRDAyNnRFcHd1YklFTDM0NHEtcndXWkI2RW0tTWZMUXlCMFN1RVdKS0c2UHFRajlZMkpFR29EYTBPbWs",
       "source_count": 1,
       "sources": [
         "Reuters"
+      ]
+    },
+    {
+      "title": "Who did NVIDIA CEO Jensen Huang reportedly have affair with?",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQcXljeXd1M0h2bEpNYVNHNF9LRllRQ3hZeWF1SmFabUpNMl9BajNtZE1YaWJiZlFpQXdOdDMzdlJZWjF3bGhYM1RtREpYU0lzWF9wNVJyUk5ZeTNhOFNIV0ZFZEh5Sjdtd2tyZjg5MUp3UVRzdFg1dG5qVkRZR0dhZNIBhgFBVV95cUxPMmJDTjFXQk9EekFGSUdoWTdLZEZSaEdUVzFFVFVvRVV1Sm1TUXZSTlFINlBFRnBrX0JaVDYtSmNhSVRWc1NyRkVSdzlSaVBNZW9iVjJWR2hRMDVVS2dCdENyQ3ltdVdrOXB0S0szeUZtQ1lWemNpekdOdkhZczFYNW1KQUR6Zw",
+      "source_count": 1,
+      "sources": [
+        "NewsNation"
       ]
     },
     {
@@ -471,6 +493,14 @@
       ]
     },
     {
+      "title": "Webtoon Entertainment Inc reports results for the quarter ended September 30 - Earnings Summary",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQd3BabTFob193d0g2UlM4ek5aTUhoeXBXUHpPanhUcnV3bmdMVGpDZXRzak5RMTVNdk9zS1d2UGxjazF4MzFrZl9GRXJOXzktZFVpdUdOcGJLMjI0MVIwOXR5MEFCbjh3SW94MFpBc2d2NDZkUjRTdjZJMUZkcnZkYU83NFJlbk90QmlqZDdoaWhYQ0UxZEF4T1l1M1NIWWVXNlV2aVZfVWM5RlVMOEwzTVlLWDBwMUQwSkUxdHBoNXBnUzBNR0ZhVGFyZGVoZlJkTGtWcWQyUXJINVlEOGlyVTdncVJnMUtaZW1UYnVwYlBGZmVhb3c",
+      "source_count": 1,
+      "sources": [
+        "TradingView"
+      ]
+    },
+    {
       "title": "Trump approval holds at 32%, near lowest of his career, Reuters Ipsos poll finds",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOUy1YMnM5V1U0RS1rVHNINVhMM3VPVnlJR1paWFpEZjBXLWUwVDZ3ZF9iOGw4NTZacXJFSWE2NjlHdllmdU96NFMteTI4TXRfcDlodlRBdzdxYThTcVNpdUxrWWpQcVpneVloV2dTcURvV1NjX2x2U19vdDZIcFJYc2ktNWYyQWJ1dENqaU04ZlJlZW1kTWZpMHNCbDZBbGk4amNvbjI5SVZoR21YRG5RN2530gG3AUFVX3lxTE50T1A4QXFmMWZ1dm5Sa2piM2RiRWhDUkRiejQwaGhvdGJmeDJIeWUyZWFQbDVCaHJ0dG01V1dmb2k1Z0JpYTA2N21pdUpfalZhUUkwT1NvVG5PMVpSMFQzSERfd3lURFRUVGpkMmozaE9aUlI0ZW9ybVZqNzM5d1lQbV9Id180Z1pGZ05OS0xaam5LRGxpcU41dUhqQUkzYzItWUJlRWNDdmNFUm5uN3pBMjNHYXJydw",
       "source_count": 1,
@@ -479,27 +509,35 @@
       ]
     },
     {
-      "title": "DC Studios shakeup: James Gunn, Peter Safran exit as Jeremy Latcham takes over",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOdVJzLXIzY0dtSkdLcEM3TnBPbllvREMyNmNQZDNoUEczT1QzcWxXMUIzdlVFWUVheHRHQWVUeGpQX29sbVZTanExQnN0MjF6LTRESVFTc05SLUkxY0p1NTZaWjVVbjZkdEpZYmkzbzVJMVdtMTVLZENnOW5RUlYtNE13cWZoSjI5ZFlqYy1aT1lDT2lWdHdLZG5rR0lCcENHel9HM3NUendmT2wzNm1NYjRMd1RMSm0yU1VxVFl6UWtlTXRiUHgxcnplVTBRRWV4ODF5d3lEaWlkZw",
+      "title": "REUTERS NEWS SCHEDULE 10 PM GMT/3:30 AM ET",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQSzVYenpfcEcyc0VqQVY4blZucGsxd2VXS05lQzFrUXdJc3RYdXRtRUNRZE1ucllYOG11MUpmdUttc3g2TnNUYTE2QXZSR1ZVLUdRU3YtS3hJenZVNWY5Njl5WUNLUmQweUx4blhmLUFzdU1rZm9aNmFUdGtTTWJOaE81QVBOYTY0SnluQVNJSEE3M3pXWTlnMjd5ZERrVG1v0gGmAUFVX3lxTE5NWmRHR2luQmNfN25Tal8wZm83ZDY2dmEySEZqOG1aUzluZmJGZmRPMmh2Ym44aDNRa3RvY1M1eU5feXJIcXBmaWRzdDFOTVJXTmE1X1NybVpIeDNURk1zRktmOW45ZWNyb2NNZHZYRXdlQWdLSW42TkJlOXhyQmlCekVTRW9ZWGpQUWYxUV9RRkJ4RWQ5VFdnd003aEVYSXNrX2NUc1E",
       "source_count": 1,
       "sources": [
-        "ANI News"
+        "Devdiscourse"
       ]
     },
     {
-      "title": "Russell Brand's wife leaves court after sentencing as prosecutors praise victims",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBQR0ZYaUVadTVyMm1sSnpXWHNCYUpDdlpCbjNRV3Q1T0p0ZExqU0ZVMFFYWTBLbk5fZUdfeVcwUzhseGNyU0IyMjVjYU5CV0NtaDJhWE5xdHd1YzA1WkdjZU9KVE5Nelk",
+      "title": "'Steps' Review: A Disposable Fairy Tale Reminds Us That Cinderella Is Someone's Hated Stepsister Too",
+      "url": "https://www.indiewire.com/criticism/movies/steps-animated-movie-review-netflix-cinderella-1235226446/",
       "source_count": 1,
       "sources": [
-        "Reuters"
+        "IndieWire"
       ]
     },
     {
-      "title": "Yg Entertainment Q3 Operating Profit 13.5 Billion Won, Down 56.8% From Year Earlier",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPRkZwMHhGOW5adXBkaEw1d1VvQ0swWTh3UGhVZGNvZDdYdEdOMlE4elJMNmpGc1pEV0RWNzFNOThkVFpRaUxzNEw1RDFxVEJmNDc1dTZTMkM3ZkxFdnRfcnVVV1hzc3FqWS05SDJacVJfSmNWd3FpMlVZQndsVWdObHl3ZzhEX3RQV29WTl9BTlRLYnA3Wmc2c1N2UHNSVUtidWdILVlkdjY4ZVhhc2tYRUhveWFKTWVKZXZsemVBZkZ2c21wNVFYSmlObkd5WHgzTEJtbDQzdHBEakM1VzFISkJGSjE0dw",
+      "title": "'The Debut' Trailer: Julianne Moore Goes Full Julianne Moore in Jesse Eisenberg's Riotously Funny Musical Theater Comedy",
+      "url": "https://www.indiewire.com/news/trailers/the-debut-new-trailer-peak-julianne-moore-performance-1235226458/",
       "source_count": 1,
       "sources": [
-        "TradingView"
+        "IndieWire"
+      ]
+    },
+    {
+      "title": "'Ink' Trailer: Guy Pearce's Rupert Murdoch Builds His Tabloid Empire in Danny Boyle's Fleet Street Thriller",
+      "url": "https://www.indiewire.com/news/trailers/ink-trailer-danny-boyle-rupert-murdoch-jack-oconnell-1235226422/",
+      "source_count": 1,
+      "sources": [
+        "IndieWire"
       ]
     },
     {
@@ -527,27 +565,19 @@
       ]
     },
     {
-      "title": "Rejected Twice by Sundance, 'Mouse' Is One of the Year's Best Movies. Why Aren't More People Talking About It?",
-      "url": "https://www.indiewire.com/features/interviews/mouse-movie-sundance-rejection-indie-filmmaking-1235226211/",
+      "title": "Sofia Franklyn Reveals the Dark Side of 'Call Her Daddy' in Explosive Memoir: 9 Biggest Bombshells",
+      "url": "https://www.rollingstone.com/culture/culture-features/sofia-franklyn-call-her-daddy-memoir-biggest-bombshells-1235655029/",
       "source_count": 1,
       "sources": [
-        "IndieWire"
+        "Rolling Stone Culture"
       ]
     },
     {
-      "title": "DC Studios Shakeup: James Gunn, Peter Safran Stepping Down as Co-CEOs, Marvel Vet Jeremy Latcham Named Chief Creative Officer",
-      "url": "https://www.indiewire.com/news/breaking-news/dc-studios-shakeup-james-gunn-peter-safran-out-jeremy-latcham-1235226240/",
+      "title": "Trisha Paytas Is Finally Opening Up About the 'Frenemies' Split With Ethan Klein",
+      "url": "https://www.rollingstone.com/culture/culture-features/trisha-paytas-frenemies-ethan-klein-memoir-1235653204/",
       "source_count": 1,
       "sources": [
-        "IndieWire"
-      ]
-    },
-    {
-      "title": "From Los Javis to Lord and Miller, Director Duos Are a High-Risk, High-Reward Prospect in the Oscar Race",
-      "url": "https://www.indiewire.com/awards/consider-this/director-duos-project-hail-mary-la-bola-negra-oscars-1235226081/",
-      "source_count": 1,
-      "sources": [
-        "IndieWire"
+        "Rolling Stone Culture"
       ]
     },
     {
@@ -583,165 +613,149 @@
       ]
     },
     {
-      "title": "The Teenagers Taking a Cancer Drug to Get Taller",
-      "url": "https://www.rollingstone.com/culture/culture-features/teenagers-cancer-drug-heightmaxxing-1235651449/",
-      "source_count": 1,
-      "sources": [
-        "Rolling Stone Culture"
-      ]
-    },
-    {
-      "title": "The Votes Are In: Americans Don't Want Data Centers",
-      "url": "https://www.rollingstone.com/culture/culture-news/america-data-center-2026-midterm-1235652657/",
-      "source_count": 1,
-      "sources": [
-        "Rolling Stone Culture"
-      ]
-    },
-    {
-      "title": "Fatboy Slim, PNAU Lead Sydney Mardi Gras Party 2027 Lineup",
-      "url": "https://www.billboard.com/music/concerts/fatboy-slim-pnau-sydney-mardi-gras-party-2027-lineup-1236378526/",
+      "title": "Chartbreaker: Inside Jamie Miller's Viral But 'Authentic' Strategy for 'Babydoll' and Why 'Social Media Is How You Become Successful Today'",
+      "url": "https://www.billboard.com/music/pop/jamie-miller-babydoll-november-2026-chartbreaker-interview-1236378080/",
       "source_count": 1,
       "sources": [
         "Billboard"
       ]
     },
     {
-      "title": "Nick Cannon Reflects on Eminem Feud After He Dissed Mariah Carey: 'You Can't Come at My Woman & Not Expect to Get This Work'",
-      "url": "https://www.billboard.com/music/rb-hip-hop/nick-cannon-eminem-feud-mariah-carey-1236378456/",
+      "title": "'Fraggle Rock' Wraps Up 'A Holiday Gift' With Festive Musical Special Featuring Nicole Scherzinger: Watch the Trailer",
+      "url": "https://www.billboard.com/culture/tv-film/fraggle-rock-holiday-gift-trailer-video-nicole-scherzinger-1236376748/",
       "source_count": 1,
       "sources": [
         "Billboard"
       ]
     },
     {
-      "title": "Latin Grammys 2026 Special Awards: Best Quotes From Lila Downs, Chichí Peralta & More Honorees",
-      "url": "https://www.billboard.com/music/latin/latin-grammys-special-awards-2026-best-quotes-lila-downs-1236378490/",
+      "title": "Ayra Starr Makes a 'Bold Yet Simple Statement' With New 'Starrgirl' Limited-Edition Anime-Inspired Vinyl",
+      "url": "https://www.billboard.com/music/music-news/ayra-starr-starrgirl-crunchyroll-anime-vinyl-1236363933/",
       "source_count": 1,
       "sources": [
         "Billboard"
       ]
     },
     {
-      "title": "Steven Tyler 'Teen Bride' Sex Abuse Trial Set for 2027 - And the Scope of the Case Could Widen Again",
-      "url": "https://www.billboard.com/pro/steven-tyler-teen-bride-sexual-abuse-lawsuit-trial-2027/",
+      "title": "Bruce Springsteen Jokes About G-Spots (for a Good Cause) at 2026 Stand Up for Heroes Benefit: 5 Best Moments",
+      "url": "https://www.billboard.com/lists/stand-up-for-heroes-2026-recap-bruce-springsteen-alex-warren/",
       "source_count": 1,
       "sources": [
         "Billboard"
       ]
     },
     {
-      "title": "U2 Celebrate Brian Eno With Secret Show at London's Tate Museum: Best Moments",
-      "url": "https://www.billboard.com/lists/u2-london-best-moments-brian-eno/",
+      "title": "Bella Kay Teases New Music In Billboard 'Up & Coming' Podcast Series Premiere: 'It's Kinda Giving Deluxe'",
+      "url": "https://www.billboard.com/music/music-news/bella-kay-teases-new-music-billboard-up-coming-podcast-1236378504/",
       "source_count": 1,
       "sources": [
         "Billboard"
       ]
     },
     {
-      "title": "The Nightmare Before Christmas: Michael Jackson, Wham! & Mariah Carey Hits Celebrate Dual Holidays on the Hot 100",
-      "url": "https://www.billboard.com/music/chart-beat/halloween-christmas-hits-hot-100-2026-michael-jackson-mariah-1236378420/",
+      "title": "Messina Touring Group at 25: How The Promotion Company Behind Taylor Swift & Ed Sheeran Was 'Built on Trust and Vision'",
+      "url": "https://www.billboard.com/pro/messina-touring-group-founder-louis-messina-25-years/",
       "source_count": 1,
       "sources": [
         "Billboard"
       ]
     },
     {
-      "title": "'Stranger Things' Prequel 'Other Worlds' Gets Filming Update Plus The Fan Reaction So Far",
-      "url": "https://www.whats-on-netflix.com/news/other-worlds-stranger-things-prequel-filming-dates/",
+      "title": "What's Leaving Netflix UK in December 2026",
+      "url": "https://www.whats-on-netflix.com/news/movies-tv-shows-leaving-netflix-uk-december-2026/",
       "source_count": 1,
       "sources": [
         "What's on Netflix"
       ]
     },
     {
-      "title": "Over 80 Originals Eying Removal from Netflix Throughout 2027",
-      "url": "https://www.whats-on-netflix.com/leaving-soon/over-80-originals-eying-removal-from-netflix-throughout-2027/",
+      "title": "'Somebody Feed Phil' Season 9 Moving to YouTube as Netflix Series Ends",
+      "url": "https://www.whats-on-netflix.com/news/somebody-feed-phil-season-9-moving-youtube/",
       "source_count": 1,
       "sources": [
         "What's on Netflix"
       ]
     },
     {
-      "title": "Netflix Is Now Putting Full Episodes of PAW Patrol, Gabby's Dollhouse, and Other Kids Hits Inside Its Kids Games App",
-      "url": "https://www.whats-on-netflix.com/news/netflix-games/netflix-playground-app-adds-streaming-episodes/",
+      "title": "'Blood Legacy' Cancelled at Netflix: No Season 3 for the South African Drama",
+      "url": "https://www.whats-on-netflix.com/news/blood-legacy-cancelled-netflix-season-2/",
       "source_count": 1,
       "sources": [
         "What's on Netflix"
       ]
     },
     {
-      "title": "How Sheila McClure Adapted Netflix's Hit YA Series 'Crew Girl' Into a Novel",
-      "url": "https://www.whats-on-netflix.com/interviews/how-sheila-mcclure-adapted-netflixs-hit-ya-series-crew-girl-into-a-novel/",
+      "title": "Netflix's 'Assassin's Creed': Everything We Know As New Cast and Directors Join and Filming Wraps",
+      "url": "https://www.whats-on-netflix.com/news/netflixs-assassins-creed-everything-we-know-so-far/",
       "source_count": 1,
       "sources": [
         "What's on Netflix"
       ]
     },
     {
-      "title": "First Look at What's Coming to Netflix UK in December 2026",
-      "url": "https://www.whats-on-netflix.com/whats-new/uk/whats-coming-to-netflix-uk-in-december-2026/",
+      "title": "'Arcane' May Be Over, But Riot Games is Bringing a 'League of Legends' Music Anthology to Netflix",
+      "url": "https://www.whats-on-netflix.com/news/league-of-legends-music-collection-netflix-release-date/",
       "source_count": 1,
       "sources": [
         "What's on Netflix"
       ]
     },
     {
-      "title": "'Football Manager Mobile' Getting Major Update on Netflix",
-      "url": "https://www.whats-on-netflix.com/news/netflix-games/football-manager-2027-mobile-netflix-release-date/",
+      "title": "Netflix Is Officially Losing 'The Last Kingdom' in December But Only In The US",
+      "url": "https://www.whats-on-netflix.com/leaving-soon/netflix-is-officially-losing-the-last-kingdom-in-december-but-only-in-the-us/",
       "source_count": 1,
       "sources": [
         "What's on Netflix"
       ]
     },
     {
-      "title": "The Settlers of Catan Movie Has Finally Found Its Directors",
-      "url": "https://www.polygon.com/settlers-of-catan-movie-netflix-directors/",
+      "title": "All Heart Containers and Pieces of Heart locations in Ocarina of Time",
+      "url": "https://www.polygon.com/zelda-ocarina-of-time-remake-oot-piece-heart-container-location/",
       "source_count": 1,
       "sources": [
         "Polygon"
       ]
     },
     {
-      "title": "M. Night Shyamalan's The Visit: Now Free on YouTube",
-      "url": "https://www.polygon.com/the-visit-free-on-youtube/",
+      "title": "Valve Just Added a Huge Feature for Steam Deck Owners",
+      "url": "https://www.polygon.com/valve-steam-deck-frames-per-second-average/",
       "source_count": 1,
       "sources": [
         "Polygon"
       ]
     },
     {
-      "title": "Zelda: Ocarina of Time Remake Gives Its Best Boy the Happy Ending He Deserved Decades Ago",
-      "url": "https://www.polygon.com/zelda-ocarina-of-time-remake-richard-lives/",
+      "title": "How to get the Scarecrow Song in Ocarina of Time",
+      "url": "https://www.polygon.com/zelda-ocarina-of-time-oot-remake-scarecrow-song-unlock/",
       "source_count": 1,
       "sources": [
         "Polygon"
       ]
     },
     {
-      "title": "Game Awards 2026: All Game of the Year Front-Runners and Predictions",
-      "url": "https://www.polygon.com/game-of-the-year-goty-game-awards-2026-frontrunners/",
+      "title": "BoJack Horseman: A Top Animated Season in TV History",
+      "url": "https://www.polygon.com/netflix-bojack-horseman-best-seasons-in-tv-history/",
       "source_count": 1,
       "sources": [
         "Polygon"
       ]
     },
     {
-      "title": "How to get the Biggoron Sword in Ocarina of Time",
-      "url": "https://www.polygon.com/zelda-ocarina-of-time-remake-oot-biggorons-sword-how-to-get/",
+      "title": "Nintendo Is Officially Investing in Game Preservation",
+      "url": "https://www.polygon.com/nintendo-game-preservation-archivist-job-posting/",
       "source_count": 1,
       "sources": [
         "Polygon"
       ]
     },
     {
-      "title": "HBO Max-Paramount Plus Bundle Officially Confirmed for 2027",
-      "url": "https://www.polygon.com/hbo-max-paramount-plus-streaming-bundle-launching-2027/",
+      "title": "Bandai Namco Shuts Down Once-promising Studio after Colossal Failure",
+      "url": "https://www.polygon.com/bandai-namco-reflector-entertainment-shutdown-unknown-9-awakening/",
       "source_count": 1,
       "sources": [
         "Polygon"
       ]
     }
   ],
-  "summary": "Verified intelligence gathered across 92 deduplicated editorial clusters."
+  "summary": "Verified intelligence gathered across 94 deduplicated editorial clusters."
 }
