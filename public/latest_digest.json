@@ -1,101 +1,113 @@
 {
-  "timestamp": "2026-11-10T22:52:56.703384+00:00",
-  "headline_count": 91,
+  "timestamp": "2026-11-11T04:52:37.237661+00:00",
+  "headline_count": 88,
   "headlines": [
     {
-      "title": "DC Studios Exit: James Gunn and Peter Safran Spent Big, Lost Money and Didn't Hook Audiences",
-      "url": "https://variety.com/2026/film/news/james-gunn-exits-dc-studios-losing-money-1236944392/",
+      "title": "MCU Surprise: 'VisionQuest' Finale Teases the Return of [SPOILER] in 'Avengers: Doomsday'",
+      "url": "https://variety.com/2026/film/news/visionquest-elizabeth-olsen-avengers-doomsday-scarlet-witch-1235365599/",
+      "source_count": 2,
+      "sources": [
+        "Variety",
+        "Deadline Hollywood"
+      ]
+    },
+    {
+      "title": "Brandy and Monica Announce 'The Boy Is Mine' 2027 Residency at Las Vegas' Resorts World",
+      "url": "https://variety.com/2026/music/news/brandy-monica-announce-the-boy-is-mine-las-vegas-residency-1236944316/",
       "source_count": 1,
       "sources": [
         "Variety"
       ]
     },
     {
-      "title": "Ross Douthat's '60 Minutes' Interview Gets Tackled By Football Comparisons",
-      "url": "https://variety.com/2026/tv/news/ross-douthats-60-minutes-trump-tackled-football-comparisons-1236944402/",
+      "title": "Brenda Song Says She Was 'Overworked' and 'Underpaid' on 'The Suite Life of Zack and Cody,' Recalls Fainting on Set: I Thought, 'Am I Having a Panic Attack?'",
+      "url": "https://variety.com/2026/tv/news/brenda-song-suite-life-of-zack-and-cody-1236944810/",
+      "source_count": 2,
+      "sources": [
+        "Variety",
+        "The Hollywood Reporter"
+      ]
+    },
+    {
+      "title": "Stacy Keach, Star of 'Mike Hammer,' 'Fat City,' Dies at 85",
+      "url": "https://variety.com/2026/film/news/stacy-keach-dead-mike-hammer-fat-city-1236944687/",
+      "source_count": 2,
+      "sources": [
+        "Variety",
+        "Deadline Hollywood"
+      ]
+    },
+    {
+      "title": "'Risa and the Wind Phone' Wins Audience Award at Miami Film Festival Gems",
+      "url": "https://variety.com/2026/film/news/film-news-in-brief-nov-9-2026-1236943218/",
+      "source_count": 1,
+      "sources": [
+        "Film News in Brief"
+      ]
+    },
+    {
+      "title": "Elliot Frances Flynn and Michael Paré to Star in Indie Supernatural Horror 'Not Herself' (EXCLUSIVE)",
+      "url": "https://variety.com/2026/film/news/elliot-frances-flynn-michael-pare-indie-horror-not-herself-1236944287/",
       "source_count": 1,
       "sources": [
         "Variety"
       ]
     },
     {
-      "title": "JoBe Cerny, Voice of the Pillsbury Doughboy, Dies at 78",
-      "url": "https://variety.com/2026/tv/people-news/jobe-cerny-dead-pillsbury-doughboy-1236944411/",
-      "source_count": 1,
+      "title": "'Dancing With The Stars' Recap: Dance Offs On Grammy Night Bring Tough Competition To Quarterfinals",
+      "url": "https://deadline.com/2026/11/dancing-with-the-stars-season-35-recap-grammy-night-1237218651/",
+      "source_count": 2,
       "sources": [
-        "Variety"
+        "Deadline Hollywood",
+        "The Hollywood Reporter"
       ]
     },
     {
-      "title": "'We Need to Bring Tom Cruise Home to Make Movies Here': U.S. Film Incentive Takes Center Stage at AFM",
-      "url": "https://variety.com/2026/film/global/bring-tom-cruise-home-federal-film-incentive-afm-1236944222/",
-      "source_count": 1,
-      "sources": [
-        "Variety"
-      ]
-    },
-    {
-      "title": "'The Peanut Butter Falcon' Breakout Zack Gottsagen and Anna Enger Ritch to Star in 'A Reason to Stay' From Director Rippin Sindher (EXCLUSIVE)",
-      "url": "https://variety.com/2026/film/news/zack-gottsagen-anna-enger-ritch-a-reason-to-stay-1236944315/",
-      "source_count": 1,
-      "sources": [
-        "Variety"
-      ]
-    },
-    {
-      "title": "Adobe Premiere Mobile App Launches Hundreds of Thousands of Tracks Licensed From UMG, WMG",
-      "url": "https://variety.com/2026/digital/news/adobe-premiere-mobile-songs-licensed-umg-wmg-1236944255/",
-      "source_count": 1,
-      "sources": [
-        "Variety"
-      ]
-    },
-    {
-      "title": "Ted Sarandos Faces Unrest From Past & Present Netflix Execs Over Streamer's Direction",
-      "url": "https://deadline.com/2026/11/ted-sarandos-netflix-execs-oppose-streamers-direction-1237208280/",
-      "source_count": 1,
-      "sources": [
-        "The Dish"
-      ]
-    },
-    {
-      "title": "Leah McKendrick To Follow 'Voicemails For Isabelle' With \"Ferociously Female\" Thriller 'Delulu' Starring Maddie Ziegler; XYZ & Temple Hill Produce",
-      "url": "https://deadline.com/2026/11/leah-mckendrick-and-maddie-ziegler-star-in-delulu-thriller-1237219314/",
-      "source_count": 1,
-      "sources": [
-        "AFM"
-      ]
-    },
-    {
-      "title": "'Tangles' Cast Members Seth Rogen, Julia Louis-Dreyfus & Bryan Cranston On Animated Film's Rare Back Story",
-      "url": "https://deadline.com/2026/11/tangles-movie-seth-rogen-julia-louis-dreyfus-bryan-cranston-1237218873/",
+      "title": "Lucy Hale Notes \"Everyone Is Willing\" To Reunite For 'Pretty Little Liars' Revival: \"There's Gotta Be A New Version Of 'A'\"",
+      "url": "https://deadline.com/2026/11/lucy-hale-everyone-willing-reunite-pretty-little-liars-1237219941/",
       "source_count": 1,
       "sources": [
         "Deadline Hollywood"
       ]
     },
     {
-      "title": "Veteran Talent Agent Sasha Passero Leaving IAG",
-      "url": "https://deadline.com/2026/11/sasha-passero-leaving-iag-1237219137/",
+      "title": "Judge Declines To Dismiss Donald Trump's Defamation Claim Against BBC",
+      "url": "https://deadline.com/2026/11/trump-bbc-lawsuit-judge-1237219938/",
       "source_count": 1,
       "sources": [
         "Deadline Hollywood"
       ]
     },
     {
-      "title": "'Chucky' Creator Don Mancini Signs With Independent Artist Group",
-      "url": "https://deadline.com/2026/11/don-mancini-chucky-signs-independent-artist-group-1237219392/",
+      "title": "Amanda Seyfried Says 'You Can See Everything' Role \"Scares\" Her, \"Feels Good\" Taking On Doc",
+      "url": "https://deadline.com/2026/11/amanda-seyfried-you-can-see-everything-role-scares-her-1237219685/",
       "source_count": 1,
       "sources": [
         "Deadline Hollywood"
       ]
     },
     {
-      "title": "Frank Whaley Signs With Artium Talent",
-      "url": "https://deadline.com/2026/11/frank-whaley-artium-talent-agency-1237219358/",
+      "title": "'You've Got Mail' Reboot in the Works at Warner Bros.",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/youve-got-mail-reboot-warner-bros-1236752627/",
       "source_count": 1,
       "sources": [
-        "Deadline Hollywood"
+        "The Hollywood Reporter"
+      ]
+    },
+    {
+      "title": "Why Florence Pugh Is Done Tolerating \"Bullsh** Behavior\" on Set: \"Don't Be Rude\"",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/florence-pugh-slams-rude-misogynist-behavior-film-set-1236752501/",
+      "source_count": 1,
+      "sources": [
+        "The Hollywood Reporter"
+      ]
+    },
+    {
+      "title": "Stacy Keach, Who Played Badasses With the Best of Them, Dies at 85",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/stacy-keach-dead-mike-hammer-fat-city-new-centurions-1236752423/",
+      "source_count": 1,
+      "sources": [
+        "The Hollywood Reporter"
       ]
     },
     {
@@ -107,43 +119,35 @@
       ]
     },
     {
-      "title": "Brenda Song Says She Felt \"Underpaid and Overworked\" on Disney's 'The Suite Life' Shows",
-      "url": "https://www.hollywoodreporter.com/tv/tv-news/brenda-song-underpaid-overworked-disney-suite-life-1236752178/",
+      "title": "Rohit Shetty clarifies his social media presence after fake post about Gaurav Gupta's Bigg Boss 20 roast goes viral: \"My only official social media presence is on Instagram\"",
+      "url": "https://www.bollywoodhungama.com/news/bollywood/rohit-shetty-clarifies-his-social-media-presence-after-fake-post-about-gaurav-guptas-bigg-boss-20-roast-goes-viral-my-only-official-social-media-presence-is-on-instagram/",
       "source_count": 1,
       "sources": [
-        "The Hollywood Reporter"
+        "Bollywood Hungama"
       ]
     },
     {
-      "title": "Broadway Box Office: 'Much Ado About Nothing' Hits $2.3 Million As Industry Rebounds",
-      "url": "https://www.hollywoodreporter.com/lifestyle/arts/broadway-box-office-much-ado-about-nothing-1236752199/",
+      "title": "Nora Fatehi's appearance in Sukesh Chandrashekhar Case comes under scrutiny as defence prepares for cross-examination",
+      "url": "https://www.bollywoodhungama.com/news/bollywood/nora-fatehis-appearance-in-sukesh-chandrashekhar-case-comes-under-scrutiny-as-defence-prepares-for-cross-examination/",
       "source_count": 1,
       "sources": [
-        "The Hollywood Reporter"
+        "Bollywood Hungama"
       ]
     },
     {
-      "title": "Pacific Palisades' Bay Theater to Reopen on Friday With Johnny Depp Comeback 'Ebenezer'",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/bay-theater-to-reopen-on-friday-1236752197/",
+      "title": "EXCLUSIVE: Suniel Shetty reveals Awara Paagal Deewana sequel will go on floors early next year: \"It's happening for sure\"; also lists Sabse Bada Rupaiya as another upcoming film",
+      "url": "https://www.bollywoodhungama.com/news/bollywood/exclusive-suniel-shetty-reveals-awara-paagal-deewana-sequel-will-go-on-floors-early-next-year-its-happening-for-sure-also-lists-sabse-bada-rupaiya-as-another-upcoming-fil/",
       "source_count": 1,
       "sources": [
-        "The Hollywood Reporter"
+        "Bollywood Hungama"
       ]
     },
     {
-      "title": "'Confession' Review: Rob Lowe and James Franco in a Ben Shapiro-Scripted, Stalinist Russia-Set Drama That's Terminally Tedious",
-      "url": "https://www.hollywoodreporter.com/movies/movie-reviews/confession-review-rob-lowe-james-franco-nick-nolte-1236751013/",
+      "title": "Salman Khan returns in an action-packed avatar In Maatrubhumi: May War Rest In Peace, trailer out now",
+      "url": "https://www.bollywoodhungama.com/news/bollywood/salman-khan-returns-in-an-action-packed-avatar-in-maatrubhumi-may-war-rest-in-peace-trailer-out-now/",
       "source_count": 1,
       "sources": [
-        "The Hollywood Reporter"
-      ]
-    },
-    {
-      "title": "Black Lives Matter Activist DeRay Mckesson Talks Losing Key Trump-Era Protest Mobilization Tool: \"I Miss Twitter\"",
-      "url": "https://www.hollywoodreporter.com/news/general-news/deray-mckesson-trump-era-twitter-1236752156/",
-      "source_count": 1,
-      "sources": [
-        "The Hollywood Reporter"
+        "Bollywood Hungama"
       ]
     },
     {
@@ -163,80 +167,48 @@
       ]
     },
     {
-      "title": "As Ramayana faces capacity issues, cinemas add UNBELIEVABLE number of midnight shows amid Diwali rush; fans can watch Ranbir Kapoor-Yash starrer even at 4:50 am!",
-      "url": "https://www.bollywoodhungama.com/news/bollywood/as-ramayana-faces-capacity-issues-cinemas-add-unbelievable-number-of-midnight-shows-amid-diwali-rush-fans-can-watch-ranbir-kapoor-yash-starrer-even-at-450-am/",
-      "source_count": 1,
-      "sources": [
-        "Bollywood Hungama"
-      ]
-    },
-    {
-      "title": "Ahaan Panday's Beparwah co-star, Aaishvary Thackeray, loses Rs. 19,000 to cyber fraud; files police complaint",
-      "url": "https://www.bollywoodhungama.com/news/bollywood/ahaan-pandays-beparwah-co-star-aaishvary-thackeray-loses-rs-19000-to-cyber-fraud-files-police-complaint/",
-      "source_count": 1,
-      "sources": [
-        "Bollywood Hungama"
-      ]
-    },
-    {
-      "title": "Hrithik Roshan attends LACMA Art + Film Gala 2026, becomes first mainstream Indian actor to grace event",
-      "url": "https://www.bollywoodhungama.com/news/bollywood/hrithik-roshan-attends-lacma-art-film-gala-2026-becomes-first-mainstream-indian-actor-to-grace-event/",
-      "source_count": 1,
-      "sources": [
-        "Bollywood Hungama"
-      ]
-    },
-    {
-      "title": "Amitabh Bachchan wins personality rights case; Delhi High Court passes final decree after four defendants settle",
-      "url": "https://www.bollywoodhungama.com/news/bollywood/amitabh-bachchan-wins-personality-rights-case-delhi-high-court-passes-final-decree-after-four-defendants-settle/",
-      "source_count": 1,
-      "sources": [
-        "Bollywood Hungama"
-      ]
-    },
-    {
-      "title": "Why Alicia Witt Is No Longer Starring In Hallmark Christmas Movies",
-      "url": "https://www.tvline.com/2312870/why-alicia-witt-no-longer-star-hallmark-christmas-movies/",
+      "title": "VisionQuest's Finale Brings Back More Than One Familiar MCU Face - Grade The Episode (And That Mid-Credits Surprise!)",
+      "url": "https://www.tvline.com/2313041/visionquest-finale-recap-elizabeth-olsen-return-wanda-scarlet-witch/",
       "source_count": 1,
       "sources": [
         "TVLine"
       ]
     },
     {
-      "title": "Casting News: The Chosen Crowns Taye Diggs, Clueless Star Returning For Sequel Series, And More",
-      "url": "https://www.tvline.com/2312759/the-chosen-christmas-special-cast-taye-diggs-clueless-star-returning-sequel/",
+      "title": "Dancing With The Stars Reveals Its Season 35 Semifinalists With A Stunning Elimination - Did The Right Couple Go Home?",
+      "url": "https://www.tvline.com/2313035/dancing-with-the-stars-recap-season-35-week-9-elimination-results/",
       "source_count": 1,
       "sources": [
         "TVLine"
       ]
     },
     {
-      "title": "The Gilded Age's Morgan Spector Starred In This Forgotten Stephen King Horror Series",
-      "url": "https://www.tvline.com/2310500/the-gilded-age-morgan-spector-stephen-king-series-the-mist/",
+      "title": "Marvel's WandaVision Trilogy, Ranked",
+      "url": "https://www.tvline.com/2309576/marvel-wandavision-trilogy-ranked/",
       "source_count": 1,
       "sources": [
         "TVLine"
       ]
     },
     {
-      "title": "NCIS: Origins To Bring Back NCIS Vets Franks, Vera, And Fornell To Help Gibbs This Season",
-      "url": "https://www.tvline.com/2312735/ncis-origins-franks-vera-fornell-return-season-3-cast/",
-      "source_count": 1,
-      "sources": [
-        "Get A First Look"
-      ]
-    },
-    {
-      "title": "Why Celeborn From The Lord Of The Rings: The Rings Of Power Looks So Familiar",
-      "url": "https://www.tvline.com/2312017/celeborn-the-lord-of-the-rings-the-rings-of-power-actor-jamie-campbell-bower/",
+      "title": "5 Dancing With The Stars Celebrity Competitors Who Deserve A Second Chance",
+      "url": "https://www.tvline.com/2310804/dancing-with-the-stars-celebrity-competitors-deserve-second-chance/",
       "source_count": 1,
       "sources": [
         "TVLine"
       ]
     },
     {
-      "title": "Law & Order: SVU's Jelani Alladin On What President Obama Had To Do With Getting Cast As Manhattan's Newest ADA",
-      "url": "https://www.tvline.com/2312400/law-and-order-svu-jelani-alladin-interview-aidan-hawkins-season-28/",
+      "title": "5 Burning VisionQuest Questions Marvel Fans Have After The Finale",
+      "url": "https://www.tvline.com/2301506/marvel-visionquest-finale-questions/",
+      "source_count": 1,
+      "sources": [
+        "TVLine"
+      ]
+    },
+    {
+      "title": "Stacy Keach, Mike Hammer And Blue Bloods Star, Dead At 85",
+      "url": "https://www.tvline.com/2312996/stacy-keach-dead-mike-hammer-blue-bloods-obituary/",
       "source_count": 1,
       "sources": [
         "TVLine"
@@ -311,10 +283,9 @@
     {
       "title": "Grand Theft Auto VI Comes to XBOX One and XBOX Series X|S Through XBOX Cloud Gaming on November 19",
       "url": "https://news.xbox.com/en-us/2026/11/10/grand-theft-auto-6-comes-to-xbox-cloud-gaming-november-19/",
-      "source_count": 2,
+      "source_count": 1,
       "sources": [
-        "Xbox Wire",
-        "PC Gamer"
+        "Xbox Wire"
       ]
     },
     {
@@ -323,6 +294,30 @@
       "source_count": 1,
       "sources": [
         "Xbox Wire"
+      ]
+    },
+    {
+      "title": "I Tried the Pokémon Happy Meal - Here's What I Learned (and What I Pulled)",
+      "url": "https://www.ign.com/articles/i-tried-the-pokemon-happy-meal-heres-what-i-learned-and-what-i-pulled",
+      "source_count": 1,
+      "sources": [
+        "IGN Games"
+      ]
+    },
+    {
+      "title": "We Asked Nintendo of America's Nate Bihldorff About Localizing Ocarina of Time's Most Obscure Secrets",
+      "url": "https://www.ign.com/articles/we-asked-nintendo-of-americas-nate-bihldorff-about-localizing-ocarina-of-times-most-obscure-secrets",
+      "source_count": 1,
+      "sources": [
+        "IGN Games"
+      ]
+    },
+    {
+      "title": "Nintendo Opens New Job Role to Preserve and Organize its Old Games",
+      "url": "https://www.ign.com/articles/nintendo-opens-new-job-role-to-preserve-and-organize-its-old-games",
+      "source_count": 1,
+      "sources": [
+        "IGN Games"
       ]
     },
     {
@@ -351,30 +346,6 @@
       ]
     },
     {
-      "title": "Someone Got Halo 1 Running on a Sega Dreamcast",
-      "url": "https://www.ign.com/articles/someone-got-halo-1-running-on-a-sega-dreamcast",
-      "source_count": 1,
-      "sources": [
-        "IGN Games"
-      ]
-    },
-    {
-      "title": "PlayStation Plus Monthly Games for November 2026 Announced",
-      "url": "https://www.ign.com/articles/playstation-plus-monthly-games-for-november-2026-announced",
-      "source_count": 1,
-      "sources": [
-        "IGN Games"
-      ]
-    },
-    {
-      "title": "Burger King Italy Gets Official Magic: The Gathering Meal With Whopper-Themed Deck Boxes",
-      "url": "https://www.ign.com/articles/burger-king-italy-gets-magic-the-gathering-meal-with-whopper-themed-deck-boxes",
-      "source_count": 1,
-      "sources": [
-        "IGN Games"
-      ]
-    },
-    {
       "title": "GTA 6: What Will Review Scores Be? You Can Win A $500 Gift Card For Getting It Right",
       "url": "https://www.gamespot.com/articles/gta-6-what-will-review-scores-be-you-can-win-a-500-gift-card-for-getting-it-right/",
       "source_count": 1,
@@ -385,9 +356,10 @@
     {
       "title": "Sony Cancels Live-Service PS5 Game Fairgames, But No Layoffs",
       "url": "https://www.gamespot.com/articles/sony-cancels-live-service-ps5-game-fairgames-but-no-layoffs/",
-      "source_count": 1,
+      "source_count": 2,
       "sources": [
-        "GameSpot"
+        "GameSpot",
+        "PC Gamer"
       ]
     },
     {
@@ -423,6 +395,22 @@
       ]
     },
     {
+      "title": "Steam's age verification in Australia now takes your account's age into consideration",
+      "url": "https://www.pcgamer.com/software/platforms/steams-age-verification-in-australia-now-takes-your-accounts-age-into-consideration/",
+      "source_count": 1,
+      "sources": [
+        "PC Gamer"
+      ]
+    },
+    {
+      "title": "One Elder Scrolls fan is reviving and upgrading (with AI) a lost spin-off for the Nokia N-Gage and porting it to PC",
+      "url": "https://www.pcgamer.com/games/the-elder-scrolls/one-elder-scrolls-fan-is-reviving-and-upgrading-a-lost-spin-off-for-the-nokia-n-gage-and-porting-it-to-pc/",
+      "source_count": 1,
+      "sources": [
+        "PC Gamer"
+      ]
+    },
+    {
       "title": "Capcom quietly updates the Monster Hunter Wilds beta listing on Steam, indicating a possible expansion playtest",
       "url": "https://www.pcgamer.com/games/action/capcom-quietly-updates-the-monster-hunter-wilds-beta-listing-on-steam-indicating-a-possible-expansion-playtest/",
       "source_count": 1,
@@ -447,27 +435,19 @@
       ]
     },
     {
-      "title": "PlayStation Plus PC app is being shut down in December because less than 0.4% of eligible subscribers are using it",
-      "url": "https://www.pcgamer.com/gaming-industry/playstation-plus-pc-app-is-being-shut-down-in-december-because-less-than-0-4-percent-of-eligible-subscribers-are-using-it/",
-      "source_count": 1,
-      "sources": [
-        "PC Gamer"
-      ]
-    },
-    {
-      "title": "I installed a GTA 5 mod that makes it rain human beings, and no I don't know why either",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/i-installed-a-gta-5-mod-that-makes-it-rain-human-beings-and-no-i-dont-know-why-either/",
-      "source_count": 1,
-      "sources": [
-        "PC Gamer"
-      ]
-    },
-    {
       "title": "Fans line up for tickets to Dolly Parton musical's Broadway debut",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9adDZOSkhoczlCMUxVamloYU9HbzQzYU1Bc0RMN1IzMkhkQzVyaDVyVGl5dkxjY0xjM2puOEdnRlVjbFFjSjRqVVBDNTFTakRRMFlCSUs3TmUxYXhvaFM1N0ZFQnh2TXZlczlzOFFOcTluTlZ0NU95VlNiblBidw",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQbzFuTXdvV2RnZzJVSzRiVHpuellxZzNsVlV1VUVpUU96TmdCZGR4V0dOMUZYZnV1WE1STVBTdWtQWVBORDV0RkFVSmVUZmFVUUVOWF9abTY4WW13ejRWcWk5RjhQNk45QTJDZ2w1aTNoc2Q1VmxFY0VZeTc5TmlRdg",
       "source_count": 1,
       "sources": [
         "Reuters"
+      ]
+    },
+    {
+      "title": "Brazil plans measures for 2027 fiscal savings, source says By Reuters",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNNk9teUhpbjJPcUVvUFdTLVRvamVQZU10LTByRlpSTmg2Nk5Gd1FEVjEyS0U5ZW9aV0Q3ZFRsTXdVaHNjSU1LVGMzczl3aXNfWWFyX0lHSDhuQnZfd3VCNDVTSWt1SUVCVTJqYS1xeDE3bTRKcUU3LUJnZWZzVnVXVGV5SHJhcEpzNW1fZEViT2JUbUdPQ1diZGtWbDdtSW5RX1VaMHBGM2dBZUpaZkxQa2tQNFlDTDA",
+      "source_count": 1,
+      "sources": [
+        "Investing.com"
       ]
     },
     {
@@ -487,11 +467,11 @@
       ]
     },
     {
-      "title": "Trump approval holds at 32%, near lowest of his career, Reuters Ipsos poll finds",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOUy1YMnM5V1U0RS1rVHNINVhMM3VPVnlJR1paWFpEZjBXLWUwVDZ3ZF9iOGw4NTZacXJFSWE2NjlHdllmdU96NFMteTI4TXRfcDlodlRBdzdxYThTcVNpdUxrWWpQcVpneVloV2dTcURvV1NjX2x2U19vdDZIcFJYc2ktNWYyQWJ1dENqaU04ZlJlZW1kTWZpMHNCbDZBbGk4amNvbjI5SVZoR21YRG5RN2530gG3AUFVX3lxTE50T1A4QXFmMWZ1dm5Sa2piM2RiRWhDUkRiejQwaGhvdGJmeDJIeWUyZWFQbDVCaHJ0dG01V1dmb2k1Z0JpYTA2N21pdUpfalZhUUkwT1NvVG5PMVpSMFQzSERfd3lURFRUVGpkMmozaE9aUlI0ZW9ybVZqNzM5d1lQbV9Id180Z1pGZ05OS0xaam5LRGxpcU41dUhqQUkzYzItWUJlRWNDdmNFUm5uN3pBMjNHYXJydw",
+      "title": "CFTC warns prediction market Kalshi of imminent charges, source says",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQeGk1TXFRQ0RHdEtlSzJyTUFLY1IyRUl2TDhrb0luOXNrdjZ2UXU0RkVfRlVka2pKX0s4UEIxTExOWGc3TVZIRXA3VkNnMkZxalVFV0NIcXNNZ3R0WC1oQzFLTDRzS3BrbVhtQThPbDQ0Q3oxSUpmV0pMTFR1blctZmdnMk4",
       "source_count": 1,
       "sources": [
-        "ThePrint"
+        "AOL.com"
       ]
     },
     {
@@ -500,6 +480,22 @@
       "source_count": 1,
       "sources": [
         "TradingView"
+      ]
+    },
+    {
+      "title": "Stacy Keach, 'Fat City' and 'Mike Hammer' Star, Dead at 85",
+      "url": "https://www.indiewire.com/news/obituary/stacy-keach-dead-mike-hammer-fat-city-1235226784/",
+      "source_count": 1,
+      "sources": [
+        "IndieWire"
+      ]
+    },
+    {
+      "title": "Want a Full Scholarship to One of Our Film Festival Intensives? IndieWire's Future of Filmmaking Video Contest Is Now Live",
+      "url": "https://www.indiewire.com/news/events/indiewire-future-of-filmmaking-video-contest-2026-1235225520/",
+      "source_count": 1,
+      "sources": [
+        "IndieWire"
       ]
     },
     {
@@ -529,22 +525,6 @@
     {
       "title": "Stephen Miller's Wife Katie Miller Reportedly Ended Podcast Deal with Paramount After He Took White House Chief of Staff Role",
       "url": "https://www.indiewire.com/news/general-news/stephen-miller-katie-miller-ended-podcast-deal-paramount-1235226519/",
-      "source_count": 1,
-      "sources": [
-        "IndieWire"
-      ]
-    },
-    {
-      "title": "'The Rings of Power' Season 3 Review: Amazon's 'Lord of the Rings' Series Is Just Going Through the Motions",
-      "url": "https://www.indiewire.com/criticism/shows/the-rings-of-power-season-3-lord-of-the-rings-series-bad-1235226205/",
-      "source_count": 1,
-      "sources": [
-        "IndieWire"
-      ]
-    },
-    {
-      "title": "Casey Bloys to Receive the Milestone Award at 2027 PGAs",
-      "url": "https://www.indiewire.com/awards/results/pga-awards-2027-casey-bloys-milestone-award-1235226429/",
       "source_count": 1,
       "sources": [
         "IndieWire"
@@ -599,48 +579,48 @@
       ]
     },
     {
-      "title": "sombr Pleads With Concertgoer to Stop Flipping Him Off: 'It's Really Making Me Sad, Man'",
-      "url": "https://www.billboard.com/music/music-news/sombr-concertgoer-stop-flipping-him-off-1236379060/",
+      "title": "'Beyond Anything I Could Have Imagined': Carl Cox Presented With OBE By Prince William",
+      "url": "https://www.billboard.com/music/awards/carl-cox-presented-obe-prince-william-1236379201/",
       "source_count": 1,
       "sources": [
         "Billboard"
       ]
     },
     {
-      "title": "Michael Jackson's 'Thriller' Scares Up 40th Week at No. 1 on Top R&B/Hip-Hop Albums Chart",
-      "url": "https://www.billboard.com/music/chart-beat/michael-jackson-thriller-number-1-rb-albums-chart-halloween-1236379040/",
+      "title": "Josephine Vaccarello Accepts the Executive of the Year | Billboard Live Music Summit 2026",
+      "url": "https://www.billboard.com/video/josephine-vaccarello-accepts-the-executive-of-the-year/",
       "source_count": 1,
       "sources": [
         "Billboard"
       ]
     },
     {
-      "title": "Nothing to Cluck At: Goldie Hawn Recalls Wacky Thing Elvis Presley Said She Looked Like When They First Met",
-      "url": "https://www.billboard.com/music/music-news/goldie-hawn-recalls-meeting-elvis-presley-1236379011/",
+      "title": "Jack River Signs With G.Y.R.O., Releases First New Music In Three Years",
+      "url": "https://www.billboard.com/music/music-news/jack-river-gyro-borderline-1236379169/",
       "source_count": 1,
       "sources": [
         "Billboard"
       ]
     },
     {
-      "title": "Billboard's Music Industry Events Calendar",
-      "url": "https://www.billboard.com/pro/music-industry-events-calendar-festivals-awards-conferences/",
+      "title": "Ninajirachi Wins 2026 NSW Music Prize",
+      "url": "https://www.billboard.com/music/awards/ninajirachi-2026-nsw-music-prize-1236379122/",
       "source_count": 1,
       "sources": [
         "Billboard"
       ]
     },
     {
-      "title": "Here's How to Watch 'Love & Hip Hop: The Final Chapter' Online With Philo",
-      "url": "https://www.billboard.com/culture/product-recommendations/love-and-hip-hop-the-final-chapter-watch-philo-online-free-1236378733/",
+      "title": "Brandy & Monica Announce The Boy Is Mine Las Vegas Residency: See Dates",
+      "url": "https://www.billboard.com/music/rb-hip-hop/brandy-monica-las-vegas-residency-dates-boy-is-mine-1236379156/",
       "source_count": 1,
       "sources": [
         "Billboard"
       ]
     },
     {
-      "title": "Nicko McBrain on Iron Maiden Missing Its Rock Hall Induction: 'I'm Sure We'll Say Thank You In Another Way'",
-      "url": "https://www.billboard.com/music/awards/nicko-mcbrain-iron-maiden-rock-hall-1236378934/",
+      "title": "Weezer Honored as Billboard Legends of Live as Rivers Cuomo Reflects on the Road Life: 'A Mission I Want to Take On'",
+      "url": "https://www.billboard.com/business/touring/weezer-billboard-legends-of-live-award-1236379084/",
       "source_count": 1,
       "sources": [
         "Billboard"
@@ -695,6 +675,14 @@
       ]
     },
     {
+      "title": "5 Years Later, 'VisionQuest' Officially Fixes 'WandaVision's Disappointing Ending",
+      "url": "https://www.polygon.com/visionquest-fixes-wandavision-ending/",
+      "source_count": 1,
+      "sources": [
+        "Polygon"
+      ]
+    },
+    {
       "title": "Christopher Nolan's The Odyssey Officially Sets Home Release Date",
       "url": "https://www.polygon.com/the-odyssey-christopher-nolan-home-release-date/",
       "source_count": 1,
@@ -725,15 +713,7 @@
       "sources": [
         "Polygon"
       ]
-    },
-    {
-      "title": "Big Walk AI Controversy Is a GOTY Awards Twist Sparking a Bigger Debate",
-      "url": "https://www.polygon.com/big-walks-ai-controversy-goty-2026/",
-      "source_count": 1,
-      "sources": [
-        "Polygon"
-      ]
     }
   ],
-  "summary": "Verified intelligence gathered across 91 deduplicated editorial clusters."
+  "summary": "Verified intelligence gathered across 88 deduplicated editorial clusters."
 }
