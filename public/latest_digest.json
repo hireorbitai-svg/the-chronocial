@@ -1,7 +1,41 @@
 {
-  "timestamp": "2026-11-14T00:40:57.795184+00:00",
+  "timestamp": "2026-11-14T08:38:44.985473+00:00",
   "headline_count": 92,
   "headlines": [
+    {
+      "title": "Amid Flight Stop, Ari Emanuel Slams Pete Buttigieg for Making 'Zero Progress' Modernizing FAA: 'You Left a Failing System in Place'",
+      "url": "https://variety.com/2026/politics/news/ari-emanuel-slams-pete-buttigieg-zero-progress-faa-1236947542/",
+      "source_count": 2,
+      "sources": [
+        "Variety",
+        "Deadline Hollywood"
+      ]
+    },
+    {
+      "title": "Michael Mann Seeks to Reclaim Rights to Original 'Heat' Screenplay",
+      "url": "https://variety.com/2026/film/news/michael-mann-new-regency-heat-screenplay-lawsuit-1236947532/",
+      "source_count": 2,
+      "sources": [
+        "Variety",
+        "The Hollywood Reporter"
+      ]
+    },
+    {
+      "title": "AFM Dealmakers, Talent Agents and Hollywood Stars Left Stranded by Nationwide Flight Stoppage",
+      "url": "https://variety.com/2026/film/news/agents-stars-stranded-flight-stoppage-afm-governors-awards-1236947477/",
+      "source_count": 1,
+      "sources": [
+        "Variety"
+      ]
+    },
+    {
+      "title": "Kamal Khera Named New Canadian Consul General In Los Angeles, Will Meet With Studios",
+      "url": "https://variety.com/2026/biz/news/kamal-khera-canadian-consul-general-los-angeles-1236947219/",
+      "source_count": 1,
+      "sources": [
+        "Variety"
+      ]
+    },
     {
       "title": "Jason Voorhees Makes His Animated Debut in New 'Never Hike Alone' Short",
       "url": "https://variety.com/2026/digital/news/jason-voorhees-animated-debut-hike-alone-short-1236947225/",
@@ -11,125 +45,131 @@
       ]
     },
     {
-      "title": "Trump Hasn't Commented on Nationwide Flight Shutdown, But He's Promoting the Federal Film Incentive",
+      "title": "Amid Flight Halt, Trump Meets With Jon Voight to Talk U.S. Film Incentive: 'Get This Done!'",
       "url": "https://variety.com/2026/film/news/trump-hasnt-commented-flight-shutdown-promoting-film-incentive-1236947426/",
-      "source_count": 3,
-      "sources": [
-        "Variety",
-        "Deadline Hollywood",
-        "The Hollywood Reporter"
-      ]
-    },
-    {
-      "title": "Seth Rogen on 'The Invite,' 'Tangles,' 'The Studio' Season 2, Reviving 'Darkwing Duck' and Why 'Any A - hole Can Write That Joke' Was the Best Advice He Ever Got",
-      "url": "https://variety.com/2026/film/awards/seth-rogen-the-invite-tangles-the-studio-season-2-1236946538/",
       "source_count": 1,
       "sources": [
         "Variety"
       ]
     },
     {
-      "title": "JB Smoove Talks Creativity and Fighting AI Fears, Evan Shapiro Breaks Down the Digital Entertainment Economy at Variety's Business Managers Breakfast",
-      "url": "https://variety.com/2026/biz/news/business-managers-variety-jb-smoove-shapiro-arnie-herrmann-1236947175/",
-      "source_count": 1,
-      "sources": [
-        "Variety"
-      ]
-    },
-    {
-      "title": "Hollywood Braces for Weekend Disruptions as FAA Grounds Flights Across U.S.",
-      "url": "https://variety.com/2026/film/news/faa-flights-ground-stop-hollywood-weekend-disruptions-1236947370/",
-      "source_count": 1,
-      "sources": [
-        "Variety"
-      ]
-    },
-    {
-      "title": "Gambit Gets Serious: Channing Tatum's Superhero Is 'Not All Laughs' in 'Avengers: Doomsday' as Kevin Feige Promises Fans a 'Fully-Rounded Character'",
-      "url": "https://variety.com/2026/film/news/gambit-avengers-doomsday-kevin-feige-not-laughs-1236947232/",
-      "source_count": 1,
-      "sources": [
-        "Variety"
-      ]
-    },
-    {
-      "title": "James Gunn Says \"No One From Skydance Has Seen\" 'Man Of Tomorrow': \"There Are A Lot Of Untrue Rumors Going Around\"",
-      "url": "https://deadline.com/2026/11/james-gunn-skydance-man-of-tomorrow-1237223531/",
+      "title": "The 'Heat' Is On! Michael Mann & New Regency Clash In Ownership Battle Over Al Pacino & Robert De Niro 1995 Crime Classic",
+      "url": "https://deadline.com/2026/11/michael-mann-lawsuit-heat-rights-1237223655/",
       "source_count": 1,
       "sources": [
         "Deadline Hollywood"
       ]
     },
     {
-      "title": "Shane Gillis Addresses 'SNL' Monologue After He Promised Show \"No Controversy\"",
-      "url": "https://deadline.com/2026/11/shane-gillis-addresses-snl-monologue-promised-no-controversy-1237223484/",
+      "title": "'Real Time': Bill Maher Jokingly Attributes FAA Issues To Selma Blair",
+      "url": "https://deadline.com/2026/11/real-time-bill-maher-attributes-faa-issues-selma-blair-1237223674/",
       "source_count": 1,
       "sources": [
         "Deadline Hollywood"
       ]
     },
     {
-      "title": "'VisionQuest' Sticks The Landing With Most-Watched Marvel Finale In 3 Years",
-      "url": "https://deadline.com/2026/11/visionquest-finale-viewership-record-marvel-1237223483/",
+      "title": "DC Studios To-Do List: Here's What Incoming Boss Jeremy Latcham Will Sort Through From The Gunn-Safran Era",
+      "url": "https://deadline.com/2026/11/dc-studios-movie-tv-list-jeremy-latcham-1237217689/",
       "source_count": 1,
       "sources": [
         "Deadline Hollywood"
       ]
     },
     {
-      "title": "Johnny Depp Pic 'Ebenezer' Opening To Spirited $20M+ U.S.",
-      "url": "https://deadline.com/2026/11/box-office-ebenezer-1237222749/",
-      "source_count": 1,
-      "sources": [
-        "Box Office Update"
-      ]
-    },
-    {
-      "title": "BBC Studios Hires Former Amazon Exec Bree Frank In Production Role",
-      "url": "https://deadline.com/2026/11/bbc-studios-bree-frank-1237223469/",
+      "title": "Sports TV Schedule Could Be Tackled For Loss In Aftermath Of FAA's Nationwide Flight Halt",
+      "url": "https://deadline.com/2026/11/sports-tv-schedule-faa-halt-1237223568/",
       "source_count": 1,
       "sources": [
         "Deadline Hollywood"
       ]
     },
     {
-      "title": "How 'The Basement Yard' Host Joe Santagato Got Into the World of 'Hot Ones'",
-      "url": "https://www.hollywoodreporter.com/business/digital/the-basement-yard-host-joe-santagato-hot-ones-1236754573/",
+      "title": "Zosia Mamet Says 'Girls' Revival Was \"In Talks For A Very Long Time\": \"I Kind Of Gave Up\"",
+      "url": "https://deadline.com/2026/11/zosia-mamet-girls-revival-in-talks-very-long-time-1237223594/",
+      "source_count": 1,
+      "sources": [
+        "Deadline Hollywood"
+      ]
+    },
+    {
+      "title": "Modern Fairy Tale 'Mo Amor' Explores Identity, Transformation and Love in All Its Forms",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/trans-fairy-tale-mo-amor-explores-love-tallinn-2026-estonia-1236753723/",
       "source_count": 1,
       "sources": [
         "The Hollywood Reporter"
       ]
     },
     {
-      "title": "Ben Stiller Gives Update on His New York Knicks Documentary: \"The Pressure Is on\"",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/ben-stiller-new-york-knicks-documentary-update-hbo-a24-1236754821/",
+      "title": "'Cookie Queens' Director Says Girl Scout Cookies Were \"A Delicious Way In\" to a Larger Conversation (Video)",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/cookie-queens-alysa-nahmias-scad-savannah-film-festival-1236751877/",
       "source_count": 1,
       "sources": [
         "The Hollywood Reporter"
       ]
     },
     {
-      "title": "Producer Kevin J. Walsh Had Seen It All. Then 'Being Heumann' Came Along",
-      "url": "https://www.hollywoodreporter.com/movies/movie-features/being-heumann-kevin-j-walsh-1236754923/",
+      "title": "5 Takeaways From China's Golden Rooster and Hundred Flowers Film Festival",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/takeaways-china-golden-rooster-hundred-flowers-film-festival-1236755329/",
       "source_count": 1,
       "sources": [
         "The Hollywood Reporter"
       ]
     },
     {
-      "title": "Joel Kinnaman to Star in Creature Thriller 'The Cell' for 'Sleeping Dogs' Director Adam Cooper (Exclusive)",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/joel-kinnaman-thriller-the-cell-director-adam-cooper-afm-1236755213/",
+      "title": "Rock & Roll Hall of Fame Induction Ceremony to Proceed as Planned Despite FAA Flight Stoppage on Friday",
+      "url": "https://www.hollywoodreporter.com/music/music-news/rock-roll-hall-of-fame-to-proceed-flights-grounded-1236755204/",
       "source_count": 1,
       "sources": [
         "The Hollywood Reporter"
       ]
     },
     {
-      "title": "Why Jordan Brand Is Using a 'Space Jam' Docuseries to Launch \"Jordan TV\"",
-      "url": "https://www.hollywoodreporter.com/business/digital/beyond-the-jam-space-jam-youtube-docuseries-jordan-brand-1236755122/",
+      "title": "Trump Says Federal Film Tax Credit Is Gaining Momentum",
+      "url": "https://www.hollywoodreporter.com/business/business-news/trump-federal-film-tax-credit-gaining-momentum-1236755258/",
       "source_count": 1,
       "sources": [
         "The Hollywood Reporter"
+      ]
+    },
+    {
+      "title": "Vir Hirani to voice Mowgli in upcoming AI-generated feature film inspired by The Jungle Book",
+      "url": "https://www.bollywoodhungama.com/news/bollywood/vir-hirani-to-voice-mowgli-in-upcoming-ai-generated-feature-film-inspired-by-the-jungle-book/",
+      "source_count": 1,
+      "sources": [
+        "Bollywood Hungama"
+      ]
+    },
+    {
+      "title": "BREAKING: Most violent Godzilla film ever, Godzilla Minus Zero NOT rated 'A' in India despite R rating overseas; CBFC grants U/A 16+ certificate",
+      "url": "https://www.bollywoodhungama.com/news/bollywood/breaking-most-violent-godzilla-film-ever-godzilla-minus-zero-not-rated-a-in-india-despite-r-rating-overseas-cbfc-grants-u-a-16-certificate/",
+      "source_count": 1,
+      "sources": [
+        "Bollywood Hungama"
+      ]
+    },
+    {
+      "title": "Varun Dhawan to star in Yash Raj Films' first-ever horror film, set to release on March 31, 2028",
+      "url": "https://www.bollywoodhungama.com/news/bollywood/varun-dhawan-to-star-in-yash-raj-films-first-ever-horror-film-set-to-release-on-march-31-2028/",
+      "source_count": 1,
+      "sources": [
+        "Bollywood Hungama"
+      ]
+    },
+    {
+      "title": "EXCLUSIVE: Amit Sadh makes SHOCKING confession: \"I don't know why certain filmmakers and casting directors are UPSET with me and why they don't give me work\"",
+      "url": "https://www.bollywoodhungama.com/news/bollywood/exclusive-amit-sadh-makes-shocking-confession-i-dont-know-why-certain-filmmakers-and-casting-directors-are-upset-with-me-and-why-they-dont-give-me-work/",
+      "source_count": 1,
+      "sources": [
+        "Bollywood Hungama"
+      ]
+    },
+    {
+      "title": "EXCLUSIVE: Blockbuster filmmaker Ali Abbas Zafar debuts as composer, lyricist, singer with Parivarik ManuRanjan; turns his inside joke with Ranveer Singh and Arjun Kapoor into 'Sir Sir Sir' song",
+      "url": "https://www.bollywoodhungama.com/news/bollywood/exclusive-blockbuster-filmmaker-ali-abbas-zafar-debuts-as-composer-lyricist-singer-with-parivarik-manuranjan-turns-his-inside-joke-with-ranveer-singh-and-arjun-kapoor-into-sir-sir-sir-song/",
+      "source_count": 1,
+      "sources": [
+        "Bollywood Hungama"
       ]
     },
     {
@@ -141,88 +181,48 @@
       ]
     },
     {
-      "title": "Dil Raju CONFIRMS that Akshay Kumar-starrer Mauja Hi Mauja will be released in cinemas in February 2027",
-      "url": "https://www.bollywoodhungama.com/news/bollywood/dil-raju-confirms-that-akshay-kumar-starrer-mauja-hi-mauja-will-be-released-in-cinemas-in-february-2027/",
-      "source_count": 1,
-      "sources": [
-        "Bollywood Hungama"
-      ]
-    },
-    {
-      "title": "Game Changers announces The Writer Series; Rajkumar Hirani, Javed Akhtar among featured writers",
-      "url": "https://www.bollywoodhungama.com/news/bollywood/game-changers-announces-the-writer-series-rajkumar-hirani-javed-akhtar-among-featured-writers/",
-      "source_count": 1,
-      "sources": [
-        "Bollywood Hungama"
-      ]
-    },
-    {
-      "title": "Dhindora Season 2 trailer out: Bhuvan Bam-led series to premiere on November 20; Sanjeeda Sheikh joins cast, Anup Soni, Udit Narayan and Orry make cameo appearances",
-      "url": "https://www.bollywoodhungama.com/news/bollywood/dhindora-season-2-trailer-out-bhuvan-bam-led-series-to-premiere-on-november-20-sanjeeda-sheikh-joins-cast-anup-soni-udit-narayan-and-orry-make-cameo-appearances/",
-      "source_count": 1,
-      "sources": [
-        "Bollywood Hungama"
-      ]
-    },
-    {
-      "title": "Moushumi Chatterjee's husband Jayanta Mukherjee passes away",
-      "url": "https://www.bollywoodhungama.com/news/bollywood/moushumi-chatterjees-husband-jayanta-mukherjee-passes-away/",
-      "source_count": 1,
-      "sources": [
-        "Bollywood Hungama"
-      ]
-    },
-    {
-      "title": "Will Ashneer Grover join Karan Johar and Malaika Arora on Pitch To Get Rich Season 2? Here's what we know!",
-      "url": "https://www.bollywoodhungama.com/news/bollywood/will-ashneer-grover-join-karan-johar-and-malaika-arora-on-pitch-to-get-rich-season-2-heres-what-we-know/",
-      "source_count": 1,
-      "sources": [
-        "Bollywood Hungama"
-      ]
-    },
-    {
-      "title": "5 Harry Potter Characters Cut From The Movies That Can Appear In The HBO Series",
-      "url": "https://www.tvline.com/2311906/harry-potter-characters-cut-movies-appear-hbo-series/",
+      "title": "What To Watch Saturday: John Mulaney Hosts SNL, New Hallmark Movie, And More",
+      "url": "https://www.tvline.com/2315797/what-to-watch-november-14-2026-tv-shows-movies-streaming/",
       "source_count": 1,
       "sources": [
         "TVLine"
       ]
     },
     {
-      "title": "Despite Its All-Star Cast, You Probably Never Heard Of This Princess Bride Remake Series",
-      "url": "https://www.tvline.com/2311905/princess-bride-remake-series-all-star-cast-underrated/",
+      "title": "Boston Blue Recap: Marg Helgenberger Makes Her Debut As Sarah's Estranged Mother - But Is She Harboring A Secret?",
+      "url": "https://www.tvline.com/2316526/boston-blue-season-2-episode-6-recap-marg-helgenberger-sarah-mom-explained/",
       "source_count": 1,
       "sources": [
         "TVLine"
       ]
     },
     {
-      "title": "Carnival Row: Why Prime Video's Fantasy Drama Series Was Canceled After Just Two Seasons",
-      "url": "https://www.tvline.com/2311867/why-prime-video-fantasy-drama-carnival-row-canceled-2-seasons/",
+      "title": "Jennifer Aniston Played Jon Cryer's Girlfriend In This Forgotten '90s Sitcom",
+      "url": "https://www.tvline.com/2315308/jennifer-aniston-jon-cryer-girlfriend-forgotten-90s-sitcom-partners/",
       "source_count": 1,
       "sources": [
         "TVLine"
       ]
     },
     {
-      "title": "12 12 12 Premiere Recap: Anthony Mackie And Jamie Dornan's Apple TV Thriller Views A Heist From All Angles",
-      "url": "https://www.tvline.com/2316649/12-12-12-premiere-recap-season-1-episode-1-anthony-mackie-jamie-dornan-apple-tv/",
-      "source_count": 1,
-      "sources": [
-        "Grade It!"
-      ]
-    },
-    {
-      "title": "Why Larry Russell From The Gilded Age Looks So Familiar",
-      "url": "https://www.tvline.com/2316403/larry-russell-the-gilded-age-actor-harry-richardson/",
+      "title": "5 Best Husbands On Real Housewives, Ranked",
+      "url": "https://www.tvline.com/2311185/best-husbands-real-housewives-ranked/",
       "source_count": 1,
       "sources": [
         "TVLine"
       ]
     },
     {
-      "title": "5 Best Bravo Reality Stars, Ranked",
-      "url": "https://www.tvline.com/2311079/best-bravo-reality-stars-ranked/",
+      "title": "Sean Bean's 16-Episode Historical Drama From The '90s Was Based On A Popular Book Series",
+      "url": "https://www.tvline.com/2311938/sean-bean-historical-drama-90s-based-popular-book-series-sharpe/",
+      "source_count": 1,
+      "sources": [
+        "TVLine"
+      ]
+    },
+    {
+      "title": "5 Agatha Christie TV Shows Every Fan Has To Watch At Least Once",
+      "url": "https://www.tvline.com/2313340/agatha-christie-tv-shows-every-fan-watch/",
       "source_count": 1,
       "sources": [
         "TVLine"
@@ -237,7 +237,7 @@
       ]
     },
     {
-      "title": "QSSR arrives in Marvel's Spider-Man 2, Control Resonant, The Finals, ARC Raiders, and Hell Let Loose: Vietnam",
+      "title": "QSSR arrives in Marvel's Spider-Man 2, Control Resonant, The Finals, Arc Raiders, No Man's Sky, and Hell Let Loose: Vietnam",
       "url": "https://blog.playstation.com/2026/11/13/qssr-arrives-in-marvels-spider-man-2-control-resonant-the-finals-arc-raiders-and-hell-let-loose-vietnam/",
       "source_count": 2,
       "sources": [
@@ -462,11 +462,19 @@
       ]
     },
     {
-      "title": "India's Imagicaaworld Entertainment Q2 loss widens; plans capital raise",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNbmdBaTUxei1jMk9uTXNOYkFnOGozRUlkRUo0ZllNU0JacnF1bmVqX0tZS0hHaGh3amZvdmFKTUNHR0hTZnhyc0hCdWJaZXVqaURJcUV1X3QzT0MzZkd3dWlJbGM0dG1HRlNiNHg3TGVvc2cwMmtYYmg2am5WR0JEWHpvLVJDbHoxUUVzbkRjYnZGbTFHNURQN0ZiWjB6Q1R0UWJfTk5HV1ZjV3dvbDRmcWVoQTZocThsMWU4WDhrUUZiczVYZms5dFB3d3VjVWlvWmhlUm1Fdw",
+      "title": "How AI has become a utility bill for Gen Z",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNcWtZTE1HcjQ3dmptT2ZPRzlZQUYxUkVIWDRqbVJGOTVCYllMVVZoN1ptMk5EcEoxTWVLZEVDQUdwUlVwZWwxYlk5UzA2blVKNHNSQVdnOS1Uck5wSjhxN2xGZXpNaGR3WXRDUF9IbzlOVkEyOHZkY0hFdUNjQ1d5ZGJFUHRHamV1c0ZaOURIU0hpVjVqSktsTQ",
       "source_count": 1,
       "sources": [
-        "TradingView"
+        "Reuters"
+      ]
+    },
+    {
+      "title": "RedBird launches Milan sports holding company, names Brett Yormark CEO",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPVjRPMEtXX2dLY1c0QWpQSmJqMWZ5LUNxclNUcnFtbTF5aFZPVEg3NlZYVU14NWdKOGNvUF9aNnZsdi1RWmpNQmc3YzdoV1ExTXhGMnZ1Sk9uemZiQlhGM2ZJREluSm1ubnZOOHAwTWtvOXJmMjJIR1hqUEgyMzJycGNnbV83TzVucTZhLUF0akw2aFJWaWZLc3Q3dm9EV014d3o2RHpEWDJlb1NONUNFZWJZUER1R2hOOTZR",
+      "source_count": 1,
+      "sources": [
+        "Reuters"
       ]
     },
     {
@@ -475,14 +483,6 @@
       "source_count": 1,
       "sources": [
         "Devdiscourse"
-      ]
-    },
-    {
-      "title": "Reuters exclusive: Former Nvidia CEO Huang had a relationship with a second employee, sources say",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOZkVVaWRMWVF0aG1rcEEwRXlsLUxxRVRWOTJ5VVc0Vl9ZaWlWRUFkTV82YUlqenZ1RWk1ZDJyQzZNYkQ2a292ZHkwWGI5Ukp1TnBhZDdWN1hrXzdqM1FuOUhOTkdSajNzeE02dXJ0TGlHMk4xaFMxVVBDQ1hLVzVucU5CSjB0UFB2Q0FQZ2RiUV93dDgzcmxzUFVmTVctcjc4Rlc0eXhnajI2M3p2WTJ2NGZlWjNjbi12c2RoWlpDRG1vcm9DaG5PSXNrNTgzT2hZZVE",
-      "source_count": 1,
-      "sources": [
-        "CTV News"
       ]
     },
     {
@@ -496,6 +496,14 @@
     {
       "title": "Alliance Entertainment Holding Corp reports results for the quarter ended September 30 - Earnings Summary",
       "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxNRGJmQjBGYUdpLXZZZ0lldDdVazgwWG9kRTBzLWxaOGZJN3NoT1dnd1MyQW5PS09sUDE5VENBOVpYOVcta1lGeEFTTmVpZUZzOWl5V2g3cHFMTzAwS2JxdG1KUFA0VFR6VDNZeERuU0hDMTluVXZ0WmtscWt5ZzJiZmVDUFRvc2FoanlUbi1YTGxNR19vQVV3YzZURDBZczd5QlFaTHdfYzR5Rl9YT19aZXAxc3ZxUEhSd2hJSkNadk5GenhfU2tBTjZjaU5ROWFEb2ZJeFpRLWxkZUhPdk1YZTlodHlxeGdSWjEycGFoUmlaMUpsUUpmT0xzbUd4dkZhNXJ4S0JzNkp1dWptUUpFMk52LWhRQlE1R1NuZg",
+      "source_count": 1,
+      "sources": [
+        "TradingView"
+      ]
+    },
+    {
+      "title": "India's Imagicaaworld Entertainment Q2 loss widens; plans capital raise",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNbmdBaTUxei1jMk9uTXNOYkFnOGozRUlkRUo0ZllNU0JacnF1bmVqX0tZS0hHaGh3amZvdmFKTUNHR0hTZnhyc0hCdWJaZXVqaURJcUV1X3QzT0MzZkd3dWlJbGM0dG1HRlNiNHg3TGVvc2cwMmtYYmg2am5WR0JEWHpvLVJDbHoxUUVzbkRjYnZGbTFHNURQN0ZiWjB6Q1R0UWJfTk5HV1ZjV3dvbDRmcWVoQTZocThsMWU4WDhrUUZiczVYZms5dFB3d3VjVWlvWmhlUm1Fdw",
       "source_count": 1,
       "sources": [
         "TradingView"
@@ -598,6 +606,22 @@
       ]
     },
     {
+      "title": "Journey Drummer Deen Castronovo Exits Mid-Tour to Focus on His Health",
+      "url": "https://www.billboard.com/music/rock/journey-deen-castronovo-steps-away-steve-murphy-drummer-1236382208/",
+      "source_count": 1,
+      "sources": [
+        "Billboard"
+      ]
+    },
+    {
+      "title": "Billboard's Music Industry Events Calendar",
+      "url": "https://www.billboard.com/pro/music-industry-events-calendar-festivals-awards-conferences/",
+      "source_count": 1,
+      "sources": [
+        "Billboard"
+      ]
+    },
+    {
       "title": "In Canada: Canada Music Fund to Receive $67M Boost; Women in Music Executive Award Winners Share Their Wisdom",
       "url": "https://www.billboard.com/pro/canada-music-fund-67m-boost-canada-news/",
       "source_count": 1,
@@ -624,22 +648,6 @@
     {
       "title": "Who Is Sara Schell, The Newcomer Who Won Songwriter of the Year at the 2026 Latin Grammys?",
       "url": "https://www.billboard.com/music/latin/meet-sara-schell-latin-grammy-songwriter-of-the-year-nominee-1236379607/",
-      "source_count": 1,
-      "sources": [
-        "Billboard"
-      ]
-    },
-    {
-      "title": "Justin Bieber Pops Out at Rising British Star's $30 Concert in L.A. in Surprise Cameo: 'Who's Gonna Pinch Me Then?'",
-      "url": "https://www.billboard.com/music/music-news/justin-bieber-surprise-cameo-finn-askew-la-show-1236382042/",
-      "source_count": 1,
-      "sources": [
-        "Billboard"
-      ]
-    },
-    {
-      "title": "Il Volo Reflect on 18 Years Together, Their Christmas Traditions and What's Next",
-      "url": "https://www.billboard.com/music/music-news/il-volo-our-christmas-billboard-italy-1236382101/",
       "source_count": 1,
       "sources": [
         "Billboard"
@@ -694,48 +702,41 @@
       ]
     },
     {
+      "title": "Pokémon Go Wild Area 2026 event schedule, habitat spawns, and bonuses",
+      "url": "https://www.polygon.com/pokemon-go-wild-area-2026-global-habitats-schedule-bonuses/",
+      "source_count": 1,
+      "sources": [
+        "Polygon"
+      ]
+    },
+    {
+      "title": "How to get mighty Pokémon in Pokémon Go",
+      "url": "https://www.polygon.com/pokemon-go-guide/483905/mighty-pokemon-list-schedule-moves/",
+      "source_count": 2,
+      "sources": [
+        "Polygon",
+        "Polygon"
+      ]
+    },
+    {
+      "title": "25 Years Later, Frodo's Best Lord of the Ring Quote Proves He's the Ultimate Fantasy Hero",
+      "url": "https://www.polygon.com/frodo-best-quote-lord-of-the-rings/",
+      "source_count": 1,
+      "sources": [
+        "Polygon"
+      ]
+    },
+    {
+      "title": "20 Years Later, A Classic Nintendo DS Puzzle Game Officially Returns",
+      "url": "https://www.polygon.com/professor-layton-nintendo-ds-remake-release-date-2027/",
+      "source_count": 1,
+      "sources": [
+        "Polygon"
+      ]
+    },
+    {
       "title": "HBO's 5-Part Crime Drama Has One of the Best Seasons in TV History",
       "url": "https://www.polygon.com/the-wire-season-4-recommendation/",
-      "source_count": 1,
-      "sources": [
-        "Polygon"
-      ]
-    },
-    {
-      "title": "Fallout 5 and Fallout Remasters Officially Announced",
-      "url": "https://www.polygon.com/fallout-5-fo3-remaster-new-games-bethesda-softworks/",
-      "source_count": 1,
-      "sources": [
-        "Polygon"
-      ]
-    },
-    {
-      "title": "Blizzard Officially Responds to Disappointed Overwatch Fans Over Hero 55",
-      "url": "https://www.polygon.com/overwatch-new-hero-55-hudson-damage-dps-blizzard/",
-      "source_count": 1,
-      "sources": [
-        "Polygon"
-      ]
-    },
-    {
-      "title": "10 New Movies to Watch This Weekend on Netflix, Prime Video, and HBO Max (November 13",
-      "url": "https://www.polygon.com/new-movies-streaming-this-weekend-netflix-november-13-15/",
-      "source_count": 1,
-      "sources": [
-        "15)"
-      ]
-    },
-    {
-      "title": "6 Most-Anticipated Steam Games You Should Add to Your Wishlist Right Now",
-      "url": "https://www.polygon.com/wishlister-nov-13/",
-      "source_count": 1,
-      "sources": [
-        "Polygon"
-      ]
-    },
-    {
-      "title": "Marvel Officially Confirms New Avengers Team for Doomsday",
-      "url": "https://www.polygon.com/avengers-doomsday-marvel-confirms-new-team-lineup/",
       "source_count": 1,
       "sources": [
         "Polygon"
