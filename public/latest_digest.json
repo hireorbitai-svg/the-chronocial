@@ -1,7 +1,42 @@
 {
-  "timestamp": "2026-11-14T21:59:55.265625+00:00",
-  "headline_count": 95,
+  "timestamp": "2026-11-15T01:45:10.042603+00:00",
+  "headline_count": 90,
   "headlines": [
+    {
+      "title": "Oak Ridge Boys' Richard Sterban, Whose Distinctive Bass Voice Powered 'Elvira' and Other Country Smashes, Dies at 83",
+      "url": "https://variety.com/2026/music/people-news/richard-sterban-dead-oak-ridge-boys-bass-vocalist-1236947870/",
+      "source_count": 2,
+      "sources": [
+        "Variety",
+        "The Hollywood Reporter"
+      ]
+    },
+    {
+      "title": "Inside the First AI Music Awards, a Chaotic Evening Attempting to Normalize Tech-Assisted Tunes",
+      "url": "https://variety.com/2026/music/features/inside-first-ai-music-awards-sonic-intelligence-academy-1236947847/",
+      "source_count": 1,
+      "sources": [
+        "Variety"
+      ]
+    },
+    {
+      "title": "Chris Pratt Says He 'Would Love' James Gunn to Direct a Fourth 'Guardians of the Galaxy' Film After DC Exit",
+      "url": "https://variety.com/2026/film/news/chris-pratt-james-gunn-guardians-of-the-galaxy-4-dc-exit-1236947808/",
+      "source_count": 3,
+      "sources": [
+        "Variety",
+        "Deadline Hollywood",
+        "The Hollywood Reporter"
+      ]
+    },
+    {
+      "title": "Philippines Wins Inaugural Eurovision Song Contest Asia in Thailand",
+      "url": "https://variety.com/2026/tv/global/philippines-wins-eurovision-song-contest-asia-carmelle-1236947812/",
+      "source_count": 1,
+      "sources": [
+        "Variety"
+      ]
+    },
     {
       "title": "Is 'Club Kid' a 'Conservative' Movie? Only If You're Still Living in the '60s",
       "url": "https://variety.com/2026/film/columns/is-club-kid-a-conservative-movie-jordan-firstman-1236947691/",
@@ -19,83 +54,51 @@
       ]
     },
     {
-      "title": "Hoobastank, Simple Plan and More Bands Performed Mid-Flight During Nationwide Air Travel Ground Stop",
-      "url": "https://variety.com/2026/music/news/hoobastank-simple-plan-mid-flight-southwest-ground-stop-1236947751/",
-      "source_count": 1,
-      "sources": [
-        "Variety"
-      ]
-    },
-    {
-      "title": "Dawn Greenhalgh, Canadian Stage Veteran Who Voiced the Queen in 'Babar,' Dies at 93",
-      "url": "https://variety.com/2026/legit/news/dawn-greenhalgh-dead-queen-celeste-babar-1236947732/",
-      "source_count": 1,
-      "sources": [
-        "Variety"
-      ]
-    },
-    {
-      "title": "Journey Announces Drummer Deen Castronovo Is Exiting Band, Days After Another Health Scare Forced His Second Mid-Show Departure",
-      "url": "https://variety.com/2026/music/news/journey-drummer-deen-castronovo-exits-band-health-scare-1236947754/",
-      "source_count": 1,
-      "sources": [
-        "Variety"
-      ]
-    },
-    {
-      "title": "'The Good Daughter' Stars Rose Byrne and Meghann Fahy on Playing Sisters With Secrets and That Twisty Killer Ending",
-      "url": "https://variety.com/2026/tv/news/the-good-daughter-spoilers-rose-byrne-meghann-fahy-season-finale-1236945641/",
-      "source_count": 1,
-      "sources": [
-        "Variety"
-      ]
-    },
-    {
-      "title": "From Billie Eilish To Hell, 'Wildwood' Filmmakers Combined Real And Digital Inspirations",
-      "url": "https://deadline.com/2026/11/wildwood-travis-knight-inspiration-interview-1237224069/",
+      "title": "Carrie Coon & Lily James Humanized Cult Member And Leader In Guy Nattiv's 'The Liberation'",
+      "url": "https://deadline.com/2026/11/carrie-coon-lily-james-liberation-interview-1237224238/",
       "source_count": 1,
       "sources": [
         "Contenders L.A."
       ]
     },
     {
-      "title": "'Glee' Stars Stage Broadway Mini-Reunion As Hulu Reboot Gears Up",
-      "url": "https://deadline.com/2026/11/glee-lea-michele-kevin-mchale-rocky-horror-1237224000/",
+      "title": "Danny Boyle Talks 'Ink', The Common Architecture Of His Movies And More '28 Years Later' As He Receives The Deadline Legend Award",
+      "url": "https://deadline.com/2026/11/danny-boyle-interview-ink-more-28-years-later-1237224197/",
       "source_count": 1,
       "sources": [
         "Deadline Hollywood"
       ]
     },
     {
-      "title": "'Being Heumann' Star Ruth Madeley And Casting Team On Championing Diversity Onscreen",
-      "url": "https://deadline.com/2026/11/being-heumann-ruth-madeley-casting-team-interview-1237224010/",
+      "title": "'The Violinist' Composer Ricky Ho Took Two Months To Write The First Four Notes Of Central Sonata",
+      "url": "https://deadline.com/2026/11/the-violinist-composer-interview-1237224216/",
       "source_count": 1,
       "sources": [
         "Contenders L.A."
       ]
     },
     {
-      "title": "How Jodie Foster Took Her First Disney Voice Role In 'Hexed' And Lent Her Smile To Her Character",
-      "url": "https://deadline.com/2026/11/hexed-jodie-foster-disney-voice-role-1237223998/",
+      "title": "Meryl Streep, Jon Hamm, Dave Franco Brought Comedy To 'Hoppers', Director Daniel Chong Says",
+      "url": "https://deadline.com/2026/11/hoppers-daniel-chong-piper-curda-interview-1237224208/",
       "source_count": 1,
       "sources": [
         "Contenders L.A."
       ]
     },
     {
-      "title": "Making 'I Play Rocky' Felt Like A Throwback To 1976 For The Creators",
-      "url": "https://deadline.com/2026/11/i-play-rocky-anthony-ippolito-interview-1237223964/",
+      "title": "'Toy Story 5' Producer Reflects On \"Level Of Complexity\" In Technology That Film Franchise Has Grown To Match With Curly Hair Tool Written For Blaze",
+      "url": "https://deadline.com/2026/11/toy-story-5-producer-interview-1237224163/",
       "source_count": 1,
       "sources": [
         "Contenders L.A."
       ]
     },
     {
-      "title": "'Project Hail Mary' Editor Joel Negron Had 700 Hours Of Film To Work With To Help Directors Phil Lord & Christopher Miller \"Leave Behind Something Useful\"",
-      "url": "https://deadline.com/2026/11/project-hail-mary-editor-interview-1237223887/",
+      "title": "Inside the Plane Where Simple Plan, Hoobastank and More Performed Mid-Flight as Planes Were Grounded Across the U.S.",
+      "url": "https://www.hollywoodreporter.com/news/general-news/inside-plane-simple-plan-hoobastank-performed-mid-flight-1236755526/",
       "source_count": 1,
       "sources": [
-        "Contenders L.A."
+        "The Hollywood Reporter"
       ]
     },
     {
@@ -117,30 +120,6 @@
     {
       "title": "Where to Watch Texas vs. LSU Football Game Online",
       "url": "https://www.hollywoodreporter.com/tv/tv-news/watch-texas-longhorns-vs-lsu-tigers-football-game-free-2026-1236754917/",
-      "source_count": 1,
-      "sources": [
-        "The Hollywood Reporter"
-      ]
-    },
-    {
-      "title": "Meet Plave, the Very Real Virtual K-pop Boy Group",
-      "url": "https://www.hollywoodreporter.com/music/music-features/k-pop-group-plave-virtual-idol-interview-1236755476/",
-      "source_count": 1,
-      "sources": [
-        "The Hollywood Reporter"
-      ]
-    },
-    {
-      "title": "James Gunn Says \"No One From Skydance Has Seen\" 'Man of Tomorrow,' Addresses \"Untrue Rumors\" Over 'Superman' Sequel",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/james-gunn-skydance-man-of-tomorrow-superman-sequel-dc-exit-1236755480/",
-      "source_count": 1,
-      "sources": [
-        "The Hollywood Reporter"
-      ]
-    },
-    {
-      "title": "Shane Gillis Addresses 'SNL' Monologue Backlash, Says He Promised the Show There Would Be \"No Controversy\"",
-      "url": "https://www.hollywoodreporter.com/tv/tv-news/shane-gillis-addresses-snl-monologue-backlash-1236755428/",
       "source_count": 1,
       "sources": [
         "The Hollywood Reporter"
@@ -195,48 +174,48 @@
       ]
     },
     {
-      "title": "What To Watch This Week: 50+ Premieres, Finales, And More",
-      "url": "https://www.tvline.com/2316028/what-to-watch-week-of-november-15-2026-tv-shows-movies-streaming/",
+      "title": "Gilligan's Island Star Bob Denver Played 4 Characters On A Hit '80s Fantasy Drama Series",
+      "url": "https://www.tvline.com/2316678/gilligans-island-bob-denver-four-characters-80s-fantasy-drama-series-fantasy-island/",
       "source_count": 1,
       "sources": [
         "TVLine"
       ]
     },
     {
-      "title": "Battlestar Galactica's Creator Also Launched Another Cult-Classic '70s Sci-Fi Series",
-      "url": "https://www.tvline.com/2315501/battlestar-galactica-creator-cult-classic-70s-sci-fi-series-buck-rogers/",
+      "title": "Morgan Freeman And James Earl Jones Led An All-Star Cast In This True-Crime Miniseries",
+      "url": "https://www.tvline.com/2314527/morgan-freeman-james-earl-jones-all-star-cast-true-crime-miniseries-atlanta-child-murders/",
       "source_count": 1,
       "sources": [
         "TVLine"
       ]
     },
     {
-      "title": "Skip Hinnant, The Electric Company Star, Dead At 86",
-      "url": "https://www.tvline.com/2316916/skip-hinnant-dead-the-electric-company-obituary/",
+      "title": "Which Beloved '60s Sitcom Had More Episodes: The Munsters Or The Addams Family?",
+      "url": "https://www.tvline.com/2316160/which-beloved-60s-sitcom-more-episodes-the-munsters-the-addams-family/",
       "source_count": 1,
       "sources": [
         "TVLine"
       ]
     },
     {
-      "title": "This Popular '80s Show Launched The Modern Reality TV Craze",
-      "url": "https://www.tvline.com/2315532/real-people-80s-show-launched-modern-reality-tv-craze/",
+      "title": "Why Star Trek: The Next Generation Killed Tasha Yar After Just One Season",
+      "url": "https://www.tvline.com/2316482/why-star-trek-the-next-generation-killed-tasha-yar/",
       "source_count": 1,
       "sources": [
         "TVLine"
       ]
     },
     {
-      "title": "15 Best TV Villains Of The '90s, Ranked",
-      "url": "https://www.tvline.com/2312239/best-tv-villains-90s-ranked/",
+      "title": "ABC Wanted To Cast Don Johnson As One Of Battlestar Galactica's Main Heroes",
+      "url": "https://www.tvline.com/2314000/abc-wanted-don-johnson-battlestar-galactica-main-hero/",
       "source_count": 1,
       "sources": [
         "TVLine"
       ]
     },
     {
-      "title": "Why Bertha Russell From The Gilded Age Looks So Familiar",
-      "url": "https://www.tvline.com/2316391/bertha-russell-the-gilded-age-actress-carrie-coon/",
+      "title": "Where You've Seen George Russell From The Gilded Age Before",
+      "url": "https://www.tvline.com/2313869/george-russell-the-gilded-age-actor-morgan-spector/",
       "source_count": 1,
       "sources": [
         "TVLine"
@@ -253,10 +232,9 @@
     {
       "title": "QSSR arrives in Marvel's Spider-Man 2, Control Resonant, The Finals, Arc Raiders, No Man's Sky, and Hell Let Loose: Vietnam",
       "url": "https://blog.playstation.com/2026/11/13/qssr-arrives-in-marvels-spider-man-2-control-resonant-the-finals-arc-raiders-and-hell-let-loose-vietnam/",
-      "source_count": 2,
+      "source_count": 1,
       "sources": [
-        "PlayStation Blog",
-        "IGN Games"
+        "PlayStation Blog"
       ]
     },
     {
@@ -340,6 +318,39 @@
       ]
     },
     {
+      "title": "The Best Deals Today: Asus TUF Gaming Laptop, Saros, 4K Blu-ray Sale, and More",
+      "url": "https://www.ign.com/articles/best-deals-for-november-14-2026",
+      "source_count": 1,
+      "sources": [
+        "IGN Games"
+      ]
+    },
+    {
+      "title": "GTA 6 Leak Seemingly Reveals Full Track List Days Before Launch",
+      "url": "https://www.ign.com/articles/gta-6-leak-seemingly-reveals-full-track-list-days-before-launch",
+      "source_count": 1,
+      "sources": [
+        "IGN Games"
+      ]
+    },
+    {
+      "title": "League of Legends: New Dawn Unveiled With Debut Trailer, Riot Announces Major Overhaul Coming in 2027",
+      "url": "https://www.ign.com/articles/league-of-legends-new-dawn-unveiled-with-debut-trailer-riot-announces-major-overhaul-coming-in-2027",
+      "source_count": 2,
+      "sources": [
+        "IGN Games",
+        "Polygon"
+      ]
+    },
+    {
+      "title": "Resident Evil Requiem Star Hopes Grace Ashcroft Has 'a Long Way to Go' Even if She Won't 'Ever Be a Leon Character'",
+      "url": "https://www.ign.com/articles/resident-evil-requiem-star-hopes-grace-ashcroft-has-a-long-way-to-go-even-if-she-wont-ever-be-a-leon-character",
+      "source_count": 1,
+      "sources": [
+        "IGN Games"
+      ]
+    },
+    {
       "title": "GTA 6 Will Do Something the Franchise Has Never Done Before: Encourage Empathy",
       "url": "https://www.ign.com/articles/gta-6-will-do-something-the-franchise-has-never-done-before-encourage-empathy",
       "source_count": 1,
@@ -348,32 +359,8 @@
       ]
     },
     {
-      "title": "When GTA 5 Took On Zuckerberg and Hit Peak Satire",
-      "url": "https://www.ign.com/articles/when-gta-5-took-on-zuckerberg-and-hit-peak-satire",
-      "source_count": 1,
-      "sources": [
-        "IGN Games"
-      ]
-    },
-    {
       "title": "Daggerheart: Hope & Fear Expansion Review",
       "url": "https://www.ign.com/articles/daggerheart-hope-fear-expansion-ttrpg-review",
-      "source_count": 1,
-      "sources": [
-        "IGN Games"
-      ]
-    },
-    {
-      "title": "Barbie Rewind Review",
-      "url": "https://www.ign.com/articles/barbie-rewind-review",
-      "source_count": 1,
-      "sources": [
-        "IGN Games"
-      ]
-    },
-    {
-      "title": "Some of These GTA 6 Clips Look So Good That I Don't Care if It's Running at 30fps",
-      "url": "https://www.ign.com/articles/some-of-these-gta-6-clips-look-so-good-that-i-dont-care-if-its-running-at-30-fps",
       "source_count": 1,
       "sources": [
         "IGN Games"
@@ -428,6 +415,22 @@
       ]
     },
     {
+      "title": "Planeswalker, Netflix's Magic: The Gathering animated series, will have a different art style for each plane",
+      "url": "https://www.pcgamer.com/movies-tv/planeswalker-netflixs-magic-the-gathering-animated-series-will-have-a-different-art-style-for-each-plane/",
+      "source_count": 1,
+      "sources": [
+        "PC Gamer"
+      ]
+    },
+    {
+      "title": "WoW: Forever dungeon mobs no longer give EXP if they're trivial for anyone in the party",
+      "url": "https://www.pcgamer.com/games/world-of-warcraft/wow-forever-dungeon-mobs-no-longer-give-exp-if-theyre-trivial-for-anyone-in-the-party/",
+      "source_count": 1,
+      "sources": [
+        "PC Gamer"
+      ]
+    },
+    {
       "title": "Is the game funny, or just the players? Jackbox CEO says they get 'a lot of false positives' with a staff of comedy writers",
       "url": "https://www.pcgamer.com/games/is-the-game-funny-or-just-the-players-jackbox-ceo-says-they-get-a-lot-of-false-positives-with-a-staff-of-comedy-writers/",
       "source_count": 1,
@@ -460,22 +463,6 @@
       ]
     },
     {
-      "title": "Halo: Campaign Evolved is getting Firefight as a free update, though I'm not sure it'll do much to change the remake's fortunes",
-      "url": "https://www.pcgamer.com/games/halo/halo-campaign-evolved-is-getting-firefight-as-a-free-update-though-im-not-sure-itll-do-much-to-change-the-remakes-fortunes/",
-      "source_count": 1,
-      "sources": [
-        "PC Gamer"
-      ]
-    },
-    {
-      "title": "Formula 1 just found a bizarre financial supporter in horse girl gacha Umamusume: Pretty Derby",
-      "url": "https://www.pcgamer.com/games/sports/formula-1-just-found-a-bizarre-financial-supporter-in-horse-girl-gacha-umamusume-pretty-derby/",
-      "source_count": 1,
-      "sources": [
-        "PC Gamer"
-      ]
-    },
-    {
       "title": "RedBird launches Milan sports holding company, names Brett Yormark CEO",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPVjRPMEtXX2dLY1c0QWpQSmJqMWZ5LUNxclNUcnFtbTF5aFZPVEg3NlZYVU14NWdKOGNvUF9aNnZsdi1RWmpNQmc3YzdoV1ExTXhGMnZ1Sk9uemZiQlhGM2ZJREluSm1ubnZOOHAwTWtvOXJmMjJIR1hqUEgyMzJycGNnbV83TzVucTZhLUF0akw2aFJWaWZLc3Q3dm9EV014d3o2RHpEWDJlb1NONUNFZWJZUER1R2hOOTZR",
       "source_count": 1,
@@ -492,11 +479,11 @@
       ]
     },
     {
-      "title": "Alliance Entertainment Holding Corp reports results for the quarter ended September 30 - Earnings Summary",
-      "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxNRGJmQjBGYUdpLXZZZ0lldDdVazgwWG9kRTBzLWxaOGZJN3NoT1dnd1MyQW5PS09sUDE5VENBOVpYOVcta1lGeEFTTmVpZUZzOWl5V2g3cHFMTzAwS2JxdG1KUFA0VFR6VDNZeERuU0hDMTluVXZ0WmtscWt5ZzJiZmVDUFRvc2FoanlUbi1YTGxNR19vQVV3YzZURDBZczd5QlFaTHdfYzR5Rl9YT19aZXAxc3ZxUEhSd2hJSkNadk5GenhfU2tBTjZjaU5ROWFEb2ZJeFpRLWxkZUhPdk1YZTlodHlxeGdSWjEycGFoUmlaMUpsUUpmT0xzbUd4dkZhNXJ4S0JzNkp1dWptUUpFMk52LWhRQlE1R1NuZg",
+      "title": "Reuters exclusive: Former Nvidia CEO Huang had a relationship with a second employee, sources say",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOZkVVaWRMWVF0aG1rcEEwRXlsLUxxRVRWOTJ5VVc0Vl9ZaWlWRUFkTV82YUlqenZ1RWk1ZDJyQzZNYkQ2a292ZHkwWGI5Ukp1TnBhZDdWN1hrXzdqM1FuOUhOTkdSajNzeE02dXJ0TGlHMk4xaFMxVVBDQ1hLVzVucU5CSjB0UFB2Q0FQZ2RiUV93dDgzcmxzUFVmTVctcjc4Rlc0eXhnajI2M3p2WTJ2NGZlWjNjbi12c2RoWlpDRG1vcm9DaG5PSXNrNTgzT2hZZVE",
       "source_count": 1,
       "sources": [
-        "TradingView"
+        "CTV News"
       ]
     },
     {
@@ -505,14 +492,6 @@
       "source_count": 1,
       "sources": [
         "Chosunbiz"
-      ]
-    },
-    {
-      "title": "Reuters exclusive: Former Nvidia CEO Huang had a relationship with a second employee, sources say",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOZkVVaWRMWVF0aG1rcEEwRXlsLUxxRVRWOTJ5VVc0Vl9ZaWlWRUFkTV82YUlqenZ1RWk1ZDJyQzZNYkQ2a292ZHkwWGI5Ukp1TnBhZDdWN1hrXzdqM1FuOUhOTkdSajNzeE02dXJ0TGlHMk4xaFMxVVBDQ1hLVzVucU5CSjB0UFB2Q0FQZ2RiUV93dDgzcmxzUFVmTVctcjc4Rlc0eXhnajI2M3p2WTJ2NGZlWjNjbi12c2RoWlpDRG1vcm9DaG5PSXNrNTgzT2hZZVE",
-      "source_count": 1,
-      "sources": [
-        "CTV News"
       ]
     },
     {
@@ -620,16 +599,17 @@
       ]
     },
     {
-      "title": "The Latin Recording Academy Celebrates Leading Ladies of Entertainment & More Uplifting Moments",
-      "url": "https://www.billboard.com/music/latin/latin-grammy-leading-ladies-entertainment-uplifting-moments-1236382250/",
-      "source_count": 1,
+      "title": "John Mulaney and Phoebe Bridgers on 'SNL': Here's Where to Watch 'Saturday Night Live' Online for Free",
+      "url": "https://www.billboard.com/culture/product-recommendations/watch-snl-2026-john-mulaney-phoebe-bridgers-live-online-1236380661/",
+      "source_count": 2,
       "sources": [
+        "Billboard",
         "Billboard"
       ]
     },
     {
-      "title": "Here's How to Watch 'The Chosen' Season 6 Online for Free",
-      "url": "https://www.billboard.com/culture/product-recommendations/watch-the-chosen-season-six-tv-series-online-free-1236381749/",
+      "title": "The Latin Recording Academy Celebrates Leading Ladies of Entertainment & More Uplifting Moments",
+      "url": "https://www.billboard.com/music/latin/latin-grammy-leading-ladies-entertainment-uplifting-moments-1236382250/",
       "source_count": 1,
       "sources": [
         "Billboard"
@@ -654,14 +634,6 @@
     {
       "title": "Simple Plan, Hoobastank & More Take Warped Tour Mid-Flight Amid FAA Ground Stop",
       "url": "https://www.billboard.com/music/rock/simple-plan-hoobastank-warped-tour-flight-faa-ground-stop-1236382214/",
-      "source_count": 1,
-      "sources": [
-        "Billboard"
-      ]
-    },
-    {
-      "title": "Where to Watch the 2026 Nickelodeon Kids' Choice Awards for Free Online",
-      "url": "https://www.billboard.com/culture/product-recommendations/where-to-watch-2026-kids-choice-awards-free-online-1236382151/",
       "source_count": 1,
       "sources": [
         "Billboard"
@@ -716,53 +688,45 @@
       ]
     },
     {
+      "title": "Stephen King's Underrated 1980 Horror Thriller Gets New Prime Video Adaptation",
+      "url": "https://www.polygon.com/stephen-king-prime-video-crouch-end-tv-show/",
+      "source_count": 1,
+      "sources": [
+        "Polygon"
+      ]
+    },
+    {
+      "title": "10 Must-Play Co-Op Games for People With Real-Life Schedules",
+      "url": "https://www.polygon.com/co-op-games-real-life-schedules/",
+      "source_count": 1,
+      "sources": [
+        "Polygon"
+      ]
+    },
+    {
+      "title": "Nintendo Officially Reveals New Kirby Game for Switch 2",
+      "url": "https://www.polygon.com/kirby-world-beyond-nintendo-switch-2-2027/",
+      "source_count": 1,
+      "sources": [
+        "Polygon"
+      ]
+    },
+    {
+      "title": "Calvin and Hobbes' 5 Greatest Spaceman Spiff Comic Strips",
+      "url": "https://www.polygon.com/calvin-hobbes-best-spaceman-spiff-comics/",
+      "source_count": 1,
+      "sources": [
+        "Polygon"
+      ]
+    },
+    {
       "title": "32 Years Later, Star Trek's Most Important Movie Is Officially Free on Streaming",
       "url": "https://www.polygon.com/star-trek-generations-streaming-free-november-2026/",
       "source_count": 1,
       "sources": [
         "Polygon"
       ]
-    },
-    {
-      "title": "Zelda: Ocarina of Time Is Actually the Perfect Way to Introduce Kids to Nintendo",
-      "url": "https://www.polygon.com/zelda-ocarina-time-first-nintendo-kids-game/",
-      "source_count": 1,
-      "sources": [
-        "Polygon"
-      ]
-    },
-    {
-      "title": "Fortnite Player Gets Screwed Out of Extremely Rare Pirate Shop Token",
-      "url": "https://www.polygon.com/fortnite-player-loses-pirate-shop-access-token-game-crash/",
-      "source_count": 1,
-      "sources": [
-        "Polygon"
-      ]
-    },
-    {
-      "title": "'The Body' Ending Explained: Is Grace Possessed? Netflix Showrunners Talk Season 2",
-      "url": "https://www.polygon.com/the-body-ending-explained/",
-      "source_count": 1,
-      "sources": [
-        "Polygon"
-      ]
-    },
-    {
-      "title": "26 Years Later, Charlie Brown's Final Quote Is Still a Comic Strip Classic",
-      "url": "https://www.polygon.com/charlie-brown-final-peanuts-line/",
-      "source_count": 1,
-      "sources": [
-        "Polygon"
-      ]
-    },
-    {
-      "title": "Magic Is Bringing Back Its Most Controversial Creature Type",
-      "url": "https://www.polygon.com/magic-the-gathering-new-sliver-cards-tease/",
-      "source_count": 1,
-      "sources": [
-        "Polygon"
-      ]
     }
   ],
-  "summary": "Verified intelligence gathered across 95 deduplicated editorial clusters."
+  "summary": "Verified intelligence gathered across 90 deduplicated editorial clusters."
 }
