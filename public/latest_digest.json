@@ -1,27 +1,35 @@
 {
-  "timestamp": "2026-11-15T01:45:10.042603+00:00",
-  "headline_count": 90,
+  "timestamp": "2026-11-15T08:51:54.878845+00:00",
+  "headline_count": 97,
   "headlines": [
     {
-      "title": "Oak Ridge Boys' Richard Sterban, Whose Distinctive Bass Voice Powered 'Elvira' and Other Country Smashes, Dies at 83",
-      "url": "https://variety.com/2026/music/people-news/richard-sterban-dead-oak-ridge-boys-bass-vocalist-1236947870/",
-      "source_count": 2,
-      "sources": [
-        "Variety",
-        "The Hollywood Reporter"
-      ]
-    },
-    {
-      "title": "Inside the First AI Music Awards, a Chaotic Evening Attempting to Normalize Tech-Assisted Tunes",
-      "url": "https://variety.com/2026/music/features/inside-first-ai-music-awards-sonic-intelligence-academy-1236947847/",
+      "title": "'Dhurandhar,' 'Kantara: A Legend - Chapter 1' Among Indian Panorama Lineup at IFFI Goa",
+      "url": "https://variety.com/2026/film/festivals/dhurandhar-kantara-chapter-1-iffi-indian-panorama-2026-1236947982/",
       "source_count": 1,
       "sources": [
         "Variety"
       ]
     },
     {
-      "title": "Chris Pratt Says He 'Would Love' James Gunn to Direct a Fourth 'Guardians of the Galaxy' Film After DC Exit",
-      "url": "https://variety.com/2026/film/news/chris-pratt-james-gunn-guardians-of-the-galaxy-4-dc-exit-1236947808/",
+      "title": "Jakarta World Cinema Expands to Malang and Bandung, Where Palme d'Or Winner 'Fjord' Opens Festival",
+      "url": "https://variety.com/2026/film/festivals/jakarta-world-cinema-expands-malang-bandung-fjord-1236947977/",
+      "source_count": 1,
+      "sources": [
+        "Variety"
+      ]
+    },
+    {
+      "title": "Amanda Seyfried to Make Her Debut as 'Saturday Night Live' Host",
+      "url": "https://variety.com/2026/tv/news/amanda-seyfried-snl-host-debut-december-don-toliver-1236947942/",
+      "source_count": 2,
+      "sources": [
+        "Variety",
+        "Deadline Hollywood"
+      ]
+    },
+    {
+      "title": "John Mulaney Mocks Robert F. Kennedy Jr. in 'SNL' Monologue: 'No One Likes Him. You Dumbass … Your Thing Can't Be the Measles!'",
+      "url": "https://variety.com/2026/tv/news/john-mulaney-mocks-robert-f-kennedy-jr-snl-monologue-1236947905/",
       "source_count": 3,
       "sources": [
         "Variety",
@@ -30,99 +38,93 @@
       ]
     },
     {
-      "title": "Philippines Wins Inaugural Eurovision Song Contest Asia in Thailand",
-      "url": "https://variety.com/2026/tv/global/philippines-wins-eurovision-song-contest-asia-carmelle-1236947812/",
+      "title": "Bowen Yang Returns to 'SNL' as Jensen Huang as John Mulaney's Cold Open Mocks Nvidia Scandal, National Ground Stop and Outlook Outage",
+      "url": "https://variety.com/2026/tv/news/bowen-yang-jensen-huang-snl-cold-open-john-mulaney-tech-1236947900/",
+      "source_count": 2,
+      "sources": [
+        "Variety",
+        "Deadline Hollywood"
+      ]
+    },
+    {
+      "title": "Brandi Carlile's All-Requests Tour Isn't Just a Magnificent Stunt, but an Unusually Moving Transaction Between Performer and Audience: Concert Review",
+      "url": "https://variety.com/2026/music/concert-reviews/brandi-carlile-all-request-tour-burn-setlist-concert-review-1236947885/",
       "source_count": 1,
       "sources": [
         "Variety"
       ]
     },
     {
-      "title": "Is 'Club Kid' a 'Conservative' Movie? Only If You're Still Living in the '60s",
-      "url": "https://variety.com/2026/film/columns/is-club-kid-a-conservative-movie-jordan-firstman-1236947691/",
-      "source_count": 1,
-      "sources": [
-        "Variety"
-      ]
-    },
-    {
-      "title": "Here's How to Watch the Troy Trojans vs. South Alabama Jaguars Game Live Online",
-      "url": "https://variety.com/2026/shopping/news/watch-troy-south-alabama-college-football-espn-live-online-1236946134/",
-      "source_count": 1,
-      "sources": [
-        "Variety"
-      ]
-    },
-    {
-      "title": "Carrie Coon & Lily James Humanized Cult Member And Leader In Guy Nattiv's 'The Liberation'",
-      "url": "https://deadline.com/2026/11/carrie-coon-lily-james-liberation-interview-1237224238/",
-      "source_count": 1,
-      "sources": [
-        "Contenders L.A."
-      ]
-    },
-    {
-      "title": "Danny Boyle Talks 'Ink', The Common Architecture Of His Movies And More '28 Years Later' As He Receives The Deadline Legend Award",
-      "url": "https://deadline.com/2026/11/danny-boyle-interview-ink-more-28-years-later-1237224197/",
+      "title": "Bowen Yang Brings 'Oh Mary!' To 'SNL' With Epic Musical Sketch",
+      "url": "https://deadline.com/2026/11/bowen-yang-oh-mary-snl-musical-sketch-1237224406/",
       "source_count": 1,
       "sources": [
         "Deadline Hollywood"
       ]
     },
     {
-      "title": "'The Violinist' Composer Ricky Ho Took Two Months To Write The First Four Notes Of Central Sonata",
-      "url": "https://deadline.com/2026/11/the-violinist-composer-interview-1237224216/",
+      "title": "Nickelodeon Kids' Choice Awards: BTS, 'Stranger Things' & 'KPop Demon Hunters' Among Winners",
+      "url": "https://deadline.com/2026/11/nickelodeon-kids-choice-awards-winners-1237223740/",
+      "source_count": 2,
+      "sources": [
+        "Deadline Hollywood",
+        "The Hollywood Reporter"
+      ]
+    },
+    {
+      "title": "'Wicker' Star Alexander Skarsgård Appreciated \"Social Commentary\" Of Feminist Romantasy Film Without It Being \"Too Preachy\"",
+      "url": "https://deadline.com/2026/11/alexander-skarsgard-wicker-interview-1237224217/",
       "source_count": 1,
       "sources": [
         "Contenders L.A."
       ]
     },
     {
-      "title": "Meryl Streep, Jon Hamm, Dave Franco Brought Comedy To 'Hoppers', Director Daniel Chong Says",
-      "url": "https://deadline.com/2026/11/hoppers-daniel-chong-piper-curda-interview-1237224208/",
-      "source_count": 1,
-      "sources": [
-        "Contenders L.A."
-      ]
-    },
-    {
-      "title": "'Toy Story 5' Producer Reflects On \"Level Of Complexity\" In Technology That Film Franchise Has Grown To Match With Curly Hair Tool Written For Blaze",
-      "url": "https://deadline.com/2026/11/toy-story-5-producer-interview-1237224163/",
-      "source_count": 1,
-      "sources": [
-        "Contenders L.A."
-      ]
-    },
-    {
-      "title": "Inside the Plane Where Simple Plan, Hoobastank and More Performed Mid-Flight as Planes Were Grounded Across the U.S.",
-      "url": "https://www.hollywoodreporter.com/news/general-news/inside-plane-simple-plan-hoobastank-performed-mid-flight-1236755526/",
+      "title": "Listen to the River! 'Arrow for a Stone Heart' Is a Poetic Experience Told Through an Indigenous Lens",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/arrow-for-a-stone-heart-film-brazil-indigenous-lens-tallinn-1236753851/",
       "source_count": 1,
       "sources": [
         "The Hollywood Reporter"
       ]
     },
     {
-      "title": "'Fatherland' Wins Top Camerimage Prize as 'Wild Horse Nine' Nabs Audience Award",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/camerimage-awards-fatherland-wild-horse-nine-cinematography-1236755483/",
+      "title": "Billy Evans' First TV Interview to Air on 'CBS Sunday Morning': Where to Stream It Online",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/watch-billy-evans-cbs-sunday-morning-interview-online-free-1236755562/",
       "source_count": 1,
       "sources": [
         "The Hollywood Reporter"
       ]
     },
     {
-      "title": "Philomena Cunk Comes for Hollywood",
-      "url": "https://www.hollywoodreporter.com/tv/tv-features/cunk-on-cinema-diane-morgan-charlie-brooker-interview-1236755262/",
+      "title": "Richard Sterban, Oak Ridge Boys' Bass Singer, Dies at 83",
+      "url": "https://www.hollywoodreporter.com/music/music-news/richard-sterban-dead-oak-ridge-boys-bass-singer-1236755545/",
       "source_count": 1,
       "sources": [
         "The Hollywood Reporter"
       ]
     },
     {
-      "title": "Where to Watch Texas vs. LSU Football Game Online",
-      "url": "https://www.hollywoodreporter.com/tv/tv-news/watch-texas-longhorns-vs-lsu-tigers-football-game-free-2026-1236754917/",
+      "title": "Chris Pratt \"Would Love\" to Make a Fourth 'Guardians of the Galaxy' Film With James Gunn \"If He Wanted to\" Amid DC Exit",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/chris-pratt-james-gunn-guardians-of-the-galaxy-4-1236755525/",
       "source_count": 1,
       "sources": [
         "The Hollywood Reporter"
+      ]
+    },
+    {
+      "title": "Ramayana to release in China, Russia, Japan and South Korea in Q1 2027; film already submitted for censor clearance in China",
+      "url": "https://www.bollywoodhungama.com/news/bollywood/ramayana-to-release-in-china-russia-japan-and-south-korea-in-q1-2027-film-already-submitted-for-censor-clearance-in-china/",
+      "source_count": 1,
+      "sources": [
+        "Bollywood Hungama"
+      ]
+    },
+    {
+      "title": "Panchayat Season 5 Iss Saal Nahi Aayega? Prime Video's cryptic post leaves fans wondering",
+      "url": "https://www.bollywoodhungama.com/news/bollywood/panchayat-season-5-iss-saal-nahi-aayega-prime-videos-cryptic-post-leaves-fans-wondering/",
+      "source_count": 1,
+      "sources": [
+        "Bollywood Hungama"
       ]
     },
     {
@@ -158,64 +160,48 @@
       ]
     },
     {
-      "title": "EXCLUSIVE: Blockbuster filmmaker Ali Abbas Zafar debuts as composer, lyricist, singer with Parivarik ManuRanjan; turns his inside joke with Ranveer Singh and Arjun Kapoor into 'Sir Sir Sir' song",
-      "url": "https://www.bollywoodhungama.com/news/bollywood/exclusive-blockbuster-filmmaker-ali-abbas-zafar-debuts-as-composer-lyricist-singer-with-parivarik-manuranjan-turns-his-inside-joke-with-ranveer-singh-and-arjun-kapoor-into-sir-sir-sir-song/",
+      "title": "What To Watch Sunday: The Chosen Season 6 Premiere, New Gilded Age, And More",
+      "url": "https://www.tvline.com/2316190/what-to-watch-november-15-2026-tv-shows-movies-streaming/",
       "source_count": 1,
       "sources": [
-        "Bollywood Hungama"
+        "TVLine"
       ]
     },
     {
-      "title": "BREAKING: Dhurandhar to OPEN Indian Panorama at 57th IFFI Goa 2026 while Ramayana to open BRICS segment; The Kerala Story 2 enters PRESTIGIOUS International Competition",
-      "url": "https://www.bollywoodhungama.com/news/bollywood/breaking-dhurandhar-to-open-indian-panorama-at-57th-iffi-goa-2026-while-ramayana-to-open-brics-segment-the-kerala-story-2-enters-prestigious-international-competition/",
+      "title": "Saturday Night Live Reveals Amanda Seyfried As December's First Host",
+      "url": "https://www.tvline.com/2317069/saturday-night-live-amanda-seyfried-host-snl-december-5-2026/",
       "source_count": 1,
       "sources": [
-        "Bollywood Hungama"
+        "Who's The Musical Guest?"
+      ]
+    },
+    {
+      "title": "Why Agnes Van Rhijn From The Gilded Age Looks So Familiar",
+      "url": "https://www.tvline.com/2313962/agnes-van-rhijn-the-gilded-age-actress-christine-baranski/",
+      "source_count": 1,
+      "sources": [
+        "TVLine"
+      ]
+    },
+    {
+      "title": "10 Animated TV Shows With The Best World-Building",
+      "url": "https://www.tvline.com/2316147/animated-tv-shows-best-world-building/",
+      "source_count": 1,
+      "sources": [
+        "TVLine"
+      ]
+    },
+    {
+      "title": "Long Before Lioness, Morgan Freeman Was In Nearly 800 Episodes Of An Iconic '70s Kids Show",
+      "url": "https://www.tvline.com/2303826/lioness-morgan-freeman-70s-kids-show-the-electric-company/",
+      "source_count": 1,
+      "sources": [
+        "TVLine"
       ]
     },
     {
       "title": "Gilligan's Island Star Bob Denver Played 4 Characters On A Hit '80s Fantasy Drama Series",
       "url": "https://www.tvline.com/2316678/gilligans-island-bob-denver-four-characters-80s-fantasy-drama-series-fantasy-island/",
-      "source_count": 1,
-      "sources": [
-        "TVLine"
-      ]
-    },
-    {
-      "title": "Morgan Freeman And James Earl Jones Led An All-Star Cast In This True-Crime Miniseries",
-      "url": "https://www.tvline.com/2314527/morgan-freeman-james-earl-jones-all-star-cast-true-crime-miniseries-atlanta-child-murders/",
-      "source_count": 1,
-      "sources": [
-        "TVLine"
-      ]
-    },
-    {
-      "title": "Which Beloved '60s Sitcom Had More Episodes: The Munsters Or The Addams Family?",
-      "url": "https://www.tvline.com/2316160/which-beloved-60s-sitcom-more-episodes-the-munsters-the-addams-family/",
-      "source_count": 1,
-      "sources": [
-        "TVLine"
-      ]
-    },
-    {
-      "title": "Why Star Trek: The Next Generation Killed Tasha Yar After Just One Season",
-      "url": "https://www.tvline.com/2316482/why-star-trek-the-next-generation-killed-tasha-yar/",
-      "source_count": 1,
-      "sources": [
-        "TVLine"
-      ]
-    },
-    {
-      "title": "ABC Wanted To Cast Don Johnson As One Of Battlestar Galactica's Main Heroes",
-      "url": "https://www.tvline.com/2314000/abc-wanted-don-johnson-battlestar-galactica-main-hero/",
-      "source_count": 1,
-      "sources": [
-        "TVLine"
-      ]
-    },
-    {
-      "title": "Where You've Seen George Russell From The Gilded Age Before",
-      "url": "https://www.tvline.com/2313869/george-russell-the-gilded-age-actor-morgan-spector/",
       "source_count": 1,
       "sources": [
         "TVLine"
@@ -326,7 +312,7 @@
       ]
     },
     {
-      "title": "GTA 6 Leak Seemingly Reveals Full Track List Days Before Launch",
+      "title": "GTA 6 Leak Seemingly Reveals Official Album's Full Track List Days Before Launch",
       "url": "https://www.ign.com/articles/gta-6-leak-seemingly-reveals-full-track-list-days-before-launch",
       "source_count": 1,
       "sources": [
@@ -336,10 +322,9 @@
     {
       "title": "League of Legends: New Dawn Unveiled With Debut Trailer, Riot Announces Major Overhaul Coming in 2027",
       "url": "https://www.ign.com/articles/league-of-legends-new-dawn-unveiled-with-debut-trailer-riot-announces-major-overhaul-coming-in-2027",
-      "source_count": 2,
+      "source_count": 1,
       "sources": [
-        "IGN Games",
-        "Polygon"
+        "IGN Games"
       ]
     },
     {
@@ -364,6 +349,14 @@
       "source_count": 1,
       "sources": [
         "IGN Games"
+      ]
+    },
+    {
+      "title": "GTA 6 Is Like The Olympics - \"A Rare Cultural Moment\" With Massive Ripple Effects",
+      "url": "https://www.gamespot.com/articles/gta-6-is-like-the-olympics-a-rare-cultural-moment-with-massive-ripple-effects/",
+      "source_count": 1,
+      "sources": [
+        "GameSpot"
       ]
     },
     {
@@ -407,11 +400,19 @@
       ]
     },
     {
-      "title": "GTA 6 And These Other Games Can Justify An $80 Price, Expert Says",
-      "url": "https://www.gamespot.com/articles/gta-6-and-these-other-games-can-justify-an-80-price-expert-says/",
+      "title": "The most annoying questgivers in PC games",
+      "url": "https://www.pcgamer.com/games/the-most-annoying-questgivers-in-pc-games/",
       "source_count": 1,
       "sources": [
-        "GameSpot"
+        "PC Gamer"
+      ]
+    },
+    {
+      "title": "GTA 6 soundtrack leak confirmed accurate with new songs from Lana Del Rey, Playboi Carti, and Keith Richards",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-soundtrack-leak-confirmed-accurate-with-new-songs-from-lana-del-rey-playboi-carti-and-keith-richards/",
+      "source_count": 1,
+      "sources": [
+        "PC Gamer"
       ]
     },
     {
@@ -447,22 +448,6 @@
       ]
     },
     {
-      "title": "I summoned 1 blood demon, stitched 2 of my disciples together, and seduced 3 snails in this excellent cult simulator in the spirit of Dwarf Fortress",
-      "url": "https://www.pcgamer.com/games/sim/i-summoned-1-blood-demon-stitched-2-of-my-disciples-together-and-seduced-3-snails-in-this-excellent-cult-simulator-in-the-spirit-of-dwarf-fortress/",
-      "source_count": 1,
-      "sources": [
-        "PC Gamer"
-      ]
-    },
-    {
-      "title": "Dishonored 2 director Harvey Smith wants to honour sacred imsim texts while finding news ways to surprise fans: 'That's the two wolves inside me'",
-      "url": "https://www.pcgamer.com/games/sim/dishonored-2-director-harvey-smith-wants-to-honour-sacred-imsim-texts-while-finding-news-ways-to-surprise-fans-thats-the-two-wolves-inside-me/",
-      "source_count": 1,
-      "sources": [
-        "PC Gamer"
-      ]
-    },
-    {
       "title": "RedBird launches Milan sports holding company, names Brett Yormark CEO",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPVjRPMEtXX2dLY1c0QWpQSmJqMWZ5LUNxclNUcnFtbTF5aFZPVEg3NlZYVU14NWdKOGNvUF9aNnZsdi1RWmpNQmc3YzdoV1ExTXhGMnZ1Sk9uemZiQlhGM2ZJREluSm1ubnZOOHAwTWtvOXJmMjJIR1hqUEgyMzJycGNnbV83TzVucTZhLUF0akw2aFJWaWZLc3Q3dm9EV014d3o2RHpEWDJlb1NONUNFZWJZUER1R2hOOTZR",
       "source_count": 1,
@@ -471,11 +456,27 @@
       ]
     },
     {
-      "title": "Brookfield, CPPIB consortium enters next round in Uniper sales process, sources say",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPcmpxWThQVkYtb3BpeXplcGsxdEw3Z1ZBU3VYQXNMMDMwUFJEZjJjRU0xUk1FeGJUNU5aTDAwQjZENWxOTl9nTHJuQXpDT1MtQTB3bnpWTTFseUtxcHhKYW00dzg3REQzcTUxT0t3ZlpxRGJKRlZvLWNPV1hjU05lXzdfckFvMER5OE5j",
+      "title": "US floated idea of Ukraine ceding Donbas for NATO membership, Zelenskiy says",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPWV9acy1HRWdpaGRiYV9VRk1IeE1rYWV3dHMzYnA0VWFQN095dlNPV253b2JMNkdTZmpZc0NqYm9iVHJmNmhRblA4RWZJaFhlM184cVREemtoMDh2d3B3UjR0RjhScWQxdGdxMXFvOTJpMklNeUJSalNpM3FyOHBlRUJwLVNBT3NXbGRGZg",
       "source_count": 1,
       "sources": [
-        "AOL.com"
+        "Yahoo"
+      ]
+    },
+    {
+      "title": "Israeli military says it struck senior armed Hamas commander",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOMDNwUS02RG5tczM2YnpWQk11Y3FMVkl1RHdxOEJfM2ZwMVhCdVpDYXRCM0ZPazBUM2ctTzJ0RlFYblJSQnpVOUNOQ3hEV3dRTDBtMFctRkx0UmdfLTJHMXBiUWtuY1BTUzNYUlFtYzYtcEFPbnFjckwwQzVlOE1uelloSGV3RXJ0MUZKZmhreG51amZqcndpNDZUWdIBoAFBVV95cUxPRGtLTkhRRGlnWTBXdUc5RDAxZDFEX2RpMmtPeTJ1SWlSVnVJclhNbFdTOU9nOEFPZ2thZ0VfNElRRU9LdXlCeXlMUWdkY0hlR09kLUp3clVKVElyOWJsOUZTZ3ZpZURZWWdLY01NNmJNM1RoNHlEempyZDhoMFZpcURiSHNseERGb0o4bFN2UjNnNWpoT0xwdzUwazc3Mnhi",
+      "source_count": 1,
+      "sources": [
+        "ThePrint"
+      ]
+    },
+    {
+      "title": "K-pop's Stray Kids to take 'RUN IT' tour to North America and Europe in 2027",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNQ0tqY3BqNnhnY3RMVEZBbkdmMk1VTDRWME50OGtlWXY1WnBORW1Qbmk5aG1oUi0tU2lPd1BFUU9KWUpteDVVUHE0aVBrcm56TjVpeXRRUmNfNm9TeXBHUl9RS212S3JJRC1tbzkzNHg0bEVVOUR1LV9BQXNvdFFjaVhEYnR5TV83QVBMQ2JLSHJHb3IwWS05dUxnVWlTVmN2ZmwxSE9xY0phRVlLT2doVW1hU1U1UQ",
+      "source_count": 1,
+      "sources": [
+        "FBC News"
       ]
     },
     {
@@ -487,19 +488,11 @@
       ]
     },
     {
-      "title": "Reuters: Jensen Huang told Nvidia leaders ties to Alice Huang were routine",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZ0xmcERjcjBrMTBqR1hCdklNYmdFQVhVQzVjMUFicUZoNFdMWk1VbEJVLXgwejFYWjhxWFVjaG93ZjE5VVZvSnRrWk9obGFPR2NHeXhIWlRuUmxRUEZpVHExN2hmOW9rWHlhUFJ1UTc1QlBLNXdiaURJT1YyVWhHTDhOS0s3ZmNYS1JiNndB0gGOAUFVX3lxTE9nTGZwRGNyMGsxMGpHWEJ2SU1iZ0VBWFVDNWMxQWJxRmg0V0xaTVVsQlUteDB6MVhaOHFYVWNob3dmMTlVVm9KdGtaT2hsYU9HY0d5eEhaVG5SbFFQRmlUcTE3aGY5b2tYeWFQUnVRNzVCUEs1d2JpRElPVjJVaEdMOE5LSzdmY1hLUmI2d0E",
+      "title": "Brookfield, CPPIB consortium enters next round in Uniper sales process, sources say",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPcmpxWThQVkYtb3BpeXplcGsxdEw3Z1ZBU3VYQXNMMDMwUFJEZjJjRU0xUk1FeGJUNU5aTDAwQjZENWxOTl9nTHJuQXpDT1MtQTB3bnpWTTFseUtxcHhKYW00dzg3REQzcTUxT0t3ZlpxRGJKRlZvLWNPV1hjU05lXzdfckFvMER5OE5j",
       "source_count": 1,
       "sources": [
-        "Chosunbiz"
-      ]
-    },
-    {
-      "title": "Judge orders cognitive checks on Hermès heir who says his fortune was stolen, Reuters sources say",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNVlpYT3hIYnZUcGZfQkQ1QlM5YmU3dDE0YllJeXRWcUlxeFR6MWQxN2VzMHhvZXBKVHd6OS1DQ0E1TVpYNUtpcTNQVDRaaG1kalppS2U1aWppRGtfN1NNWG83Vm42NWctR2JjUGViZWc1OXJKS2s1UFJhOXRaOVpiajd2eGJNRldCeEN4c3ljRWhZMlVtRS0yT3pCQjJrYTFPdGJqcjN4VTBSaGVvd0ZjUF9RU1llRE5kMjh6OE1ZTUN6aFZVZ2ZKaS1NREtBckZ3cmlV",
-      "source_count": 1,
-      "sources": [
-        "CTV News"
+        "AOL.com"
       ]
     },
     {
@@ -551,6 +544,54 @@
       ]
     },
     {
+      "title": "Amitabh Bachchan's Rs 100 cr bungalow Jalsa, a gift after Satte Pe Satta, now under dispute",
+      "url": "https://indianexpress.com/article/entertainment/bollywood/amitabh-bachchans-rs-100-cr-bungalow-jalsa-a-gift-after-satte-pe-satta-now-under-dispute-10963889/",
+      "source_count": 1,
+      "sources": [
+        "The Indian Express Cinema"
+      ]
+    },
+    {
+      "title": "'Pankaj Kapur threatened to walk out of wedding in one hour': Supriya Pathak",
+      "url": "https://indianexpress.com/article/entertainment/bollywood/pankaj-kapur-threatened-to-walk-out-of-wedding-in-1-hour-supriya-pathak-10963776/",
+      "source_count": 1,
+      "sources": [
+        "The Indian Express Cinema"
+      ]
+    },
+    {
+      "title": "'I really need help': Sharad Kapoor appeals to senior stars for work",
+      "url": "https://indianexpress.com/article/entertainment/bollywood/dastak-actor-sharad-kapoor-appeals-to-senior-stars-for-work-10963757/",
+      "source_count": 1,
+      "sources": [
+        "The Indian Express Cinema"
+      ]
+    },
+    {
+      "title": "Rimi Tomy ties the knot with gym trainer fiance Libin Mathew in intimate ceremony",
+      "url": "https://indianexpress.com/article/entertainment/malayalam/rimi-tomy-ties-the-knot-with-gym-trainer-fiance-libin-mathew-in-intimate-ceremony-10963775/",
+      "source_count": 1,
+      "sources": [
+        "The Indian Express Cinema"
+      ]
+    },
+    {
+      "title": "Prince William and Kate Middleton to join Sachin Tendulkar, Alia Bhatt at Earthshot Prize awards",
+      "url": "https://indianexpress.com/article/entertainment/hollywood/prince-william-kate-middleton-to-join-sachin-tendulkar-alia-bhatt-at-earthshot-prize-awards-10963742/",
+      "source_count": 1,
+      "sources": [
+        "The Indian Express Cinema"
+      ]
+    },
+    {
+      "title": "'He's the spit of James': McGonagall tells Dumbledore in Harry Potter series new promo. Watch",
+      "url": "https://indianexpress.com/article/entertainment/hollywood/harry-potter-and-the-philosophers-stone-promo-dumbledore-mcgonagall-watch-10963712/",
+      "source_count": 1,
+      "sources": [
+        "The Indian Express Cinema"
+      ]
+    },
+    {
       "title": "Inside the New Magazine About Psychedelics",
       "url": "https://www.rollingstone.com/culture/culture-features/thunder-perfect-mind-psychedelics-goddess-1235657571/",
       "source_count": 1,
@@ -599,41 +640,48 @@
       ]
     },
     {
-      "title": "John Mulaney and Phoebe Bridgers on 'SNL': Here's Where to Watch 'Saturday Night Live' Online for Free",
-      "url": "https://www.billboard.com/culture/product-recommendations/watch-snl-2026-john-mulaney-phoebe-bridgers-live-online-1236380661/",
-      "source_count": 2,
-      "sources": [
-        "Billboard",
-        "Billboard"
-      ]
-    },
-    {
-      "title": "The Latin Recording Academy Celebrates Leading Ladies of Entertainment & More Uplifting Moments",
-      "url": "https://www.billboard.com/music/latin/latin-grammy-leading-ladies-entertainment-uplifting-moments-1236382250/",
+      "title": "Daniel Hall, Co-Founder of Australian Rock Band Taxiride, Dies at 48",
+      "url": "https://www.billboard.com/music/music-news/taxiride-co-founder-daniel-hall-dies-48-1236382339/",
       "source_count": 1,
       "sources": [
         "Billboard"
       ]
     },
     {
-      "title": "'Grand Theft Auto VI' Soundtrack: See the Full 34-Song Tracklist",
-      "url": "https://www.billboard.com/music/music-news/gta-6-album-tracklist-grand-theft-auto-vi-soundtrack-1236382244/",
+      "title": "U2 Opens 2026 Rock & Roll Hall of Fame Ceremony With Surprise Performance",
+      "url": "https://www.billboard.com/music/rock/u2-surprise-performance-2026-rock-hall-induction-ceremony-1236382327/",
       "source_count": 1,
       "sources": [
         "Billboard"
       ]
     },
     {
-      "title": "Karol G Surprises Mexico City Fans With Thalía as Special Guest: 'The First Person I Wanted to Be'",
-      "url": "https://www.billboard.com/music/latin/karol-g-thalia-surprise-guest-mexico-city-show-1236382220/",
+      "title": "Phil Collins Tells Rock Hall Crowd: 'You Haven't Heard the Last of Me'",
+      "url": "https://www.billboard.com/music/rock/phil-collins-rock-hall-induction-speech-travis-barker-cynthia-erivo-1236382323/",
       "source_count": 1,
       "sources": [
         "Billboard"
       ]
     },
     {
-      "title": "Simple Plan, Hoobastank & More Take Warped Tour Mid-Flight Amid FAA Ground Stop",
-      "url": "https://www.billboard.com/music/rock/simple-plan-hoobastank-warped-tour-flight-faa-ground-stop-1236382214/",
+      "title": "BTS & ROSÉ Lead a Big Night for K-Pop at 2026 Kids' Choice Awards: Full Winners List",
+      "url": "https://www.billboard.com/lists/2026-kids-choice-awards-full-winners-list/",
+      "source_count": 1,
+      "sources": [
+        "Billboard"
+      ]
+    },
+    {
+      "title": "Filipino Singer Carmelle Storms to Victory in Eurovision Asia Debut in Bangkok",
+      "url": "https://www.billboard.com/music/music-news/carmelle-eurovision-asia-winner-2026-1236382296/",
+      "source_count": 1,
+      "sources": [
+        "Billboard"
+      ]
+    },
+    {
+      "title": "Richard Sterban, Oak Ridge Boys Bass Singer Who Helped Make 'Elvira' a Hit, Dies at 83",
+      "url": "https://www.billboard.com/music/country/richard-sterban-death-oak-ridge-boys-1236382272/",
       "source_count": 1,
       "sources": [
         "Billboard"
@@ -688,45 +736,53 @@
       ]
     },
     {
+      "title": "I Can't Wait to Ignore the Main Story of GTA 6",
+      "url": "https://www.polygon.com/gta-6-main-story-side-activities/",
+      "source_count": 1,
+      "sources": [
+        "Polygon"
+      ]
+    },
+    {
+      "title": "8 Near-Perfect Sci-Fi Miniseries that Hook You in the First Episode",
+      "url": "https://www.polygon.com/sci-fi-miniseries-perfect-hook-first-episode/",
+      "source_count": 1,
+      "sources": [
+        "Polygon"
+      ]
+    },
+    {
+      "title": "Tomb Raider Remake Gameplay Changes Are Dividing Fans",
+      "url": "https://www.polygon.com/tomb-raider-remake-changes-legacy-of-atlantis/",
+      "source_count": 1,
+      "sources": [
+        "Polygon"
+      ]
+    },
+    {
+      "title": "Forget Ganon, Zelda: Ocarina of Time's Most Overlooked Boss Finally Gets Its Due",
+      "url": "https://www.polygon.com/zelda-ocarina-of-time-remake-twinrova/",
+      "source_count": 1,
+      "sources": [
+        "Polygon"
+      ]
+    },
+    {
+      "title": "9 Giant-Sized Changes Marvel Made to Ant-Man After Edgar Wright Left",
+      "url": "https://www.polygon.com/edgar-wright-ant-man-script-differences/",
+      "source_count": 1,
+      "sources": [
+        "Polygon"
+      ]
+    },
+    {
       "title": "Stephen King's Underrated 1980 Horror Thriller Gets New Prime Video Adaptation",
       "url": "https://www.polygon.com/stephen-king-prime-video-crouch-end-tv-show/",
       "source_count": 1,
       "sources": [
         "Polygon"
       ]
-    },
-    {
-      "title": "10 Must-Play Co-Op Games for People With Real-Life Schedules",
-      "url": "https://www.polygon.com/co-op-games-real-life-schedules/",
-      "source_count": 1,
-      "sources": [
-        "Polygon"
-      ]
-    },
-    {
-      "title": "Nintendo Officially Reveals New Kirby Game for Switch 2",
-      "url": "https://www.polygon.com/kirby-world-beyond-nintendo-switch-2-2027/",
-      "source_count": 1,
-      "sources": [
-        "Polygon"
-      ]
-    },
-    {
-      "title": "Calvin and Hobbes' 5 Greatest Spaceman Spiff Comic Strips",
-      "url": "https://www.polygon.com/calvin-hobbes-best-spaceman-spiff-comics/",
-      "source_count": 1,
-      "sources": [
-        "Polygon"
-      ]
-    },
-    {
-      "title": "32 Years Later, Star Trek's Most Important Movie Is Officially Free on Streaming",
-      "url": "https://www.polygon.com/star-trek-generations-streaming-free-november-2026/",
-      "source_count": 1,
-      "sources": [
-        "Polygon"
-      ]
     }
   ],
-  "summary": "Verified intelligence gathered across 90 deduplicated editorial clusters."
+  "summary": "Verified intelligence gathered across 97 deduplicated editorial clusters."
 }
