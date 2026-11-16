@@ -1,162 +1,215 @@
 {
-  "timestamp": "2026-11-16T04:57:45.165594+00:00",
-  "headline_count": 90,
+  "timestamp": "2026-11-16T14:54:13.007234+00:00",
+  "headline_count": 91,
   "headlines": [
     {
-      "title": "'Writing With Fire' Directors' Himalayan Story Lab Unveils Fourth Cohort, Taps Payal Kapadia and Shaunak Sen as Mentors (EXCLUSIVE)",
-      "url": "https://variety.com/2026/film/asia/writing-with-fire-directors-fourth-himalayan-story-lab-cohort-1236947650/",
+      "title": "'Ramayana: Rise of a Legend' Review: Indian Mythological Blockbuster Is an Eye-Popper, but Skip the English Edit",
+      "url": "https://variety.com/2026/film/reviews/ramayana-rise-of-a-legend-review-1236948024/",
       "source_count": 1,
       "sources": [
         "Variety"
       ]
     },
     {
-      "title": "'The Gilded Age' Star Denée Benton on Peggy's Big Day: \"It Was Like Eating Candy and Steak All at the Same Time\"",
-      "url": "https://variety.com/2026/tv/news/gilded-age-peggy-wedding-denee-benton-1236948219/",
+      "title": "First Lady Melania Trump to Participate in Fox News' Annual Christmas Tree Lighting",
+      "url": "https://variety.com/2026/tv/news/first-lady-melania-trump-fox-news-christmas-tree-lighting-1236948194/",
       "source_count": 1,
       "sources": [
         "Variety"
       ]
     },
     {
-      "title": "Governors Awards 2026 Red Carpet Photos: Zendaya, Inde Navarrette, Timothée Chalamet and More",
-      "url": "https://variety.com/gallery/governors-awards-2026-red-carpet-photos/",
-      "source_count": 4,
+      "title": "Grammys Snubs and Surprises: Harry Styles Shut Out, Raye's Huge Year and Noah Kahan Only Gets One Nomination",
+      "url": "https://variety.com/2026/music/news/grammy-snubs-surprises-harry-styles-raye-noah-kahan-1236948467/",
+      "source_count": 2,
       "sources": [
         "Variety",
-        "Variety",
+        "The Hollywood Reporter"
+      ]
+    },
+    {
+      "title": "Franco-Moroccan Director Nabil Ayouch on Exploring 'More Intimacy in My Characters' With Next Film 'Run, With No Tears'",
+      "url": "https://variety.com/2026/film/news/nabil-ayouch-cairo-controversy-creative-freedom-1236948769/",
+      "source_count": 1,
+      "sources": [
+        "Variety"
+      ]
+    },
+    {
+      "title": "Golshifteh Farahani and Director Chabname Zariab on Anti-Taliban Film 'When She Hears the Bells,' Sold by Le Pacte",
+      "url": "https://variety.com/2026/film/global/golshifteh-farahani-when-she-hears-the-bells-le-pacte-1236948866/",
+      "source_count": 1,
+      "sources": [
+        "Variety"
+      ]
+    },
+    {
+      "title": "'14th' Trailer: First Look at Ava DuVernay's Haunting Political Documentary (EXCLUSIVE)",
+      "url": "https://variety.com/2026/film/news/14th-trailer-netflix-ava-duvernay-1236948187/",
+      "source_count": 1,
+      "sources": [
+        "Variety"
+      ]
+    },
+    {
+      "title": "'14th' Trailer: Ava DuVernay Issues Warning About Threats To Critical Constitutional Amendment: \"We Are All At Peril\"",
+      "url": "https://deadline.com/2026/11/14th-trailer-ava-duvernay-documentary-1237224975/",
+      "source_count": 1,
+      "sources": [
+        "Deadline Hollywood"
+      ]
+    },
+    {
+      "title": "'Miss Scarlet' Creator Behind New Masterpiece-UKTV Period Drama 'Fleet Street' Starring Silvia Presente & Guy Remmers",
+      "url": "https://deadline.com/2026/11/fleet-street-series-pbs-masterpiece-miss-scarlet-1237222742/",
+      "source_count": 1,
+      "sources": [
+        "Deadline Hollywood"
+      ]
+    },
+    {
+      "title": "Bryan Cranston & Marianne Jean-Baptiste Heading To Broadway In Ivo Van Hove's Acclaimed 'All My Sons' Revival",
+      "url": "https://deadline.com/2026/11/bryan-cranston-marianne-jean-baptiste-broadway-all-my-sons-1237223310/",
+      "source_count": 1,
+      "sources": [
+        "Deadline Hollywood"
+      ]
+    },
+    {
+      "title": "Deal (Nearly) Done? UK Actors Union Equity Urges Members To Vote \"Yes\" On Final Offer From Pact Including Streamer Compensation, Pay Bumps & \"Groundbreaking\" AI Provisions",
+      "url": "https://deadline.com/2026/11/equity-pact-deal-offer-ai-provisions-streamer-residuals-1237222636/",
+      "source_count": 1,
+      "sources": [
+        "Deadline Hollywood"
+      ]
+    },
+    {
+      "title": "'NBC100: The Live Celebration' Sets Amy Poehler, Conan O'Brien, Mariska Hargitay & More For Centennial Special Lineup; More Soon",
+      "url": "https://deadline.com/2026/11/nbc100-the-live-celebration-nbc-sets-centennial-special-1237224549/",
+      "source_count": 1,
+      "sources": [
+        "Deadline Hollywood"
+      ]
+    },
+    {
+      "title": "Hans Christian Andersen Animated Biopic In The Works With Beloved Characters Part Of The Story",
+      "url": "https://deadline.com/2026/11/hans-christian-andersen-animated-biopic-in-the-works-1237225014/",
+      "source_count": 1,
+      "sources": [
+        "Deadline Hollywood"
+      ]
+    },
+    {
+      "title": "Grammys: Michael J. Fox, Tim Curry, 'Wicked: For Good,' 'The Pitt' Among Hollywood Nominees",
+      "url": "https://www.hollywoodreporter.com/music/music-news/michael-j-fox-tim-curry-celeb-grammy-nominations-2027-1236755091/",
+      "source_count": 1,
+      "sources": [
+        "The Hollywood Reporter"
+      ]
+    },
+    {
+      "title": "Dolly Parton Lands Three Posthumous Grammy Nominations",
+      "url": "https://www.hollywoodreporter.com/music/music-news/dolly-parton-posthumous-grammy-nominations-1236755782/",
+      "source_count": 1,
+      "sources": [
+        "The Hollywood Reporter"
+      ]
+    },
+    {
+      "title": "Taylor Swift Scores Five Grammy Nominations, Including Album and Record of the Year Nods",
+      "url": "https://www.hollywoodreporter.com/music/music-news/taylor-swift-grammy-nominations-2027-1236755878/",
+      "source_count": 2,
+      "sources": [
         "The Hollywood Reporter",
         "The Hollywood Reporter"
       ]
     },
     {
-      "title": "Phoebe Bridgers' Skeletal Transformation on 'SNL' Wasn't Just a Startling Special Effect - It Emotionally Elevated One of the Best Pop Songs Ever Written About Death",
-      "url": "https://variety.com/2026/music/columns/phoebe-bridgers-snl-still-standing-skull-skeleta-1236948223/",
-      "source_count": 1,
-      "sources": [
-        "Variety"
-      ]
-    },
-    {
-      "title": "'Slow Horses' Will End With Season 8, Says Olivia Cooke: 'We're All Melancholy… The Show's Been a Shining Light'",
-      "url": "https://variety.com/2026/tv/news/slow-horses-end-season-8-olivia-cooke-1236948306/",
-      "source_count": 2,
-      "sources": [
-        "Variety",
-        "Deadline Hollywood"
-      ]
-    },
-    {
-      "title": "Jason Sudeikis & Hanna Waddingham Duet On \"Islands In The Stream\"",
-      "url": "https://deadline.com/2026/11/jason-sudeikis-hanna-waddingham-islands-in-the-stream-1237224834/",
-      "source_count": 1,
-      "sources": [
-        "Watch"
-      ]
-    },
-    {
-      "title": "'The Gilded Age' Co-Showrunner Sonja Warfield Reveals How Audra McDonald \"Planted The Seed\" For \"Core Conflict\" Of Peggy's Wedding In Episode 403",
-      "url": "https://deadline.com/2026/11/the-gilded-age-peggy-wedding-season-4-jumping-broom-explain-1237223723/",
-      "source_count": 1,
-      "sources": [
-        "Deadline Hollywood"
-      ]
-    },
-    {
-      "title": "'Downstate' Broadway Review: Provocative Play About Sex Offenders Questions The Nature Of Forgiveness",
-      "url": "https://deadline.com/2026/11/downstate-broadway-review-1237220229/",
-      "source_count": 1,
-      "sources": [
-        "Deadline Hollywood"
-      ]
-    },
-    {
-      "title": "'Beast Games' Sets Season 3 Release Date At Prime Video",
-      "url": "https://deadline.com/2026/11/beast-games-season-3-release-date-prime-video-mrbeast-1237223404/",
-      "source_count": 1,
-      "sources": [
-        "Deadline Hollywood"
-      ]
-    },
-    {
-      "title": "Russell Brand Maintains Innocence In Message Through Wife From Behind Bars",
-      "url": "https://deadline.com/2026/11/russell-brand-maintains-innocence-message-wife-behind-bars-1237224538/",
-      "source_count": 2,
-      "sources": [
-        "Deadline Hollywood",
-        "The Hollywood Reporter"
-      ]
-    },
-    {
-      "title": "Billy Idol Rebels, Phil Collins Gets Emotional and Rick Rubin Clones Invade the Rock Hall Induction Ceremony",
-      "url": "https://www.hollywoodreporter.com/music/music-news/rock-and-roll-hall-of-fame-2026-ceremony-recap-1236755715/",
+      "title": "2027 Grammys: Madonna Lands Five Nods, Misses Out on Major Categories",
+      "url": "https://www.hollywoodreporter.com/music/music-news/madonna-grammy-nominations-2027-1236756118/",
       "source_count": 1,
       "sources": [
         "The Hollywood Reporter"
       ]
     },
     {
-      "title": "Billy Evans Reacts to Amanda Seyfried's Portrayal of Elizabeth Holmes in 'You Can See Everything'",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/billy-evans-reacts-amanda-seyfried-portrayal-elizabeth-holmes-1236755698/",
-      "source_count": 1,
-      "sources": [
-        "The Hollywood Reporter"
-      ]
-    },
-    {
-      "title": "Baby2Baby Gala Fetes Demi Moore and Raises Over $20M for the Cause",
-      "url": "https://www.hollywoodreporter.com/lifestyle/lifestyle-news/baby2baby-gala-demi-moore-raises-20-million-1236755662/",
-      "source_count": 1,
-      "sources": [
-        "The Hollywood Reporter"
-      ]
-    },
-    {
-      "title": "Tanhaji: The Unsung Warrior and Adipurush director Om Raut to conduct masterclass on making grand films at Chitrapataka 2026",
-      "url": "https://www.bollywoodhungama.com/news/bollywood/tanhaji-the-unsung-warrior-and-adipurush-director-om-raut-to-conduct-masterclass-on-making-grand-films-at-chitrapataka-2026/",
+      "title": "The Vvaan 2 officially announced: Ektaa R Kapoor reunites with TVF to expand folklore fantasy universe after first film's success",
+      "url": "https://www.bollywoodhungama.com/news/bollywood/the-vvaan-2-officially-announced-ektaa-r-kapoor-reunites-with-tvf-to-expand-folklore-fantasy-universe-after-first-films-success/",
       "source_count": 1,
       "sources": [
         "Bollywood Hungama"
       ]
     },
     {
-      "title": "Sonakshi Sinha files complaint over morphed photos, Delhi man released by Mumbai court",
-      "url": "https://www.bollywoodhungama.com/news/bollywood/sonakshi-sinha-files-complaint-over-morphed-photos-delhi-man-released-by-mumbai-court/",
+      "title": "Akshay Kumar faces a menacing alien in Samuk motion poster",
+      "url": "https://www.bollywoodhungama.com/news/bollywood/akshay-kumar-faces-a-menacing-alien-in-samuk-motion-poster/",
       "source_count": 1,
       "sources": [
         "Bollywood Hungama"
       ]
     },
     {
-      "title": "EXCLUSIVE: Sunny Deol's Suryaa: Ant Se Aarambh Tak postponed to 2027; veteran actor still has 4 releases in 2026 after 19 YEARS",
-      "url": "https://www.bollywoodhungama.com/news/bollywood/exclusive-sunny-deols-suryaa-ant-se-aarambh-tak-postponed-to-2027-veteran-actor-still-has-4-releases-in-2026-after-19-years/",
+      "title": "Virat Kohli, Priyanka Chopra Jonas, Shraddha Kapoor, Alia Bhatt and Katrina Kaif feature among Asia's most-followed Instagram personalities in 2026",
+      "url": "https://www.bollywoodhungama.com/news/bollywood/virat-kohli-priyanka-chopra-jonas-shraddha-kapoor-alia-bhatt-and-katrina-kaif-feature-among-asias-most-followed-instagram-personalities-in-2026/",
       "source_count": 1,
       "sources": [
         "Bollywood Hungama"
       ]
     },
     {
-      "title": "Ramayana to release in China, Russia, Japan and South Korea in Q1 2027; film already submitted for censor clearance in China",
-      "url": "https://www.bollywoodhungama.com/news/bollywood/ramayana-to-release-in-china-russia-japan-and-south-korea-in-q1-2027-film-already-submitted-for-censor-clearance-in-china/",
+      "title": "Karan Johar's kids Yash and Roohi to make chat show debut with Shah Rukh Khan in Koffee With Karan 9 finale: Report",
+      "url": "https://www.bollywoodhungama.com/news/bollywood/karan-johars-kids-yash-and-roohi-to-make-chat-show-debut-with-shah-rukh-khan-in-koffee-with-karan-9-finale-report/",
       "source_count": 1,
       "sources": [
         "Bollywood Hungama"
       ]
     },
     {
-      "title": "Panchayat Season 5 Iss Saal Nahi Aayega? Prime Video's cryptic post leaves fans wondering",
-      "url": "https://www.bollywoodhungama.com/news/bollywood/panchayat-season-5-iss-saal-nahi-aayega-prime-videos-cryptic-post-leaves-fans-wondering/",
+      "title": "Amitabh Bachchan, Abhishek Bachchan receive death threats from gangster Goldy Dhillon; claims 200 associates are active in Mumbai",
+      "url": "https://www.bollywoodhungama.com/news/bollywood/amitabh-bachchan-abhishek-bachchan-receive-death-threats-from-gangster-goldy-dhillon-claims-200-associates-are-active-in-mumbai/",
       "source_count": 1,
       "sources": [
         "Bollywood Hungama"
       ]
     },
     {
-      "title": "Vir Hirani to voice Mowgli in upcoming AI-generated feature film inspired by The Jungle Book",
-      "url": "https://www.bollywoodhungama.com/news/bollywood/vir-hirani-to-voice-mowgli-in-upcoming-ai-generated-feature-film-inspired-by-the-jungle-book/",
+      "title": "Arjun Rampal begins shooting for Hansal Mehta's Billionaire in London, shares glimpse from first day on set",
+      "url": "https://www.bollywoodhungama.com/news/bollywood/arjun-rampal-begins-shooting-for-hansal-mehtas-billionaire-in-london-shares-glimpse-from-first-day-on-set/",
       "source_count": 1,
       "sources": [
         "Bollywood Hungama"
+      ]
+    },
+    {
+      "title": "Willie Geist Leaving Morning Joe For Expanded Role At NBC News",
+      "url": "https://www.tvline.com/2317460/willie-geist-leaving-morning-joe-nbc-news/",
+      "source_count": 1,
+      "sources": [
+        "TVLine"
+      ]
+    },
+    {
+      "title": "Slow Horses Renewed For Seasons 9 And 10 - Ahead Of Season 7 Premiere On Apple TV",
+      "url": "https://www.tvline.com/2317457/slow-horses-renewed-season-9-10-apple-tv/",
+      "source_count": 1,
+      "sources": [
+        "TVLine"
+      ]
+    },
+    {
+      "title": "Quote Of The Day By Sam Elliott: 'On Some Level, It's Very Difficult. On Another, It's A Gift That I'm Alive, Because My...'",
+      "url": "https://www.tvline.com/2315465/quote-of-the-day-sam-elliott-difficulty-of-aging/",
+      "source_count": 1,
+      "sources": [
+        "TVLine"
+      ]
+    },
+    {
+      "title": "What To Watch Monday: FBI Brings Back Nina, The Voice Live Shows Continue, And More",
+      "url": "https://www.tvline.com/2314422/what-to-watch-november-16-2026-tv-shows-movies-streaming/",
+      "source_count": 1,
+      "sources": [
+        "TVLine"
       ]
     },
     {
@@ -170,38 +223,6 @@
     {
       "title": "Loki's Sophia Di Martino Starred In A Forgotten Comedy Series That Deserved Better",
       "url": "https://www.tvline.com/2311954/loki-sophia-di-martino-comedy-series-flowers/",
-      "source_count": 1,
-      "sources": [
-        "TVLine"
-      ]
-    },
-    {
-      "title": "10 Scrubs Episodes To Skip On A Rewatch",
-      "url": "https://www.tvline.com/2316889/scrubs-episodes-skip-rewatch/",
-      "source_count": 1,
-      "sources": [
-        "TVLine"
-      ]
-    },
-    {
-      "title": "Marshals' Latest Loss Was Inspired By Star's Real-Life Tragedy: 'It Was Very Personal,' Says Mo Brings Plenty",
-      "url": "https://www.tvline.com/2317242/marshals-season-2-episode-6-recap-troy-death-explained-cole-brings-plenty/",
-      "source_count": 1,
-      "sources": [
-        "TVLine"
-      ]
-    },
-    {
-      "title": "5 Biggest Criminal Minds Actor Exits (And Why They Left)",
-      "url": "https://www.tvline.com/2313332/criminal-minds-biggest-actor-exits-explained/",
-      "source_count": 1,
-      "sources": [
-        "TVLine"
-      ]
-    },
-    {
-      "title": "Save The Dates: Beast Games Season 3, Claire Danes And Ewan McGregor Hulu Drama, And More",
-      "url": "https://www.tvline.com/2317215/beast-games-season-3-claire-danes-the-spot-release-dates/",
       "source_count": 1,
       "sources": [
         "TVLine"
@@ -256,6 +277,23 @@
       ]
     },
     {
+      "title": "A Message From Dr. XBOX: It's Time to Take the Day Off and Play XBOX",
+      "url": "https://news.xbox.com/en-us/2026/11/16/dr-xbox-its-time-to-take-the-day-off-and-play-xbox/",
+      "source_count": 2,
+      "sources": [
+        "Xbox Wire",
+        "GameSpot"
+      ]
+    },
+    {
+      "title": "Minecraft Dungeons II: The Humblers Awaken Arrives on December 1",
+      "url": "https://news.xbox.com/en-us/2026/11/16/minecraft-dungeons-ii-the-humblers-awaken-arrives-on-december-1/",
+      "source_count": 1,
+      "sources": [
+        "Xbox Wire"
+      ]
+    },
+    {
       "title": "XBOX 25th Anniversary Magazine: Explore 25 Years of Games, Stories, and Memories",
       "url": "https://news.xbox.com/en-us/2026/11/15/xbox-25th-anniversary-the-magazine/",
       "source_count": 1,
@@ -288,24 +326,24 @@
       ]
     },
     {
-      "title": "Bethesda Celebrates XBOX 25 with id Software & MachineGames News",
-      "url": "https://news.xbox.com/en-us/2026/11/12/bethesda-celebrates-xbox-25-with-id-software-machinegames-news/",
+      "title": "Fable Reveals First Look At Bowerstone's New Map, And It's Huge",
+      "url": "https://www.ign.com/articles/fable-reveals-first-look-at-bowerstones-new-map-and-its-huge",
       "source_count": 1,
       "sources": [
-        "Xbox Wire"
+        "IGN Games"
       ]
     },
     {
-      "title": "Available for XBOX Insiders: More Ways to Personalize Your Home, Library, and Guide",
-      "url": "https://news.xbox.com/en-us/2026/11/12/xbox-insiders-january-2027-console-features-1/",
+      "title": "GTA 6 Gets Another Day One Patch, and It's 1GB Bigger on Xbox",
+      "url": "https://www.ign.com/articles/gta-6-gets-another-day-one-patch-bigger-on-xbox",
       "source_count": 1,
       "sources": [
-        "Xbox Wire"
+        "IGN Games"
       ]
     },
     {
-      "title": "The Best Deals Today: Control Resonant, Apple AirPods Pro 3, 4K Blu-ray Sales, and More",
-      "url": "https://www.ign.com/articles/best-deals-for-november-15-2026",
+      "title": "Ghost of Yotei Drops to £28 in PlayStation's UK Black Friday Sale",
+      "url": "https://www.ign.com/articles/ghost-of-yotei-playstation-black-friday-sale-uk",
       "source_count": 2,
       "sources": [
         "IGN Games",
@@ -313,136 +351,112 @@
       ]
     },
     {
-      "title": "GTA 6's Jason and Lucia Will Start as Small-Time Criminals Who Have to Work Up to High-Value Jobs",
-      "url": "https://www.ign.com/articles/gta-6s-jason-and-lucia-will-start-as-small-time-criminals-who-have-to-work-up-to-high-value-jobs",
+      "title": "Gangland Tales From the Frontline of Rockstar's Real-Life Grand Theft Auto Research",
+      "url": "https://www.ign.com/articles/rockstars-real-life-grand-theft-auto-research",
       "source_count": 1,
       "sources": [
         "IGN Games"
       ]
     },
     {
-      "title": "EA Adds 'Don't Delete' Message to Madden NFL 27 in Bid to Keep Players From Making Room Ahead of GTA 6",
-      "url": "https://www.ign.com/articles/ea-adds-dont-delete-message-to-madden-nfl-27-in-bid-to-keep-players-from-making-room-ahead-of-gta-6",
+      "title": "The Best Deals Today: Control Resonant, Apple AirPods Pro 3, 4K Blu-ray Sales, and More",
+      "url": "https://www.ign.com/articles/best-deals-for-november-15-2026",
       "source_count": 1,
       "sources": [
         "IGN Games"
       ]
     },
     {
-      "title": "Xbox at 25: My Memories From Across Xbox's Entire (and Quite Incredible) History",
-      "url": "https://www.ign.com/articles/xbox-at-25-my-memories-from-across-xboxs-entire-and-quite-incredible-history",
-      "source_count": 1,
-      "sources": [
-        "IGN Games"
-      ]
-    },
-    {
-      "title": "GTA 6 Leak Seemingly Reveals Official Album's Full Track List Days Before Launch",
-      "url": "https://www.ign.com/articles/gta-6-leak-seemingly-reveals-full-track-list-days-before-launch",
-      "source_count": 1,
-      "sources": [
-        "IGN Games"
-      ]
-    },
-    {
-      "title": "GTA 6 Is Like The Olympics - \"A Rare Cultural Moment\" With Massive Ripple Effects",
-      "url": "https://www.gamespot.com/articles/gta-6-is-like-the-olympics-a-rare-cultural-moment-with-massive-ripple-effects/",
+      "title": "Xbox Game Pass Gets Even More Games In November",
+      "url": "https://www.gamespot.com/articles/xbox-game-pass-gets-even-more-games-in-november/",
       "source_count": 1,
       "sources": [
         "GameSpot"
       ]
     },
     {
-      "title": "\"Physical\" GTA 6 Copies Might Be Vulnerable To A Very Stupid But Serious Trick",
-      "url": "https://www.gamespot.com/articles/physical-gta-6-copies-might-be-vulnerable-to-a-very-stupid-but-serious-trick/",
+      "title": "We Got A Grand Theft At Disney World Before GTA 6",
+      "url": "https://www.gamespot.com/articles/we-got-a-grand-theft-at-disney-world-before-gta-6/",
       "source_count": 1,
       "sources": [
         "GameSpot"
       ]
     },
     {
-      "title": "GTA 6 Owner Take-Two Is Not Interested In Selling Itself After EA Goes Private For $55 Billion",
-      "url": "https://www.gamespot.com/articles/gta-6-owner-take-two-is-not-interested-in-selling-itself-after-ea-goes-private-for-55-billion/",
+      "title": "Xbox Is Looking For Smarter Ways To Stop Its Next Console From Costing A Fortune",
+      "url": "https://www.gamespot.com/articles/xbox-is-hoping-ai-can-stop-its-next-console-from-costing-a-fortune/",
       "source_count": 1,
       "sources": [
         "GameSpot"
       ]
     },
     {
-      "title": "GTA 6 Could Sell 55 Million Copies By Early Next Year, Report Says, And Average Selling Price Could Be $90",
-      "url": "https://www.gamespot.com/articles/gta-6-could-sell-55-million-copies-by-early-next-year-report-says-and-average-selling-price-could-be-90/",
+      "title": "GTA 6 Nearing 15 Million Copies Sold And $1.5 Billion In Revenue, And The Game Isn't Even Out Yet",
+      "url": "https://www.gamespot.com/articles/gta-6-has-sold-almost-8-million-copies-so-far-and-ps5-is-dominating-the-split-of-course/",
       "source_count": 1,
       "sources": [
         "GameSpot"
       ]
     },
     {
-      "title": "You Can Probably Guess WoW: Forever's Most Popular Race, Class, And Faction",
-      "url": "https://www.gamespot.com/articles/you-can-probably-guess-wow-forevers-most-popular-race-class-and-faction/",
+      "title": "GTA 6 Twitch Drops Are Coming Soon, Here's How To Get Your Free Rewards",
+      "url": "https://www.gamespot.com/articles/gta-6-twitch-drops/",
       "source_count": 1,
       "sources": [
         "GameSpot"
       ]
     },
     {
-      "title": "Official Zelda Website Raises Eyebrows By Labeling 3DS Game As Playable On Switch",
-      "url": "https://www.gamespot.com/articles/official-zelda-website-raises-eyebrows-by-labeling-3ds-game-as-playable-on-switch/",
-      "source_count": 1,
-      "sources": [
-        "GameSpot"
-      ]
-    },
-    {
-      "title": "Are you more of an ambient music enjoyer or theatrical atmosphere appreciator?",
-      "url": "https://www.pcgamer.com/games/world-of-warcraft/are-you-more-of-an-ambient-music-enjoyer-or-theatrical-atmosphere-appreciator/",
+      "title": "World of Warcraft: Forever player turns their paladin into a near-unkillable healbot, solos a level 60 monster at level 30, and swims into the ocean",
+      "url": "https://www.pcgamer.com/games/world-of-warcraft/world-of-warcraft-forever-player-turns-their-paladin-into-a-near-unkillable-healbot-solos-a-level-60-monster-at-level-30-and-swims-into-the-ocean/",
       "source_count": 1,
       "sources": [
         "PC Gamer"
       ]
     },
     {
-      "title": "League of Legends will get an overhaul called New Dawn with new visuals, build options, and an updated client",
-      "url": "https://www.pcgamer.com/games/moba/league-of-legends-will-get-an-overhaul-called-new-dawn-with-new-visuals-build-options-and-an-updated-client/",
+      "title": "Ashes of the Singularity 2 review: Some neat ideas undermined by a rubbish campaign and obtrusive generative AI",
+      "url": "https://www.pcgamer.com/games/rts/ashes-of-the-singularity-2-review/",
       "source_count": 1,
       "sources": [
         "PC Gamer"
       ]
     },
     {
-      "title": "The pandemic was transformative for Jackbox: 'We went from a gamer name to a household name'",
-      "url": "https://www.pcgamer.com/games/the-pandemic-was-transformative-for-jackbox-we-went-from-a-gamer-name-to-a-household-name/",
+      "title": "'Game dev isn't always straightforward': Overwatch's director responds to players upset about season 6's hero being a DPS",
+      "url": "https://www.pcgamer.com/games/fps/game-dev-isnt-always-straightforward-overwatchs-director-responds-to-players-upset-about-season-6s-hero-being-a-dps/",
       "source_count": 1,
       "sources": [
         "PC Gamer"
       ]
     },
     {
-      "title": "YouTuber and comedian Ashens has 1,000 hours in Baldur's Gate 3 and reveals the worst retro game he's ever played: 'By the time you've hacked it to work, it's just no fun whatsoever'",
-      "url": "https://www.pcgamer.com/gaming-industry/youtuber-and-comedian-ashens-has-1-000-hours-in-baldurs-gate-3-and-reveals-the-worst-retro-game-hes-ever-played-by-the-time-youve-hacked-it-to-work-its-just-no-fun-whatsoever/",
+      "title": "Intel hit with class action alleging it 'misled investors' - company's recent downturn due in part to how darn expensive PCs are right now",
+      "url": "https://www.pcgamer.com/hardware/processors/intel-hit-with-class-action-alleging-it-misled-investors-companys-recent-downturn-due-in-part-to-how-darn-expensive-pcs-are-right-now/",
       "source_count": 1,
       "sources": [
         "PC Gamer"
       ]
     },
     {
-      "title": "Slay the Spire 2 has a new character in testing, and she's really quite busted",
-      "url": "https://www.pcgamer.com/games/roguelike/slay-the-spire-2-has-a-new-character-in-testing-and-shes-really-quite-busted/",
+      "title": "New Asus beta BIOS patches now include a fresh AMD feature to stop you thinking your PC's b0rked",
+      "url": "https://www.pcgamer.com/hardware/motherboards/new-asus-beta-bios-patches-now-include-a-fresh-amd-feature-to-stop-you-thinking-your-pcs-b0rked/",
       "source_count": 1,
       "sources": [
         "PC Gamer"
       ]
     },
     {
-      "title": "Queen's Domain is the best Dark Souls 1 since Dark Souls 1",
-      "url": "https://www.pcgamer.com/games/rpg/queens-domain-is-the-best-dark-souls-1-since-dark-souls-1/",
+      "title": "Jensen Huang reportedly eyeing up return to Nvidia as friendly tech execs form 'war room' to fight for him and over 175,000 people sign #bringjensenback petition",
+      "url": "https://www.pcgamer.com/software/ai/jensen-huang-reportedly-eyeing-up-return-to-nvidia-as-friendly-tech-execs-form-war-room-to-fight-for-him-and-over-175-000-people-sign-bringjensenback-petition/",
       "source_count": 1,
       "sources": [
         "PC Gamer"
       ]
     },
     {
-      "title": "Passing the baton: Ronaldo Jr joins game's famous family dynasties",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPSGgzR3dTd2xOZE9BQkNYaWJpSU1fMGJfNXFDcXRaV2xtS1FjY0x6cjcxdTJZdEpmcFU0S3FwYkFqb0VRbDFFcFBuVXpqY2ZuVnNhdVN1YVl6WnJXdzNwdzREZUcwSXlHeGZ0TFRMT2x1cmNJdDhUc3pRMlphUk5XWTJrT3NkenowT19FbmRhTklyYWc",
+      "title": "After Brand and Walliams, UK entertainment industry under pressure to clean up its act",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPaUthWTNNQ2h0TDdycDlvaXM5Y1lfQU5iYUhDUUdaQS16Q1JfUkg4OUFXRkN2cEJOUklvXzJTcVdkVDhsTTlnRWxjMV8zMmlQYU41Z2ZxaVE3RWNhY3Z5d2NnVDBOeXUwcFFaX1FpX3l5aWFXZEVXS2hCOTdieGFwSkFuYTgwNUVSUzFXUnA0dlNidFNGZUdzbW9oRldZUEs1M2ZPMExTbHRpbndIdXVZVjE0TTRKYW1PWHdSNGtVbUY",
       "source_count": 1,
       "sources": [
         "Reuters"
@@ -457,35 +471,43 @@
       ]
     },
     {
-      "title": "Megaspeed says Alice Huang left the company in August 2025",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOLVVibXJLVUMyOVVUckZsdFpwSmpIckxaYWl5aXo5UlAwc0hGbm5jUHI4YjJ3NlpNd3V2bi1MWU9QMElWVUExQmJXbkhJT2hyeDhSOXp2cDBnSGhqX1hXRGJUdUlHWWVIVXFsdFExVnY4amZiM1hBQzNiX2VaQktOTVMtei10SjVld0syZjVnYWU",
+      "title": "Passing the baton: Ronaldo Jr joins game's famous family dynasties",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPSGgzR3dTd2xOZE9BQkNYaWJpSU1fMGJfNXFDcXRaV2xtS1FjY0x6cjcxdTJZdEpmcFU0S3FwYkFqb0VRbDFFcFBuVXpqY2ZuVnNhdVN1YVl6WnJXdzNwdzREZUcwSXlHeGZ0TFRMT2x1cmNJdDhUc3pRMlphUk5XWTJrT3NkenowT19FbmRhTklyYWc",
       "source_count": 1,
       "sources": [
-        "DZRH"
+        "Reuters"
       ]
     },
     {
-      "title": "Fire in Phuket shophouse kills 11 injures 16, police say, Asia News",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOOTI5VWhYS0xLamZmOHBQeHp3UVQwdGNJVXpYUWRKUVE4YW8wNlN4TnFxbFhpdFNLWGFEZ0tRcG5wMkFnNXdldDlGR0NZNTBvVDFJUHdjMWNEUlB4NVRBRGtwbzRjNHFHMDZ1bHRpV0VoLVRhbkM4bFQ3VmlTdjNRQmdCVmRWTUZN",
+      "title": "Leader of Germany's SPD faces challenge by former minister",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOOW50eEgzZ1ZUYXB1ZVFoTjF2NHZrLUFhcHEwWC04X3VSRjBYZWZISTY1d21Gd1J0OVNMVkltWm85Z3p5SExaMXhRVi1SRFd5Y1VWOVROWUdkY3F0bS1YVmxyQjk3N201MTJXT3ZSLWRocFFjcVRGRDl6TFRmRVpwdFhGbVdhMkhFeEZYSk1pbUQ5eWVSa2Rv0gGcAUFVX3lxTE1xaFVFUHVyeDJlOW42RDgwQlgxcGZtSnhGQlRKZ3BVZ2Q1dlIxZGNabmdqVFIxbXUtTU5BOGVycExrVVA1S0llNDBmNVI4RnNzV0I5R2ROTE5mbnkzY3JEZ2gyLWdFSGNrcmZJTVdaQXZuZi1LdU1EVmhaREFoNG16dFJodVdnbndIenpCVmNyTlZMeWU2TTZPbHVjdg",
+      "source_count": 1,
+      "sources": [
+        "ThePrint"
+      ]
+    },
+    {
+      "title": "Kazakh president sacks security chief after sovereign wealth fund arrest, Asia News",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOb1Y2dUh2QTVBOWd5RjlUUVFpOXloZjVlUEF6U2JtV0FZQ05LRVFBZ3RDOWh3ejhGR3BpVjN5NThUYTd1dFQzNW0tRXlyb2dITE9xTWQySWFZYlpIdWZXNVpRM0FIYUc0WmR6M3BRdUJKWGM2WUstOUs0NDNuWVFRdzNQOXFKLWdoZU5qY19qRVFGTTA1dlZWdWdEbGdjSjBIMnhz",
       "source_count": 1,
       "sources": [
         "AsiaOne.com"
       ]
     },
     {
-      "title": "Pope Leo crossing Peru for visits to Inca city, Amazon gateway",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNbjZURVJoOHo0ODM0TGw1Qkc2cE5YVG9uZ21ESWt0eUp3eGdGQVBqTTl4ajBFYWM4WVhlTGFYRVFPNldfaklwU0VoQjhUcTJSNDJtZmY5dmt0RjlpSTk4dF8tdG5YMWN3RW1ka2E4U1B1UHZ0cTJEejdTSzVkTHFGUnctX0JvWnlweHlsTDREdTltTnpkOW95cUYyWkfSAaIBQVVfeXFMT1hnSmFwVnlRS2staGkzckpYUmRKVUpfbktmcEd1TS1MaDl2MTRlTk9YVkRJRXZDNVBFdzBiQ09vZ2llVHNjN1pFN3lVVjJ5NHdSVnF3a1pYUXRMQkw5VXFxUHU0dDJhRjV5YnVmdkJXbXpNYVI5WHZ0cFY2ZTlZam8yUE5sY2dfek1KSXZJTHhqbTZIbjN3RlIwZnlGYnVFQVNR",
+      "title": "Trump's minerals push has yet to loosen China's grip ahead of Xi talks, World News",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPaTVBRHRjS19yekEwQlBHa3UxUjQzZTFEY29NdUJIZHg5aFVDRHhBR0dMODJYVllpWXdjTDNTdE1SbEkxbkpmRWpxWHV2SXdyNklwSG1YQVI1LXVDazA0bTlxZjh1akNZeC1NQkdQdjBFbEo1OEVlNVZmSVpnVVJtVGE5d0VieGtQSUVXczd0VkhRU216bWQ4",
       "source_count": 1,
       "sources": [
-        "ThePrint"
+        "AsiaOne.com"
       ]
     },
     {
-      "title": "Israeli military says it struck senior armed Hamas commander",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOMDNwUS02RG5tczM2YnpWQk11Y3FMVkl1RHdxOEJfM2ZwMVhCdVpDYXRCM0ZPazBUM2ctTzJ0RlFYblJSQnpVOUNOQ3hEV3dRTDBtMFctRkx0UmdfLTJHMXBiUWtuY1BTUzNYUlFtYzYtcEFPbnFjckwwQzVlOE1uelloSGV3RXJ0MUZKZmhreG51amZqcndpNDZUWdIBoAFBVV95cUxPRGtLTkhRRGlnWTBXdUc5RDAxZDFEX2RpMmtPeTJ1SWlSVnVJclhNbFdTOU9nOEFPZ2thZ0VfNElRRU9LdXlCeXlMUWdkY0hlR09kLUp3clVKVElyOWJsOUZTZ3ZpZURZWWdLY01NNmJNM1RoNHlEempyZDhoMFZpcURiSHNseERGb0o4bFN2UjNnNWpoT0xwdzUwazc3Mnhi",
+      "title": "Glenn Close Wipes Away Tears as She Gets Her Long Overdue Oscar While the Governors Awards Celebrate Indie Films",
+      "url": "https://www.indiewire.com/awards/consider-this/governors-awards-glenn-close-ridley-scott-honorary-oscars-1235228139/",
       "source_count": 1,
       "sources": [
-        "ThePrint"
+        "IndieWire"
       ]
     },
     {
@@ -529,11 +551,11 @@
       ]
     },
     {
-      "title": "IndieWire Honors Film Celebration to Fête John Turturro, the 'Artificial' Cast, Los Javis, and More",
-      "url": "https://www.indiewire.com/news/events/indiewire-honors-2026-film-awards-1235227778/",
+      "title": "Big Oil, Climate Change, and a 'Smoking Gun'",
+      "url": "https://www.rollingstone.com/culture/culture-features/shell-typhoon-survivors-litigation-documents-1235645120/",
       "source_count": 1,
       "sources": [
-        "IndieWire"
+        "Rolling Stone Culture"
       ]
     },
     {
@@ -577,157 +599,142 @@
       ]
     },
     {
-      "title": "Steroids, Orgies, and Penis Enhancement: 'Get Huge' Charts the Baffling Rise of Influencer Tony Huge",
-      "url": "https://www.rollingstone.com/culture/culture-features/get-huge-looksmaxxing-hulu-docuseries-tony-huge-1235654882/",
-      "source_count": 1,
+      "title": "Madonna & Slayyyter Lead 2027 Dance/Electronic Grammy Nominations",
+      "url": "https://www.billboard.com/music/awards/2027-grammy-nominees-dance-electronic-madonna-slayyyter-1236382910/",
+      "source_count": 2,
       "sources": [
-        "Rolling Stone Culture"
+        "Billboard",
+        "Billboard"
       ]
     },
     {
-      "title": "Gracie Abrams Sets 2027 Australian Arena Shows for 'Look at My Life Tour'",
-      "url": "https://www.billboard.com/music/music-news/gracie-abrams-look-at-my-life-tour-australia-2027-1236382658/",
+      "title": "LCD Soundsystem to Headline First of Manchester's New Platt Fields Park Concerts in 2027",
+      "url": "https://www.billboard.com/music/music-news/lcd-soundsystem-manchester-platt-fields-park-show-2027-1236382887/",
       "source_count": 1,
       "sources": [
         "Billboard"
       ]
     },
     {
-      "title": "Karol G Postpones Show in Mexico City 'Due to Health Reasons': Here's the New Date",
-      "url": "https://www.billboard.com/music/latin/karol-g-postpones-show-mexico-city-new-date-1236382627/",
+      "title": "Chance The Rapper Celebrates Birth of Third Daughter, Hayli: 'Mom n Dad Love You'",
+      "url": "https://www.billboard.com/music/rb-hip-hop/chance-the-rapper-celebrates-birth-third-daughter-hayli-1236382876/",
       "source_count": 1,
       "sources": [
         "Billboard"
       ]
     },
     {
-      "title": "The 'Twilight' Crocs Collection Just Got a Surprise Restock & It's Worth Sinking Your Teeth Into",
-      "url": "https://www.billboard.com/culture/product-recommendations/twilight-crocs-collection-viral-where-to-buy-nov-2026-1236382590/",
+      "title": "Snubs & Surprises In the 2027 Grammy Nominations",
+      "url": "https://www.billboard.com/lists/2027-grammy-nominations-snubs-surprises/",
       "source_count": 1,
       "sources": [
         "Billboard"
       ]
     },
     {
-      "title": "Fans Choose U2 & Dolly Parton's 'Torn' as This Week's Favorite New Music",
-      "url": "https://www.billboard.com/music/music-news/u2-dolly-parton-torn-best-new-music-poll-results-1236382556/",
+      "title": "Grammy Nominations 2027: See the Complete List",
+      "url": "https://www.billboard.com/lists/grammy-nominations-2027-full-list/",
       "source_count": 1,
       "sources": [
         "Billboard"
       ]
     },
     {
-      "title": "Here's How to Watch 'Darius Rucker: They Called Me Hootie' Online for Free",
-      "url": "https://www.billboard.com/culture/product-recommendations/darius-rucker-they-called-me-hootie-hulu-stream-online-free-1236382546/",
-      "source_count": 1,
-      "sources": [
-        "Billboard"
-      ]
-    },
-    {
-      "title": "'SNL' Imagines Bob Dylan & The Pope's Conversation in Cut-for-Time Sketch",
-      "url": "https://www.billboard.com/culture/tv-film/snl-bob-dylan-pope-john-mulaney-1236382560/",
-      "source_count": 1,
-      "sources": [
-        "Billboard"
-      ]
-    },
-    {
-      "title": "Netflix Testing Running Trailers for Its Own Titles Before Episodes (Again)",
-      "url": "https://www.whats-on-netflix.com/news/netflix-testing-running-trailers-for-its-own-shows-before-episodes-again/",
+      "title": "A Christ Country Race Across America: Is 'Steel Ball Run' the Most Bizarre Season Yet?",
+      "url": "https://www.whats-on-netflix.com/news/anime/a-christ-country-race-across-america-is-steel-ball-run-the-most-bizarre-season-yet/",
       "source_count": 1,
       "sources": [
         "What's on Netflix"
       ]
     },
     {
-      "title": "'Hollywood Arts' Season 2 Confirmed at Netflix - But It Was Always Coming",
-      "url": "https://www.whats-on-netflix.com/news/hollywood-arts-season-2-confirmed-at-netflix-but-it-was-always-coming/",
+      "title": "'Maestro in Blue' Season 4 Sets December 2026 Netflix Release for Final Season (For Real This Time)",
+      "url": "https://www.whats-on-netflix.com/news/maestro-in-blue-season-4-sets-december-2026-netflix-release-for-final-season-for-real-this-time/",
       "source_count": 1,
       "sources": [
         "What's on Netflix"
       ]
     },
     {
-      "title": "Virgin River Season 8: Expected Netflix Release Date & Everything We Know So Far",
-      "url": "https://www.whats-on-netflix.com/news/virgin-river-season-8-expected-netflix-release-date-everything-we-know-so-far-11-2026/",
+      "title": "What's Coming to Netflix This Week: November 16 to 22, 2026",
+      "url": "https://www.whats-on-netflix.com/coming-soon/whats-coming-to-netflix-this-week-november-16-to-22-2026/",
       "source_count": 1,
       "sources": [
         "What's on Netflix"
       ]
     },
     {
-      "title": "New Releases on Netflix This Week and Top 10 Movies & Series: November 14, 2026",
-      "url": "https://www.whats-on-netflix.com/whats-new/new-releases-on-netflix-this-week-and-top-10-movies-series-november-14-2026/",
+      "title": "First Look and Release Date Revealed for Netflix's New Lavish Period Drama Series 'The Palace of Secrets'",
+      "url": "https://www.whats-on-netflix.com/news/the-palace-of-secrets-netflix-release-date/",
       "source_count": 1,
       "sources": [
         "What's on Netflix"
       ]
     },
     {
-      "title": "Netflix Reveals Title, 2027 Release Window & First Look for 'Magic: The Gathering: Planeswalker' Animated Series",
-      "url": "https://www.whats-on-netflix.com/news/magic-the-gathering-netflix-series-title-2027-release/",
+      "title": "8 Disturbing Details Revealed in Netflix's 'Russell Brand: Open Secret' Documentary",
+      "url": "https://www.whats-on-netflix.com/what-to-watch/russell-brand-open-secret-netflix-revelations/",
       "source_count": 1,
       "sources": [
         "What's on Netflix"
       ]
     },
     {
-      "title": "Netflix Is Shutting Down Zack Snyder's 'Blood Line: A Rebel Moon Game' in December 2026",
-      "url": "https://www.whats-on-netflix.com/news/netflix-games/netflix-is-shutting-down-zack-snyders-blood-line-a-rebel-moon-game-in-december-2026/",
+      "title": "New K-Dramas on Netflix in December 2026",
+      "url": "https://www.whats-on-netflix.com/news/k-dramas/netflix-k-dramas-december-2026-preview-tantara/",
       "source_count": 1,
       "sources": [
         "What's on Netflix"
       ]
     },
     {
-      "title": "Netflix's Award-winning Dark Sci-fi Series is Officially Returning",
-      "url": "https://www.polygon.com/black-mirror-season-8-update-netflix/",
+      "title": "Slow Horses officially moves beyond the books with 2 more seasons",
+      "url": "https://www.polygon.com/slow-horses-renewed-season-9-10/",
       "source_count": 1,
       "sources": [
         "Polygon"
       ]
     },
     {
-      "title": "6 Upcoming Sci-Fi Movies, Ranked by Hype",
-      "url": "https://www.polygon.com/upcoming-sci-fi-movies-ranked-by-hype/",
+      "title": "D&D's World of Warcraft Book Fixes the RPG's Biggest Endgame Issue",
+      "url": "https://www.polygon.com/dnd-world-of-warcraft-dungeons-dragons-monsters-high-cr-design-bosses/",
       "source_count": 1,
       "sources": [
         "Polygon"
       ]
     },
     {
-      "title": "Marvel's Official Avengers: Doomsday Prep Launches on Nov. 18",
-      "url": "https://www.polygon.com/avengers-doomsday-marvel-comics-to-read-incursions-secret-wars/",
+      "title": "Johnny Depp Tops the Box Office Again With Ebenezer's Opening Weekend",
+      "url": "https://www.polygon.com/ebenezer-johnny-depp-box-office-opening-weekend/",
       "source_count": 1,
       "sources": [
         "Polygon"
       ]
     },
     {
-      "title": "All 10 Zelda: Ocarina of Time Bosses, Ranked From Worst to Best",
-      "url": "https://www.polygon.com/legend-zelda-ocarina-time-bosses-ranked/",
+      "title": "Final Fantasy 7 Remake Director Confirms He Doesn't Let Fans' Reactions Shape His Games",
+      "url": "https://www.polygon.com/final-fantasy-7-director-naoki-hamaguchi/",
       "source_count": 1,
       "sources": [
         "Polygon"
       ]
     },
     {
-      "title": "David Tennant Officially Returns to Doctor Who in 2027",
-      "url": "https://www.polygon.com/doctor-who-david-tennant-returns-audio-drama-2027/",
+      "title": "Xbox Head of Next Gen Finally Explains What Project Helix Is: 'It Is Not a PC'",
+      "url": "https://www.polygon.com/xbox-project-helix-play-pc-games-library/",
       "source_count": 1,
       "sources": [
         "Polygon"
       ]
     },
     {
-      "title": "Halo Defined a Generation of LAN Parties",
-      "url": "https://www.polygon.com/halo-combat-evolve-lan-party-memories/",
+      "title": "Controversial Call of Cthulhu Game Canceled After Designer's Child Abuse Conviction",
+      "url": "https://www.polygon.com/call-of-cthulhu-old-one-origins-canceled-designer-conviction/",
       "source_count": 1,
       "sources": [
-        "Then It Killed Them"
+        "Polygon"
       ]
     }
   ],
-  "summary": "Verified intelligence gathered across 90 deduplicated editorial clusters."
+  "summary": "Verified intelligence gathered across 91 deduplicated editorial clusters."
 }
