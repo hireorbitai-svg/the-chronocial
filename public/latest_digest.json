@@ -1,92 +1,67 @@
 {
-  "timestamp": "2026-11-16T23:59:08.868153+00:00",
-  "headline_count": 95,
+  "timestamp": "2026-11-17T07:43:11.393979+00:00",
+  "headline_count": 94,
   "headlines": [
     {
-      "title": "'Spider-Man: Brand New Day' Extended Cut Sets December Release Date in Theaters",
-      "url": "https://variety.com/2026/film/news/spider-man-brand-new-day-extended-cut-release-date-1236949654/",
-      "source_count": 3,
+      "title": "Fremantle Revenue Rises 7.8% in Q3 on 'Kill Jackie' as RTL Group Flags TV Ad Slump",
+      "url": "https://variety.com/2026/tv/news/fremantle-q3-revenue-rises-kill-jackie-rtl-flags-ad-slump-1236950073/",
+      "source_count": 1,
+      "sources": [
+        "Variety"
+      ]
+    },
+    {
+      "title": "India's Music Economy Hits $1.8 Billion as Independent Music Claims 43% of Streams, EY Report Finds",
+      "url": "https://variety.com/2026/music/news/india-music-economy-indie-share-climbs-ey-1236950066/",
+      "source_count": 1,
+      "sources": [
+        "Variety"
+      ]
+    },
+    {
+      "title": "'Cliff Booth' First Reactions: Brad Pitt's Sequel Is an 'Absolute Triumph' and a 'Wildly Entertaining' 'Love Letter' to Hollywood",
+      "url": "https://variety.com/2026/film/news/cliff-booth-first-reactions-brad-pitt-fincher-tarantino-1236948975/",
+      "source_count": 2,
       "sources": [
         "Variety",
-        "Deadline Hollywood",
         "The Hollywood Reporter"
       ]
     },
     {
-      "title": "'NAZA' Filmmakers Grateful for 'Light Being Shone' on Their Film Through Awards Conversation but Prioritize Impact: It's a 'Small Cog in a Machine of Resistance'",
-      "url": "https://variety.com/2026/film/global/naza-yuval-abraham-james-wilson-awards-impact-idfa-1236949104/",
+      "title": "Brad Pitt Says 'Ocean's 14' Not Shooting Until 'Late' 2027",
+      "url": "https://variety.com/2026/film/columns/brad-pitt-oceans-14-shooting-late-2027-1236950020/",
       "source_count": 1,
       "sources": [
         "Variety"
       ]
     },
     {
-      "title": "The Next Bond Girl: From Zendaya to Florence Pugh, 19 Actresses Who Could Join Robert Pattinson",
-      "url": "https://variety.com/lists/bond-girl-predictions-robert-pattinson-007/",
+      "title": "Jon Stewart Weighs In on Robert Pattinson's James Bond Casting: 'You Already Got Batman'",
+      "url": "https://variety.com/2026/tv/news/jon-stewart-daily-show-robert-pattinson-james-bond-1236950007/",
       "source_count": 1,
       "sources": [
         "Variety"
       ]
     },
     {
-      "title": "Variety's 10 Comics to Watch Bring Stand-Up, Sketch and Songs to Hilarious New York Comedy Festival Showcase",
-      "url": "https://variety.com/2026/tv/news/variety-10-comics-to-watch-new-york-comedy-festival-showcase-1236947445/",
+      "title": "Wondermind Investor Lawsuit Against Selena Gomez and Co-Founders Dismissed",
+      "url": "https://variety.com/2026/biz/news/wondermind-lawsuit-selena-gomez-dismissed-1236949959/",
       "source_count": 1,
       "sources": [
         "Variety"
       ]
     },
     {
-      "title": "'Reasonable Doubt' Renewed for Season 5 Ahead of Season 4 Finale",
-      "url": "https://variety.com/2026/tv/news/reasonable-doubt-renewed-season-5-season-4-finale-1236949562/",
-      "source_count": 1,
-      "sources": [
-        "Variety"
-      ]
-    },
-    {
-      "title": "The Brit List: Coming-of-Age Drama and Cornwall Crime Series Top 2026 Lineup of Best Unproduced Scripts",
-      "url": "https://variety.com/2026/film/global/the-brit-list-2026-lineup-best-unproduced-film-tv-scripts-1236949412/",
-      "source_count": 1,
-      "sources": [
-        "Variety"
-      ]
-    },
-    {
-      "title": "Chris Long To Direct First Episode Of Fox Legal Drama 'Katie Greaves' Starring Edie Falco",
-      "url": "https://deadline.com/2026/11/chris-long-direct-first-episode-katie-greaves-edie-falco-1237225773/",
+      "title": "Bae Is Back: Prime Video Sets Launch Date For 'Call Me Bae' Season 2; Watch Teaser",
+      "url": "https://deadline.com/2026/11/call-me-bae-season-2-release-date-prime-video-1237224995/",
       "source_count": 1,
       "sources": [
         "Deadline Hollywood"
       ]
     },
     {
-      "title": "Nicolas Cage & Chris Pine To Star In Vegas Drama Series 'American Epic' From B.J. Novak & A24",
-      "url": "https://deadline.com/2026/11/nicolas-cage-chris-pine-american-epic-series-bj-novak-a24-1237222431/",
-      "source_count": 1,
-      "sources": [
-        "Deadline Hollywood"
-      ]
-    },
-    {
-      "title": "John Patrick Shanley On His New Off Broadway Play 'Mountain Girl', Industry Upheaval And Why He \"Deeply Opposed\" WGA Strikes",
-      "url": "https://deadline.com/2026/11/john-patrick-shanley-off-broadway-mountain-girl-hollywood-wga-strike-1237221944/",
-      "source_count": 1,
-      "sources": [
-        "Deadline Hollywood"
-      ]
-    },
-    {
-      "title": "'The 'Burbs' Actor Kapil Talwalkar Signs With Innovative Artists Entertainment",
-      "url": "https://deadline.com/2026/11/kapil-talwalkar-innovative-artists-1237225741/",
-      "source_count": 1,
-      "sources": [
-        "Deadline Hollywood"
-      ]
-    },
-    {
-      "title": "Robert Pattinson As James Bond? Baz Bamigboye Has Some Thoughts",
-      "url": "https://deadline.com/2026/11/robert-pattinson-james-bond-reaction-baz-bamigboye-1237225666/",
+      "title": "Elon Musk Blasts 'SNL' For Jeremy Culhane's Impression Of Him: \"They Need To Try Harder\"",
+      "url": "https://deadline.com/2026/11/elon-musk-snl-jeremy-culhane-impression-1237226296/",
       "source_count": 2,
       "sources": [
         "Deadline Hollywood",
@@ -94,35 +69,99 @@
       ]
     },
     {
-      "title": "John Summit's Tour Bus Involved in Deadly Crash in Florida",
-      "url": "https://www.hollywoodreporter.com/music/music-news/john-summit-tour-bus-involved-deadly-crash-1236756628/",
+      "title": "Ray Tintori Dies: Filmmaker Who Worked On 'Beasts Of The Southern Wild' Was 43",
+      "url": "https://deadline.com/2026/11/ray-tintori-dead-filmmaker-heidi-gardner-1237226073/",
+      "source_count": 1,
+      "sources": [
+        "Deadline Hollywood"
+      ]
+    },
+    {
+      "title": "'The Fantasticks' Review: A Welcome Broadway Debut Seven Decades In The Making",
+      "url": "https://deadline.com/2026/11/the-fantasticks-broadway-review-1237223063/",
+      "source_count": 1,
+      "sources": [
+        "Deadline Hollywood"
+      ]
+    },
+    {
+      "title": "Microdrama Writers At DramaWave Unionize With WGA West",
+      "url": "https://deadline.com/2026/11/microdrama-writers-dramawave-unionize-wga-west-1237225626/",
+      "source_count": 1,
+      "sources": [
+        "Deadline Hollywood"
+      ]
+    },
+    {
+      "title": "CAA Inks With Hybe To Rep Korean Firm's Artists, IP & Brands",
+      "url": "https://deadline.com/2026/11/hybe-caa-artist-representation-1237226005/",
+      "source_count": 1,
+      "sources": [
+        "Deadline Hollywood"
+      ]
+    },
+    {
+      "title": "Over 400 U.K. Industry Figures Demand End to \"Culture of Open Secrets\" After Russell Brand Trial",
+      "url": "https://www.hollywoodreporter.com/news/general-news/russell-brand-open-letter-400-industry-figures-1236756889/",
       "source_count": 1,
       "sources": [
         "The Hollywood Reporter"
       ]
     },
     {
-      "title": "At Least Robert Pattinson Looks the Part…According to Ian Fleming",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/robert-pattinson-looks-like-james-bond-ian-fleming-sketch-1236756573/",
+      "title": "Tallinn Market Debates Estonia's Film Sector and How Foreign Shoots \"Bring Both Value and Tension\"",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/tallinn-2026-estonia-film-sector-foreign-shoots-value-tension-1236756913/",
       "source_count": 1,
       "sources": [
         "The Hollywood Reporter"
       ]
     },
     {
-      "title": "John Oliver Fills in for Tom Papa at Michael J. Fox Foundation Gala After FAA Ground Stop",
-      "url": "https://www.hollywoodreporter.com/news/general-news/john-oliver-tom-papa-michael-j-fox-gala-faa-ground-stop-1236756623/",
+      "title": "Jamie Dornan Admits He \"Loved Shoplifting\" as a Kid",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/jamie-dornan-loved-shoplifting-kid-andy-cohen-1236756865/",
       "source_count": 1,
       "sources": [
         "The Hollywood Reporter"
       ]
     },
     {
-      "title": "Rob Riggle Saw 'Nickels' As a Way to Branch Out from Comedy",
-      "url": "https://www.hollywoodreporter.com/movies/movie-features/rob-riggle-saw-nickels-comedy-1236753351/",
+      "title": "Brad Pitt Explains Why Leonardo DiCaprio's Cameo in 'Cliff Booth' Movie Fell Apart",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/brad-pitt-explains-leonardo-dicaprio-cameo-cliff-booth-fell-apart-1236756581/",
       "source_count": 1,
       "sources": [
         "The Hollywood Reporter"
+      ]
+    },
+    {
+      "title": "Salman Khan begins 10-day shoot schedule in Pune for Monster co-starring Nayanthara, teaser set for his birthday: Report",
+      "url": "https://www.bollywoodhungama.com/news/bollywood/salman-khan-begins-10-day-shoot-schedule-in-pune-for-monster-co-starring-nayanthara-teaser-set-for-his-birthday-report/",
+      "source_count": 1,
+      "sources": [
+        "Bollywood Hungama"
+      ]
+    },
+    {
+      "title": "Ananya Panday addresses debate on nepotism; says, \"I am very proud to be my father's daughter\"",
+      "url": "https://www.bollywoodhungama.com/news/bollywood/ananya-panday-addresses-debate-on-nepotism-says-i-am-very-proud-to-be-my-fathers-daughter/",
+      "source_count": 1,
+      "sources": [
+        "Bollywood Hungama"
+      ]
+    },
+    {
+      "title": "John Abraham makes a STRONG appeal to tourists visiting Meghalaya: \"For heaven's sake, DON'T dirty the place!\"; reveals that the North-Eastern state will soon have India's BIGGEST football stadium",
+      "url": "https://www.bollywoodhungama.com/news/bollywood/john-abraham-makes-a-strong-appeal-to-tourists-visiting-meghalaya-for-heavens-sake-dont-dirty-the-place-reveals-that-the-north-eastern-state-will-soon-have-indi/",
+      "source_count": 1,
+      "sources": [
+        "Bollywood Hungama"
+      ]
+    },
+    {
+      "title": "Avengers: Doomsday creates HISTORY; emerges as the FIRST film to open midnight show bookings ONE MONTH before release; shows already filling FAST",
+      "url": "https://www.bollywoodhungama.com/news/bollywood/avengers-doomsday-creates-history-emerges-as-the-first-film-to-open-midnight-show-bookings-one-month-before-release-shows-already-filling-fast/",
+      "source_count": 1,
+      "sources": [
+        "Bollywood Hungama"
       ]
     },
     {
@@ -142,35 +181,35 @@
       ]
     },
     {
-      "title": "Akshay Kumar faces a menacing alien in Samuk motion poster",
-      "url": "https://www.bollywoodhungama.com/news/bollywood/akshay-kumar-faces-a-menacing-alien-in-samuk-motion-poster/",
+      "title": "The Voice Live Results: Season 30's Top 10 Is Officially Set - Did Your Favorite Artists Make The Cut?",
+      "url": "https://www.tvline.com/2318749/the-voice-live-results-season-30-top-10-full-list-artists/",
       "source_count": 1,
       "sources": [
-        "Bollywood Hungama"
+        "TVLine"
       ]
     },
     {
-      "title": "Virat Kohli, Priyanka Chopra Jonas, Shraddha Kapoor, Alia Bhatt and Katrina Kaif feature among Asia's most-followed Instagram personalities in 2026",
-      "url": "https://www.bollywoodhungama.com/news/bollywood/virat-kohli-priyanka-chopra-jonas-shraddha-kapoor-alia-bhatt-and-katrina-kaif-feature-among-asias-most-followed-instagram-personalities-in-2026/",
+      "title": "The Real-Life Origin Of Gibbs' Iconic NCIS Head Slap",
+      "url": "https://www.tvline.com/2316398/ncis-gibbs-head-slap-real-life-origin/",
       "source_count": 1,
       "sources": [
-        "Bollywood Hungama"
+        "TVLine"
       ]
     },
     {
-      "title": "Karan Johar's kids Yash and Roohi to make chat show debut with Shah Rukh Khan in Koffee With Karan 9 finale: Report",
-      "url": "https://www.bollywoodhungama.com/news/bollywood/karan-johars-kids-yash-and-roohi-to-make-chat-show-debut-with-shah-rukh-khan-in-koffee-with-karan-9-finale-report/",
+      "title": "FBI's John Boyd And Shantel VanSanten On Nina's Big Move And Scola's Surprise Reveal: 'The Heart Wants What The Heart Wants'",
+      "url": "https://www.tvline.com/2318527/fbi-season-9-episode-7-john-boyd-shantel-vansanten-interview/",
       "source_count": 1,
       "sources": [
-        "Bollywood Hungama"
+        "TVLine"
       ]
     },
     {
-      "title": "Amitabh Bachchan, Abhishek Bachchan receive death threats from gangster Goldy Dhillon; claims 200 associates are active in Mumbai",
-      "url": "https://www.bollywoodhungama.com/news/bollywood/amitabh-bachchan-abhishek-bachchan-receive-death-threats-from-gangster-goldy-dhillon-claims-200-associates-are-active-in-mumbai/",
+      "title": "Rings Of Power: What Do Orcs Eat In The Lord Of The Rings Universe?",
+      "url": "https://www.tvline.com/2318020/rings-of-power-what-orcs-eat-lord-of-the-rings-universe/",
       "source_count": 1,
       "sources": [
-        "Bollywood Hungama"
+        "TVLine"
       ]
     },
     {
@@ -184,38 +223,6 @@
     {
       "title": "Before 90210, Jason Priestley Played An Angel On This Classic Disney Kids Series",
       "url": "https://www.tvline.com/2316105/jason-priestley-teen-angel-classic-disney-kids-series/",
-      "source_count": 1,
-      "sources": [
-        "TVLine"
-      ]
-    },
-    {
-      "title": "Reasonable Doubt Renewed For Season 5 At Hulu",
-      "url": "https://www.tvline.com/2318574/reasonable-doubt-season-5-renewed-hulu/",
-      "source_count": 1,
-      "sources": [
-        "TVLine"
-      ]
-    },
-    {
-      "title": "Boston Blue Recasts A Blue Bloods Character Who's Poised To Return In A Big Way",
-      "url": "https://www.tvline.com/2318491/boston-blue-amaury-nolasco-blue-bloods-recast-baez-elena-father/",
-      "source_count": 1,
-      "sources": [
-        "TVLine"
-      ]
-    },
-    {
-      "title": "5 Great Live-Action Versions Of Beloved Cartoon Shows",
-      "url": "https://www.tvline.com/2317654/great-live-action-versions-beloved-cartoon-shows/",
-      "source_count": 1,
-      "sources": [
-        "TVLine"
-      ]
-    },
-    {
-      "title": "The King's Men In The Lord Of The Rings: The Rings Of Power Explained",
-      "url": "https://www.tvline.com/2318358/kings-men-lord-of-the-rings-the-rings-of-power-explained/",
       "source_count": 1,
       "sources": [
         "TVLine"
@@ -318,48 +325,48 @@
       ]
     },
     {
-      "title": "13-Year-Old Tekken Player Who Looks Just Like a Young Kazuya Mishima Defeats Fighting Game Pro in Stacked Tournament",
-      "url": "https://www.ign.com/articles/13-year-old-tekken-player-who-looks-just-like-a-young-kazuya-mishima-defeats-fighting-game-pro-in-stacked-tournament",
+      "title": "There Really Is No Escape From The Duolingo Owl, Who Will Soon Join Pokémon Go",
+      "url": "https://www.ign.com/articles/there-really-is-no-escape-from-the-duolingo-owl-who-will-soon-join-pokmon-go",
       "source_count": 1,
       "sources": [
         "IGN Games"
       ]
     },
     {
-      "title": "Ghost of Yotei Drops to an All-Time Low of $35 in PlayStation's Black Friday Sale",
-      "url": "https://www.ign.com/articles/ghost-of-yotei-plummets-to-35-in-stellar-50-off-black-friday-deal-from-playstation",
+      "title": "Subway Is Releasing a GTA 6-Themed Sandwich, but There's a Catch",
+      "url": "https://www.ign.com/articles/subway-is-releasing-a-gta-6-themed-sandwich-but-theres-a-catch",
       "source_count": 1,
       "sources": [
         "IGN Games"
       ]
     },
     {
-      "title": "Magic The Gathering Head Designer Says No More Star Trek Sets",
-      "url": "https://www.ign.com/articles/magic-the-gathering-head-designer-says-no-more-star-trek-sets",
+      "title": "UK's National Health Service Is Urging Gamers to Protect Their Hands Ahead of GTA 6 Launch",
+      "url": "https://www.ign.com/articles/uks-national-health-service-is-urging-gamers-to-protect-their-hands-ahead-of-gta-6-launch",
       "source_count": 1,
       "sources": [
         "IGN Games"
       ]
     },
     {
-      "title": "Pokémon TCG: Delta Reign Booster Bundles Are Checking Out for Just $32 at Amazon",
-      "url": "https://www.ign.com/articles/pokemon-tcg-delta-reign-booster-bundles-under-market-price-at-amazon",
+      "title": "GTA 6 Gets New Screenshots Highlighting Leonida's Dynamic Weather",
+      "url": "https://www.ign.com/articles/gta-6-gets-new-screenshots-highlighting-leonidas-dynamic-weather",
       "source_count": 1,
       "sources": [
         "IGN Games"
       ]
     },
     {
-      "title": "World of Warcraft Raids Are About to Get Easier",
-      "url": "https://www.ign.com/articles/world-of-warcraft-raids-are-about-to-get-easier",
+      "title": "Amazon Is Discounting The Legend of Zelda: Ocarina of Time T-shirts for Black Friday",
+      "url": "https://www.ign.com/articles/amazon-is-discounting-the-legend-of-zelda-ocarina-of-time-t-shirts-for-black-friday-2026",
       "source_count": 1,
       "sources": [
         "IGN Games"
       ]
     },
     {
-      "title": "NBA 2K27 Is Adding Vice City, GTA 6-Themed Cosmetics, and Much More as Part of Massive Rockstar Games Collaboration",
-      "url": "https://www.ign.com/articles/nba-2k27-is-adding-vice-city-gta-6-themed-cosmetics-and-much-more-as-part-of-massive-rockstar-games-collaboration",
+      "title": "Blizzard Tries 2 World of Warcraft Dungeon Fixes Over the Weekend to Stop Boosting Services",
+      "url": "https://www.ign.com/articles/blizzard-tries-two-world-of-warcraft-dungeon-fixes-over-the-weekend-to-stop-boosting-services",
       "source_count": 1,
       "sources": [
         "IGN Games"
@@ -462,6 +469,14 @@
       ]
     },
     {
+      "title": "EXCLUSIVE: India may limit leveraged stock bets to curb volatility, sources say",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQOW0tQWdjMmJOOUJOV3RYNzByeUVmLTZNYTRKTGszNHBqTVR2OHlrZnBLQXN6UlhFeFhOMGRBblFpSTJjcVJVckMybVJDYnhWU01VanpQOWNkVXFhZmlrYXM0empDNE5aXzBSQUVnSnBTSDlYZ3JJNURScmdzSFM5ei1VTTdiZVVhOTA4RjdOMHF0VkQ4bHhVdFZRek91d0NXVjlxVkh1UmMxWDZMMmpfelJ0aHhubWRu",
+      "source_count": 1,
+      "sources": [
+        "Reuters"
+      ]
+    },
+    {
       "title": "After Brand and Walliams, UK entertainment industry under pressure to clean up its act",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPaUthWTNNQ2h0TDdycDlvaXM5Y1lfQU5iYUhDUUdaQS16Q1JfUkg4OUFXRkN2cEJOUklvXzJTcVdkVDhsTTlnRWxjMV8zMmlQYU41Z2ZxaVE3RWNhY3Z5d2NnVDBOeXUwcFFaX1FpX3l5aWFXZEVXS2hCOTdieGFwSkFuYTgwNUVSUzFXUnA0dlNidFNGZUdzbW9oRldZUEs1M2ZPMExTbHRpbndIdXVZVjE0TTRKYW1PWHdSNGtVbUY",
       "source_count": 1,
@@ -470,11 +485,51 @@
       ]
     },
     {
+      "title": "US loses measles elimination status after 26-year run, source says",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPeDZ5WlYzYUxyY0ZCR3JndVNvdThXTjl1dnFlb0RTUTVPLU9MWXdoRTU0MmlfX0dXNmhfUldwYVdtYUlxNkpwNG1HX28zR3kzd0JlQmdORXVoNVlybS1oSnlrS0QwaEV5S216T2dEaTFja21KNVRCZUg4Z3J1b1kyMGQwcGlpUE10d1VLblhTWko5OE9BM0lCUmVLR0FtZw",
+      "source_count": 1,
+      "sources": [
+        "Colorado Springs Gazette"
+      ]
+    },
+    {
+      "title": "Australia's Star Entertainment names John Salomone as finance chief",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNWW5oQ1BVbjhia3BFYkFJbUNpSVVIZGJ1X2tVT0dWS09RMHROT0poTkxDVmNYNVJiMUZ1Z21zS19kTjNlTi05NmM4U29HM3kyUG5EaXJKUldnN3hWUmRBTHk3M21ZUjEtU0lxVXlLczE5TVpCVDRPUlJ4dzFnd2l2MDZ3LUFaVkh1MjdRRUlYZDVPUVpzNksxNkh6enJBUS1CaS1PekFEN09ZYUdHX0p1ZFpUUGVlY2s4UHNvSkJURkN0QU54UHRaU3NwTVAzZF9XazRF",
+      "source_count": 1,
+      "sources": [
+        "TradingView"
+      ]
+    },
+    {
       "title": "Passing the baton: Ronaldo Jr joins game's famous family dynasties",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPSGgzR3dTd2xOZE9BQkNYaWJpSU1fMGJfNXFDcXRaV2xtS1FjY0x6cjcxdTJZdEpmcFU0S3FwYkFqb0VRbDFFcFBuVXpqY2ZuVnNhdVN1YVl6WnJXdzNwdzREZUcwSXlHeGZ0TFRMT2x1cmNJdDhUc3pRMlphUk5XWTJrT3NkenowT19FbmRhTklyYWc",
       "source_count": 1,
       "sources": [
         "Reuters"
+      ]
+    },
+    {
+      "title": "China taps US AI models to train homegrown rivals as chip curbs bite, China News",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQMDVEdXYxWGYteUxEMFZYNTU0QWR5WkhFR3hBQm1sSjhlcjQ5akFvSTFNMTZsV09pVTJ0U0k5bzJCRm9nSTZTUU5IOTM5VzZ0TndRd1M1QXpEQVNiNFFXTlJEdTlsbFF0SGZkOWNMdWlkR0N3ZFZlZ3JWYVdQTWZja1pDMjJsNFUxUzVvOElibEJETV8yTHpj",
+      "source_count": 1,
+      "sources": [
+        "AsiaOne.com"
+      ]
+    },
+    {
+      "title": "'The Further Mis-Adventures of Cliff Booth' First Reactions: Quentin Tarantino and David Fincher Deliver a 'Pure Riot' of a Hangout Movie",
+      "url": "https://www.indiewire.com/news/general-news/the-further-mis-adventures-of-cliff-booth-first-reactions-1235228540/",
+      "source_count": 1,
+      "sources": [
+        "IndieWire"
+      ]
+    },
+    {
+      "title": "'Hershey' Review: An Unbelievably Flavorless Biopic About America's Most Famous Chocolatier",
+      "url": "https://www.indiewire.com/criticism/movies/hershey-movie-review-1235228446/",
+      "source_count": 1,
+      "sources": [
+        "IndieWire"
       ]
     },
     {
@@ -507,70 +562,6 @@
       "source_count": 1,
       "sources": [
         "IndieWire"
-      ]
-    },
-    {
-      "title": "Fall Festival Movies Sold: 'Edward Said: Between Worlds' About Palestinian-American Author Lands at Kino Lorber",
-      "url": "https://www.indiewire.com/news/festivals/fall-festival-movies-sold-so-far-babies-ink-elsinore-1235213179/",
-      "source_count": 1,
-      "sources": [
-        "IndieWire"
-      ]
-    },
-    {
-      "title": "The Stop-Motion Tool That's a Constant in This Crazy, AI-Mixed-Up World",
-      "url": "https://www.indiewire.com/features/animation/wildwood-travis-knight-director-interview-laika-dragonframe-1235228304/",
-      "source_count": 1,
-      "sources": [
-        "IndieWire"
-      ]
-    },
-    {
-      "title": "Varuvaaiy makes history as the first Tamil song nominated at the Grammys",
-      "url": "https://indianexpress.com/article/entertainment/varuvaaiy-grammy-nomination-first-tamil-song-devan-ekambaram-subhiksha-rangarajan-susha-10965899/",
-      "source_count": 1,
-      "sources": [
-        "The Indian Express Cinema"
-      ]
-    },
-    {
-      "title": "'Show the world his star power': Producer hails Suriya's Rs 860 crore 2026 box office run",
-      "url": "https://indianexpress.com/article/entertainment/tamil/producer-g-dhananjayan-hails-actor-suriya-rs-860-crore-2026-box-office-run-10965728/",
-      "source_count": 1,
-      "sources": [
-        "The Indian Express Cinema"
-      ]
-    },
-    {
-      "title": "Film body lauds Salman Khan and Sonu Sood for offering help to Sharad Kapoor",
-      "url": "https://indianexpress.com/article/entertainment/bollywood/film-body-lauds-salman-khan-and-sonu-sood-for-offering-help-to-sharad-kapoor-10965706/",
-      "source_count": 1,
-      "sources": [
-        "The Indian Express Cinema"
-      ]
-    },
-    {
-      "title": "Sunny Deol's Suryaa delayed over CBFC clearance; makers say 'View film objectively'",
-      "url": "https://indianexpress.com/article/entertainment/bollywood/sunny-deol-film-ant-se-aarambh-tak-delayed-over-cbfc-clearance-10965614/",
-      "source_count": 1,
-      "sources": [
-        "The Indian Express Cinema"
-      ]
-    },
-    {
-      "title": "Robert Pattinson is the new James Bond, watch video",
-      "url": "https://indianexpress.com/article/entertainment/hollywood/robert-pattinson-is-the-new-james-bond-10965730/",
-      "source_count": 1,
-      "sources": [
-        "The Indian Express Cinema"
-      ]
-    },
-    {
-      "title": "Anirudh Ravichander shuts down career break rumours: 'The best is yet to come'",
-      "url": "https://indianexpress.com/article/entertainment/tamil/anirudh-ravichander-shuts-down-career-break-rumours-10965596/",
-      "source_count": 1,
-      "sources": [
-        "The Indian Express Cinema"
       ]
     },
     {
@@ -622,48 +613,48 @@
       ]
     },
     {
-      "title": "Billboard Hot 100 Top 10 Countdown for November 21st, 2026",
-      "url": "https://www.billboard.com/video/billboard-hot-100-top-10-countdown-for-november-21st-2026/",
-      "source_count": 1,
-      "sources": [
-        "Billboard News"
-      ]
-    },
-    {
-      "title": "Priscilla Presley Still Faces Fraud Claims in Legal War With Former Business Advisers",
-      "url": "https://www.billboard.com/pro/priscilla-presley-fraud-claims-lawsuit-ex-advisers/",
+      "title": "Kelly Clarkson Calls 'The Voice' Contestant Kyle Davis 'a Born Storyteller' After Keane Cover",
+      "url": "https://www.billboard.com/culture/tv-film/kelly-clarkson-the-voice-kyle-davis-keane-top-10-1236383820/",
       "source_count": 1,
       "sources": [
         "Billboard"
       ]
     },
     {
-      "title": "Miley Cyrus Reacts to Shared Grammy Nod With Dolly Parton: 'A Beautiful Way to Honor Her Enormous Heart'",
-      "url": "https://www.billboard.com/music/awards/miley-cyrus-reacts-dolly-parton-collab-2027-grammy-nod-1236383506/",
+      "title": "Selena Gomez No Longer Facing Lawsuit Over Mental Health Startup Wondermind",
+      "url": "https://www.billboard.com/pro/selena-gomez-mental-health-company-lawsuit-dropped-investor/",
       "source_count": 1,
       "sources": [
         "Billboard"
       ]
     },
     {
-      "title": "Rosalía Reacts to Her 9 Grammy Nominations: See How She Celebrated",
-      "url": "https://www.billboard.com/music/latin/rosalia-lux-grammys-nominations-reaction-1236383548/",
+      "title": "Wale on Triumphant Pair of 2027 Grammy Nominations for 'Everything Is a Lot': 'I Hope It Teaches a Lot of People About Resilience'",
+      "url": "https://www.billboard.com/music/rb-hip-hop/wale-2027-grammy-nominations-interview-everything-is-a-lot-1236383275/",
       "source_count": 1,
       "sources": [
         "Billboard"
       ]
     },
     {
-      "title": "What Did 1998 Actually Sound Like? A Look Back at the Year That Changed Pop Music",
-      "url": "https://www.billboard.com/music/features/what-did-1998-actually-sound-like-1236383571/",
+      "title": "Snubs & Surprises in the 2027 Dance/Electronic Grammy Nominations",
+      "url": "https://www.billboard.com/lists/2027-dance-electronic-grammys-snubs-and-surprises/",
       "source_count": 1,
       "sources": [
         "Billboard"
       ]
     },
     {
-      "title": "Cole Swindell Signs With Make Wake Artists for Management",
-      "url": "https://www.billboard.com/pro/cole-swindell-signs-make-wake-artists/",
+      "title": "HYBE, Home to BTS and KATSEYE, Forms Strategic Partnership With CAA",
+      "url": "https://www.billboard.com/pro/hybe-bts-katseye-partnership-caa/",
+      "source_count": 1,
+      "sources": [
+        "Billboard"
+      ]
+    },
+    {
+      "title": "Luke Bryan & Jason Aldean Fight $1.4 Million Legal Demand From Nashville Steakhouse Landlord",
+      "url": "https://www.billboard.com/pro/luke-bryan-jason-aldean-fight-lawsuit-nashville-steakhouse/",
       "source_count": 1,
       "sources": [
         "Billboard"
@@ -718,6 +709,38 @@
       ]
     },
     {
+      "title": "30 Years Later, One of the Greatest 'X-Files' Episodes is Still a Misunderstood Masterpiece",
+      "url": "https://www.polygon.com/x-files-musings-of-a-cigarette-smoking-man/",
+      "source_count": 1,
+      "sources": [
+        "Polygon"
+      ]
+    },
+    {
+      "title": "GTA 6 release time in your time zone",
+      "url": "https://www.polygon.com/gta-6-grand-theft-auto-release-time-pdt-edt/",
+      "source_count": 1,
+      "sources": [
+        "Polygon"
+      ]
+    },
+    {
+      "title": "How to play GTA 6 early using the 'New Zealand trick'",
+      "url": "https://www.polygon.com/gta-6-grand-theft-auto-new-zealand-trick-how-to-play-early/",
+      "source_count": 1,
+      "sources": [
+        "Polygon"
+      ]
+    },
+    {
+      "title": "'Avengers: Doomsday' Star Says He Was Lied to About His Next Big Role",
+      "url": "https://www.polygon.com/anthony-mackie-jamie-dornan-interview-12-12-12/",
+      "source_count": 1,
+      "sources": [
+        "Polygon"
+      ]
+    },
+    {
       "title": "How 2026's Best Video Games Were Made",
       "url": "https://www.polygon.com/2026-games-of-the-year-how-were-made/",
       "source_count": 1,
@@ -732,39 +755,7 @@
       "sources": [
         "Polygon"
       ]
-    },
-    {
-      "title": "Netflix Officially Confirms 3 Body Problem Returns in 2027",
-      "url": "https://www.polygon.com/netflix-3-body-problem-season-2-release-date-2027/",
-      "source_count": 1,
-      "sources": [
-        "Polygon"
-      ]
-    },
-    {
-      "title": "Star Wars: Galactic Racer Officially Getting the Feature Every Racing Game Needs",
-      "url": "https://www.polygon.com/star-wars-galactic-racer-local-split-screen-multiplayer-update/",
-      "source_count": 1,
-      "sources": [
-        "Polygon"
-      ]
-    },
-    {
-      "title": "What Makes The Legend of Zelda: Ocarina of Time So Great Anyway?",
-      "url": "https://www.polygon.com/zelda-ocarina-of-time-why-best-game-ever/",
-      "source_count": 1,
-      "sources": [
-        "Polygon"
-      ]
-    },
-    {
-      "title": "The Odyssey's Most Disturbing Scene Barely Used Any CGI. Here's How They Pulled It Off.",
-      "url": "https://www.polygon.com/the-odyssey-pig-transformation-practical-effects/",
-      "source_count": 1,
-      "sources": [
-        "Polygon"
-      ]
     }
   ],
-  "summary": "Verified intelligence gathered across 95 deduplicated editorial clusters."
+  "summary": "Verified intelligence gathered across 94 deduplicated editorial clusters."
 }
