@@ -1,26 +1,34 @@
 {
-  "timestamp": "2026-11-18T18:39:54.304442+00:00",
-  "headline_count": 91,
+  "timestamp": "2026-11-19T01:43:56.023336+00:00",
+  "headline_count": 96,
   "headlines": [
     {
-      "title": "Gordon Ramsay Turns Up the Heat: Why He's 'Allergic' to Air Fryers, Hates the Word 'Famous' and Thinks Paris Is the Most Overrated Food City",
-      "url": "https://variety.com/2026/tv/news/gordon-ramsay-interview-air-fryers-paris-1236952081/",
+      "title": "CMA Awards 2026: The Complete List of Winners (Updating)",
+      "url": "https://variety.com/2026/music/news/cma-awards-winners-2026-complete-list-1236952628/",
       "source_count": 1,
       "sources": [
         "Variety"
       ]
     },
     {
-      "title": "Darren Aronofsky's Protozoa and Memory to Adapt Chris Miller's 'Chip War' into Feature Documentary (EXCLUSIVE)",
-      "url": "https://variety.com/2026/film/news/darren-aronofsky-protozoa-chris-miller-chip-war-documentary-1236951081/",
+      "title": "Jason Blum and James Wan Discuss Why Horror Is Hollywood's Hottest Genre and How 'Obsession' Hit Big at Blumhouse Atomic's Business of Fear",
+      "url": "https://variety.com/2026/film/news/jason-blum-james-wan-obsession-blumhouse-atomic-1236952472/",
       "source_count": 1,
       "sources": [
         "Variety"
       ]
     },
     {
-      "title": "Skydance to Fold Paramount TV Studios Into Warner Bros. TV Under Channing Dungey and Matt Thunell",
-      "url": "https://variety.com/2026/tv/news/skydance-paramount-tv-studios-warner-bros-channing-dungey-1236952011/",
+      "title": "Why 'GTA' Has Never Been Adapted for Film or TV: 'We Prefer to Control Our Own Destiny,' Take-Two CEO Says",
+      "url": "https://variety.com/2026/gaming/news/gta-6-movie-grand-theft-auto-games-adapted-1236952350/",
+      "source_count": 1,
+      "sources": [
+        "Variety"
+      ]
+    },
+    {
+      "title": "Chris Pratt to Star in Sci-Fi Family Drama 'The Traveler,' Inks First-Look Producing Deal at Paramount (EXCLUSIVE)",
+      "url": "https://variety.com/2026/film/news/chris-pratt-the-traveler-paramount-deal-1236952517/",
       "source_count": 3,
       "sources": [
         "Variety",
@@ -29,104 +37,82 @@
       ]
     },
     {
-      "title": "Macklemore Drops 'Where Is Our Love' Song and Video, a Plea for Peace in the Middle East and Other Troubled Areas, Including the U.S.",
-      "url": "https://variety.com/2026/music/news/macklemore-where-is-our-love-peace-1236952107/",
-      "source_count": 1,
+      "title": "Pierce Brosnan Welcomes Robert Pattinson Into the James Bond Family: 'You Are Going to Be Magnificent'",
+      "url": "https://variety.com/2026/film/news/robert-pattinson-pierce-brosnan-james-bond-1236952519/",
+      "source_count": 2,
       "sources": [
-        "Variety"
+        "Variety",
+        "Deadline Hollywood"
       ]
     },
     {
-      "title": "A U.S. Film Incentive Would Help These Three States Most of All",
-      "url": "https://variety.com/2026/film/news/u-s-film-incentive-new-york-new-jersey-georgia-1236950957/",
-      "source_count": 1,
+      "title": "Elon Musk Admits He Feels 'Pretty Foolish' Having Spent Nearly $500 Million on Midterm Election Races Won by Democrats, Claims He Is 'Not MAGA'",
+      "url": "https://variety.com/2026/digital/news/elon-musk-pretty-foolish-midterm-election-races-not-maga-1236952400/",
+      "source_count": 2,
       "sources": [
-        "Variety"
+        "Variety",
+        "Deadline Hollywood"
       ]
     },
     {
-      "title": "Disney Inks Deal With Creator Zach King for 'Illusion Shorts' Inspired by Mouse House's Movies and Experiences",
-      "url": "https://variety.com/2026/tv/news/disney-zach-king-deal-original-illusion-shorts-1236951400/",
-      "source_count": 1,
-      "sources": [
-        "Variety"
-      ]
-    },
-    {
-      "title": "Sam Altman On 'Artificial' Movie About Him - Not Among \"Ten Weirdest Things In My Life\" Right Now",
-      "url": "https://deadline.com/2026/11/sam-altman-artificial-openai-safety-1237228014/",
+      "title": "Rain-Related Evacuation Warnings Issued For The Palisades & Parts Of Malibu, The Hollywood Hills, Altadena, Calabasas & Santa Clarita",
+      "url": "https://deadline.com/2026/11/rain-evacuation-warnings-pacific-palisades-malibu-hollywood-1237228533/",
       "source_count": 1,
       "sources": [
         "Deadline Hollywood"
       ]
     },
     {
-      "title": "'Grendel' Animated Series Based On Dark Horse Comic Greenlighted At Netflix",
-      "url": "https://deadline.com/2026/11/grendel-animated-series-dark-horse-comic-netflix-matt-wagner-1237226965/",
+      "title": "Paramount+ Orders 'Clandestine' Drama Series Starring Brit Marling & Tilda Swinton From 'The OA' Creators",
+      "url": "https://deadline.com/2026/11/clandestine-series-paramount-plus-brit-marling-tilda-swinton-1237227752/",
       "source_count": 1,
       "sources": [
         "Deadline Hollywood"
       ]
     },
     {
-      "title": "'Hunger Games: Sunrise On The Reaping' To Shine Brightly Around The World With $160M-$190M WW Debut",
-      "url": "https://deadline.com/2026/11/hunger-games-sunrise-on-the-reaping-box-office-opening-forecast-1237228101/",
-      "source_count": 1,
-      "sources": [
-        "Preview"
-      ]
-    },
-    {
-      "title": "David Ellison Commits To Airing Alex Gibney 'Musk' Doc On HBO, Calls Skydance Investor \"Greatest Entrepreneur Of Our Time\"",
-      "url": "https://deadline.com/2026/11/david-ellison-elon-musk-skydance-hbo-alex-gibney-documentary-1237228013/",
+      "title": "'Primetime' Cinematographer & Editor On Making Robert Pattinson Look Like A \"Superhero\" & Breakdown Viral Meme Catchphrase",
+      "url": "https://deadline.com/2026/11/primetime-cinematograhper-editor-video-interview-1237228520/",
       "source_count": 1,
       "sources": [
         "Deadline Hollywood"
       ]
     },
     {
-      "title": "'Ginny & Georgia' Season 4 Premiere Date Set By Netflix With First-Look Photos",
-      "url": "https://deadline.com/2026/11/ginny-and-georgia-season-4-release-date-photos-1237228180/",
-      "source_count": 1,
-      "sources": [
-        "Deadline Hollywood"
-      ]
-    },
-    {
-      "title": "Glen Powell Is a Has-Been Country Singer in Judd Apatow's 'Comeback King' Trailer",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/the-comeback-king-trailer-glen-powell-judd-apatow-country-1236758552/",
+      "title": "Rob Lowe Asked Ben Shapiro to Cast Him in 'Confession': \"I've Worked With Left-Wing Writers. Why Wouldn't I Work With Right-Wing Writers?\"",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/rob-lowe-asked-ben-shapiro-cast-confession-left-right-writers-1236758985/",
       "source_count": 1,
       "sources": [
         "The Hollywood Reporter"
       ]
     },
     {
-      "title": "Screen Gems Lays Off Staff as New Leader Comes In (Exclusive)",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/screen-gems-layoffs-1236758586/",
+      "title": "SkyShowtime to Shut Down, CEO Exiting",
+      "url": "https://www.hollywoodreporter.com/business/business-news/skyshowtime-to-shut-down-ceo-exiting-1236758993/",
       "source_count": 1,
       "sources": [
         "The Hollywood Reporter"
       ]
     },
     {
-      "title": "Will 'GTA 6' Crash PlayStation and Xbox Tonight? Oddsmakers Are Betting On It",
-      "url": "https://www.hollywoodreporter.com/business/digital/gta-6-playstation-crash-outage-1236758425/",
+      "title": "New Sam's Club-Exclusive Home Decor Just Dropped: Shop Our Top Picks From the Collection",
+      "url": "https://www.hollywoodreporter.com/lifestyle/shopping/best-sams-club-home-decor-members-mark-buy-shop-online-1236757124/",
       "source_count": 1,
       "sources": [
         "The Hollywood Reporter"
       ]
     },
     {
-      "title": "The Sound of Rocky: How an Anthem Was Born",
-      "url": "https://www.hollywoodreporter.com/movies/movie-features/the-sound-of-rocky-1236754086/",
+      "title": "Bryan Freedman Sued Over Hush-Money Deals Shielding Michael Jackson Estate",
+      "url": "https://www.hollywoodreporter.com/business/business-news/bryan-freedman-lawsuit-michael-jackson-estate-1236758968/",
       "source_count": 1,
       "sources": [
         "The Hollywood Reporter"
       ]
     },
     {
-      "title": "David Ellison's Open to Elon Musk Collaboration: \"It Would Be a Privilege\"",
-      "url": "https://www.hollywoodreporter.com/business/business-news/david-ellisons-open-to-elon-musk-collaboration-it-would-be-a-privilege-1236758547/",
+      "title": "Blumhouse Atomic's 'Sleepover' to Star Michelle Monaghan, Justin Theroux",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/blumhouse-atomic-sleepover-michelle-monaghan-justin-theroux-1236758889/",
       "source_count": 1,
       "sources": [
         "The Hollywood Reporter"
@@ -152,9 +138,10 @@
     {
       "title": "BREAKING: After months of hurdles, Salman Khan's Maatrubhumi FINALLY gets censor clearance; passed with U/A 16+ certificate",
       "url": "https://www.bollywoodhungama.com/news/bollywood/breaking-after-months-of-hurdles-salman-khans-maatrubhumi-finally-gets-censor-clearance-passed-with-u-a-16-certificate/",
-      "source_count": 1,
+      "source_count": 2,
       "sources": [
-        "Bollywood Hungama"
+        "Bollywood Hungama",
+        "The Indian Express Cinema"
       ]
     },
     {
@@ -171,6 +158,30 @@
       "source_count": 1,
       "sources": [
         "Bollywood Hungama"
+      ]
+    },
+    {
+      "title": "Casting News: Scott Speedman Joins Landman, Selling Sunset Adds 4, And More",
+      "url": "https://www.tvline.com/2321137/scott-speedman-landman-season-3-selling-sunset-season-10-cast/",
+      "source_count": 1,
+      "sources": [
+        "TVLine"
+      ]
+    },
+    {
+      "title": "5 Harry Potter Characters Who Deserve Bigger Roles In The HBO TV Series",
+      "url": "https://www.tvline.com/2315332/harry-potter-characters-deserve-bigger-role-hbo-tv-series/",
+      "source_count": 1,
+      "sources": [
+        "TVLine"
+      ]
+    },
+    {
+      "title": "Save The Dates: Ginny & Georgia's January Return To Netflix, Wild Cards Season 4 On The CW, And More",
+      "url": "https://www.tvline.com/2321114/ginny-and-georgia-season-4-release-date-netflix-wild-cards-season-4-the-cw/",
+      "source_count": 1,
+      "sources": [
+        "TVLine"
       ]
     },
     {
@@ -192,30 +203,6 @@
     {
       "title": "Outlander: Blood Of My Blood Sneak Peek: Ahead Of The Season 2 Finale, Will Brian And Ellen Heed An Intriguing Call? (Exclusive)",
       "url": "https://www.tvline.com/2320388/outlander-blood-of-my-blood-season-2-episode-9-clip-brian-ellen-invitation/",
-      "source_count": 1,
-      "sources": [
-        "TVLine"
-      ]
-    },
-    {
-      "title": "Samuel L. Jackson's Frisco King: A Gangster Gains New Ground In Full Trailer",
-      "url": "https://www.tvline.com/2320137/frisco-king-season-1-release-date-paramount-plus-samuel-l-jackson/",
-      "source_count": 1,
-      "sources": [
-        "TVLine"
-      ]
-    },
-    {
-      "title": "How To Watch The 2026 CMA Awards",
-      "url": "https://www.tvline.com/2319315/how-watch-2026-cma-awards/",
-      "source_count": 1,
-      "sources": [
-        "TVLine"
-      ]
-    },
-    {
-      "title": "Marshals Star Luke Grimes Admits He Struggled With One Major Change From Yellowstone",
-      "url": "https://www.tvline.com/2320255/marshals-star-luke-grimes-strugged-yellowstone-change-monica-dutton/",
       "source_count": 1,
       "sources": [
         "TVLine"
@@ -318,137 +305,144 @@
       ]
     },
     {
-      "title": "You Can Now Order McDonald's Through Discord",
-      "url": "https://www.ign.com/articles/you-can-now-order-mcdonalds-through-discord",
+      "title": "GTA 6 Launch Causes Massive Spike in Traffic for Internet Provider Xfinity",
+      "url": "https://www.ign.com/articles/gta-6-launch-causes-massive-spike-in-traffic-for-internet-provider-xfinity",
       "source_count": 1,
       "sources": [
         "IGN Games"
       ]
     },
     {
-      "title": "Rockstar President Sam Houser Issues Rare Statement to Celebrate GTA 6 Launch",
-      "url": "https://www.ign.com/articles/rockstar-president-sam-houser-issues-rare-statement-to-celebrate-gta-6-launch",
-      "source_count": 2,
-      "sources": [
-        "IGN Games",
-        "GameSpot"
-      ]
-    },
-    {
-      "title": "Saros Is Over 50% Off at Walmart Ahead of Black Friday, but YMMV on Spotting the Deal",
-      "url": "https://www.ign.com/articles/saros-is-over-50-off-at-walmart-ahead-of-black-friday-but-ymmv-on-spotting-the-deal",
+      "title": "GTA 6 Doesn't Let Players Pick Up Prostitutes, but Rockstar Has a Logical Reason for It",
+      "url": "https://www.ign.com/articles/gta-6-doesnt-let-players-pick-up-prostitutes-but-rockstar-has-a-logical-reason-for-it",
       "source_count": 1,
       "sources": [
         "IGN Games"
       ]
     },
     {
-      "title": "In GTA 6, Doomscrolling Is a Necessity If You Want to See Everything",
-      "url": "https://www.ign.com/articles/in-gta-6-doomscrolling-is-a-necessity-if-you-want-to-see-everything",
+      "title": "43 Army Members Reenlisted in Exchange for Paid Time Off to Play GTA 6",
+      "url": "https://www.ign.com/articles/43-army-members-reenlisted-in-exchange-for-paid-time-off-to-play-gta-6",
       "source_count": 1,
       "sources": [
         "IGN Games"
       ]
     },
     {
-      "title": "Last Chance to Save $10 Off GTA 6 Ultimate Edition on PS5 and Xbox Ahead of Launch",
-      "url": "https://www.ign.com/articles/last-chance-to-save-10-off-gta-6-ultimate-edition-on-ps5-and-xbox-ahead-of-launch",
+      "title": "A GTA 6 Location Was Teased by Rockstar All the Way Back in 2021 - And What's Inside Was Worth the Wait",
+      "url": "https://www.ign.com/articles/a-gta-6-location-was-teased-by-rockstar-all-the-way-back-in-2021-and-whats-inside-was-worth-the-wait",
       "source_count": 1,
       "sources": [
         "IGN Games"
       ]
     },
     {
-      "title": "MindsEye Dev Build a Rocket Boy Says Legal Action Against 'Several Third Parties' Will Help It Pay Off Its Mountain of Debt",
-      "url": "https://www.ign.com/articles/build-a-rocket-boy-legal-action-against-mindseye-saboteurs-debts",
+      "title": "DevGamm Awards 2026 Winners Revealed",
+      "url": "https://www.ign.com/articles/devgamm-awards-2026-winners-revealed",
       "source_count": 1,
       "sources": [
         "IGN Games"
       ]
     },
     {
-      "title": "Bigfoot Is Back In GTA 6, And Apparently He Smells Revolting",
-      "url": "https://www.gamespot.com/articles/bigfoot-is-back-in-gta-6-and-apparently-he-smells-revolting/",
+      "title": "GTA 6 Shatters Streaming Records Before It Even Launches Globally",
+      "url": "https://www.ign.com/articles/gta-6-shatters-streaming-records-before-it-even-launches-globally",
+      "source_count": 1,
+      "sources": [
+        "IGN Games"
+      ]
+    },
+    {
+      "title": "GTA 6's Best Song Is A Nelly Furtado Cover From Azerbaijan",
+      "url": "https://www.gamespot.com/articles/gta-6s-best-song-is-a-nelly-furtado-cover-from-azerbaijan/",
       "source_count": 1,
       "sources": [
         "GameSpot"
       ]
     },
     {
-      "title": "Don't Expect To See Vice City For A Long Time In GTA 6",
-      "url": "https://www.gamespot.com/articles/dont-expect-to-see-vice-city-for-a-long-time-in-gta-6/",
+      "title": "PSN Went Down Sorta On GTA 6 Eve",
+      "url": "https://www.gamespot.com/articles/psn-went-down-sorta-on-gta-6-eve/",
       "source_count": 1,
       "sources": [
         "GameSpot"
       ]
     },
     {
-      "title": "Jason Loves Cats In GTA 6, But Not All Of Them",
-      "url": "https://www.gamespot.com/articles/jason-loves-cats-in-gta-6-but-not-all-of-them/",
+      "title": "KFC Announces GTA 6 Promo Where You Get A Disc-Shaped Piece Of Chicken",
+      "url": "https://www.gamespot.com/articles/kfc-announces-gta-6-promo-where-you-get-a-disc-shaped-piece-of-chicken/",
       "source_count": 1,
       "sources": [
         "GameSpot"
       ]
     },
     {
-      "title": "How Long Does It Take To Fly Across The Entire GTA 6 Map?",
-      "url": "https://www.gamespot.com/articles/how-long-does-it-take-to-fly-across-the-entire-gta-6-map/",
+      "title": "How Xbox's Streaming Deal For GTA 6 Could Expand Its Marketshare By 30%",
+      "url": "https://www.gamespot.com/articles/how-xboxs-streaming-deal-for-gta-6-could-expand-its-marketshare-by-30/",
       "source_count": 1,
       "sources": [
         "GameSpot"
       ]
     },
     {
-      "title": "Here Are The Most Nominated Games And Publishers At The Game Awards This Year",
-      "url": "https://www.gamespot.com/articles/here-are-the-most-nominated-games-and-publishers-at-the-game-awards-this-year/",
+      "title": "GTA 6 Owner Take-Two's Stock Adds Billions After Rave Reviews, But It's Not All Good News",
+      "url": "https://www.gamespot.com/articles/gta-6-owner-take-twos-stock-explodes-after-high-review-scores-but-its-still-down-massively-this-year/",
       "source_count": 1,
       "sources": [
         "GameSpot"
       ]
     },
     {
-      "title": "How to get a snap gun in GTA 6",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-snap-gun/",
+      "title": "GTA 6 Has A Hilarious Riff On Easter Eggs",
+      "url": "https://www.gamespot.com/articles/gta-6-has-a-hilarious-riff-on-easter-eggs/",
+      "source_count": 1,
+      "sources": [
+        "GameSpot"
+      ]
+    },
+    {
+      "title": "Set phasers to stun (the contents of my wallet): Magic's Star Trek crossover is one of the good ones",
+      "url": "https://www.pcgamer.com/games/card-games/set-phasers-to-stun-the-contents-of-my-wallet-magics-star-trek-crossover-is-one-of-the-good-ones/",
       "source_count": 1,
       "sources": [
         "PC Gamer"
       ]
     },
     {
-      "title": "What's the first thing you're gonna do in GTA 6?",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/whats-the-first-thing-youre-gonna-do-in-gta-6/",
+      "title": "GTA 6: Where to find your first plane and helicopter right away",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-first-plane-and-helicopter/",
       "source_count": 1,
       "sources": [
         "PC Gamer"
       ]
     },
     {
-      "title": "'I just hope GTA 6 is the last of its kind': Warren Spector congratulates Rockstar on its landmark accomplishment but says the industry can't keep this up",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/i-just-hope-gta-6-is-the-last-of-its-kind-warren-spector-congratulates-rockstar-on-its-landmark-accomplishment-but-says-the-industry-cant-keep-this-up/",
+      "title": "Clair Obscur: Expedition 33 lead writer left Sandfall Interactive last summer: 'We've parted ways'",
+      "url": "https://www.pcgamer.com/games/rpg/clair-obscur-expedition-33-lead-writer-left-sandfall-interactive-last-summer-weve-parted-ways/",
       "source_count": 1,
       "sources": [
         "PC Gamer"
       ]
     },
     {
-      "title": "How to clone keys in GTA 6",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-clone-keys/",
+      "title": "Devolver's not just launching a game on the same day as GTA 6, it's using a shot-by-shot remake of the GTA 6 launch trailer too",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/devolvers-not-just-launching-a-game-on-the-same-day-as-gta-6-its-using-a-shot-by-shot-remake-of-the-gta-6-launch-trailer-too/",
       "source_count": 1,
       "sources": [
         "PC Gamer"
       ]
     },
     {
-      "title": "It's almost time to say goodbye to modding GTA 5, if the game doesn't shatter into a thousand pieces first",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/its-almost-time-to-say-goodbye-to-modding-gta-5-if-the-game-doesnt-shatter-into-a-thousand-pieces-first/",
+      "title": "GTA 6 airport location: Here's where to earn your wings less than legally",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-airport-location/",
       "source_count": 1,
       "sources": [
         "PC Gamer"
       ]
     },
     {
-      "title": "How to reach 6 stars in GTA 6",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-six-stars/",
+      "title": "Rockstar says a PS5 Pro is simply 'not powerful enough' for 60 fps GTA 6, as I crack a smile at my 5090",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/rockstar-says-a-ps5-pro-is-simply-not-powerful-enough-for-60-fps-gta-6-as-i-crack-a-smile-at-my-5090/",
       "source_count": 1,
       "sources": [
         "PC Gamer"
@@ -463,24 +457,8 @@
       ]
     },
     {
-      "title": "German cabinet approves proposal of Brunnermeier as ECB chief economist, source says",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNb3ptbE5yckt0S0lqeW1XMFE3VEwwRS16Wmc0S081TjRFMnliZkJ6X3JFVUx4aFBiZGRST0RGNmd5d2QwdVNaZDdhb25zZzN1Vzd5R1ZRUThPZzVVaE16WFkzdUlrUEt2WWpPQmNzWGk5eEJaYVY4MF8yT2tKcHpsV2o3Nkl0eWNkWDRNSXM2MTJ4ams",
-      "source_count": 1,
-      "sources": [
-        "AOL.com"
-      ]
-    },
-    {
-      "title": "Global media executives say trust central to journalism in AI age",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOSzNfb1NLQ3k2Vld1Y0xsUEg2Y3JSajZrcGI0cmNfNUo2ajkteXRpN2labXY3Ykszek5vZ3JtdGNEZGg4bmo3dnJraG5ZRmJNNFMwMDhnbjhpV0pkRnR6TGxsS24zQzNLQ0xYVlpzSlAtdUhOOGJSbl9PdENtSk81THNjdEdJMUdOYlNFY3p6TjQtd2dtbFJqOHJmR1ZlWTVHRGtUWlJ3YjhTZGZ6VHV4ekZSd3ZmZlp3WHJn",
-      "source_count": 1,
-      "sources": [
-        "Nikkei Asia"
-      ]
-    },
-    {
-      "title": "Lucky Strike Entertainment Corporation Announces Receipt Of Going-Private Proposal",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPdkZXSHZmZDVPWTVEb3FjUk9rckRYWXBfOHRFeTFfM19CMlFLWG43bERmSVhEQk5RN2pDNkYyTldQQ2RRLTUySFRiTXduanlwSkZiM0pnMlBOT0ZEbnFwNnRhaExBTU1Oa0xPRmJ3TDdvRzI3WHVEeWdnSU1vbTRucUVvdlRuZ0ZvWlFUMXgwVzNrVEVHbUZPV1lPalc2MHBDX1BjYnQxc1Bwd1V2dURwVGdKVndIRUZVU0FfbEM1UHBsVnpxUGdRYjJocmliSmg2TzhjX19abE1rQWU2YW9FcmV6ZjZtZE0",
+      "title": "ZenaTech (ZENA) Launches Entertainment Division and Premieres 11-Episode Series",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOQk1GM3JKaFUybzFoeW9oYi1iM05jdGtva0xlX3psUVlRcGF1aTFlVEZRNVlGRkc4TE9YTG5JSG40bU92UnZWMllCVklUVVdVVnI1UVE1RjdwTDZwZXlOWkVMUmNmMFlpUl9VN2l4RTFUTW1qbmtIQ1V5NkNaZUY0NUF6RUJkZHlGMkRmcl9QVUlZb01URkR0NEhuSHgxOXlabWZHTEZuRDd5OGVpVDBPOGlRd2tybkViMmYwRzV4TDA2cmw2Nkp0aHR3cndJSE1NVVE",
       "source_count": 1,
       "sources": [
         "TradingView"
@@ -495,11 +473,59 @@
       ]
     },
     {
+      "title": "Global media executives say trust central to journalism in AI age",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOSzNfb1NLQ3k2Vld1Y0xsUEg2Y3JSajZrcGI0cmNfNUo2ajkteXRpN2labXY3Ykszek5vZ3JtdGNEZGg4bmo3dnJraG5ZRmJNNFMwMDhnbjhpV0pkRnR6TGxsS24zQzNLQ0xYVlpzSlAtdUhOOGJSbl9PdENtSk81THNjdEdJMUdOYlNFY3p6TjQtd2dtbFJqOHJmR1ZlWTVHRGtUWlJ3YjhTZGZ6VHV4ekZSd3ZmZlp3WHJn",
+      "source_count": 1,
+      "sources": [
+        "Nikkei Asia"
+      ]
+    },
+    {
       "title": "Canada's La Caisse in talks for stake in Bain's Bridge Data Centres, Reuters sources say",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQZ2FPWE9HbDBMME5aekNsdE8walJ2ejUtc3VWeXQ2VDFlaEttUEZ3YTVQLWRBNmUyQTBWakMxa3VJZHg4TjZURWxlZXF2emUzVlhxdlY5YUprdW12VUpfRTVXR29kdXhOeHBkaG1SNExqelloRkNBZ3MzWEJsLVFSRWJkLUxXSV9RXzJ6MlJFTVlGclg4cFJwbVIyMEFPUkltdWJqdFIybE9nRzVreXpYZkNxQm9sSE5RUFRsTzE3VTZKOGJyUkVOOA",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNVXVJTlBNWWJIX2lucEwxNVRrLU8yeHZNbVphOXk0cm1Db3I1dDJhTkdkNE8yQW4tNVJyTEQ3Q3hqUnJwZXhub0tHLVdUZ0JjWXJ4YXpyRHVLa3o2YndURldHdmkteHZtX0c4ckhGYWNDTzh5V1hnNWhVVENLZUYydy1va09pVUluRUFKYnlLQlNZUXhnVkpQVEFtQVRDMnlvUHhnc25kdDhtMHMwN1NqZnl2MU1MdWVrZ0lCME5RWlZJeU4w",
       "source_count": 1,
       "sources": [
         "CTV News"
+      ]
+    },
+    {
+      "title": "EXCLUSIVE: India may limit leveraged stock bets to curb volatility, sources say",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQOW0tQWdjMmJOOUJOV3RYNzByeUVmLTZNYTRKTGszNHBqTVR2OHlrZnBLQXN6UlhFeFhOMGRBblFpSTJjcVJVckMybVJDYnhWU01VanpQOWNkVXFhZmlrYXM0empDNE5aXzBSQUVnSnBTSDlYZ3JJNURScmdzSFM5ei1VTTdiZVVhOTA4RjdOMHF0VkQ4bHhVdFZRek91d0NXVjlxVkh1UmMxWDZMMmpfelJ0aHhubWRu",
+      "source_count": 1,
+      "sources": [
+        "Reuters"
+      ]
+    },
+    {
+      "title": "'Bedford Park' Trailer: Sundance Winner Stars Moon Choi, Who Falls for the Other Driver in Her Mother's Car Accident",
+      "url": "https://www.indiewire.com/news/trailers/bedford-park-trailer-moon-choi-son-sukku-1235228988/",
+      "source_count": 1,
+      "sources": [
+        "IndieWire"
+      ]
+    },
+    {
+      "title": "David Ellison on Elon Musk's Skydance Investment, Trump and 'Rush Hour 4,' and Whether He Would've Made 'Digger'",
+      "url": "https://www.indiewire.com/news/general-news/david-ellison-elon-musk-digger-dealbook-summit-1235229252/",
+      "source_count": 1,
+      "sources": [
+        "IndieWire"
+      ]
+    },
+    {
+      "title": "Christopher Nolan and Guillermo del Toro Break Down 'The Odyssey' Monsters and AI's Limitations with Production VFX Supervisor Andrew Jackson",
+      "url": "https://www.indiewire.com/news/general-news/christopher-nolan-guillermo-del-toro-the-odyssey-vfx-1235228482/",
+      "source_count": 1,
+      "sources": [
+        "IndieWire"
+      ]
+    },
+    {
+      "title": "'I Play Rocky' Star P.J. Byrne Isn't a Scene-Stealer",
+      "url": "https://www.indiewire.com/awards/consider-this/i-play-rocky-p-j-byrne-scene-stealer-irwin-winkler-1235228652/",
+      "source_count": 1,
+      "sources": [
+        "He's Something Better"
       ]
     },
     {
@@ -519,35 +545,59 @@
       ]
     },
     {
-      "title": "Jim Cummings Wakes Up to a Post-One-Night-Stand Crisis in 'DISC'",
-      "url": "https://www.indiewire.com/news/general-news/jim-cummings-disc-short-film-vimeo-staff-pick-watch-1235228898/",
+      "title": "'Salman Khan is the OG Prem,' says Ayushmann Khurrana: 'We idealise him'",
+      "url": "https://indianexpress.com/article/entertainment/bollywood/salman-khan-og-prem-ayushmann-khurrana-idealise-him-yeh-prem-mol-liya-10968817/",
       "source_count": 1,
       "sources": [
-        "Watch the Short"
+        "The Indian Express Cinema"
       ]
     },
     {
-      "title": "'Artificial' Trailer: Andrew Garfield Stuns in Luca Guadagnino's Sharp, Shocking, Funny Portrayal of OpenAI CEO Sam Altman",
-      "url": "https://www.indiewire.com/news/trailers/artificial-trailer-luca-guadagnino-sam-altman-1235229086/",
+      "title": "Inside Swara Bhasker and Fahad Ahmad's Mumbai bungalow: 'Not a fancy Bollywood house'",
+      "url": "https://indianexpress.com/article/entertainment/bollywood/inside-swara-bhasker-and-fahad-ahmads-mumbai-bungalow-not-a-fancy-bollywood-house-10968375/",
       "source_count": 1,
       "sources": [
-        "IndieWire"
+        "The Indian Express Cinema"
       ]
     },
     {
-      "title": "'The Comeback King' Trailer: Glen Powell Is a Cancelled Country Star in Judd Apatow's Latest Directing Project",
-      "url": "https://www.indiewire.com/news/trailers/the-comeback-king-trailer-glen-powell-judd-apatow-1235229108/",
+      "title": "Sooraj Barjatya calls Dhurandhar a 'wonderful film': 'Every film has its place'",
+      "url": "https://indianexpress.com/article/entertainment/bollywood/sooraj-barjatya-dhurandhar-wonderful-film-yeh-prem-mol-liya-trailer-launch-10968792/",
       "source_count": 1,
       "sources": [
-        "IndieWire"
+        "The Indian Express Cinema"
       ]
     },
     {
-      "title": "'Gentle Monster' Review: Léa Seydoux Learns the Truth About Her Husband in Marie Kreutzer's Tough Study of Child Sex Abuse",
-      "url": "https://www.indiewire.com/criticism/movies/gentle-monster-movie-review-lea-seydoux-1235193808/",
+      "title": "Kevin Feige reveals RDJ's Doctor Doom was in the works before Jonathan Majors was fired",
+      "url": "https://indianexpress.com/article/entertainment/hollywood/avengers-doomsday-kevin-feige-robert-downey-jr-doctor-doom-jonathan-majors-fired-10968179/",
       "source_count": 1,
       "sources": [
-        "IndieWire"
+        "The Indian Express Cinema"
+      ]
+    },
+    {
+      "title": "Ranveer Singh's Pralay will be a 'spectacle', declares producer Ananya Birla",
+      "url": "https://indianexpress.com/article/entertainment/web-series/ranveer-singh-pralay-spectacle-declares-producer-ananya-birla-koffee-with-karan-10968715/",
+      "source_count": 1,
+      "sources": [
+        "The Indian Express Cinema"
+      ]
+    },
+    {
+      "title": "Perez Hilton's Family Says Blogger Is Making 'Encouraging Progress'",
+      "url": "https://www.rollingstone.com/culture/culture-news/perez-hilton-family-health-update-1235660534/",
+      "source_count": 1,
+      "sources": [
+        "Rolling Stone Culture"
+      ]
+    },
+    {
+      "title": "Taylor Swift Is Getting a Museum of Fine Arts Exhibit in Boston",
+      "url": "https://www.rollingstone.com/culture/culture-news/taylor-swift-exhibit-museum-of-fine-arts-boston-music-1235660439/",
+      "source_count": 1,
+      "sources": [
+        "Rolling Stone Culture"
       ]
     },
     {
@@ -583,67 +633,59 @@
       ]
     },
     {
-      "title": "Judge Sets New Date in Lindsay Clancy Trial",
-      "url": "https://www.rollingstone.com/culture/culture-news/lindsay-clancy-retrial-date-1235659032/",
-      "source_count": 1,
-      "sources": [
-        "Rolling Stone Culture"
-      ]
-    },
-    {
-      "title": "Big Oil, Climate Change, and a 'Smoking Gun'",
-      "url": "https://www.rollingstone.com/culture/culture-features/shell-typhoon-survivors-litigation-documents-1235645120/",
-      "source_count": 1,
-      "sources": [
-        "Rolling Stone Culture"
-      ]
-    },
-    {
-      "title": "Your Favorite Coffee Shop Is Probably Streaming Music Illegally. It's the Music Industry's Fault, Too (Guest Column)",
-      "url": "https://www.billboard.com/pro/us-businesses-stream-music-illegally-industry-fix/",
+      "title": "2026 CMA Awards Kicks Off With Emotional Tribute to Dolly Parton: 'Our Tennessee Angel Is With the Angels'",
+      "url": "https://www.billboard.com/music/awards/lainey-wilson-vince-gill-dolly-parton-i-will-always-love-you-cmas-1236385209/",
       "source_count": 1,
       "sources": [
         "Billboard"
       ]
     },
     {
-      "title": "Grimes & Elon Musk Feud Over AI 'Sex Slave,' Singer Urges Ex to 'Step Up' and Be 'the King He Used to Be'",
-      "url": "https://www.billboard.com/music/music-news/elon-musk-grimes-feud-ai-sex-slave-he-should-be-king-1236384843/",
+      "title": "Here Are the 2026 CMA Awards Winners: Full List (Updating Live)",
+      "url": "https://www.billboard.com/music/awards/cma-2026-winners-list-1236385046/",
       "source_count": 1,
       "sources": [
         "Billboard"
       ]
     },
     {
-      "title": "'I Love Rock 'n Roll' Turns 45: An Oral History From Joan Jett, Kenny Laguna & More",
-      "url": "https://www.billboard.com/music/rock/i-love-rock-n-roll-joan-jett-song-history-1236384876/",
+      "title": "Best Photos From 2026 CMA Awards Red Carpet: Taylor Swift, Lainey Wilson, Megan Moroney & More",
+      "url": "https://www.billboard.com/photos/cma-red-carpet-photos-2026-1236385148/",
       "source_count": 1,
       "sources": [
         "Billboard"
       ]
     },
     {
-      "title": "Offset Says He Has 'No Hard Feelings' for Stefon Diggs After Athlete's Cardi B Romance",
-      "url": "https://www.billboard.com/music/rb-hip-hop/offset-cardi-b-stefon-diggs-no-hard-feelings-1236384858/",
+      "title": "Billboard's Music Industry Events Calendar",
+      "url": "https://www.billboard.com/pro/music-industry-events-calendar-festivals-awards-conferences/",
       "source_count": 1,
       "sources": [
         "Billboard"
       ]
     },
     {
-      "title": "HYBE Makes Major Market Push in Japan With Bid to Acquire KeyHolder",
-      "url": "https://www.billboard.com/pro/hybe-bids-to-acquire-keyholder/",
+      "title": "Michael Jackson's 'Second Family' Sues Estate's Lawyer Over 'Hush Money' Sex Abuse Deal",
+      "url": "https://www.billboard.com/pro/michael-jackson-estate-lawyer-lawsuit-sexual-abuse-deal/",
       "source_count": 1,
       "sources": [
         "Billboard"
       ]
     },
     {
-      "title": "LISA Drops Emotional New Single 'Leave With Me' From 'Always Lalisa' Movie: Listen",
-      "url": "https://www.billboard.com/music/pop/lisa-new-single-leave-with-me-always-lalisa-movie-watch-video-1236384860/",
+      "title": "Metro by T-Mobile Is Offering a Free Samsung Smartphone for a Limited Time",
+      "url": "https://www.billboard.com/culture/product-recommendations/metro-by-t-mobile-samsung-galaxy-a37-free-deal-shop-online-1236383878/",
       "source_count": 1,
       "sources": [
         "Billboard"
+      ]
+    },
+    {
+      "title": "Netflix Orders Adult Animated Series 'Grendel' Based on Matt Wagner's Dark Horse Comic",
+      "url": "https://www.whats-on-netflix.com/news/netflix-orders-adult-animated-series-grendel-based-on-matt-wagners-dark-horse-comic/",
+      "source_count": 1,
+      "sources": [
+        "What's on Netflix"
       ]
     },
     {
@@ -681,60 +723,59 @@
     {
       "title": "New Anime on Netflix in December 2026",
       "url": "https://www.whats-on-netflix.com/news/anime/every-anime-coming-to-netflix-december-2026/",
-      "source_count": 2,
+      "source_count": 1,
       "sources": [
-        "What's on Netflix",
         "What's on Netflix"
       ]
     },
     {
-      "title": "Goodbye, Lucia: GTA 6 Fans' Official New Obsession Is Mandy",
-      "url": "https://www.polygon.com/gta-6-mandy-who-is-pipework-mission-lucia-jason-chapter-reddit/",
+      "title": "GTA 6 Officially Cuts A Controversial Franchise Feature After 25 Years",
+      "url": "https://www.polygon.com/gta-6-prostitutes-hookers-strippers-where-are-npcs-rockstar/",
       "source_count": 1,
       "sources": [
         "Polygon"
       ]
     },
     {
-      "title": "DMZ key and locations in Modern Warfare 4",
-      "url": "https://www.polygon.com/mw4-modern-warfare-4-dmz-keys-locations-all-list/",
+      "title": "The 10 greatest games to never get a GOTY nomination",
+      "url": "https://www.polygon.com/greatest-games-no-goty-nominations/",
       "source_count": 1,
       "sources": [
         "Polygon"
       ]
     },
     {
-      "title": "GTA 6's Subscription-based Perks are Worrying Players",
-      "url": "https://www.polygon.com/gta-6-plus-membership-benefits-exclusive-car-garage/",
+      "title": "PlayStation Network Outage Hits On GTA 6 Release Day Eve",
+      "url": "https://www.polygon.com/gta-6-is-psn-down-detector-account-services-busy-server-connection-error/",
       "source_count": 1,
       "sources": [
         "Polygon"
       ]
     },
     {
-      "title": "GTA 6 Is Already Breaking Twitch Records",
-      "url": "https://www.polygon.com/gta-6-streaming-record-twitch-viewers-reviews/",
+      "title": "2026's Most Viral Movie with 97 Rotten Tomatoes Score Sets Streaming Date",
+      "url": "https://www.polygon.com/you-can-see-everything-streaming-date-nov-24-2026/",
       "source_count": 1,
       "sources": [
         "Polygon"
       ]
     },
     {
-      "title": "GTA 6 Won't Be Getting a Future Performance Mode, Even on PS5 Pro",
-      "url": "https://www.polygon.com/gta-6-30-fps-locked-ps5-pro-performance/",
+      "title": "GTA 6's Completely Unrealistic Mountains Had to Be in the Game, Rockstar Says",
+      "url": "https://www.polygon.com/gta-6-rockstar-lummox-county/",
       "source_count": 1,
       "sources": [
         "Polygon"
       ]
     },
     {
-      "title": "Justin and Griffin are NOT playing the same games",
-      "url": "https://www.polygon.com/video/justin-and-griffin-are-not-playing-the-same-games/",
+      "title": "Switch 2 Is Getting an All-new Gamecube Controller",
+      "url": "https://www.polygon.com/nintendo-switch-2-wireless-game-cube-controller-8bitdo/",
       "source_count": 1,
       "sources": [
         "Polygon"
       ]
     }
   ],
-  "summary": "Verified intelligence gathered across 91 deduplicated editorial clusters."
+  "summary": "Verified intelligence gathered across 96 deduplicated editorial clusters."
 }
