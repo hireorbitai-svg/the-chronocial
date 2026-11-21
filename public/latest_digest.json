@@ -1,95 +1,133 @@
 {
-  "timestamp": "2026-11-21T17:07:57.350679+00:00",
-  "headline_count": 98,
+  "timestamp": "2026-11-21T22:48:31.674584+00:00",
+  "headline_count": 95,
   "headlines": [
     {
-      "title": "How This Year's Movies From 'Artificial' to 'I Play Rocky' Turn Political Anxiety Into Compelling Stories",
-      "url": "https://variety.com/2026/film/focus/political-anxietyartificial-ink-weight-rocky-1236953703/",
+      "title": "Seth Rogen Says Brad Pitt and '12 Years a Slave' Cast Would Visit 'This Is the End' Set to 'Perk Up' Because They Were 'in a Bummed-Out Headspace' While Filming",
+      "url": "https://variety.com/2026/film/news/seth-rogen-brad-pitt-12-years-a-slave-cast-set-visit-1236955074/",
       "source_count": 1,
       "sources": [
         "Variety"
       ]
     },
     {
-      "title": "Box Office: 'The Hunger Games: Sunrise on the Reaping' Scores $56 Million on Friday, 'I Play Rocky' Follows With $3.8 Million",
-      "url": "https://variety.com/2026/film/box-office/box-office-hunger-games-sunrise-of-the-reaping-opening-day-1236954987/",
-      "source_count": 3,
+      "title": "Jeff Goldblum Performs a Piano Medley and Reflects on His Career at Marrakech Film Festival: 'The Stories That We Tell Matter'",
+      "url": "https://variety.com/2026/film/global/jeff-goldblum-career-marrakech-film-festival-tilda-swinton-1236954972/",
+      "source_count": 1,
       "sources": [
-        "Variety",
-        "Box Office Update",
+        "Variety"
+      ]
+    },
+    {
+      "title": "Russell Crowe's Request to Shoot 'A Beautiful Mind' Chronologically Added $1 Million to the Budget, Says Ron Howard: 'It Was the Right Kind of Investment'",
+      "url": "https://variety.com/2026/film/news/russell-crowe-a-beautiful-mind-sequence-ron-howard-1236955038/",
+      "source_count": 1,
+      "sources": [
+        "Variety"
+      ]
+    },
+    {
+      "title": "How the 'Elsinore' Makeup Team Transformed Stars Andrew Scott and Olivia Colman to Bring the Story of Ian Charleson to Life",
+      "url": "https://variety.com/2026/artisans/news/elsinore-makeup-olivia-colman-andrew-scott-1236954968/",
+      "source_count": 1,
+      "sources": [
+        "Variety"
+      ]
+    },
+    {
+      "title": "Stephan James on Honoring Carl Weathers' Legacy and Learning to Box for 'I Play Rocky'",
+      "url": "https://variety.com/2026/film/features/i-play-rocky-stephan-james-carl-weathers-boxing-training-1236954058/",
+      "source_count": 1,
+      "sources": [
+        "Variety"
+      ]
+    },
+    {
+      "title": "Andrew Rannells Was Told to 'Stay Away' From Kevin Spacey After Meeting Backstage at 'The Book of Mormon'; He Then Sent a 'Handwritten Letter' 'Asking Me on a Date'",
+      "url": "https://variety.com/2026/tv/news/andrew-rannells-kevin-spacey-date-1236955011/",
+      "source_count": 1,
+      "sources": [
+        "Variety"
+      ]
+    },
+    {
+      "title": "Kaitlan Collins Notes 'Real Time' Absence Was Due To White House Press Conference",
+      "url": "https://deadline.com/2026/11/kaitlan-collins-real-time-absence-white-house-press-conference-1237231015/",
+      "source_count": 1,
+      "sources": [
+        "Deadline Hollywood"
+      ]
+    },
+    {
+      "title": "'Artificial' Filmmaker Luca Guadagnino On Whether AI Is Humanity's Doomsday & Sam Altman's Arsenal",
+      "url": "https://deadline.com/2026/11/luca-guadagnino-artificial-interview-sam-altman-openai-1237230964/",
+      "source_count": 1,
+      "sources": [
+        "Crew Call Podcast"
+      ]
+    },
+    {
+      "title": "Watermelon Expands Production Ambitions As It Seals Partnership With Qatar's Film Committee",
+      "url": "https://deadline.com/2026/11/watermelon-production-partnership-qatar-film-committee-1237230984/",
+      "source_count": 1,
+      "sources": [
+        "Deadline Hollywood"
+      ]
+    },
+    {
+      "title": "CAA's Bryan Lourd Urges Congress To Pass AI Legislation To Protect Americans \"Famous Or Not\"",
+      "url": "https://deadline.com/2026/11/bryan-lourd-ai-legislation-no-fakes-act-1237230979/",
+      "source_count": 1,
+      "sources": [
+        "Deadline Hollywood"
+      ]
+    },
+    {
+      "title": "Broadway's Cure For The Post-Holiday Blues? Stars, Stars & More Stars, Coming This Winter",
+      "url": "https://deadline.com/2026/11/broadway-winter-2027-shows-julia-roberts-steve-carell-1237230909/",
+      "source_count": 1,
+      "sources": [
+        "Deadline Hollywood"
+      ]
+    },
+    {
+      "title": "Netflix's 'Minimum Wage' Ushers In Streaming's Short Ep Sitcom Era: \"The Future Is 15-Minute 'SpongeBob'-Length Episodes\"",
+      "url": "https://deadline.com/2026/11/netflix-minimum-short-episode-sitcoms-1237229899/",
+      "source_count": 1,
+      "sources": [
+        "Deadline Hollywood"
+      ]
+    },
+    {
+      "title": "Where to Watch the NWSL Championship: Washington Spirit vs. Kansas City Current",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/watch-nwsl-final-washington-spirit-kansas-city-current-free-1236758737/",
+      "source_count": 1,
+      "sources": [
         "The Hollywood Reporter"
       ]
     },
     {
-      "title": "Liz Daly Byrne, Model and Wife of PMC Vice Chairman Gerry Byrne, Dies at 81",
-      "url": "https://variety.com/2026/biz/news/liz-daly-byrne-dead-model-wife-gerry-byrne-variety-pmc-1236954966/",
+      "title": "Hollywood's Biggest Watch Nerds Are Obsessing Over These Indie Brands",
+      "url": "https://www.hollywoodreporter.com/lifestyle/style/indie-watch-brands-hollywood-1236760300/",
       "source_count": 1,
       "sources": [
-        "Variety"
+        "The Hollywood Reporter"
       ]
     },
     {
-      "title": "Kylian Mbappé Impersonator Leads Colorful Roster of Doubles in Egyptian Doc 'The Lookalike'",
-      "url": "https://variety.com/2026/film/global/mbappe-impersonator-the-lookalike-egyptian-doc-1236954825/",
+      "title": "How Raising Cane's Became an A-List Magnet",
+      "url": "https://www.hollywoodreporter.com/lifestyle/lifestyle-news/raising-canes-a-list-parties-1236757826/",
       "source_count": 1,
       "sources": [
-        "Variety"
+        "The Hollywood Reporter"
       ]
     },
     {
-      "title": "An Iranian Woman Falls Pregnant to Avoid Execution in 'Inherited': Situation in Iran Is 'Increasingly Complex'",
-      "url": "https://variety.com/2026/film/global/morteza-alizadeh-morally-knotty-inherited-iran-1236954820/",
+      "title": "'Hunger Games: Sunrise on the Reaping' Feasting With $120M+ in Franchise's Box Office Comeback",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/hunger-games-sunrise-on-the-reaping-box-office-opening-win-2-1236760511/",
       "source_count": 1,
       "sources": [
-        "Variety"
-      ]
-    },
-    {
-      "title": "'The Blind Ferryman' Director on Rejecting Western Stereotypes: 'I Don't Want to Make a Movie Asking for Sympathy'",
-      "url": "https://variety.com/2026/film/global/the-blind-ferryman-ali-toffan-al-fatlawi-cairo-1236954929/",
-      "source_count": 1,
-      "sources": [
-        "Variety"
-      ]
-    },
-    {
-      "title": "'Percy Jackson': How A Quest To Save Annabeth Makes Everyone Reevaluate Their Relationships In Season 3",
-      "url": "https://deadline.com/2026/11/percy-jackson-season-3-walker-scobell-leah-jeffries-percabeth-1237230405/",
-      "source_count": 1,
-      "sources": [
-        "Deadline Hollywood"
-      ]
-    },
-    {
-      "title": "SkyShowtime Staff Complained About Workplace Culture & Handling Of \"Racist Conduct\" Before Comcast/Skydance Shuttered Streamer",
-      "url": "https://deadline.com/2026/11/skyshowtime-staff-complaint-work-culture-comcast-skydance-1237230353/",
-      "source_count": 1,
-      "sources": [
-        "Deadline Hollywood"
-      ]
-    },
-    {
-      "title": "Lincoln Center Theater Names Naomi Weinstock New Executive Director Of Development; Robert Jones Upped",
-      "url": "https://deadline.com/2026/11/lincoln-center-theater-naomi-weinstock-1237230896/",
-      "source_count": 1,
-      "sources": [
-        "Deadline Hollywood"
-      ]
-    },
-    {
-      "title": "Anthony Clark's Official Cause Of Death Revealed",
-      "url": "https://deadline.com/2026/11/anthony-clark-cause-of-death-1237230888/",
-      "source_count": 1,
-      "sources": [
-        "Deadline Hollywood"
-      ]
-    },
-    {
-      "title": "'Vengeance Is Mine' Director Edwin Reveals Cast For 'Dancing With My Shadow' Based On Generation-Defining Album",
-      "url": "https://deadline.com/2026/11/hindia-vengeance-edwin-hindia-menari-dengan-bayangan-1237229855/",
-      "source_count": 1,
-      "sources": [
-        "Deadline Hollywood"
+        "The Hollywood Reporter"
       ]
     },
     {
@@ -103,30 +141,6 @@
     {
       "title": "NBC to Air Princess of Wales Cancer Charity Documentary",
       "url": "https://www.hollywoodreporter.com/tv/tv-news/nbc-bbc-princess-of-wales-cancer-documentary-1236760297/",
-      "source_count": 1,
-      "sources": [
-        "The Hollywood Reporter"
-      ]
-    },
-    {
-      "title": "'Concrete Music,' 'Leopard Spots' Among Industry@Tallinn and Baltic Event Award Winners",
-      "url": "https://www.hollywoodreporter.com/news/general-news/concrete-music-leopard-spots-itbe-2026-award-winners-tallinn-1236760061/",
-      "source_count": 1,
-      "sources": [
-        "The Hollywood Reporter"
-      ]
-    },
-    {
-      "title": "Under Pressure From Struggling Members, SAG-AFTRA Vows to Advocate for Universal Healthcare",
-      "url": "https://www.hollywoodreporter.com/business/business-news/sag-aftra-advocate-universal-healthcare-under-pressure-1236760332/",
-      "source_count": 1,
-      "sources": [
-        "The Hollywood Reporter"
-      ]
-    },
-    {
-      "title": "Bassam Tariq Says Marvel's Scrapped 'Blade' Reboot Taught Him \"Life's Too Short to Make Sh** Films\"",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/bassam-tariq-marvel-blade-life-too-short-shit-films-1236760314/",
       "source_count": 1,
       "sources": [
         "The Hollywood Reporter"
@@ -181,48 +195,48 @@
       ]
     },
     {
-      "title": "This Netflix Dark Fantasy Show Boasted One Of The Most Impressive All-Star Casts Ever",
-      "url": "https://www.tvline.com/2318987/netflix-dark-fantasy-most-impressive-all-star-cast-dark-crystal/",
+      "title": "Is SNL New Tonight (November 21, 2026)? Host, Musical Guest, Episode Details",
+      "url": "https://www.tvline.com/2321798/is-snl-new-tonight-november-21-2026-host-musical-guest-watch-details/",
       "source_count": 1,
       "sources": [
         "TVLine"
       ]
     },
     {
-      "title": "Dutton Ranch's Kelly Reilly Starred In A Forgotten ABC Medical Drama Series",
-      "url": "https://www.tvline.com/2318979/dutton-ranch-kelly-reilly-star-forgotten-abc-medical-drama-black-box/",
+      "title": "Tom Selleck Helped Launch This Short-Lived '80s Western Series With A TV Movie",
+      "url": "https://www.tvline.com/2319253/tom-selleck-launch-80s-western-series-tv-movie-concrete-cowboys/",
       "source_count": 1,
       "sources": [
         "TVLine"
       ]
     },
     {
-      "title": "10 Fantasy Shows Every Harry Potter Fan Needs To Watch",
-      "url": "https://www.tvline.com/2323077/fantasy-shows-harry-potter-fans-need-watch/",
+      "title": "15 Most Underrated Family Guy Episodes, Ranked",
+      "url": "https://www.tvline.com/2320714/family-guy-most-underrated-episodes-ranked/",
       "source_count": 1,
       "sources": [
         "TVLine"
       ]
     },
     {
-      "title": "Why Spock's Father Beat Leonard Nimoy's Vulcan Hero To Star Trek: The Next Generation",
-      "url": "https://www.tvline.com/2318974/why-spock-father-beat-leonard-nimoy-star-trek-the-next-generation/",
+      "title": "William Shatner Believes CBS Made A Big Mistake Canceling His Short-Lived Sitcom",
+      "url": "https://www.tvline.com/2319051/william-shatner-cbs-mistake-cancel-sitcom/",
       "source_count": 1,
       "sources": [
         "TVLine"
       ]
     },
     {
-      "title": "The '80s Reboot Of Sally Field's Beloved '60s Sitcom Lasted Longer Than The Original",
-      "url": "https://www.tvline.com/2318966/sally-field-80s-reboot-beloved-60s-sitcom-longer-original-gidget/",
+      "title": "What To Watch This Week: 60 Premieres, Finales, And More",
+      "url": "https://www.tvline.com/2323631/what-to-watch-week-of-november-22-2026-tv-shows-movies-streaming/",
       "source_count": 1,
       "sources": [
         "TVLine"
       ]
     },
     {
-      "title": "TVLine's Performer Of The Week: Diane Morgan",
-      "url": "https://www.tvline.com/2323900/diane-morgan-philomena-cunk-on-cinema-netflix-performance/",
+      "title": "Before Lioness, Elizaveta Neretin Was In A Taylor Sheridan Crime Thriller Series",
+      "url": "https://www.tvline.com/2319312/lioness-elizaveta-neretin-taylor-sheridan-crime-thriller-series-mayor-of-kingstown/",
       "source_count": 1,
       "sources": [
         "TVLine"
@@ -318,6 +332,14 @@
       ]
     },
     {
+      "title": "Neuralink Participant Showcases What It's Like to Play GTA 6 With His Mind",
+      "url": "https://www.ign.com/articles/neuralink-participant-showcases-what-its-like-to-play-gta-6-with-his-mind",
+      "source_count": 1,
+      "sources": [
+        "IGN Games"
+      ]
+    },
+    {
       "title": "GTA 6's Weirdest Cow Shows Why You Should Pause the Story Early To Explore Its Vast Map",
       "url": "https://www.ign.com/articles/gta-6s-weirdest-cow-shows-why-you-should-pause-the-story-early-to-explore-its-vast-map",
       "source_count": 1,
@@ -352,14 +374,6 @@
     {
       "title": "RayNeo's Black Friday Sale Includes Discounts on AR Glasses, Plus a New Release of GT Max Call of Duty: Modern Warfare 4 Limited Edition AR Glasses",
       "url": "https://www.ign.com/articles/rayneos-black-friday-sale-includes-discounts-on-ar-glasses-and-more",
-      "source_count": 1,
-      "sources": [
-        "IGN Games"
-      ]
-    },
-    {
-      "title": "Actor Who Plays Mandy in GTA 6 Excitedly Speaks Out After Character Goes Viral",
-      "url": "https://www.ign.com/articles/actor-who-plays-mandy-in-gta-6-excitedly-speaks-out-after-character-goes-viral",
       "source_count": 1,
       "sources": [
         "IGN Games"
@@ -414,49 +428,48 @@
       ]
     },
     {
-      "title": "World of Warcraft: Forever has turned me into a big, friendly golden retriever that says hello to everybody",
-      "url": "https://www.pcgamer.com/games/world-of-warcraft/world-of-warcraft-forever-has-turned-me-into-a-big-friendly-golden-retriever-that-says-hello-to-everybody/",
+      "title": "Comcast: 'At peak, GTA 6 accounted for nearly a quarter of all internet traffic'",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/comcast-at-peak-gta6-accounted-for-nearly-a-quarter-of-all-internet-traffic/",
       "source_count": 1,
       "sources": [
         "PC Gamer"
       ]
     },
     {
-      "title": "GTA 6 La Cascara Motel safe code",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-la-cascara-motel-safe-code/",
+      "title": "The team behind Ubisoft's 'first playable AI-based R&D project' has been established as its own subsidiary called Motherbrain",
+      "url": "https://www.pcgamer.com/gaming-industry/the-team-behind-ubisofts-first-playable-ai-based-r-and-d-project-has-been-established-as-its-own-subsidiary-called-motherbrain/",
       "source_count": 1,
       "sources": [
         "PC Gamer"
       ]
     },
     {
-      "title": "How to find the Avery Pawn Shop safe code in GTA 6",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-pawn-shop-safe-code/",
-      "source_count": 2,
-      "sources": [
-        "PC Gamer",
-        "Polygon"
-      ]
-    },
-    {
-      "title": "The most unforgivable crime in GTA 6 is that TV placement",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/the-most-unforgivable-crime-in-gta-6-is-that-tv-placement/",
+      "title": "Should you proceed or postpone when you meet Abe in the Protective Custody mission in GTA 6?",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-protective-custody-choice-proceed-or-postpone-meet-abe/",
       "source_count": 1,
       "sources": [
         "PC Gamer"
       ]
     },
     {
-      "title": "As a kid, I didn't have a monster in my attic, I had a LAN",
-      "url": "https://www.pcgamer.com/games/as-a-kid-i-didnt-have-a-monster-in-my-attic-i-had-a-lan/",
+      "title": "Skyrim lead chats about the Fallout diehards who hated that Bethesda got the series: 'We had to prove them wrong, and fortunately we did'",
+      "url": "https://www.pcgamer.com/games/fallout/skyrim-lead-chats-about-the-fallout-diehards-who-hated-that-bethesda-got-the-series-we-had-to-prove-them-wrong-and-fortunately-we-did/",
       "source_count": 1,
       "sources": [
         "PC Gamer"
       ]
     },
     {
-      "title": "How to unlock the Brooks Boatworks safe in GTA 6",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-brooks-boatworks-safe-code/",
+      "title": "How to steal the BF Bandito in GTA 6",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-bf-bandito-location/",
+      "source_count": 1,
+      "sources": [
+        "PC Gamer"
+      ]
+    },
+    {
+      "title": "Fake figures seized from dishonest dealer in Shanghai sting spurred by tacky Tifa tchotchke",
+      "url": "https://www.pcgamer.com/games/final-fantasy/fake-figures-seized-from-dishonest-dealer-in-shanghai-sting-spurred-by-tacky-tifa-tchotchke/",
       "source_count": 1,
       "sources": [
         "PC Gamer"
@@ -471,19 +484,19 @@
       ]
     },
     {
-      "title": "Nvidia accounting under SEC investigation, sources say",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPWkYyN19TZ1hVTEZEZlNWa0dNQThWel9QVnozck1PRmFMRDFPSXhTTkxZRFdVekxoaXVRRGJBOGtHRGtVVDBnOG4wNEhJRHlXZXNoZUFfQTVmOGZneG0xT2V1N0haUWdBb1BjQ25sRDRCaE1wWmVOQnNoeUpMTGhaRjlmMUhNZ2NicmdaSEdYUUdQZThrak1DV9IBngFBVV95cUxPMC03eThxTUNoT3JkWXcyMUI0dmVoN3RFTGpLSHZuN3lTZlE0OGdNNnExMnd4djNZbWRUTi13Q2tncDMxazhXb3RLVURaREJZWktIWlVzZTd4YlEybm5mUGxGQnJDYmdYWjRCd0tLTzJsZkFLNUhncktucy1VeUhEQ2Q2bmZ1eUFqaUE0NGVnbmU0VTc2SHJpc1V5TmhNdw",
-      "source_count": 1,
-      "sources": [
-        "NewsNation"
-      ]
-    },
-    {
       "title": "GTA 6 sets record with $3.79 billion in 1st-day sales",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNMS13TDQwRWs1TUdkNXRlZXZCMk9xTTRkelh0WmRkd3poc3NLRy1qV0NUcHdraEg5QnBIbDNzRVhJSzhGVDdIR0VtREN3YWtSVHJ4Mk1ENEs5YTdUM0g1VlJ1aUpWaE5vVFFGbldzcFBvVlExSlRGTzRpOTVLTEJsMnoyYm9GQ3dXd1NuNDRsMTRTaFlyRDUtTnNDVlI2b002V2FTWHVIWUpId9IBrwFBVV95cUxNVUJvd1N6bWxpNW5lMlpwakV1QkJWenpIbm5ZMFhxZDFlMlRKNkk0eWxDOElpSUI2R3NsXzRkX3dCUURfcHd2ZmMzaWYyMHV2WHpPc2phTGpoSUlzOHdYbWVTYWk4N0tpb2hodkY3aDVyQ2E2RkJ4bTdvY0Y4RzJOVS1Bb0hKMjFobzA3dDcxazI0VzQ0ek1Ca1F3b0VXdEJETDMzWnAzcWpiY3B2bEpJ",
       "source_count": 1,
       "sources": [
         "Good Morning America"
+      ]
+    },
+    {
+      "title": "Nvidia accounting under SEC investigation, sources say",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPWkYyN19TZ1hVTEZEZlNWa0dNQThWel9QVnozck1PRmFMRDFPSXhTTkxZRFdVekxoaXVRRGJBOGtHRGtVVDBnOG4wNEhJRHlXZXNoZUFfQTVmOGZneG0xT2V1N0haUWdBb1BjQ25sRDRCaE1wWmVOQnNoeUpMTGhaRjlmMUhNZ2NicmdaSEdYUUdQZThrak1DV9IBngFBVV95cUxPMC03eThxTUNoT3JkWXcyMUI0dmVoN3RFTGpLSHZuN3lTZlE0OGdNNnExMnd4djNZbWRUTi13Q2tncDMxazhXb3RLVURaREJZWktIWlVzZTd4YlEybm5mUGxGQnJDYmdYWjRCd0tLTzJsZkFLNUhncktucy1VeUhEQ2Q2bmZ1eUFqaUE0NGVnbmU0VTc2SHJpc1V5TmhNdw",
+      "source_count": 1,
+      "sources": [
+        "NewsNation"
       ]
     },
     {
@@ -495,19 +508,19 @@
       ]
     },
     {
+      "title": "Far East Hotels And Entertainment Expects Profit Attributable For Six Months",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPV0tGQ24zYVRZWjNCV196MXN0YjNNY0h5Z1dCMTd1UHBaRHRoeHFBT2lLQUxHVC0xZ0NDQU1MajJmWDVKZnhGa2V6aHZEV29EOXM3dnhYYUNoZWJDdG5TaWJSN1c0elZWbzdnak8teXh0UGI3bVpwRkxMcVpoU2JZT1NoRjNyWHc2MldMeUlrSEppYjVpNDBFdjVDdk9KbGRfWjU4YS1qVDlSWGxtaTkxOFZaVHFSOGFWcUFPR2tDbDNHeGFjWGJqTkdGYUlLbE1Uamo4LWpoSWhvejlQejJV",
+      "source_count": 1,
+      "sources": [
+        "TradingView"
+      ]
+    },
+    {
       "title": "GTA VI shatters records with $3.8 billion in first-day sales",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQZkJEeUFXczk3aUhiVEFBSkgwMF9fci1OZnR0eFJQWTdCX3o5anI1U0lHeWYxZnF1WjZ3eUVaME1ZRUhKN21HcU1hZUlGZ01WU3ZpYXdFejdLT2N4ZXpucUViVFpsSFppd0M2Ym43by12aFR0Y0I0MEVYV3JONERvU0pockpXNkU",
       "source_count": 1,
       "sources": [
         "Yahoo"
-      ]
-    },
-    {
-      "title": "CrowdStrike in talks to acquire Zscaler, sources say By Reuters",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOcE5feVFCMklKbXZPSEJqYlV6QjU3OE1LSnJKYmF1Nl9CSmVYSzVEMjJCTTVIbjRqbTFaR3BEZUhKOHpycVVYMnY2WGw0UEVkY240bTFlQXlhVlJZNjlWVTJKd1dIckhublVGMHNHRDh1X19qQVRCdldpaUtLbFdER2xGSXZGazVjRVQzel9yaVFrSlNiOWJHUVV3MzNxRUhyQlJYZ1VfanR2eGx0",
-      "source_count": 1,
-      "sources": [
-        "Investing.com"
       ]
     },
     {
@@ -559,54 +572,6 @@
       ]
     },
     {
-      "title": "Sameera Reddy says South cinema gave her more respect and stardom than Bollywood",
-      "url": "https://indianexpress.com/article/entertainment/bollywood/sameera-reddy-south-cinema-gave-more-respect-stardom-than-bollywood-10972820/",
-      "source_count": 1,
-      "sources": [
-        "The Indian Express Cinema"
-      ]
-    },
-    {
-      "title": "Aishwarya Rai remembers late father on birth anniversary, shares pic with daughter Aaradhya",
-      "url": "https://indianexpress.com/article/entertainment/bollywood/aishwarya-rai-remembers-late-father-birth-anniversary-daughter-aaradhya-photo-10972809/",
-      "source_count": 1,
-      "sources": [
-        "The Indian Express Cinema"
-      ]
-    },
-    {
-      "title": "KBC 18: UPSC aspirant came to Mumbai with Rs 24 is now a crorepati; to play for Rs 7 cr",
-      "url": "https://indianexpress.com/article/entertainment/television/kbc-18-upsc-aspirant-wins-rs-1-crore-bhushan-thakare-to-play-for-rs-7-crore-amitabh-bachchan-10972647/",
-      "source_count": 1,
-      "sources": [
-        "The Indian Express Cinema"
-      ]
-    },
-    {
-      "title": "MAMA Awards 2026 Winners: BTS, Cortis take top honour; Bigbang, Hwasa win big",
-      "url": "https://indianexpress.com/article/entertainment/korean/mama-awards-2026-winners-full-list-categories-day-2-chapter-2-bts-cortis-bigbang-10972759/",
-      "source_count": 1,
-      "sources": [
-        "The Indian Express Cinema"
-      ]
-    },
-    {
-      "title": "Ravi Kishan makes Koffee With Karan debut, joins Akshay Kumar on the couch. Watch promo",
-      "url": "https://indianexpress.com/article/entertainment/web-series/ravi-kishan-koffee-with-karan-debut-joins-akshay-kumar-watch-promo-10972721/",
-      "source_count": 1,
-      "sources": [
-        "The Indian Express Cinema"
-      ]
-    },
-    {
-      "title": "Macaulay Culkin to return as Kevin McCallister in Home Alone sequel",
-      "url": "https://indianexpress.com/article/entertainment/hollywood/macaulay-culkin-to-return-as-kevin-mccallister-in-home-alone-sequel-10972675/",
-      "source_count": 1,
-      "sources": [
-        "The Indian Express Cinema"
-      ]
-    },
-    {
       "title": "Princess of Wales Reflects on Cancer Battle in 'Heal' Documentary Special",
       "url": "https://www.rollingstone.com/culture/culture-news/princess-of-wales-cancer-battle-heal-documentary-special-1235662071/",
       "source_count": 1,
@@ -655,7 +620,39 @@
       ]
     },
     {
-      "title": "ILLIT Talk Creating \"ICON BY MISTAKE\" With LE SSERAFIM and KATSEYE",
+      "title": "Gorillaz, CHVRCHES, Yung Lean & More: 5 Best Moments in Mexico City's Corona Capital (Day 1)",
+      "url": "https://www.billboard.com/lists/corona-capital-mexico-day-1-gorillaz-chvrches-yung-lean/",
+      "source_count": 1,
+      "sources": [
+        "Billboard"
+      ]
+    },
+    {
+      "title": "Gorillaz Celebrate Mexico's 'Revolutionary Spirit' at Corona Capital, Bring Out Johnny Marr and Trueno",
+      "url": "https://www.billboard.com/music/latin/gorillaz-corona-capital-festival-2026-mexico-city-recap-1236387340/",
+      "source_count": 1,
+      "sources": [
+        "Billboard"
+      ]
+    },
+    {
+      "title": "BTS, ENHYPEN, BIGBANG & CORTIS Are Big Winners of 2026 MAMA Awards",
+      "url": "https://www.billboard.com/music/awards/2026-mama-awards-winners-list-1236387006/",
+      "source_count": 1,
+      "sources": [
+        "Billboard"
+      ]
+    },
+    {
+      "title": "Ariana Grande Recalls 'Wildest Place' She's Heard Her Music Playing: 'Getting a Bikini Wax'",
+      "url": "https://www.billboard.com/music/pop/ariana-grande-bikini-wax-song-story-focker-in-law-interview-1236387309/",
+      "source_count": 1,
+      "sources": [
+        "Billboard"
+      ]
+    },
+    {
+      "title": "ILLIT Talk Creating \"ICONIC BY MISTAKE\" With LE SSERAFIM and KATSEYE",
       "url": "https://www.billboard.com/video/illit-on-creating-icon-by-mistake-with-le-sserafim-and-katseye-mama-awards-2026/",
       "source_count": 1,
       "sources": [
@@ -671,35 +668,11 @@
       ]
     },
     {
-      "title": "Here's How to Watch UFC Fight Night: Procházka vs. Stirling Live Online for Free",
-      "url": "https://www.billboard.com/culture/product-recommendations/ufc-prochazka-vs-stirling-nov-2026-watch-live-online-free-1236384744/",
+      "title": "New Releases on Netflix This Week and Top 10 Movies & Series: November 21, 2026",
+      "url": "https://www.whats-on-netflix.com/whats-new/new-releases-on-netflix-this-week-and-top-10-movies-series-november-21-2026/",
       "source_count": 1,
       "sources": [
-        "Billboard"
-      ]
-    },
-    {
-      "title": "Mashd N Kutcher Remix Rogue Traders and Dannii Minogue's 'Dirty Dirty Disco'",
-      "url": "https://www.billboard.com/music/music-news/mashd-n-kutcher-remix-rogue-traders-dannii-minogue-dirty-dirty-disco-1236387275/",
-      "source_count": 1,
-      "sources": [
-        "Billboard"
-      ]
-    },
-    {
-      "title": "Phil Collins Says Cher Sang His 'We Are the World' Line at Live Aid After He Left Early",
-      "url": "https://www.billboard.com/music/rock/phil-collins-live-aid-cher-concorde-eric-clapton-siriusxm-1236387268/",
-      "source_count": 1,
-      "sources": [
-        "Billboard"
-      ]
-    },
-    {
-      "title": "2026 CMA Awards Jump to 7-Year Ratings High",
-      "url": "https://www.billboard.com/music/awards/2026-cma-awards-ratings-up-seven-year-high-1236387203/",
-      "source_count": 1,
-      "sources": [
-        "Billboard"
+        "What's on Netflix"
       ]
     },
     {
@@ -743,53 +716,53 @@
       ]
     },
     {
-      "title": "Alyce Tzue and John Ripa on Netflix's 'Steps' and Seeing Cinderella's Story Through New Eyes",
-      "url": "https://www.whats-on-netflix.com/interviews/steps-netflix-movie-streaming-directors-interview/",
-      "source_count": 1,
-      "sources": [
-        "What's on Netflix"
-      ]
-    },
-    {
-      "title": "How to use auto drive in GTA 6",
-      "url": "https://www.polygon.com/gta-6-auto-drive-how-to/",
+      "title": "Star Wars' New Jedi Order Era is Officially Moving Forward",
+      "url": "https://www.polygon.com/star-wars-new-jedi-order-era-update/",
       "source_count": 1,
       "sources": [
         "Polygon"
       ]
     },
     {
-      "title": "Apple TV's New 8-Part Crime Thriller Is Already a No. 1 Streaming Hit",
-      "url": "https://www.polygon.com/anthony-mackie-12-12-12-apple-tv-streaming-success-november-2026/",
+      "title": "GTA 6 Players Are Obsessed With Finding IRL Florida in Vice City",
+      "url": "https://www.polygon.com/gta-6-players-irl-vice-city-locations/",
       "source_count": 1,
       "sources": [
         "Polygon"
       ]
     },
     {
-      "title": "Darkest Dungeon 2 DLC's New Mode Is Very Different From The Base Game",
-      "url": "https://www.polygon.com/darkest-dungeon-2-the-butchers-asylum/",
+      "title": "Where to find the giant crab safe code and Crabshack VF5 SMG in GTA 6",
+      "url": "https://www.polygon.com/gta-6-giant-crab-safe-code-crabshack-vf5-smg-how-to-get-pelican-valley-outpost/",
       "source_count": 1,
       "sources": [
         "Polygon"
       ]
     },
     {
-      "title": "The Galadriel love story we never saw...",
-      "url": "https://www.polygon.com/video/the-galadriel-love-story-we-never-saw/",
+      "title": "All Cheat Codes in GTA 6",
+      "url": "https://www.polygon.com/gta-6-cheat-codes-list-unlock/",
       "source_count": 1,
       "sources": [
         "Polygon"
       ]
     },
     {
-      "title": "GTA 6's Impact on Steam and Roblox After Record-Breaking Launch Revealed",
-      "url": "https://www.polygon.com/gta-6-impact-on-steam-roblox/",
+      "title": "Declasse Vamos code location in GTA 6",
+      "url": "https://www.polygon.com/gta-6-declasse-vamos-code-car-location/",
+      "source_count": 1,
+      "sources": [
+        "Polygon"
+      ]
+    },
+    {
+      "title": "Is immortality a curse for elves?",
+      "url": "https://www.polygon.com/video/is-immortality-a-curse-for-elves/",
       "source_count": 1,
       "sources": [
         "Polygon"
       ]
     }
   ],
-  "summary": "Verified intelligence gathered across 98 deduplicated editorial clusters."
+  "summary": "Verified intelligence gathered across 95 deduplicated editorial clusters."
 }
