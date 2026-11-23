@@ -1,9 +1,41 @@
 {
-  "timestamp": "2026-11-22T21:33:33.051164+00:00",
-  "headline_count": 95,
+  "timestamp": "2026-11-23T02:16:36.697730+00:00",
+  "headline_count": 94,
   "headlines": [
     {
-      "title": "'Glee' Star Chris Colfer Says He Forgot Kurt Hummel 'Meant So Much to People' Because of the 'Homophobia and Hatred' He Experienced on the Show",
+      "title": "Don Toliver's Manchester Concert Evacuated After Suspected Tear Gas Released Into Crowd",
+      "url": "https://variety.com/2026/music/news/don-toliver-manchester-concert-evacuated-tear-gas-1236955605/",
+      "source_count": 1,
+      "sources": [
+        "Variety"
+      ]
+    },
+    {
+      "title": "Hailee Steinfeld Confirms 'Avengers: Doomsday' Return as Kate Bishop",
+      "url": "https://variety.com/2026/film/news/hailee-steinfeld-avengers-doomsday-kate-bishop-1236955585/",
+      "source_count": 1,
+      "sources": [
+        "Variety"
+      ]
+    },
+    {
+      "title": "Ateez Debuts at No. 1 on Billboard 200 for the Third Time This Year; U2's 'Carnaval de Luz' Bows at No. 4",
+      "url": "https://variety.com/2026/music/news/ateez-u2-album-chart-debut-billboard-1236955537/",
+      "source_count": 1,
+      "sources": [
+        "Variety"
+      ]
+    },
+    {
+      "title": "Why Another 'Hunger Games' Movie Isn't Coming Anytime Soon",
+      "url": "https://variety.com/2026/film/news/hunger-games-another-movie-isnt-coming-anytime-soon-1236955499/",
+      "source_count": 1,
+      "sources": [
+        "Variety"
+      ]
+    },
+    {
+      "title": "'Glee' Star Chris Colfer Says He Forgot Kurt Hummel 'Meant So Much to People' Because of the 'Homophobia and Hatred' He Experienced During the Show",
       "url": "https://variety.com/2026/tv/news/glee-chris-colfer-kurt-homophobia-1236955465/",
       "source_count": 1,
       "sources": [
@@ -19,35 +51,36 @@
       ]
     },
     {
-      "title": "John Turturro Says 'I Still Consider Myself a Beginner' as He Gets Marrakech Film Festival Tribute Award: 'Every Job Is Like a First Love'",
-      "url": "https://variety.com/2026/film/festivals/john-turturro-marrakech-film-festival-award-still-beginner-1236955255/",
+      "title": "Ina Garten Reveals Why She Will Never Do 'Dancing With The Stars'",
+      "url": "https://deadline.com/2026/11/ina-garten-dancing-with-the-stars-1237231317/",
       "source_count": 1,
       "sources": [
-        "Variety"
+        "Deadline Hollywood"
       ]
     },
     {
-      "title": "'Hunger Games' Lead Joseph Zada on Filming His Breakout Movie Role and 'Sunrise on the Reaping's' Intense Stunts: 'I Look Like a F",
-      "url": "https://variety.com/2026/film/features/hunger-games-sunrise-on-the-reaping-joseph-zada-action-scenes-1236954627/",
+      "title": "Brighter Than The Sun: How Lionsgate Marketing & PR Turned B.O. Around For 'Sunrise On The Reaping'",
+      "url": "https://deadline.com/2026/11/box-office-hunger-games-sunrise-on-the-reaping-marketing-1237231246/",
       "source_count": 1,
       "sources": [
-        "ing Action Star!'"
+        "Deadline Hollywood"
       ]
     },
     {
-      "title": "Ina Garten Says She Turned Down 'Dancing With the Stars' Because the Thought of Competing Gave Her 'Nightmares'",
-      "url": "https://variety.com/2026/tv/news/ina-garten-dancing-with-the-stars-1236955404/",
-      "source_count": 1,
+      "title": "Mahershala Ali Says Having 2 Oscars \"Doesn't Matter\" When Getting Cast: \"It Doesn't Translate To Anything Real\"",
+      "url": "https://deadline.com/2026/11/mahershala-ali-2-oscars-doesnt-matter-getting-cast-1237231259/",
+      "source_count": 2,
       "sources": [
-        "Variety"
+        "Deadline Hollywood",
+        "The Hollywood Reporter"
       ]
     },
     {
-      "title": "'You Can See Everything' Becomes Rare Documentary to Surpass $100 Million Globally",
-      "url": "https://variety.com/2026/film/box-office/you-can-see-everything-crosses-100-million-global-box-office-1236955393/",
+      "title": "Broadway's 'Two Strangers (Carry A Cake Across New York)' Announces Off Broadway Move",
+      "url": "https://deadline.com/2026/11/two-strangers-carry-a-cake-across-new-york-off-broadway-1237230995/",
       "source_count": 1,
       "sources": [
-        "Variety"
+        "Deadline Hollywood"
       ]
     },
     {
@@ -67,35 +100,11 @@
       ]
     },
     {
-      "title": "Todd Boehly Dissects How How Daniel Katz's Trading Desk Acumen Fed Into A24 Success: \"Very Few Entertainment People Understand Math\"",
-      "url": "https://deadline.com/2026/11/todd-boehly-daniel-katz-trading-desk-a24-math-1237231214/",
+      "title": "Robert Eggers Says He's \"Eager\" to Take a Break From Horror Genre After 'Werwulf'",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/robert-eggers-eager-break-horror-genre-werwulf-nosferatu-1236760762/",
       "source_count": 1,
       "sources": [
-        "Deadline Hollywood"
-      ]
-    },
-    {
-      "title": "'Madden' Sparks Backlash From Raiders Owner Mark Davis Over Father Al Davis' Portrayal: \"That Hurts\"",
-      "url": "https://deadline.com/2026/11/madden-backlash-mark-davis-father-al-portrayal-hurts-1237231216/",
-      "source_count": 1,
-      "sources": [
-        "Deadline Hollywood"
-      ]
-    },
-    {
-      "title": "David Leitch Gives 'Ocean's 14' Update, Notes \"Lot Of Motivation\" To Make Sequel",
-      "url": "https://deadline.com/2026/11/david-leitch-oceans-14-update-lot-motivation-make-sequel-1237231206/",
-      "source_count": 1,
-      "sources": [
-        "Deadline Hollywood"
-      ]
-    },
-    {
-      "title": "Robert Eggers Is \"Eager\" To Move Away From Horror Genre: \"I Think I Need A Break\"",
-      "url": "https://deadline.com/2026/11/robert-eggers-eager-move-away-horror-genre-1237231196/",
-      "source_count": 1,
-      "sources": [
-        "Deadline Hollywood"
+        "The Hollywood Reporter"
       ]
     },
     {
@@ -125,22 +134,6 @@
     {
       "title": "After 114 Years, the Beverly Hills Hotel Gets a (Night)life",
       "url": "https://www.hollywoodreporter.com/lifestyle/lifestyle-news/beverly-hills-hotel-nightlife-supper-club-bar-1236757355/",
-      "source_count": 1,
-      "sources": [
-        "The Hollywood Reporter"
-      ]
-    },
-    {
-      "title": "Tom Jackson, Denver Broncos' All-Pro Linebacker and ESPN Analyst, Dies at 75",
-      "url": "https://www.hollywoodreporter.com/tv/tv-news/tom-jackson-dead-espn-denver-broncos-1236760660/",
-      "source_count": 1,
-      "sources": [
-        "The Hollywood Reporter"
-      ]
-    },
-    {
-      "title": "'Hunger Games: Sunrise on the Reaping' Slays $120M at Box Office as Franchise Heats Back Up",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/hunger-games-sunrise-on-the-reaping-box-office-opening-win-2-1236760511/",
       "source_count": 1,
       "sources": [
         "The Hollywood Reporter"
@@ -195,6 +188,14 @@
       ]
     },
     {
+      "title": "Twilight Zone Creator Rod Serling Said TV Sponsors Ruined One Of His Early Stories",
+      "url": "https://www.tvline.com/2320670/the-twilight-zone-creator-rod-serling-sponsors-ruined-early-story/",
+      "source_count": 1,
+      "sources": [
+        "TVLine"
+      ]
+    },
+    {
       "title": "Before Mad Men, Jon Hamm Was A High School Teacher Who Taught This Future Co-Star",
       "url": "https://www.tvline.com/2299327/mad-men-jon-hamm-high-school-teacher-co-star-ellie-kemper/",
       "source_count": 1,
@@ -229,14 +230,6 @@
     {
       "title": "5 Law & Order: SVU Storylines That Were Completely Abandoned",
       "url": "https://www.tvline.com/2302144/law-and-order-svu-storylines-abandoned/",
-      "source_count": 1,
-      "sources": [
-        "TVLine"
-      ]
-    },
-    {
-      "title": "Tom Jackson, Former NFL Player And Longtime ESPN Analyst, Dead At 75",
-      "url": "https://www.tvline.com/2324393/tom-jackson-dead-espn-denver-broncos-obituary/",
       "source_count": 1,
       "sources": [
         "TVLine"
@@ -332,6 +325,14 @@
       ]
     },
     {
+      "title": "GTA 6 Dev Honors Late Mother With In-Game Memorial That Players Can Visit",
+      "url": "https://www.ign.com/articles/gta-6-dev-honors-late-mother-with-in-game-memorial-that-players-can-visit",
+      "source_count": 1,
+      "sources": [
+        "IGN Games"
+      ]
+    },
+    {
       "title": "Rockstar Says Darts Were Cut From GTA 6 Because It Didn't Have 'Unlimited Money or Time' to Make It 'Feel Proper'",
       "url": "https://www.ign.com/articles/rockstar-says-darts-were-cut-from-gta-6-because-it-didnt-have-unlimited-money-or-time-to-make-it-feel-proper",
       "source_count": 1,
@@ -366,14 +367,6 @@
     {
       "title": "Animal Crossing Crocs Are Finally Back in Stock - and Discounted for Black Friday",
       "url": "https://www.ign.com/articles/animal-crossing-crocs-amazon-restock-black-friday-deal-2026",
-      "source_count": 1,
-      "sources": [
-        "IGN Games"
-      ]
-    },
-    {
-      "title": "In GTA 6, Cars Are Way, Way More Than Just Getaway Wheels",
-      "url": "https://www.ign.com/articles/in-gta-6-cars-are-way-way-more-than-just-getaway-wheels",
       "source_count": 1,
       "sources": [
         "IGN Games"
@@ -428,6 +421,38 @@
       ]
     },
     {
+      "title": "Binding of Isaac DLC adds AI music in GTA 6-parodying update despite not having an AI disclosure, Steam reviews drop to Overwhelmingly Negative, music gets pulled",
+      "url": "https://www.pcgamer.com/games/roguelike/binding-of-isaac-dlc-adds-ai-music-in-gta-6-parodying-update-despite-not-having-an-ai-disclosure-steam-reviews-drop-to-overwhelmingly-negative-music-gets-pulled/",
+      "source_count": 1,
+      "sources": [
+        "PC Gamer"
+      ]
+    },
+    {
+      "title": "SNEG has re-released three more venerable PC strategy games including Warlords 4: Heroes of Etheria",
+      "url": "https://www.pcgamer.com/games/strategy/sneg-has-re-released-three-more-venerable-pc-strategy-games-including-warlords-4-heroes-of-etheria/",
+      "source_count": 1,
+      "sources": [
+        "PC Gamer"
+      ]
+    },
+    {
+      "title": "Nvidia released a hotfix for its driver hammering your SSD, but it doesn't actually work",
+      "url": "https://www.pcgamer.com/hardware/graphics-cards/nvidia-released-a-hotfix-for-its-driver-hammering-your-ssd-but-it-doesnt-actually-work/",
+      "source_count": 1,
+      "sources": [
+        "PC Gamer"
+      ]
+    },
+    {
+      "title": "GTA 6 The End of the Road: Should you swim for it, or choose no surrender?",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-endings-end-of-the-road-swim-for-it-no-surrender/",
+      "source_count": 1,
+      "sources": [
+        "PC Gamer"
+      ]
+    },
+    {
       "title": "Unreal Engine 6 to jettison key scripting feature earlier than planned in favor of AI coding",
       "url": "https://www.pcgamer.com/gaming-industry/unreal-engine-6-to-jettison-key-scripting-feature-earlier-than-planned-in-favor-of-ai-coding/",
       "source_count": 1,
@@ -444,51 +469,27 @@
       ]
     },
     {
-      "title": "New Dota 2 patch tries to help games end faster, adds an item that summons super creeps in every lane at once",
-      "url": "https://www.pcgamer.com/games/moba/new-dota-2-patch-tries-to-help-games-end-faster-adds-an-item-that-summons-super-creeps-in-every-lane-at-once/",
+      "title": "Reuters: US dollar hovers near 19-month high on Fed rate-hike signals",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE82Y2lHX2tEd1NyMURTSFZGeWMxS05zNzhpU3FQOVk5SGpSSk4xUGVLalc0NEZOMEVPUjZxdWp4cnZIN3lhZVc1cmtkV1ppT2JuY3c",
       "source_count": 1,
       "sources": [
-        "PC Gamer"
+        "Digg"
       ]
     },
     {
-      "title": "GTA 6 discourse is suffering from the flat earther effect",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-discourse-is-already-suffering-from-the-flat-earther-effect/",
+      "title": "Beijing to bar young 'red-chip' firms from listing outside mainland China, sources say, China News",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOaGJMM0NQcjNabC1lb1o2aTZ2ME1Td3pQbzVwYlhOUTFQM1VZTkNnZjI3RF9ock1hUWk5NTdyeHd0X0xqMjF1QjMtQjgwTzFydGxnLTBVT3UtY0hBc1VYd3lidWs3Qy1FbTVCV3FIMmJSa3ZYWVdQZTlVTG5GUWp3cVlBRndiRmFGa05OUnBSWVdLdTVra19YUlVWbUkwcGFJOU00T3Zld0ZkeEU",
       "source_count": 1,
       "sources": [
-        "PC Gamer"
+        "AsiaOne.com"
       ]
     },
     {
-      "title": "Which GTA 6 radio station is your favourite so far?",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/which-gta-6-radio-station-is-your-favourite-so-far/",
+      "title": "Pop star Miley Cyrus weds drummer Maxx Morando in California",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQTUk1YnJfSk1mT2ZlSEdiRGQ3WS0teG5hVFNJbkFiSDVHeWN3Q3RYQmFGLXFzbWlsODZmWnBrdGdEMVE5MjloVjVvNFN6V2tmWUFDTUVueV9sZDBvTEpWODNacVRLUG5PSFFpVUpVUFNWRjdmRE5Db3diNWZLS3ZLYWFjd2p4VFdnQ0VTTG5vcUhidUxFMERXc0ZR",
       "source_count": 1,
       "sources": [
-        "PC Gamer"
-      ]
-    },
-    {
-      "title": "GTA 6's massive casino and sick go-kart track are currently closed, but I'm hoping we can trust those 'coming soon' signs 🙏",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6s-massive-casino-and-sick-go-kart-track-are-currently-closed-but-im-hoping-we-can-trust-those-coming-soon-signs/",
-      "source_count": 1,
-      "sources": [
-        "PC Gamer"
-      ]
-    },
-    {
-      "title": "Miley Cyrus weds drummer Maxx Morando in California, People magazine reports",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQWmtzbHRfNkRDXzFtZWhmYVJPeURXelVNY2lIakZDTjdLeGxJN3pvZVJNcHRfY0lrY2pwa3Y1cmJUalA2eTdHd2RIbVpxRzdQU3p6MHpJX1AxYVFibWc0R3hsVEJqcVF3STFYVUJDTVBPdG51R3JpaTZUOUtyNXJydzlyMXNNREdnZU1udzA0M2s1WUk",
-      "source_count": 1,
-      "sources": [
-        "Yahoo"
-      ]
-    },
-    {
-      "title": "Nvidia accounting under SEC investigation, sources say",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPWkYyN19TZ1hVTEZEZlNWa0dNQThWel9QVnozck1PRmFMRDFPSXhTTkxZRFdVekxoaXVRRGJBOGtHRGtVVDBnOG4wNEhJRHlXZXNoZUFfQTVmOGZneG0xT2V1N0haUWdBb1BjQ25sRDRCaE1wWmVOQnNoeUpMTGhaRjlmMUhNZ2NicmdaSEdYUUdQZThrak1DV9IBngFBVV95cUxPMC03eThxTUNoT3JkWXcyMUI0dmVoN3RFTGpLSHZuN3lTZlE0OGdNNnExMnd4djNZbWRUTi13Q2tncDMxazhXb3RLVURaREJZWktIWlVzZTd4YlEybm5mUGxGQnJDYmdYWjRCd0tLTzJsZkFLNUhncktucy1VeUhEQ2Q2bmZ1eUFqaUE0NGVnbmU0VTc2SHJpc1V5TmhNdw",
-      "source_count": 1,
-      "sources": [
-        "NewsNation"
+        "CNA Lifestyle"
       ]
     },
     {
@@ -500,27 +501,19 @@
       ]
     },
     {
-      "title": "Nvidia's stock closes the week down 14 percent, as Reuters reports the SEC is looking into its \"accounting practices.\"",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPdEptOTBSRXl4WlktZUx3THR4d3VZOUhfcm5FazEwaHBvTmVsOGJvZHM1eFFkUUREeVJJWXZWc1pfOXhkaUh1RUU1Nl9NNW00dUNsS0RqSFBGc0Q4ZF9iTXNxZkExZWN5SFNxNVY3Z3k3QTdiWFNobnRMcFZScE5wVkVn",
-      "source_count": 1,
-      "sources": [
-        "The Verge"
-      ]
-    },
-    {
-      "title": "CrowdStrike in talks to acquire Zscaler, sources say By Reuters",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOcE5feVFCMklKbXZPSEJqYlV6QjU3OE1LSnJKYmF1Nl9CSmVYSzVEMjJCTTVIbjRqbTFaR3BEZUhKOHpycVVYMnY2WGw0UEVkY240bTFlQXlhVlJZNjlWVTJKd1dIckhublVGMHNHRDh1X19qQVRCdldpaUtLbFdER2xGSXZGazVjRVQzel9yaVFrSlNiOWJHUVV3MzNxRUhyQlJYZ1VfanR2eGx0",
+      "title": "Nvidia's accounting is a focus of US SEC investigation, sources say By Reuters",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxORE5EUHJyRWtmRnlHbHJFbVN0WGR3LVp5cTVjZUVMQlFkUG1XaVk5Z2JaQ0o3X1FzU3FXdXpFSVJUeWhXZ05PSUhqNzkySzNXMl9LdWd0bFM4cWNvcC1zVlNqdkpoc3NLSnlmcm5aZWE0bS13aGFld2FtNnlidFlKZ3RqYTVJdExpX3ZWZnR4S3h5VlpmaW1jbUU5bjJPS24xLV81ZUdmV3JYYko1TURLeDdPX0cxRWNIVVdmbWtjSjQ4a21vVUFnd1UyVFlCb00",
       "source_count": 1,
       "sources": [
         "Investing.com"
       ]
     },
     {
-      "title": "Reuters: Anthropic's IPO rewards venture capital's billion-dollar bets",
-      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBaTk9UOEpyYW5MWS1FaEVJQ21LWTRDU2VnbVpFeWUxYV9Pb0R1RVdEYVNwemxnMXFHRzQ0dS1CclJOME95",
+      "title": "GTA VI generates $3.79 billion in first 24 hours, setting entertainment record",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQejlHOGM0QnhuS2hjdGNMWTVEZzhCYmxScTJLLUFIbUhqYm9OYU42OU1qZXlxOUtGNUcwUzJGbnJWdV9KWmprWkwzR0cySEhCUTJQajhvb2RmaHRsVzNINW14QTRBWFFTX05XOFp3U2I4aUJ6TThwTXRHRTcxZ2dyYnRUT3J2aWVHbWpINGNFQ2x2MGd0VDdjek5heDNpX2NhU1FSd1JOd2ttaEJ0NVdXQjUzS09pNTk1dkZN",
       "source_count": 1,
       "sources": [
-        "Digg"
+        "The Kathmandu Post"
       ]
     },
     {
@@ -620,51 +613,51 @@
       ]
     },
     {
-      "title": "Miley Cyrus & Maxx Morando's Wedding Photos Are Here",
-      "url": "https://www.billboard.com/culture/lifestyle/miley-cyrus-wedding-photos-maxx-morando-1236387483/",
+      "title": "Molly Meldrum, Australian Music Broadcaster and 'Countdown' Host, Dies at 83",
+      "url": "https://www.billboard.com/music/music-news/molly-meldrum-countdown-host-dies-83-1236387631/",
       "source_count": 1,
       "sources": [
         "Billboard"
       ]
     },
     {
-      "title": "Selena Gomez Helps Couple With Baby's Sex Reveal at Spurs Game, 'With No Hesitation'",
-      "url": "https://www.billboard.com/music/pop/selena-gomez-baby-gender-reveal-spurs-game-couple-1236387456/",
+      "title": "Fans Choose LISA's 'Leave With Me' as This Week's Favorite New Music",
+      "url": "https://www.billboard.com/music/music-news/lisa-leave-with-me-best-new-music-poll-results-1236387524/",
       "source_count": 1,
       "sources": [
         "Billboard"
       ]
     },
     {
-      "title": "Here's Where to Watch the Miami Dolphins vs. Buffalo Bills Game Live Online",
-      "url": "https://www.billboard.com/culture/product-recommendations/miami-dolphins-vs-buffalo-bills-watch-nfl-live-online-free-1236385695/",
+      "title": "NFL Mexico City Game Halftime Show 2026: Here's Where to Watch The Warning Perform Live Online Free",
+      "url": "https://www.billboard.com/culture/product-recommendations/nfl-mexico-city-game-the-warning-halftime-watch-live-free-1236385357/",
       "source_count": 1,
       "sources": [
         "Billboard"
       ]
     },
     {
-      "title": "Britney Spears Apologizes to Her Family on Instagram: 'I Just Miss Them Like Crazy'",
-      "url": "https://www.billboard.com/music/pop/britney-spears-instagram-apology-family-1236387442/",
+      "title": "Morgan Wallen, Garth Brooks, Taylor Swift & More Artists With Most Weeks at No. 1 on Top Country Albums Chart: Full List",
+      "url": "https://www.billboard.com/lists/top-country-albums-number-ones-biggest/",
       "source_count": 1,
       "sources": [
         "Billboard"
       ]
     },
     {
-      "title": "Miley Cyrus Marries Maxx Morando in Poolside Ceremony Led by the Flaming Lips' Wayne Coyne",
-      "url": "https://www.billboard.com/music/pop/miley-cyrus-marries-maxx-morando-palm-springs-wedding-1236387428/",
+      "title": "Twenty One Pilots, The Offspring, Peaches & More: 5 Best Moments in Mexico City's Corona Capital (Day 2)",
+      "url": "https://www.billboard.com/lists/corona-capital-2026-day-2-twenty-one-pilots-offspring/",
       "source_count": 1,
       "sources": [
         "Billboard"
       ]
     },
     {
-      "title": "CORTIS' Martin Calls Panic \"Legends\" After Their \"Left-Handed\" Performance",
-      "url": "https://www.billboard.com/video/cortis-martin-calls-panic-legends-after-left-handed-performance-mama-awards-2026/",
+      "title": "ATEEZ Earn Fourth No. 1 on Billboard 200 With 'GOLDEN HOUR : Part.6'",
+      "url": "https://www.billboard.com/music/chart-beat/ateez-golden-hour-part6-no1-billboard-200-chart-1236387535/",
       "source_count": 1,
       "sources": [
-        "MAMA Awards 2026"
+        "Billboard"
       ]
     },
     {
@@ -716,6 +709,38 @@
       ]
     },
     {
+      "title": "Star Wars Is Getting an Official IMAX 70mm Release for the First Time",
+      "url": "https://www.polygon.com/star-wars-50th-anniversary-imax-release-2027/",
+      "source_count": 1,
+      "sources": [
+        "Polygon"
+      ]
+    },
+    {
+      "title": "GTA 6 Is Getting Review Bombed in Zelda vs. GTA Troll War",
+      "url": "https://www.polygon.com/gta-6-review-bombed-legend-of-zelda/",
+      "source_count": 1,
+      "sources": [
+        "Polygon"
+      ]
+    },
+    {
+      "title": "Netflix's (Very) R-Rated 45-Episode Sci-Fi Anthology Doesn't Get the Attention It Deserves",
+      "url": "https://www.polygon.com/r-rated-sci-fi-anthology-netflix-must-watch/",
+      "source_count": 1,
+      "sources": [
+        "Polygon"
+      ]
+    },
+    {
+      "title": "25 Years Later, Dragon Quest's Island-Hopping Epic Gets Better in Every Port",
+      "url": "https://www.polygon.com/dragon-quest-7-25th-anniversary/",
+      "source_count": 1,
+      "sources": [
+        "Polygon"
+      ]
+    },
+    {
       "title": "Sorry, Vice City, but You're the Most Boring Part of GTA 6",
       "url": "https://www.polygon.com/gta-6-vice-city-boring/",
       "source_count": 1,
@@ -730,39 +755,7 @@
       "sources": [
         "Polygon"
       ]
-    },
-    {
-      "title": "How to steal the BF Bandito in GTA 6",
-      "url": "https://www.polygon.com/gta-6-bf-bandito-steal-how-to-moses-grand-theft-auto/",
-      "source_count": 1,
-      "sources": [
-        "Polygon"
-      ]
-    },
-    {
-      "title": "'GTA 6' Bombshell: Husband Melts Down After Wife Hid Her Role In Game For Years",
-      "url": "https://www.polygon.com/gta-6-amber-wallin-comedian-instagram-npc-voice-actor-husband-secret/",
-      "source_count": 1,
-      "sources": [
-        "Polygon"
-      ]
-    },
-    {
-      "title": "The Best GTA 6 Easter Eggs We've Seen So Far",
-      "url": "https://www.polygon.com/gta-6-easter-eggs/",
-      "source_count": 1,
-      "sources": [
-        "Polygon"
-      ]
-    },
-    {
-      "title": "American Psycho Reboot Is 'Not Happening,' Director Says",
-      "url": "https://www.polygon.com/american-psycho-reboot-movie-update-luca-guadagnino/",
-      "source_count": 1,
-      "sources": [
-        "Polygon"
-      ]
     }
   ],
-  "summary": "Verified intelligence gathered across 95 deduplicated editorial clusters."
+  "summary": "Verified intelligence gathered across 94 deduplicated editorial clusters."
 }
